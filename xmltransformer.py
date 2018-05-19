@@ -16,6 +16,14 @@ def xml_transform_asciidoc(file_path):
         soup = BeautifulSoup(inputFile, "lxml-xml")
         body = soup.find('body')
         
+        cfTags = body.find_all('cf')
+        for cfTag in cfTags:
+            cfTag.decompose()
+            
+        notesTags = body.find_all('notes')
+        for notesTag in notesTags:
+            notesTag.decompose()
+        
         bodyString = body.decode()
         
         #Uncomment the following 3 lines if pretty printing is enabled on downloader
