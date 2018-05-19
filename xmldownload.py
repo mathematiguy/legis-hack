@@ -33,7 +33,8 @@ def read_url(url, start_year, pretty_print):
                 #Recurse in to the directory
                 read_url(dirUrl, start_year, pretty_print)
                 
-    script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
+    #absolute dir the script is in
+    root_path = os.path.dirname(os.path.realpath(__file__))
     
     #Find any files to download
     files = (indexPage.find_all('li', class_='file'))
@@ -52,6 +53,12 @@ def read_url(url, start_year, pretty_print):
             xmlFile = urlopen(req).read()
             xmlString = xmlFile.decode("utf-8")
             
+            soup = BeautifulSoup(xmlString, 'lxml-xml')
+            title = soup.find('title').contents[0]
+            title = re.sub(r"/", "-", title)
+            title = re.sub(r"\s", "_", title)
+            title += '.xml'
+            
             #Make the xml pretty for easy reading in the file
             if pretty_print:
                 xmlString = xml.dom.minidom.parseString(xmlString)
@@ -59,18 +66,17 @@ def read_url(url, start_year, pretty_print):
 
             #set up the directory to save the file
             #this will be relative to the location of the python script!
-            file_path = os.path.join(script_dir, link['href'])
-            relative_file_path = "." + file_path
+            file_path = os.path.join(root_path, link['href'][1:-20], title)
             
             #If the directory doesn't exist yet, create it recursively
-            dirname = os.path.dirname(relative_file_path)
+            dirname = os.path.dirname(file_path)
             if not os.path.exists(dirname):
                 os.makedirs(dirname)
             
             #Open the new file and write the xml as a utf8 string
-            file = open(relative_file_path, 'w')
+            file = open(file_path, 'w')
             file.write(xmlString)
             file.close()
-            print("Downloaded to: " + relative_file_path)
+            print("Downloaded to: " + file_path)
         
 read_url("http://legislation.govt.nz/subscribe/act/public", 2018, False)
