@@ -16,9 +16,16 @@ def xml_transform_asciidoc(file_path):
         soup = BeautifulSoup(inputFile, "lxml-xml")
         body = soup.find('body')
         
+        bodyString = body.decode()
+        
+        #Uncomment the following 3 lines if pretty printing is enabled on downloader
+        #pattern = re.compile("(\n|\r)\t{2,}")
+        #bodyString = re.sub(pattern, "", bodyString)
+        #bodyString = re.sub(pattern, "", bodyString)
+        
         #save the output file
         with open(output_file_path, "w") as outputFile:
-            outputFile.write(body.decode())
+            outputFile.write(bodyString)
         
 #walks through the directory the script is located, passing matching files to the transform function
 def walk_dir():

@@ -4,7 +4,7 @@ import re
 import os
 import xml.dom.minidom
 
-def read_url(url, start_year):
+def read_url(url, start_year, pretty_print):
     url = url.replace(" ","%20")
     req = Request(url)
     a = urlopen(req).read()
@@ -31,7 +31,7 @@ def read_url(url, start_year):
                 #print('Going in to dir ' + dirUrl)
                 
                 #Recurse in to the directory
-                read_url(dirUrl, start_year)
+                read_url(dirUrl, start_year, pretty_print)
                 
     script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
     
@@ -50,10 +50,12 @@ def read_url(url, start_year):
             print("Download file: " + fileUrl)
             req = Request(fileUrl)
             xmlFile = urlopen(req).read()
-
+            xmlString = xmlFile.decode("utf-8")
+            
             #Make the xml pretty for easy reading in the file
-            xmlString = xml.dom.minidom.parseString(xmlFile.decode("utf-8"))
-            pretty_xml_as_string = xmlString.toprettyxml()
+            if pretty_print:
+                xmlString = xml.dom.minidom.parseString(xmlString)
+                xmlString = xmlString.toprettyxml()
 
             #set up the directory to save the file
             #this will be relative to the location of the python script!
@@ -67,8 +69,8 @@ def read_url(url, start_year):
             
             #Open the new file and write the xml as a utf8 string
             file = open(relative_file_path, 'w')
-            file.write(pretty_xml_as_string)
+            file.write(xmlString)
             file.close()
             print("Downloaded to: " + relative_file_path)
         
-read_url("http://legislation.govt.nz/subscribe/act/public", 2018)
+read_url("http://legislation.govt.nz/subscribe/act/public", 2018, False)
