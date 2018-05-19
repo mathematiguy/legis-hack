@@ -4,16 +4,16 @@
 input_params=$1
 echo "Input parameter is: ${input_params}"
 
-file_name=`basename "$input_params"`
+file_name=`basename "${input_params}"`
 echo "File name is: ${file_name}"
 
 # check whether the file name exists in the current folder
 # exit with an error if that file doesn't exist
-if [ -f "$input_params" ]
+if [ -f "${input_params}" ]
 then
-	echo "File $input_params exists."
+	echo "File ${input_params} exists."
 else
-	echo "File $input_params does not exist!"
+	echo "File ${input_params} does not exist!"
   exit 1
 fi
 
