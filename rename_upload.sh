@@ -1,27 +1,30 @@
 #!/bin/bash
 
 # print out the file name
-file_name=$1
-echo "Current file name is: ${file_name}"
+input_params=$1
+echo "Input parameter is: ${input_params}"
+
+file_name=`basename "$input_params"`
+echo "File name is: ${file_name}"
 
 # check whether the file name exists in the current folder
 # exit with an error if that file doesn't exist
-if [ -f "$file_name" ]
+if [ -f "$input_params" ]
 then
-	echo "$file_name found."
+	echo "File $input_params exists."
 else
-	echo "$file_name not found."
+	echo "File $input_params does not exist!"
   exit 1
 fi
 
 # rename the file so as to remove the numeric prefix
-new_file_name=`echo "${file_name}" | sed -e 's[0-9][0-9][0-9][0-9]_//g'`
+new_file_name=`echo "${file_name}" | sed -e 's/[0-9][0-9][0-9][0-9]_//g'`
 echo "New file name is: ${new_file_name}"
-mv ${file_name} legislation/${new_file_name}
+cp -rf ${input_params} legislation/${new_file_name}
 
 
 # upload the file to Github
 git status
-git add --all
+git add legislation/${new_file_name}
 git commit -m "amendments specified in ${file_name}"
 git push origin master
