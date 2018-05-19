@@ -2,17 +2,18 @@ from urllib.request import Request, urlopen, urlretrieve
 from bs4 import BeautifulSoup
 import re
 import os
+import xml.dom.minidom
 
-def read_url(url):
+def read_url(url, start_year):
     url = url.replace(" ","%20")
     req = Request(url)
     a = urlopen(req).read()
-    soup = BeautifulSoup(a, 'html.parser')
+    indexPage = BeautifulSoup(a, 'html.parser')
     
     baseUrl = 'http://legislation.govt.nz'
     
     #Find any directories to recurse
-    dirs = (soup.find_all('li', class_='directory'))
+    dirs = (indexPage.find_all('li', class_='directory'))
     for i in dirs:
         #find link addresses
         link = i.find('a')
@@ -26,16 +27,16 @@ def read_url(url):
         if match:
             #print("Group 1: " + match.group(1))
             year = int(match.group(1))
-            if year != None and year > 2017:
+            if year != None and year >= start_year:
                 #print('Going in to dir ' + dirUrl)
                 
                 #Recurse in to the directory
-                read_url(dirUrl)
+                read_url(dirUrl, start_year)
                 
     script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
     
     #Find any files to download
-    files = (soup.find_all('li', class_='file'))
+    files = (indexPage.find_all('li', class_='file'))
     for i in files:
         #get the link to the file
         link = i.find('a')
@@ -50,6 +51,10 @@ def read_url(url):
             req = Request(fileUrl)
             xmlFile = urlopen(req).read()
 
+            #Make the xml pretty for easy reading in the file
+            xmlString = xml.dom.minidom.parseString(xmlFile.decode("utf-8"))
+            pretty_xml_as_string = xmlString.toprettyxml()
+
             #set up the directory to save the file
             #this will be relative to the location of the python script!
             file_path = os.path.join(script_dir, link['href'])
@@ -62,9 +67,8 @@ def read_url(url):
             
             #Open the new file and write the xml as a utf8 string
             file = open(relative_file_path, 'w')
-            file.write(xmlFile.decode("utf-8"))
+            file.write(pretty_xml_as_string)
             file.close()
             print("Downloaded to: " + relative_file_path)
         
-
-read_url("http://legislation.govt.nz/subscribe/act/public")
+read_url("http://legislation.govt.nz/subscribe/act/public", 2018)
