@@ -1,5 +1,13 @@
 # Version Tracking for Legislation
 
+**Instructions**
+
+Install python3 and beautifulsoup
+
+python3 ./xmldownload.py
+
+python3 ./xmltransform.py
+
 **Problem Statement**
 
 In its current state, an end-user (NZ resident or legislator) can view the acts, bills and legislative instruments on the government website - ‘http://legislation.govt.nz’. The legislation is available in the form of a ‘PDF’ or ‘HTML’ document. One can also see the different versions of the same legislation. Though this is a good portal, we observer a couple of shortcomings. 
