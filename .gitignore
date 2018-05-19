@@ -1,5 +1,5 @@
 # All subdirectories in legislation
-legislation/*/*
+legislation/data/*
 
 #bs4 and dist for beautifulsoup
 /bs4
