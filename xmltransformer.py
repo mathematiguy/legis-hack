@@ -23,8 +23,52 @@ def xml_transform_asciidoc(file_path):
         notesTags = body.find_all('notes')
         for notesTag in notesTags:
             notesTag.decompose()
+            
+        labels = body.find_all('label')
+        for label in labels:
+            text = label.contents
+            if len(text) > 0:
+                label.replace_with('\n\n' + text[0] + ' ')
+            else:
+                label.replace_with('\n')
+                
+        #process rules for how to handle various tags
+        defTerms = body.find_all('def-term')
+        for defTerm in defTerms:
+            text = defTerm.contents
+            if len(text) > 0:
+                defTerm.replace_with('*' + text[0] + '* ')
+                
+        defParas = body.find_all('def-para')
+        for defPara in defParas:
+            contents = defPara.contents
+            if len(contents) > 0:
+                content = contents[0].extract()
+                newTag = soup.new_tag('text')
+                newTag.string = '\n\n'
+                defPara.insert_before(newTag)
+                defPara.insert_before(content)
+                
+        crossheads = body.find_all('crosshead')
+        for crosshead in crossheads:
+            crosshead.replace_with('\n\n')
+            
+        eqnLines = body.find_all('eqn-line')
+        for eqnLine in eqnLines:
+            text = eqnLine.contents
+            if len(text) > 0:
+                eqnLine.replace_with('\n\n ' + text[0] + '\n\n')
+                
+        variableDefs = body.find_all('variable-def')
+        for variableDef in variableDefs:
+            text = variableDef.contents
+            if len(text) > 0:
+                variableDef.replace_with('\n\n' + text[0] + ' ')
+                
         
-        bodyString = body.decode()
+        
+        bodyString = body.get_text()
+        #bodyString = body.decode()
         
         #Uncomment the following 3 lines if pretty printing is enabled on downloader
         #pattern = re.compile("(\n|\r)\t{2,}")
