@@ -33,21 +33,19 @@ b where a writ has been issued for an election, includes, on or after the Monday
 
 *candidate*,
 
-a in Parts 1 to 6 and 9, means
+a means a constituency candidate; and
 
-i a constituency candidate; and
+b includes a list candidate (other than in Parts 6AA and 6A); and
 
-ii a list candidate:
+c in the definition of *candidate advertisement* and in section 3A and Parts 6AA, 6A, 7, and 8 includes a person who has declared his or her intention of becoming a constituency candidate; and
 
-b in Part 6A, means a constituency candidate:
+d in Parts 7 and 8 includes a person who has declared his or her intention of becoming a list candidate
 
-c in Parts 7 and 8, means
+*candidate advertisement* means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to do either or both of the following:
 
-i a constituency candidate; and
+a to vote for a constituency candidate (whether or not the name of the candidate is stated):
 
-ii a list candidate; and
-
-iii any person who has declared his or her intention of becoming a constituency candidate or list candidate
+b not to vote for a constituency candidate (whether or not the name of the candidate is stated)
 
 *census* means the census of population and dwellings carried out by the Department of Statistics pursuant to the Statistics Act 1975
 
@@ -86,6 +84,8 @@ c who has paid to the party every membership fee that has for the time being bec
 *district* or *electoral district* or *electorate* means a General electoral district or a Maori electoral district constituted under this Act
 
 *election* means an election of a member of the House of Representatives
+
+*election advertisement* has the meaning given to it by section 3A
 
 *election expenses*,
 
@@ -153,11 +153,17 @@ b by applying the proportion ascertained under paragraph (a) to the total number
 
 *nomination day*, in relation to any election, means the day appointed in the writ for that election as the latest day for the nomination of candidates
 
-*party*, in Part 6A,
+*party*, in Parts 6AA and 6A,
 
 a means a political party registered under Part 4; and
 
-b includes a political party that at any time during the 3 months immediately preceding polling day has been registered under Part 4
+b includes a political party that at any time during the regulated period has been registered under Part 4
+
+*party advertisement* means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to do either or both of the following:
+
+a to vote for a party (whether or not the name of the party is stated):
+
+b not to vote for a party (whether or not the name of the party is stated)
 
 *party secretary* or, in relation to a party, *secretary* means the person (whatever his or her designation or office) whose duties include responsibility for
 
@@ -177,7 +183,7 @@ b conducting the correspondence of the party
 
 *prison* means a prison established or deemed to be established under the Corrections Act 2004
 
-*public inspection period* means, in relation to a return filed under sections 205K, 206I, 209, 210, and 210C, the period
+*public inspection period* means, in relation to a return filed under sections 205K, 206I, 206ZC, 209, 210, and 210C, the period
 
 a beginning 3 working days after the date of receipt by the Electoral Commission of the duly completed return; and
 
@@ -218,6 +224,8 @@ iii any person remunerated by fees or commission and not by wages or salary
 *Registrar*, in relation to any district, means the Registrar of Electors appointed for that district under section 22; and includes his or her deputy
 
 *Registrar of Births and Deaths* means Registrar within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+
+*regulated period* has the meaning given to it by section 3B
 
 *residence* and *to reside* have the meanings assigned thereto by section 72
 
@@ -262,6 +270,220 @@ b is a member of any commission, council, board, committee, or other body of whi
 
 3 No person shall, by reason only of being a head of mission or head of post within the meaning of the Foreign Affairs Act 1988, be deemed to be a State servant within the meaning of section 52(1) or a public servant, whether or not that person receives any salary, allowances, or expenses.
 
+3A Meaning of election advertisement
+
+1 In this Act, *election advertisement*
+
+a means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to do either or both of the following:
+
+i to vote, or not to vote, for a type of candidate described or indicated by reference to views or positions that are, or are not, held or taken (whether or not the name of the candidate is stated):
+
+ii to vote, or not to vote, for a type of party described or indicated by reference to views or positions that are, or are not, held or taken (whether or not the name of the party is stated); and
+
+b includes
+
+i a candidate advertisement; and
+
+ii a party advertisement.
+
+2 None of the following are election advertisements:
+
+a an advertisement that
+
+i is published, or caused or permitted to be published, by the Electoral Commission, the Chief Registrar of Electors, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand; and
+
+ii relates to electoral matters or the conduct of any general election or by-election; and
+
+iii contains either
+
+A a statement indicating that the advertisement has been authorised by that officer or agency; or
+
+B a symbol indicating that the advertisement has been authorised by that officer or agency:
+
+b contact information (as defined in subsection (3)) published in any medium by a member of Parliament that satisfies all of the following requirements:
+
+i the information was published by a member of Parliament in the course of performing his or her role and functions as a member of Parliament; and
+
+ii the information was prepared for publication and published by the member of Parliament using funding received under Vote Parliamentary Service; and
+
+iii the information was routinely published in that medium before the commencement of the regulated period and continues to be published in that medium during the regulated period; and
+
+iv the information is published during the regulated period no more often and to no greater extent than before the commencement of the regulated period; and
+
+v the information is published during the regulated period in the same form and style as before the commencement of the regulated period; and
+
+vi the information is not included, combined, or associated with an election advertisement (as defined in subsection (1)), or with any other information so as to constitute an election advertisement, that is published by
+
+A the member of Parliament; or
+
+B the secretary of the party to which the member of Parliament belongs; or
+
+C any other person with the authority of the member of Parliament:
+
+c the editorial content of
+
+i a periodical:
+
+ii a radio or television programme:
+
+iii a publication on a news media Internet site:
+
+d any transmission (whether live or not) of proceedings in the House of Representatives:
+
+e any publication on the Internet, or other electronic medium, of personal political views by an individual who does not make or receive a payment in respect of the publication of those views.
+
+3 In this section,
+
+*contact information*, in relation to a member of Parliament, means information that
+
+a must include
+
+i the name of the member of Parliament; and
+
+ii the contact details of the member of Parliament, being 1 or more of the following:
+
+A telephone number:
+
+B physical or postal address:
+
+C email address; and
+
+iii the name of the electoral district that the member of Parliament represents or, if the member has not been elected to represent an electoral district, the fact that the member has been elected from a party list; and
+
+b may include 1 or more of the following:
+
+i a photograph of the member of Parliament:
+
+ii the website address of either or both
+
+A the member of Parliament:
+
+B the party to which the member of Parliament belongs:
+
+iii the name of the party to which the member of Parliament belongs:
+
+iv the logo of the party to which the member of Parliament belongs:
+
+v the times when the member of Parliament is available for consultation by the public
+
+*periodical* means a newspaper, magazine, or trade or professional journal that
+
+a was established for purposes unrelated to the conduct of election campaigns; and
+
+b since its establishment has been
+
+i published at regular intervals; and
+
+ii generally available to members of the public.
+
+3B Meaning of regulated period
+
+1 In this Act, *regulated period*, in relation to a general election, has the meaning given to it by subsections (2) and (3).
+
+2 If before the close of the default day the Prime Minister gives public notice of the day that is to be polling day for the election, the regulated period
+
+a commences on the later of the following days:
+
+i the day after the date on which the Prime Minister gives that public notice:
+
+ii the day that is 3 months before polling day; and
+
+b ends with the close of the day before polling day.
+
+3 If at the close of the default day the Prime Minister has not given public notice of the day that is to be polling day for the election, the regulated period
+
+a commences on the close of the default day; and
+
+b ends with the close of the day before polling day.
+
+4 In this Act, *regulated period*, in relation to a by-election, means the period that
+
+a commences on the day after the notice of the vacancy to be filled by the by-election is published under section 129(1); and
+
+b ends with the close of the day before polling day.
+
+5 In this section,
+
+*default day* means the day that is 2 years and 9 months after the polling day for the preceding general election
+
+*give public notice* means issue a media statement.
+
+3C Electoral Commission to publish details relating to regulated period
+The Electoral Commission must, as soon as practicable after the commencement of the regulated period for a general election, publish in the Gazette notice of
+
+a the date on which the regulated period commenced; and
+
+b the date on which the regulated period will end.
+
+3D Meaning of publish
+In this Act, unless the context otherwise requires, *publish*, in relation to an election advertisement, means to bring to the notice of a person in any manner
+
+a including
+
+i displaying on any medium:
+
+ii distributing by any means:
+
+iii delivering to an address:
+
+iv leaving at a place:
+
+v sending by post or otherwise:
+
+vi printing in a newspaper or other periodical:
+
+vii broadcasting by any means:
+
+viii disseminating by means of the Internet or any other electronic medium:
+
+ix storing electronically in a way that is accessible to the public:
+
+x incorporating in a device for use with a computer:
+
+xi inserting in a film or video; but
+
+b excluding addressing 1 or more persons face to face.
+
+3E Meaning of advertising expenses
+
+1 In this Act, *advertising expenses*, in relation to an election advertisement
+
+a includes
+
+i the cost incurred in the preparation, design, composition, printing, postage, and publication of the advertisement; and
+
+ii the reasonable market value of any material used for or applied towards the advertisement, including any such material that is provided free of charge or below reasonable market value; but
+
+b excludes the cost of
+
+i the conduct of any survey or public opinion poll; and
+
+ii any framework (other than a commercial framework) that supports a hoarding on which the advertisement is displayed; and
+
+iii the labour of any person that is provided free of charge by that person; and
+
+iv the replacement of any material used in respect of the advertisement if that advertisement has been destroyed or rendered unusable by
+
+A 1 or more persons, other than the person promoting the advertisement (*person A*):
+
+B the occurrence of an event beyond the control of person A, or any person acting on behalf of person A.
+
+2 To avoid doubt, advertising expenses does not include the cost (including running costs) of any vehicle used to display an election advertisement if the use of the vehicle for that purpose is not the subject of a contract, arrangement, or understanding for the payment of money or money's worth.
+
+3 In this section, *vehicle* has the meaning given to it by section 2(1) of the Land Transport Act 1998.
+
+
+
+3F Application of Act to conduct outside New Zealand
+
+1 The provisions of Part 6AA and 6A apply in respect of the publication of an election advertisement
+
+a in New Zealand, in any case where the promoter of the advertisement is outside New Zealand; and
+
+b outside New Zealand, in any case where the promoter of the advertisement is in New Zealand.
+
+2 Subsection (1) does not affect the application of the provisions of this Act (other than those provisions in Parts 6AA and 6A that apply in respect of the publication of an election advertisement) in respect of an offence that under any provision of the Crimes Act 1961 is deemed to be committed in New Zealand.
+
 1 Electoral Commission
 
 4 Electoral Commission
@@ -305,7 +527,7 @@ c 1 member as the deputy chairperson.
 
 a section 28(1)(b) of the Crown Entities Act 2004; and
 
-b clause 1(2) of Schedule 5  of the Crown Entities Act 2004.
+b clause 1(2) of Schedule 5 of the Crown Entities Act 2004.
 
 4E Appointment of Judge as member not to affect tenure, etc
 The appointment of a Judge as a member of the board of the Electoral Commission does not affect the Judge's tenure of his or her judicial office or the Judge's rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including those in relation to superannuation) and, for all purposes, the Judge's services as a member must be taken to be service as a Judge.
@@ -326,7 +548,7 @@ The appointment of a Judge as a member of the board of the Electoral Commission 
 
 3 Instead, any member who is not a Judge may be removed for just cause by the Governor-General acting upon an address from the House of Representatives.
 
-4 Just cause has the same meaning as in section 40 of the Crown Entities Act 2004.
+4 *Just cause* has the same meaning as in section 40 of the Crown Entities Act 2004.
 
 4H Filling of vacancy
 
@@ -1153,6 +1375,12 @@ e the person is, by reason of a religious objection, unable to attend to vote on
 f the person satisfies the Returning Officer or issuing officer that on any other ground it will not be practicable for that person to vote at a polling place in the district without incurring hardship or serious inconvenience.
 
 2 A person who is registered as an elector of a Maori electoral district and who is qualified to vote at any election in that district may vote as a special voter not only on the grounds set out in subsection (1) but also on the ground that the person attends to vote on polling day at a polling place that is not a polling place for that district.
+
+3 A person whose name appears on the main roll or any supplementary roll for an electoral district and who is qualified to vote at an election in that district may vote as a special voter if the person
+
+a applies to vote in person before polling day; and
+
+b does so within that district or at an office maintained by the Returning Officer of that district.
 
 4 Registration of political parties and party logos
 
@@ -3035,7 +3263,7 @@ b the consent of any person named as a candidate on a list submitted under secti
 
 2 Every change to which subsection (1) applies shall be notified under that subsection as soon as practicable after the time at which the change occurs.
 
-128B Electoral Commission must record and notify change in component parties 
+128B Electoral Commission must record and notify change in component parties
 If the component parties of a political party listed in the copy of any declaration received by the Electoral Commission under section 127(3A) differ from those recorded in the Register of Political Parties established by section 62(2), the Electoral Commission
 
 a must amend the Register so that the component parties recorded in the Register are the same as those recorded in the declaration made to the Electoral Commission; and
@@ -4965,107 +5193,448 @@ c communicate at any time to any person any information obtained in a polling pl
 204 Infringement of secrecy constitutes corrupt practice
 Every person who commits an offence against section 203 is guilty of a corrupt practice.
 
-6A Election expenses and donations
+6AA Election advertising
 
-1 Candidates' election expenses
 
-205 Meaning of election activity
-In this subpart, unless the context otherwise requires, *election activity*, in relation to a candidate, means an activity
 
-a that is carried out by the candidate or with the candidate's authority; and
+204A Interpretation
+In this Part, unless the context otherwise requires,
 
-b that comprises
+*address* means
 
-i advertising of any kind; or
+a in relation to an individual,
 
-ii radio or television broadcasting; or
+i the full street address of the place where that individual usually lives; or
 
-iii publishing, issuing, distributing, or displaying addresses, notices, posters, pamphlets, handbills, billboards, and cards; and
+ii the full street address of any other place where that individual can usually be contacted between the hours of 9am and 5pm on any working day:
 
-c that
+b in relation to a body corporate or unincorporated,
 
-i relates to the campaign for the return of the candidate in the candidate's capacity as a constituency candidate and not to the candidate
+i the full street address of the body's principal place of business; or
 
-A in his or her capacity as a member of Parliament or as the holder of any other office; or
+ii the full street address of the body's head office
 
-B in any other capacity; or
+*contact details* for a person means that person's
 
-ii encourages or persuades or appears to encourage or persuade voters not to vote for a candidate or for a party; or
+a address; and
 
-iii both; and
+b telephone numbers; and
 
-d that takes place, or is deemed by section 205C to have taken place, within the 3 months immediately preceding polling day.
+c email address (if any)
 
-205A Meaning of election expenses
-In this subpart, unless the context otherwise requires, *election expenses*, in relation to a candidate,
+*election advertisement* has the meaning given to it by section 3A
 
-a means expenses that are incurred by or on behalf of a candidate in respect of any election activity; and
+*promoter* means a person who initiates or instigates an election advertisement that
 
-b includes
+a is published; or
 
-i expenses that are incurred by or on behalf of the candidate, before or after the 3 months immediately preceding polling day, in respect of any election activity; and
+b is to be published
 
-ii the reasonable market value of any materials applied in respect of any election activity that are given to the candidate or that are provided to the candidate free of charge or below reasonable market value; and
+*register* means the register of registered promoters established and maintained under section 204R
 
-iii the cost of any printing or postage in respect of any election activity, whether or not the expenses in respect of the printing or postage are incurred by or on behalf of the candidate; but
+*registered promoter*
 
-c does not include the cost of any of the following:
+a means a promoter who is registered under section 204N; and
 
-i travel:
+b includes a promoter who at any time in the regulated period has been registered under section 204N
 
-ii the conduct of any survey or public opinion poll:
+*unregistered promoter* means a promoter who is not
 
-iii the labour of any person that is provided to the candidate free of charge by that person:
+a a registered promoter; or
 
-iv the replacement of any materials that, during their application in respect of an election activity, have been destroyed or rendered unusable by 1 or more persons (other than the candidate or any person acting on his or her behalf) or by the occurrence of an event beyond the control of the candidate and any person acting on his or her behalf.
+b a constituency candidate; or
 
-205B Maximum amounts of candidate's election expenses
+c a list candidate; or
 
-1 The total election expenses of a candidate at a general election must not exceed $20,000 (inclusive of goods and services tax). 
+d a party; or
 
-2 The total election expenses of a candidate at a by-election must not exceed $40,000 (inclusive of goods and services tax).
+e a person involved in the administration of
 
-205C Apportionment of election expenses for election activity that takes place before and within 3 months immediately preceding polling day
+i the affairs of a candidate in relation to the candidate's election campaign; or
 
-1 This section applies if an election activity as described in paragraphs (a) to (c) of the definition of that term in section 205 takes place before, and within the 3 months immediately preceding, polling day.
+ii the affairs of a party.
+
+1 General rules governing election advertisements
+
+204B Persons who may promote election advertisements
+
+1 A person is entitled to promote an election advertisement if the person is
+
+a a party secretary:
+
+b a candidate:
+
+c a registered promoter:
+
+d an unregistered promoter who does not incur advertising expenses exceeding $12,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+
+2 The amount in subsection (1)(d) is inclusive of goods and services tax.
+
+3 Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
+
+204C Apportionment of advertising expenses for publication of election advertisement promoted by unregistered promoter both before and during regulated period
+
+1 This section applies if an election advertisement that is promoted by an unregistered promoter
+
+a is published both before the commencement of the regulated period and during the regulated period; or
+
+b is published before the commencement of the regulated period and continues to be published during the regulated period.
 
 2 If this section applies,
 
-a the election activity is deemed to have taken place within the 3 months immediately preceding polling day; but
+a the election advertisement is deemed to have been published during the regulated period; but
 
-b the election expenses must be apportioned so that a fair proportion of those expenses is attributed to the carrying on of the activity in the 3 months immediately preceding polling day.
+b the advertising expenses for the publication of the election advertisement must be apportioned so that only a fair proportion of the expenses is attributed to being incurred during the regulated period.
 
-3 Only the fair proportion of the expenses determined in accordance with subsection (2) are election expenses.
+3 Only the advertising expenses attributed to being incurred during the regulated period determined in accordance with subsection (2) are advertising expenses for the purposes of section 204B(1)(d).
 
-205D Apportionment of election expenses between candidates
+204D Offence to avoid limit set out in section 204B(1)(d)
 
-1 This section applies to any election expenses incurred in respect of an election activity that relates exclusively to campaigns for the return of 2 or more candidates.
+1 An unregistered promoter may not enter into an agreement, or enter into an arrangement or understanding, with any other person for the purpose of circumventing the maximum amount prescribed in section 204B(1)(d).
 
-2 The election expenses must be apportioned among the candidates according to the coverage provided by the election activity in relation to each of the candidates.
+2 A body corporate or unincorporated may not encourage its members to take any action for the purpose of circumventing the maximum amount prescribed in section 204B(1)(d).
 
-3 If a candidate receives less than 10% of the coverage provided by the election activity, the expenses relating to that election activity must not be included in the election expenses of that candidate.
+3 No person may incorporate or form 2 or more bodies corporate or unincorporated for the purpose of circumventing the maximum amount prescribed in section 204B(1)(d).
 
-4 Coverage provided by an election activity must be calculated in a way that is appropriate to the form of the election activity.
+4 Every person who wilfully contravenes subsection (1), (2), or (3) is guilty of an illegal practice.
 
-205E Advertisements for party lists
+204E Obligation to retain records necessary to verify promoter's advertising expenses
 
-1 This section applies to an advertisement that
+1 This section applies to a promoter who
 
-a is published or caused or permitted to be published in a newspaper, periodical, poster, or handbill, or is broadcast or caused or permitted to be broadcast by a radio or television station; and
+a is an unregistered promoter:
 
-b encourages or persuades or appears to encourage or persuade voters to vote for a party listed on the part of the ballot paper that relates to the party vote and
+b at any time during the regulated period has been an unregistered promoter.
 
-c gives more than 10% of the coverage provided in the advertisement to a person who is a constituency candidate in a manner that either
+2 A promoter to whom this section applies must take all reasonable steps to retain the records, documents, and accounts that are necessary to enable verification of the advertising expenses incurred as an unregistered promoter in relation to an election advertisement.
 
-i features that candidate in his or her capacity as a list candidate or
+3 Subsection (2) applies until the close of the day that is 3 years after polling day for the election to which the advertisement relates.
 
-ii features that candidate as endorsing or supporting the party or its party list and
+4 Every promoter who fails, without reasonable excuse, to comply with subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
 
-d is or is to be published or broadcast in the district in which the person described in paragraph (c) is a candidate.
+204F Election advertisement to include promoter statement
 
-2 The cost of publishing or broadcasting the advertisement is part of the candidates election expenses.
+1 A person may publish or cause or permit to be published an election advertisement only if the advertisement includes a promoter statement.
 
-3 However, subsection (2) does not apply if the advertisement is published or broadcast to more or less the same extent in at least 10 other electoral districts in addition to the electoral district referred to in subsection (1)(d).
+2 A promoter statement referred to in subsection (1) must state the name and address of the promoter of the election advertisement.
+
+3 If the promoter is a registered promoter, the name and address of the promoter stated in the promoter statement must be the same name and address of the promoter that appear in the register.
+
+4 If the promoter is an unregistered promoter and is a body corporate or unincorporated, the promoter statement must also include the name of a member of the body who is the duly authorised representative of the promoter.
+
+5 If the election advertisement is published in a visual form, the promoter statement must be clearly displayed in the advertisement.
+
+6 If the election advertisement is published only in an audible form, the promoter statement when published must be no less audible than the other content of the advertisement.
+
+7 A person who wilfully contravenes any of subsections (1) to (6) is guilty of an illegal practice.
+
+204G Publication of candidate advertisement promoting candidate
+
+1 A person may publish or cause or permit to be published a candidate advertisement that may reasonably be regarded as encouraging or persuading voters to vote for a constituency candidate only if the publication of the advertisement is authorised in writing by the candidate.
+
+2 A person may publish or cause or permit to be published an election advertisement comprising 2 or more candidate advertisements of the kind described in subsection (1) only if the publication of the advertisement is authorised in writing by each of the candidates.
+
+3 A person who wilfully contravenes subsection (1) or (2) is guilty of an illegal practice.
+
+204H Publication of party advertisement promoting party
+
+1 A person may publish or cause or permit to be published a party advertisement that may reasonably be regarded as encouraging or persuading voters to vote for a party only if the publication of the advertisement is authorised in writing by the party secretary.
+
+2 A person who wilfully contravenes subsection (1) is guilty of an illegal practice.
+
+204I Electoral Commission to provide advice on application of definition of election advertisement
+
+1 Any person (a *requestor*) may request the Electoral Commission to provide advice on whether, in the opinion of the Electoral Commission, an advertisement constitutes an election advertisement.
+
+2 A request made under subsection (1) must be accompanied by the advertisement in the form required by the Electoral Commission.
+
+3 On receipt of a request under subsection (1), the Electoral Commission must, as soon as is reasonably practicable, provide an opinion to the requestor.
+
+4 During the period specified in subsection (6), the Electoral Commission must treat the following documents as confidential:
+
+a an advertisement received under subsection (2):
+
+b any supporting material made available by the requestor to the Electoral Commission:
+
+c advice given by the Electoral Commission to a requestor under subsection (3).
+
+5 Notwithstanding subsection (4), the Electoral Commission may, upon request or on its own initiative, make available to the New Zealand Police copies of the documents referred to in that subsection to assist with the investigation or prosecution of any offence or suspected offence relating to an election.
+
+6 The period specified for the purposes of subsection (4) is, in relation to a document, the period that
+
+a begins on the day the Electoral Commission receives the document; and
+
+b ends on the day after the day for the return of the writ for the election to which the advertisement relates.
+
+7 Subsection (4) overrides the Official Information Act 1982 and the Privacy Act 1993.
+
+204J Duty of Electoral Commission to report suspected offences
+
+1 If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
+
+2 Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
+
+2 Registered promoters
+
+204K Promoters eligible to be registered
+A promoter (including a corporation sole, a body corporate, and an unincorporated body) is eligible to be a registered promoter if the promoter is not
+
+a a constituency candidate:
+
+b a list candidate:
+
+c a party:
+
+d an overseas person as defined in section 207K:
+
+e a person involved in the administration of
+
+i the affairs of a candidate in relation to the candidate's election campaign; or
+
+ii the affairs of a party.
+
+204L Application for registration
+
+1 An application to be a registered promoter must be made to the Electoral Commission and made,
+
+a if the promoter is an individual, by that individual; or
+
+b if the promoter is a company, by a person who is duly authorised by the board of directors to make the application; or
+
+c if the promoter is not an individual or a company, by the promoter's representative who is duly authorised by the promoter to make the application.
+
+2 An application to be a registered promoter must be made in the form required by the Electoral Commission and set out
+
+a the name and contact details of
+
+i the promoter; and
+
+ii the person described in subsection (1)(b) or (c) who made the application, if the promoter is not an individual; and
+
+b the names of the persons occupying a position in the body that is comparable with that of a director of a company, if the promoter is not an individual or a company; and
+
+c the names of the trustees, if the promoter is a trust.
+
+3 An application to be a registered promoter must be accompanied by evidence of the authority to make the application, if the application is made by a person described in subsection (1)(b) or (c).
+
+204M Grounds on which application for registration must be refused
+The Electoral Commission must refuse an application by a promoter to be registered if
+
+a the application does not comply with section 204L; or
+
+b the Electoral Commission is not satisfied that the promoter is eligible under section 204K to be registered; or
+
+c the name of the promoter is
+
+i indecent or offensive; or
+
+ii likely to cause confusion or mislead electors.
+
+204N Electoral Commission's decision on application
+
+1 If there are no grounds under section 204M to refuse an application by a promoter to be registered, the Electoral Commission must, as soon as is reasonably practicable after receiving the application,
+
+a register the promoter; and
+
+b notify the person who made the application of the date of registration of the promoter.
+
+2 If there are grounds under section 204M to refuse an application, the Electoral Commission must, as soon as is reasonably practicable after receiving the application,
+
+a refuse the application; and
+
+b notify the person who made the application of the refusal and the reasons.
+
+204O Obligation to notify Electoral Commission of change in contact details
+A registered promoter must give written notice to the Electoral Commission of any change in the information provided under section 204L(2) within 10 working days after the change.
+
+204P Cancellation of registration
+
+1 The Electoral Commission must cancel the registration of a promoter if
+
+a the Electoral Commission is satisfied that the promoter is not eligible to be registered; or
+
+b the promoter
+
+i requests that it do so; and
+
+ii has not incurred expenses in relation to election advertisements that exceed the amount specified in section 204B(1)(d).
+
+2 If the Electoral Commission cancels the registration of a promoter under subsection (1), the Electoral Commission must, as soon as is reasonably practicable, and in any case not later than 10 working days after the date of the cancellation, give the promoter written notice of
+
+a the cancellation; and
+
+b the reason for the cancellation.
+
+204Q Expiry of registration
+Unless earlier cancelled under section 204P, a promoter's registration expires on the close of polling day for the next election following the date of the promoter's registration.
+
+204R Establishment of register
+
+1 The Electoral Commission must establish and maintain a register of registered promoters.
+
+2 The Electoral Commission must enter in the register in respect of every registered promoter
+
+a the name of the registered promoter; and
+
+b the address of the registered promoter; and
+
+c the names of the persons set out in the promoter's application, if any, provided under section 204L(2)(a)(ii), (b), and (c).
+
+3 The Electoral Commission may enter in the register any other information that the Electoral Commission considers necessary or desirable for the purposes of the register.
+
+204S Purposes of register
+The purposes of the register are
+
+a to enable members of the public to ascertain
+
+i whether a person is a registered promoter and, if so, the address of that person; and
+
+ii whether an election advertisement is promoted by a registered promoter; and
+
+b to assist with the enforcement of the provisions of this Part.
+
+204T Form of register
+The register may be kept
+
+a as an electronic register (for example, on the Electoral Commission's Internet site); or
+
+b in any other manner that the Electoral Commission thinks fit.
+
+204U Alterations to register
+The Electoral Commission may at any time make any amendments to the register that are necessary to
+
+a reflect any changes in the information referred to in section 204O; or
+
+b correct any error or omission on the part of the Electoral Commission or any person to whom the Electoral Commission has delegated its functions, duties, or powers.
+
+204V Register to be public
+The Electoral Commission must
+
+a make the register available for public inspection at its office during ordinary office hours, without fee; and
+
+b supply to a person copies of all or part of the register on request, subject to the payment of any charges that may be made under the Official Information Act 1982.
+
+204W Search of register
+A person may search the register for a purpose set out in section 204S.
+
+204X When search constitutes interference with privacy of individual
+A search of the register for personal information that has not been carried out for a purpose specified in section 204S constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+
+6A Election expenses and donations
+
+1 Election expenses of candidates
+
+205 Interpretation and application
+
+1 In this subpart, unless the context otherwise requires,
+
+*advertising expenses* has the meaning given to it by section 3E
+
+*candidate advertisement* has the meaning given to it by section 3(1)
+
+*election advertisement* has the meaning given to it by section 3A
+
+*election expenses*, in relation to a candidate,
+
+a means the advertising expenses incurred in relation to a candidate advertisement that
+
+i is published, or continues to be published, during the regulated period; and
+
+ii is promoted by
+
+A the candidate; or
+
+B any person (including a registered promoter) authorised by the candidate; and
+
+b includes
+
+i any election expense of an election advertisement that is apportioned to a candidate under section 205E or 205EA; and
+
+ii as required by section 40 of the Electoral Referendum Act 2010, any referendum expenses incurred in relation to an advertisement that comprises both
+
+A a candidate advertisement; and
+
+B a referendum advertisement (within the meaning of section 31 of the Electoral Referendum Act 2010)
+
+*party advertisement* has the meaning given to it by section 3(1).
+
+2 For the purposes of the definition of *election expenses*, it is immaterial whether an election expense is paid or incurred before, during, or after the regulated period.
+
+3 Nothing in sections 205K to 205R applies to a person who has not been nominated as a candidate for a seat in the House of Representatives.
+
+205A Persons who may incur election expenses in relation to candidate advertisement
+An election expense in relation to a candidate advertisement may only be incurred by
+
+a a candidate; or
+
+b a party secretary in relation to an election advertisement described in section 205EA; or
+
+c a promoter authorised by the candidate under section 204G.
+
+205B Offence to incur unauthorised election expense
+Every person is guilty of
+
+a a corrupt practice who wilfully contravenes section 205A; and
+
+b an illegal practice who contravenes section 205A in any other case.
+
+205C Maximum amount of candidate's total election expenses
+
+1 The total election expenses of a candidate in respect of any regulated period must not exceed
+
+a $25,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+
+b $50,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+
+2 The amounts in subsection (1) are inclusive of goods and services tax.
+
+205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
+
+1 This section applies if a candidate advertisement
+
+a is published both before the commencement of the regulated period and during the regulated period; or
+
+b is published before the commencement of the regulated period and continues to be published during the regulated period.
+
+2 If this section applies,
+
+a the candidate advertisement is deemed to have been published during the regulated period; but
+
+b the advertising expenses for the publication of the candidate advertisement must be apportioned so that only a fair proportion of the expenses is attributed to being incurred during the regulated period.
+
+3 Only the advertising expenses attributed to being incurred during the regulated period in accordance with subsection (2) are election expenses.
+
+205E Apportionment of election expenses of election advertisement between candidates
+
+1 This section applies if an election advertisement comprises 2 or more candidate advertisements.
+
+2 If this section applies, the election expenses of the election advertisement must be apportioned among the candidates in proportion to the coverage the advertisement provides to each candidate.
+
+3 For the purposes of this section,
+
+a *election expenses of the election advertisement* means the total of the election expenses of all of the candidate advertisements comprised in the election advertisement; and
+
+b the coverage provided by an election advertisement must be calculated in such a manner as is appropriate in relation to the form of the advertisement.
+
+4 Only the expenses apportioned to a candidate in accordance with this section are election expenses of that candidate.
+
+205EA Apportionment of election expenses of election advertisement between candidate and party
+
+1 This section applies if an election advertisement comprises both
+
+a a candidate advertisement; and
+
+b a party advertisement.
+
+2 If this section applies, the election expenses of the election advertisement must be apportioned between the candidate and the party in proportion to the coverage the advertisement provides to the candidate and to the party.
+
+3 For the purposes of this section,
+
+a *election expenses of the election advertisement* means the advertising expenses incurred in relation to both the candidate advertisement and the party advertisement; and
+
+b the coverage provided by an election advertisement must be calculated in such a manner as is appropriate in relation to the form of the election advertisement.
+
+4 Only the expenses apportioned to the candidate in accordance with this section are election expenses of the candidate.
 
 205F Offence to pay election expenses in excess of prescribed maximum
 
@@ -5077,9 +5646,11 @@ a a corrupt practice if he or she knew the payment was in excess of the prescrib
 
 b an illegal practice in any other case, unless he or she proves that he or she took all reasonable steps to ensure that the election expenses did not exceed the prescribed maximum amount.
 
+3 Every person who enters into an agreement or enters into an arrangement or understanding with any other person for the purpose of circumventing either of the maximum amounts prescribed in section 205C is guilty of a corrupt practice.
+
 205G Periods for claiming and paying candidate's election expenses
 
-1 A claim for any election expenses against a candidate, or an agent of a candidate, is recoverable only if it is sent to the candidate within 20 working days after the day on which the declaration required by section 179(2) is made.
+1 A claim for any election expenses against a candidate is recoverable only if it is sent to the candidate within 20 working days after the day on which the declaration required by section 179(2) is made.
 
 2 A claim that is sent to a candidate in accordance with subsection (1) must be paid within 40 working days after the day on which that declaration is made, and not otherwise.
 
@@ -5093,7 +5664,7 @@ b an illegal practice in any other case, unless he or she proves that he or she 
 
 a the claim is to be treated as a disputed claim; and
 
-b the claimant may, if he or she thinks fit, within 20 working days after the expiry of that period of 40 working days, bring an action for the disputed claim in any court of competent jurisdiction. 
+b the claimant may, if he or she thinks fit, within 20 working days after the expiry of that period of 40 working days, bring an action for the disputed claim in any court of competent jurisdiction.
 
 2 Any sum paid by the candidate in accordance with a judgment or order of the court in any such action is to be treated as paid within the period specified in section 205G(2).
 
@@ -5123,11 +5694,11 @@ If a candidate considers that there is no relevant information to disclose under
 
 205M Return may be filed after time limitation if candidate outside New Zealand
 
-1 This section applies to a candidate who is outside New Zealand on the day on which the declaration required by section 179(2) is made. 
+1 This section applies to a candidate who is outside New Zealand on the day on which the declaration required by section 179(2) is made.
 
 2 The candidate must file a return of election expenses with the Electoral Commission within 15 working days after the date he or she returns to New Zealand.
 
-3 A return filed by the candidate in accordance with subsection (2) is deemed to be filed within the time period specified in section 205K(1). 
+3 A return filed by the candidate in accordance with subsection (2) is deemed to be filed within the time period specified in section 205K(1).
 
 205N Offences relating to return of candidate's election expenses
 
@@ -5156,7 +5727,10 @@ ii he or she took all reasonable steps in the circumstances to ensure that the i
 2 A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
 
 205P Duty of Electoral Commission
-If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police. 
+
+1 If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
+
+2 Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
 
 205Q Return of candidate's election expenses to be sent by Chief Electoral Officer to Electoral Commission
 
@@ -5171,75 +5745,125 @@ If the Electoral Commission believes that any person has committed an offence sp
 205S Unlawful use of public money not validated
 Nothing in this subpart validates any use of public money that would otherwise be unlawful.
 
-2 Parties' election expenses
+2 Election expenses of parties
 
-206 Meaning of election activity
-In this subpart, unless the context otherwise requires, *election activity*, in relation to a party, means an activity
+206 Interpretation
 
-a that is carried out by the party or with the party's authority; and
+1 In this subpart,
 
-b that comprises
+*advertising expenses* has the meaning given to it by section 3E
 
-i advertising of any kind; or
+*candidate advertisement* has the meaning given to it by section 3(1)
 
-ii radio or television broadcasting; or
+*election advertisement* has the meaning given to it by section 3A
 
-iii publishing, issuing, distributing, or displaying addresses, notices, posters, pamphlets, handbills, billboards, and cards; and
+*election expenses*, in relation to a party,
 
-c that
+a means the advertising expenses incurred in relation to a party advertisement that
 
-i encourages or persuades or appears to encourage or persuade voters to vote for the party; or
+i is published, or continues to be published, during the regulated period; and
 
-ii encourages or persuades or appears to encourage or persuade voters not to vote for a party or for a candidate; or
+ii is promoted by
 
-iii both; and
+A the party secretary; or
 
-d that takes place, or is deemed by section 206C to have taken place, within the 3 months immediately preceding polling day.
-
-206A Meaning of election expenses
-In this subpart, unless the context otherwise requires, *election expenses*, in relation to a party,
-
-a means expenses that are incurred by or on behalf of a party in respect of any election activity; and
+B any person (including a registered promoter) authorised by the party secretary; and
 
 b includes
 
-i expenses that are incurred by or on behalf of the party, before or after the 3 months immediately preceding polling day, in respect of any election activity; and
+i any election expense of an election advertisement that is apportioned to a party under section 206CB or 206CC; and
 
-ii the reasonable market value of any materials applied in respect of any election activity that are given to the party or that are provided to the party free of charge or below reasonable market value; and
+ii as required by section 40 of the Electoral Referendum Act 2010, any referendum expenses incurred in relation to an advertisement that comprises both
 
-iii the cost of any printing or postage in respect of any election activity, whether or not the expenses in respect of the printing or postage are incurred by or on behalf of the party; but
+A a party advertisement; and
 
-c does not include the cost of any of the following:
+B a referendum advertisement (within the meaning of section 31 of the Electoral Referendum Act 2010); but
 
-i travel:
+c excludes
 
-ii the conduct of any survey or public opinion poll:
+i the costs representing the time allocated to a party under section 73 or 76A of the Broadcasting Act 1989; and
 
-iii the labour of any person that is provided to the party free of charge by that person:
+ii the costs of broadcasting election programmes (as defined in section 69 of the Broadcasting Act 1989) that are paid by the Electoral Commission out of money allocated to the party under section 74A or 76A of the Broadcasting Act 1989
 
-iv the replacement of any materials that, during their application in respect of an election activity, have been destroyed or rendered unusable by 1 or more persons (other than a person acting on behalf of the party) or by the occurrence of an event beyond the control of any person acting on behalf of the party:
+*party advertisement* has the meaning given to it by section 3(1).
 
-v the election expenses of any of the party's candidates:
+2 For the purposes of the definition of *election expenses*, it is immaterial whether an election expense is paid or incurred before, during, or after the regulated period.
 
-vi allocations of time and money made to the party by the body responsible for such allocations under the Broadcasting Act 1989.
+206A Persons who may incur election expenses in relation to party advertisement
+An election expense in relation to a party advertisement may only be incurred by
 
-206B Maximum amounts of party's election expenses
+a the party secretary; or
 
-1 If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of the party must not exceed $1 million plus $20,000 for each constituency contested by a candidate for that party (inclusive of goods and services tax).
+b a candidate in relation to an election advertisement described in section 206CC; or
 
-2 If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of the party must not exceed $20,000 for each constituency contested by a candidate for that party (inclusive of goods and services tax).
+c a promoter authorised by the party secretary under section 204H.
 
-206C Apportionment of election expenses for election activity that takes place before and within 3 months immediately preceding polling day
+206B Offence to incur unauthorised election expense
+Every person is guilty of
 
-1 This section applies if an election activity as described in paragraphs (a) to (c) of the definition of that term in section 206 takes place before and within the 3 months immediately preceding polling day. 
+a a corrupt practice who wilfully contravenes section 206A; and
+
+b an illegal practice who contravenes section 206A in any other case.
+
+206C Maximum amount of party's total election expenses
+
+1 If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed
+
+a $1,032,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+
+b $25,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+
+2 If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $25,000 for each electoral district contested by a candidate for the party.
+
+3 The amounts in subsections (1) and (2) are inclusive of goods and services tax.
+
+206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
+
+1 This section applies if a party advertisement
+
+a is published both before the commencement of the regulated period and during the regulated period; or
+
+b is published before the commencement of the regulated period and continues to be published during the regulated period.
 
 2 If this section applies,
 
-a the election activity is deemed to have taken place within the 3 months immediately preceding polling day; but
+a the party advertisement is deemed to have been published during the regulated period; but
 
-b the election expenses must be apportioned so that a fair proportion of those expenses is attributed to the carrying on of the activity in the 3 months immediately preceding polling day.
+b the advertising expenses for the publication of the party advertisement must be apportioned so that only a fair proportion of the expenses is attributed to being incurred during the regulated period.
 
-3 Only the fair proportion of the expenses determined in accordance with subsection (2) are election expenses.
+3 Only the advertising expenses attributed to being incurred during the regulated period in accordance with subsection (2) are election expenses.
+
+206CB Apportionment of election expenses of election advertisement between parties
+
+1 This section applies if an election advertisement comprises 2 or more party advertisements.
+
+2 If this section applies, the election expenses of the election advertisement must be apportioned among the parties in proportion to the coverage the advertisement provides to each party.
+
+3 For the purposes of this section,
+
+a *election expenses of the election advertisement* means the total of the election expenses of all of the party advertisements comprised in the election advertisement; and
+
+b the coverage provided by an election advertisement must be calculated in such a manner as is appropriate in relation to the form of the advertisement.
+
+4 Only the expenses apportioned to a party in accordance with this section are election expenses of that party.
+
+206CC Apportionment of election expenses of election advertisement between party and candidate
+
+1 This section applies if an election advertisement comprises both
+
+a a party advertisement; and
+
+b a candidate advertisement.
+
+2 If this section applies, the election expenses of the election advertisement must be apportioned between the party and the candidate in proportion to the coverage the advertisement provides to the party and to the candidate.
+
+3 For the purpose of this section,
+
+a *election expenses of the election advertisement* means the advertising expenses incurred in relation to both the candidate advertisement and the party advertisement; and
+
+b the coverage provided by an election advertisement must be calculated in such a manner as is appropriate in relation to the form of the election advertisement.
+
+4 Only the expenses apportioned to the party in accordance with this section are election expenses of the party.
 
 206D Offence to pay election expenses in excess of prescribed maximum
 
@@ -5250,6 +5874,8 @@ b the election expenses must be apportioned so that a fair proportion of those e
 a a corrupt practice if he or she knew the payment was in excess of the prescribed maximum amount; or
 
 b an illegal practice in any other case, unless he or she proves that he or she took all reasonable steps to ensure that the election expenses did not exceed the prescribed maximum amount.
+
+3 Every person who enters into an agreement or enters into an arrangement or understanding with any other person for the purpose of circumventing either of the maximum amounts prescribed in section 206C is guilty of a corrupt practice.
 
 206E Periods for claiming and paying party's election expenses
 
@@ -5267,7 +5893,7 @@ b an illegal practice in any other case, unless he or she proves that he or she 
 
 a the claim is to be treated as a disputed claim; and
 
-b the claimant may, if he or she thinks fit, within 20 working days after the expiry of that period of 40 working days, bring an action for the disputed claim in any court of competent jurisdiction. 
+b the claimant may, if he or she thinks fit, within 20 working days after the expiry of that period of 40 working days, bring an action for the disputed claim in any court of competent jurisdiction.
 
 2 Any sum paid by the party in accordance with a judgment or order of the court in any such action is to be treated as paid within the period specified in section 206E(2).
 
@@ -5366,7 +5992,7 @@ a must have access at all reasonable times to all records, documents, and accoun
 b may require the party secretary to provide any information and explanations that, in the auditors opinion, may be necessary to enable the auditor to prepare the report.
 
 206M Nil return
-If a party secretary considers that there is no relevant information to disclose under section 206I, the party secretary must file a nil return under that section. 
+If a party secretary considers that there is no relevant information to disclose under section 206I, the party secretary must file a nil return under that section.
 
 206N Offences relating to return of party's election expenses
 
@@ -5391,7 +6017,10 @@ ii he or she took all reasonable steps in the circumstances to ensure that the i
 2 A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
 
 206P Duty of Electoral Commission
-If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
+
+1 If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
+
+2 Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
 
 206Q Return of party's election expenses to be publicly available
 
@@ -5403,6 +6032,196 @@ If the Electoral Commission believes that any person has committed an offence sp
 
 206R Unlawful use of public money not validated
 Nothing in this subpart validates any use of public money that would otherwise be unlawful.
+
+2A Election expenses of registered promoters
+
+206S Interpretation
+
+1 In this subpart,
+
+*advertising expenses* has the meaning given to it by section 3E
+
+*election advertisement* has the meaning given to it by section 3A
+
+*election expenses*, in relation to a registered promoter,
+
+a means the advertising expenses incurred in relation to an election advertisement that
+
+i is published, or continues to be published, during the regulated period; and
+
+ii is promoted by the registered promoter; and
+
+b includes, as required by section 40 of the Electoral Referendum Act 2010, any referendum expenses incurred in relation to an advertisement that comprises both
+
+i an election advertisement; and
+
+ii a referendum advertisement (within the meaning of section 31 of the Electoral Referendum Act 2010)
+
+*registered promoter* has the meaning given to it by section 204A.
+
+2 For the purposes of the definition of *election expenses*, it is immaterial whether an election expense is paid or incurred before, during, or after the regulated period.
+
+206T Persons who may incur election expenses in relation to election advertisement promoted by registered promoter
+An election expense in relation to an election advertisement promoted by a registered promoter may only be incurred by
+
+a the registered promoter; or
+
+b a person authorised by the registered promoter.
+
+206U Offence to incur unauthorised election expense
+Every person is guilty of
+
+a a corrupt practice who wilfully contravenes section 206T; and
+
+b an illegal practice who contravenes section 206T in any other case.
+
+206V Maximum amount of registered promoter's total election expenses
+
+1 The total election expenses of a registered promoter in respect of any regulated period must not exceed $300,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+
+2 The amount in subsection (1) is inclusive of goods and services tax.
+
+206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
+
+1 This section applies if an election advertisement that is promoted by a registered promoter
+
+a is published both before the commencement of the regulated period and during the regulated period; or
+
+b is published before the commencement of the regulated period and continues to be published during the regulated period.
+
+2 If this section applies,
+
+a the election advertisement is deemed to have been published during the regulated period; but
+
+b the advertising expenses for the publication of the election advertisement must be apportioned so that only a fair proportion of the expenses is attributed to being incurred during the regulated period.
+
+3 Only the advertising expenses attributed to being incurred during the regulated period in accordance with subsection (2) are election expenses.
+
+206X Offence to pay election expenses in excess of prescribed maximum
+
+1 This section applies to any registered promoter or other person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any election expenses any sum in excess of the maximum amount prescribed by section 206V.
+
+2 The registered promoter or other person is guilty of
+
+a a corrupt practice if he or she knew the payment was in excess of the prescribed maximum amount; or
+
+b an illegal practice in any other case, unless he or she proves that he or she took all reasonable steps to ensure that the election expenses did not exceed the prescribed maximum amount.
+
+3 Every person who enters into an agreement or enters into an arrangement or understanding with any other person for the purpose of circumventing the maximum amount prescribed in section 206V is guilty of a corrupt practice.
+
+206Y Periods for claiming and paying registered promoter's election expenses
+
+1 A claim for any election expenses against a registered promoter is recoverable only if it is sent to the registered promoter within 20 working days after the day on which the declaration required by section 179(2) is made.
+
+2 A claim that is sent to a registered promoter in accordance with subsection (1) must be paid within 40 working days after the day on which that declaration is made, and not otherwise.
+
+3 A person who makes a payment in breach of this section is guilty of an illegal practice.
+
+4 This section is subject to sections 206Z and 206ZA.
+
+206Z Procedure if claim disputed
+
+1 If a registered promoter, in the case of a claim for election expenses sent to a registered promoter within the period specified in section 206Y(1), disputes the claim or fails to pay the claim within the period of 40 working days specified in section 206Y(2), then
+
+a the claim is to be treated as a disputed claim; and
+
+b the claimant may, if he or she thinks fit, within 20 working days after the expiry of that period of 40 working days, bring an action for the disputed claim in any court of competent jurisdiction.
+
+2 Any sum paid by the registered promoter in accordance with a judgment or order of the court in any such action is to be treated as paid within the period specified in section 206Y(2).
+
+206ZA Leave to pay claim after time limitation
+
+1 On the application of a claimant or a registered promoter, a District Court may make an order granting leave to the registered promoter to pay
+
+a a claim for election expenses sent after the period specified in section 206Y(1); or
+
+b a claim not paid in the period specified in section 206Y(2); or
+
+c a disputed claim in respect of which an action was not brought within the period specified in section 206Z(1)(b).
+
+2 Any sum paid by the registered promoter in accordance with an order made under subsection (1) is to be treated as having been paid within the period specified in section 206Y(2).
+
+206ZB Invoice and receipt required for election expenses of $50 or more
+
+1 Every payment made in respect of any election expenses of a registered promoter must be vouched by an invoice stating the particulars, and by a receipt.
+
+2 Subsection (1) does not apply to a payment less than $50.
+
+206ZC Return of registered promoter's election expenses
+
+1 This section applies to a registered promoter whose total election expenses in respect of any regulated period exceed $100,000 (inclusive of goods and services tax).
+
+2 Within 70 working days after polling day, the registered promoter must file a return of election expenses with the Electoral Commission.
+
+3 If the registered promoter is not an individual or a company, the return must be filed by the registered promoter's representative who is duly authorised to file the return.
+
+4 A return filed under subsection (2) must be in the form required by the Electoral Commission.
+
+206ZD Electoral Commission may require auditor's report on return of registered promoter's election expenses
+
+1 If the Electoral Commission has reasonable grounds to believe that a return filed under section 206ZC may contain any false or misleading information, the Electoral Commission may require the registered promoter (at the registered promoter's expense) to obtain from an auditor a report on the return.
+
+2 The auditor must state in the report
+
+a the position shown by the return in respect of the requirement that the registered promoter's total election expenses must not exceed the maximum amount prescribed by section 206V; and
+
+b either
+
+i whether, in the auditor's opinion, the position stated under paragraph (a) is correct; or
+
+ii that the auditor has been unable to form an opinion as to whether the position stated under paragraph (a) is correct.
+
+3 The auditor must make any examinations that the auditor considers necessary.
+
+4 The auditor must specify in the report any case in which
+
+a the auditor has not received from the registered promoter all the information that the auditor requires to carry out his or her duties; or
+
+b proper records of the registered promoter's election expenses have not, in the auditor's opinion, been kept by the registered promoter.
+
+5 The auditor
+
+a must have access at all reasonable times to all records, documents, and accounts that relate to the registered promoter's election expenses and that are held by the registered promoter; and
+
+b may require the registered promoter to provide any information and explanation that, in the auditor's opinion, may be necessary to enable the auditor to prepare the report.
+
+206ZE Offences relating to return of registered promoter's election expenses
+
+1 A registered promoter who fails, without reasonable excuse, to comply with section 206ZC is liable on summary conviction to a fine not exceeding $40,000.
+
+2 A registered promoter who files a return under section 206ZC that is false in any material particular is guilty of
+
+a a corrupt practice if the registered promoter filed the return knowing it to be false in any material particular:
+
+b an illegal practice in any other case unless the registered promoter proves that
+
+i he or she had no intention to misstate or conceal the facts; and
+
+ii he or she took all reasonable steps in the circumstances to ensure that the information was accurate.
+
+3 If the registered promoter is not an individual or a company, the registered promoter's representative who files the return in accordance with section 206ZC(3) is liable under subsections (1) and (2).
+
+4 Subsection (3) does not limit the liability of a registered promoter under subsection (1) or (2).
+
+206ZF Obligation to retain records necessary to verify return of registered promoter's election expenses
+
+1 A registered promoter must take all reasonable steps to ensure that all records, documents, and accounts that are reasonably necessary to enable a return filed under section 206ZC to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the return or in relation to any matter to which the return relates.
+
+2 A registered promoter who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+
+206ZG Duty of Electoral Commission
+
+1 If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
+
+2 Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
+
+206ZH Return of registered promoter's election expenses to be publicly available
+
+1 The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, every return filed under section 206ZC.
+
+2 During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return filed under section 206ZC.
+
+3 The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the Official Information Act 1982.
 
 3 General provisions relating to donations
 
@@ -5434,13 +6253,17 @@ ii could not, in the circumstances, reasonably be expected to know the identity 
 
 a includes,
 
-i where goods or services are provided to a candidate, or to any person on the candidate's behalf, under a contract or arrangement at a value less than their reasonable market value, the latter being a value that exceeds $200, the amount of the difference between the former value and the reasonable market value of those goods or services; and
+i where goods or services are provided to a candidate, or to any person on the candidate's behalf, under a contract or arrangement at a value less than their reasonable market value, the latter being a value that exceeds $300, the amount of the difference between the former value and the reasonable market value of those goods or services; and
 
 ii where goods or services are provided by a candidate under a contract or arrangement at a value that is more than their reasonable market value, the amount of the difference between that value and the reasonable market value of those goods or services; and
 
 iii where credit is provided to a candidate on terms and conditions substantially more favourable than the commercial terms and conditions prevailing at the time for the same or similar credit, the value to the candidate of those more favourable terms and conditions; but
 
-b excludes the labour of any person that is provided to a candidate free of charge by that person
+b excludes,
+
+i the labour of any person that is provided to a candidate free of charge by that person; and
+
+ii goods or services provided free of charge to a candidate, or to any person on the candidate's behalf, that have a reasonable market value of $300 or less
 
 *contribution* means any thing (being money or the equivalent of money or goods or services or a combination of those things) that makes up a donation or is included in a donation or has been used to wholly or partly fund a donation, and that
 
@@ -5468,7 +6291,7 @@ b provides any services that make up the contribution or are included in the con
 
 a includes,
 
-i where goods or services are provided to a party, or to any person on the party's behalf, under a contract or arrangement at a value less than their reasonable market value, the latter being a value that exceeds $1,000, the amount of the difference between the former value and the reasonable market value of those goods or services; and
+i where goods or services are provided to a party, or to any person on the party's behalf, under a contract or arrangement at a value less than their reasonable market value, the latter being a value that exceeds $1,500, the amount of the difference between the former value and the reasonable market value of those goods or services; and
 
 ii where goods or services are provided by a party under a contract or arrangement at a value that is more than their reasonable market value, the amount of the difference between that value and the reasonable market value of those goods or services; and
 
@@ -5478,7 +6301,9 @@ b excludes
 
 i the labour of any person that is provided to a party free of charge by that person; and
 
-ii any candidate donation that is included in a return made by a candidate under section 209
+ii goods or services provided free of charge to a party, or to any person on the party's behalf, that have a reasonable market value of $1,500 or less; and
+
+iii any candidate donation that is included in a return made by a candidate under section 209
 
 *receive*, in relation to a donation, means to get a donation that has been given or sent by
 
@@ -5490,9 +6315,9 @@ b the donor indirectly, via a transmitter
 
 3 For the purposes of sections 207B, 207C, 207E, 207G, 207I, and 210C,
 
-a donation does not include a donation protected from disclosure (as defined in section 208); and
+a *donation* does not include a donation protected from disclosure (as defined in section 208); and
 
-b party donation does not include a donation protected from disclosure (as defined in section 208).
+b *party donation* does not include a donation protected from disclosure (as defined in section 208).
 
 207A Donations and contributions include GST
 All references to an amount or value of a donation or contribution are inclusive of any goods and services tax incurred by the donor or contributor in respect of the goods or service donated or contributed.
@@ -5501,19 +6326,23 @@ All references to an amount or value of a donation or contribution are inclusive
 
 1 Every person to whom a candidate donation is given or sent must, within 10 working days after receiving the donation, transmit the donation to the candidate.
 
-2 Every person to whom a party donation is given or sent must, within 10 working days after receiving the donation, transmit the donation to the party secretary.
+2 Every person to whom a party donation is given or sent must, within 10 working days after receiving the donation, either
+
+a transmit the donation to the party secretary; or
+
+b deposit the donation into a bank account nominated by the party secretary.
 
 207C Contributors to be identified
 
-1 This section applies to a donation that is funded from contributions.
+1 This section applies to a donation (other than an anonymous donation) that is funded from contributions.
 
 2 If this section applies to a donation, the donor must, at the time of making the donation,
 
 a disclose the fact that the donation is funded from contributions; and
 
-b if 1 or more contributions are each in sum or value $1,000 or less, disclose the total amount of those contributions; and
+b if 1 or more contributions are each in sum or value $1,500 or less, disclose the total amount of those contributions; and
 
-c if 1 or more contributions are each in sum or value more than $1,000, disclose the following information about those contributions:
+c if 1 or more contributions are each in sum or value more than $1,500, disclose the following information about those contributions:
 
 i the total amount of those contributions; and
 
@@ -5551,18 +6380,18 @@ A transmitter who fails to comply with section 207E with the intention of concea
 
 207G Disclosure of identity of donor
 
-1 If any person involved in the administration of the affairs of a candidate in relation to his or her election campaign knows the identity of the donor of an anonymous candidate donation exceeding $1,000, the person must disclose the identity of the donor to the candidate.
+1 If any person involved in the administration of the affairs of a candidate in relation to his or her election campaign knows the identity of the donor of an anonymous candidate donation exceeding $1,500, the person must disclose the identity of the donor to the candidate.
 
-2 If a candidate, list candidate, or any person involved in the administration of the affairs of a party knows the identity of the donor of an anonymous party donation exceeding $1,000, the candidate, list candidate, or person must disclose the identity of the donor to the party secretary.
+2 If a candidate, list candidate, or any person involved in the administration of the affairs of a party knows the identity of the donor of an anonymous party donation exceeding $1,500, the candidate, list candidate, or person must disclose the identity of the donor to the party secretary.
 
 207H Offence relating to contravention of section 207G
 A person who fails to comply with section 207G with the intention of concealing the identity of the donor commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
 
-207I Anonymous donation may not exceed $1,000
+207I Anonymous donation may not exceed $1,500
 
-1 If an anonymous candidate donation exceeding $1,000 is received by a candidate, the candidate must, within 20 working days of receipt of the donation, pay to the Electoral Commission the amount of the donation, or its value, less $1,000.
+1 If an anonymous candidate donation exceeding $1,500 is received by a candidate, the candidate must, within 20 working days of receipt of the donation, pay to the Electoral Commission the amount of the donation, or its value, less $1,500.
 
-2 If an anonymous party donation exceeding $1,000 is received by a party secretary, the party secretary must, within 20 working days of receipt of the donation, pay to the Electoral Commission the amount of the donation, or its value, less $1,000.
+2 If an anonymous party donation exceeding $1,500 is received by a party secretary, the party secretary must, within 20 working days of receipt of the donation, pay to the Electoral Commission the amount of the donation, or its value, less $1,500.
 
 3 All amounts received by the Electoral Commission under this section must be paid into a Crown Bank Account.
 
@@ -5576,7 +6405,7 @@ b an illegal practice in any other case.
 
 2 A candidate or party secretary who contravenes section 207I is guilty of an illegal practice.
 
-207K Overseas donation may not exceed $1,000
+207K Overseas donation or contribution may not exceed $1,500
 
 1 For the purposes of this section, *overseas person* means
 
@@ -5590,13 +6419,19 @@ b a body corporate incorporated outside New Zealand; or
 
 c an unincorporated body that has its head office or principal place of business outside New Zealand.
 
-2 If a donation exceeding $1,000 is received from an overseas person by a candidate or party secretary, the candidate or party secretary must, within 20 working days of receipt of the donation,
+2 If a candidate receives from an overseas person a donation that either on its own or when aggregated with all other donations made by or on behalf of the same overseas person for use in the same campaign exceeds $1,500, the candidate must, within 20 working days of receipt of the donation,
 
-a return to the overseas person the amount of the donation, or its value, less $1,000; or
+a return to the overseas person the total amount donated by the overseas person, or its value, less $1,500; or
 
-b if this is not possible, pay the amount of the donation, or its value, less $1,000 to the Electoral Commission.
+b if this is not possible, pay the total amount donated by the overseas person, or its value, less $1,500 to the Electoral Commission.
 
-3 If a candidate or party secretary receives, from a donor who is not an overseas person (as defined in subsection (1)), a donation funded from contributions that includes any contribution exceeding $1,000 from an overseas person, the candidate or party secretary must, within 20 working days after notification of that fact under section 207C,
+2A If a party secretary receives from an overseas person a donation that either on its own or when aggregated with all other donations made by or on behalf of the same overseas person during the same year ending 31December exceeds $1,500, the party secretary must, within 20 working days of receipt of the donation,
+
+a return to the overseas person the total amount donated by the overseas person, or its value, less $1,500; or
+
+b if this is not possible, pay the total amount donated by the overseas person, or its value, less $1,500 to the Electoral Commission.
+
+3 If a candidate or party secretary receives, from a donor who is not an overseas person (as defined in subsection (1)), a donation funded from contributions that includes any contribution exceeding $1,500 from an overseas person, the candidate or party secretary must, within 20 working days after notification of that fact under section 207C,
 
 a give back to the donor the amount of the donation, or its value; or
 
@@ -5614,6 +6449,12 @@ b an illegal practice in any other case.
 
 2 A candidate or party secretary who contravenes section 207K(2) or (3) is guilty of an illegal practice.
 
+207LA Offence relating to splitting party donation or contribution to party donation
+
+1 A person is guilty of a corrupt practice who directs or procures, or is actively involved in directing or procuring, 2 or more bodies corporate to split between the bodies corporate a party donation in order to conceal the total amount of the donation and avoid the donation's inclusion by the party secretary in the return of party donations under section 210(1)(a).
+
+2 A person is guilty of a corrupt practice who directs or procures, or is actively involved in directing or procuring, 2 or more bodies corporate to split between the bodies corporate a contribution to a party donation in order to conceal the total amount of the contribution and avoid the contribution's inclusion by the party secretary in the return of party donations under section 210(1)(b).
+
 207M Records of candidate donations
 
 1 A candidate must keep proper records of all candidate donations received by him or her.
@@ -5627,7 +6468,10 @@ b an illegal practice in any other case.
 2 A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
 
 207O Duty of Electoral Commission in relation to donations
-If the Electoral Commission believes that any person has committed an offence against this subpart or against subparts 4 to 6 of this Part, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
+
+1 If the Electoral Commission believes that any person has committed an offence against this subpart or subparts 4 to 6 of this Part, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
+
+2 Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
 
 207P Duty of Electoral Commission in relation to donations
 
@@ -5642,13 +6486,13 @@ In this subpart, unless the context otherwise requires,
 
 208A Method of making donation protected from disclosure
 
-1 This section applies to any person who intends to make a donation in excess of $1,000 to a party while preventing the disclosure of the person's identity to
+1 This section applies to any person who intends to make a donation in excess of $1,500 to a party while preventing the disclosure of the person's identity to
 
 a the party concerned; and
 
 b the public generally.
 
-2 A person to whom this section applies may send a donation in excess of $1,000 by way of a cheque, cash, or a bank draft to the Electoral Commission.
+2 A person to whom this section applies may send a donation in excess of $1,500 by way of a cheque, cash, or a bank draft to the Electoral Commission.
 
 3 A donation under subsection (2) must be accompanied by a statement identifying
 
@@ -5656,7 +6500,7 @@ a the name of the party that is to receive the donation; and
 
 b the full name and address of the donor; and
 
-c if the donation made by the donor includes or comprises contributions from others, the name and address of every person who has contributed in excess of $1,000.
+c if the donation made by the donor includes or comprises contributions from others, the name and address of every person who has contributed in excess of $1,500.
 
 4 The Electoral Commission may request the donor to provide any further information the Commission considers necessary to confirm the identity of the donor or other details provided by the donor, and the donor must take all reasonable steps to comply with such a request as soon as is practicable.
 
@@ -5769,13 +6613,15 @@ b quarterly, by publication on the Commission's Internet site and by any other m
 
 1 A candidate must, at the same time as filing a return of election expenses under section 205K, file with the Electoral Commission a return setting out
 
-a the details specified in subsection (2) in respect of every candidate donation (other than a donation of the kind referred to in paragraphs (c) and (d)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor for use in the same campaign, exceeds $1,000 in sum or value; and
+a the details specified in subsection (2) in respect of every candidate donation (other than a donation of the kind referred to in paragraphs (c) and (d)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor for use in the same campaign, exceeds $1,500 in sum or value; and
 
-b whether section 207C applies to any donation, and if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution referred to in section 207C notified to him or her that, either on its own or when aggregated with other contributions made by or on behalf of the same person for use in the same campaign, exceeds $1,000 in sum or value; and
+b whether section 207C applies to any donation, and if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution referred to in section 207C notified to him or her that, either on its own or when aggregated with other contributions made by or on behalf of the same person for use in the same campaign, exceeds $1,500 in sum or value; and
 
-c the details specified in subsection (4) in respect of every anonymous candidate donation received by him or her exceeding $1,000; and
+c the details specified in subsection (4) in respect of every anonymous candidate donation received by him or her exceeding $1,500; and
 
-d the details specified in subsection (5) in respect of every candidate donation, or contribution to a candidate donation, received by him or her from an overseas person exceeding $1,000.
+d the details specified in subsection (5) in respect of every candidate donation received by him or her from an overseas person that, either on its own or when aggregated with all other donations made by or on behalf of the same overseas person for use in the same campaign, exceeds $1,500; and
+
+e the details specified in subsection (5A) in respect of every contribution to a candidate donation received by him or her from an overseas person that exceeds $1,500.
 
 2 The details referred to in subsection (1)(a) are
 
@@ -5783,9 +6629,9 @@ a the name of the donor; and
 
 b the address of the donor; and
 
-c the amount of the donation; and
+c the amount of the donation or, in the case of aggregated donations, the total amount of the donations; and
 
-d the date the donation was received.
+d the date the donation was received or, in the case of aggregated donations, the date that each donation was received.
 
 3 The details referred to in subsection (1)(b) are
 
@@ -5807,11 +6653,27 @@ c the amount paid to the Electoral Commission under section 207I(1), and the dat
 
 5 The details referred to in subsection (1)(d) are
 
-a the date the donation or contribution was received; and
+a the name of the overseas person; and
 
-b the amount of the donation or contribution; and
+b the address of the overseas person; and
 
-c the amount paid to the overseas person or to the Electoral Commission under section 207K(2) or (3), and the date that payment was made.
+c the amount of the donation or, in the case of aggregated donations, the total amount of the donations; and
+
+d the date the donation was received or, in the case of aggregated donations, the date each donation was received; and
+
+e the amount returned to an overseas person or paid to the Electoral Commission under section 207K(2), and the date of that return or payment, as the case may be.
+
+5A The details referred to in subsection (1)(e) are
+
+a the name of the overseas person; and
+
+b the address of the overseas person; and
+
+c the amount of the contribution; and
+
+d the date on which the related donation funded from the contribution was made; and
+
+e the amount returned to the donor or paid to the Electoral Commission under section 207K(3), and the date of that return or payment, as the case may be.
 
 6 Every return filed under subsection (1) must be in the form required by the Electoral Commission.
 
@@ -5860,15 +6722,19 @@ ii he or she took all reasonable steps in the circumstances to ensure that the i
 
 1 A party secretary must file with the Electoral Commission, by30April in each year, a return of the party donations setting out, for the year ending with the immediately preceding 31December,
 
-a the details specified in subsection (2) for every party donation (other than a donation of the kind referred to in paragraphs (c) to (e)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor during the year, exceeds $10,000 in sum or value; and
+a the details specified in subsection (2) for every party donation (other than a donation of the kind referred to in paragraphs (c) to (e)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor during the year, exceeds $15,000 in sum or value; and
 
-b whether section 207C applies to any donation, and if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution referred to in section 207C notified to him or her that, either on its own or when aggregated with other contributions made by or on behalf of the same person during the year, exceeds $10,000 in sum or value; and
+b whether section 207C applies to any donation, and if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution referred to in section 207C notified to him or her that, either on its own or when aggregated with other contributions made by or on behalf of the same person during the year, exceeds $15,000 in sum or value; and
 
-c the details specified in subsection (4) in respect of every anonymous party donation received by him or her exceeding $1,000; and
+c the details specified in subsection (4) in respect of every anonymous party donation received by him or her exceeding $1,500; and
 
-d the details specified in subsection (5) in respect of every party donation, or contribution to a party donation, received by him or her from an overseas person exceeding $1,000; and
+d the details specified in subsection (5) in respect of every party donation received by him or her from an overseas person that, either on its own or when aggregated with all other donations made by or on behalf of the same overseas person during the year, exceeds $1,500; and
 
-e the details specified in subsection (6) in respect of every payment of donations received from the Electoral Commission under section 208D.
+da the details specified in subsection (5A) in respect of every contribution to a party donation received by him or her from an overseas person that exceeds $1,500; and
+
+e the details specified in subsection (6) in respect of every payment of donations received from the Electoral Commission under section 208D; and
+
+f the details specified in subsection (6A) in respect of all other party donations received by him or her.
 
 2 The details referred to in subsection (1)(a) are
 
@@ -5876,9 +6742,9 @@ a the name of the donor; and
 
 b the address of the donor; and
 
-c the amount of the donation; and
+c the amount of the donation or, in the case of aggregated donations, the total amount of the donations; and
 
-d the date the donation was received.
+d the date the donation was received or, in the case of aggregated donations, the date that each donation was received.
 
 3 The details referred to in subsection (1)(b) are
 
@@ -5900,11 +6766,27 @@ c the amount paid to the Electoral Commission under section 207I(2), and the dat
 
 5 The details referred to in subsection (1)(d) are
 
-a the date the donation or contribution was received; and
+a the name of the overseas person; and
 
-b the amount of the donation or contribution; and
+b the address of the overseas person; and
 
-c the amount paid to the overseas person or to the Electoral Commission under section 207K(2) or (3), and the date that payment was made.
+c the amount of the donation or, in the case of aggregated donations, the total amount of the donations; and
+
+d the date the donation was received or, in the case of aggregated donations, the date each donation was received; and
+
+e the amount returned to an overseas person or paid to the Electoral Commission under section 207K(2A), and the date of that return or payment, as the case may be.
+
+5A The details referred to in subsection (1)(da) are
+
+a the name of the overseas person; and
+
+b the address of the overseas person; and
+
+c the amount of the contribution; and
+
+d the date on which the related donation funded from the contribution was made; and
+
+e the amount returned to the donor or paid to the Electoral Commission under section 207K(3), and the date of that return or payment, as the case may be.
 
 6 The details referred to in subsection (1)(e) are
 
@@ -5913,6 +6795,16 @@ a the date the payment was received; and
 b the amount of the payment; and
 
 c the amount of interest included in the payment.
+
+6A The details referred to in subsection (1)(f) are
+
+a the number of anonymous party donations received of an amount not exceeding $1,500, and the total amount of all such donations:
+
+b the number of overseas party donations received of an amount not exceeding $1,500, and the total amount of all such donations:
+
+c the number of all party donations received of an amount exceeding $1,500 but not exceeding $5,000, and the total amount of all such donations:
+
+d the number of all party donations received of an amount exceeding $5,000 but not exceeding $15,000, and the total amount of all such donations.
 
 7 Every return filed under subsection (1) must be
 
@@ -5947,15 +6839,15 @@ b may require the party secretary to provide any information and explanations th
 210B Nil return
 If a party secretary considers that there is no relevant information to disclose under section 210, the party secretary must file a nil return under that section.
 
-210C Return of party donation received from same donor exceeding $20,000
+210C Return of party donation received from same donor exceeding $30,000
 
-1 A party secretary must file with the Electoral Commission a return in respect of every party donation that exceeds $20,000.
+1 A party secretary must file with the Electoral Commission a return in respect of every party donation that exceeds $30,000.
 
 2 A party secretary must file with the Electoral Commission a return in respect of every party donation that
 
 a the party secretary knows is from a donor who in the 12 months immediately preceding the date of receipt of the donation (the *last 12 months*) has made 1 or more previous donations; and
 
-b when aggregated with all previous donations received from the donor in the last 12 months exceeds $20,000.
+b when aggregated with all previous donations received from the donor in the last 12 months exceeds $30,000.
 
 3 If a return is made under subsection (2), the donations disclosed in that return must be disregarded when applying this section in relation to a party donation that is made after that return is filed.
 
@@ -5987,7 +6879,11 @@ f the dates all previous donations were received.
 
 210D Offences relating to return of party donations
 
-1 A party secretary who fails, without reasonable excuse, to comply with section 210 or 210C commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+1 A party secretary commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who fails, without reasonable excuse, to comply with
+
+a section 210:
+
+b section 210C.
 
 2 A party secretary who files a return under section 210 or 210C that is false in any material particular is guilty of
 
@@ -6166,33 +7062,9 @@ Where any person knowingly provides money for any purpose which is contrary to t
 
 221 Advertisements for candidates and political parties
 
-1 Subject to subsections (2) and (3), no person may publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast by any radio or television station, any advertisement that
-
-a is used or appears to be used to promote or procure the election of a constituency candidate; or
-
-b encourages or persuades or appears to encourage or persuade voters to vote for a party registered under Part 4.
-
-2 A person may publish or cause or permit to be published an advertisement of the kind described in subsection (1)(a) if
-
-a the publication of that advertisement is authorised in writing by the candidate or the candidate's agent or, in the case of an advertisement relating to more than 1 candidate, the candidates or the party to which they belong; and
-
-b the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of his or her place of residence or business.
-
-3 A person may publish or cause or permit to be published an advertisement of the kind described in subsection (1)(b) if
-
-a the publication of that advertisement is authorised in writing by the party secretary or his or her delegate; and
-
-b the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of his or her place of residence or business.
-
-4 Subject to subsections (2) and (3), a person who wilfully contravenes subsection (1) is guilty of an illegal practice.
-
-5 A candidate or the party secretary or his or her delegate will not be liable for an illegal practice under this section committed by an agent without the consent or connivance of the candidate or of the party secretary or his or her delegate, as the case may be.
-
-6 Nothing in this section restricts the publication of any news or comments relating to an election in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of section 2(1) of the Broadcasting Act 1989.
-
 221A Electoral advertisements
 
-1 Subject to subsection (2), no person shall publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement relating to an election  unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of that persons place of residence or business.
+1 Subject to subsection (2), no person shall publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement relating to an election (not being an election advertisement as defined in section 3A) unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of that persons place of residence or business.
 
 2 Subsection (1) shall not apply to any advertisement published or broadcast, or caused or permitted to be published or broadcast, by the Chief Registrar of Electors, the Electoral Commission, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election and which either contains a statement indicating that the advertisement has been authorised by that officer or agency, or contains a symbol indicating that the advertisement has been authorised by that officer or agency.
 
@@ -6241,15 +7113,17 @@ a a term of imprisonment not exceeding 2 years:
 
 b a fine not exceeding
 
-i $100,000 in the case of a person who is a constituency candidate or a party secretary and who is convicted of any corrupt practice under Part 6A; or
+i $100,000 in the case of a person who is a constituency candidate, party secretary, or registered promoter and who is convicted of any corrupt practice under Part 6A; or
 
 ii $40,000 in any other case.
 
 2 Every person who is guilty of any illegal practice is liable on conviction on indictment to a fine not exceeding
 
-a $40,000 in the case of a person who is a constituency candidate or a party secretary and who is convicted of any illegal practice under Part 6A; or
+a $40,000 in the case of a person who is a constituency candidate, party secretary, or registered promoter and who is convicted of any illegal practice under Part 6AA or 6A; or
 
-b $10,000 in any other case.
+b $40,000 in the case of a person who is an unregistered promoter and who is convicted of any illegal practice under section 204B or 204D; or
+
+c $10,000 in any other case.
 
 3 Subsection (1) does not apply in relation to a corrupt practice under
 
@@ -6270,7 +7144,13 @@ b section 206N(1):
 
 c section 209B(1):
 
-d section 210D(1).
+d section 210D(1)(a).
+
+1A A prosecution under section 210D(1)(b) or 206ZE(1) must be commenced
+
+a within 6 months of the date on which the prosecutor is satisfied that there is sufficient evidence to warrant the commencement of the proceedings; but
+
+b not later than 3 years after the offence was committed.
 
 2 A prosecution against any person for a corrupt practice or an illegal practice must be commenced
 
@@ -6725,6 +7605,44 @@ Registrars of Electors shall be exempt from the payment of any court fees in res
 
 266 Validation of irregularities
 Where anything is omitted to be done or cannot be done at the time required by or under this Act, or is done before or after that time, or is otherwise irregularly done in matter of form, or sufficient provision is not made by or under this Act, the Governor-General may, by Order in Council gazetted, at any time before or after the time within which the thing is required to be done, extend that time, or validate anything so done before or after the time required or so irregularly done in matter of form, or make other provision for the case as he or she thinks fit:provided that this section shall not apply with respect to the presentation of an election petition or to the giving of security for costs in relation to an election petition.
+
+266A Expenditure limits to be adjusted each year by Order in Council
+
+1 The Governor-General must, by Order in Council made on the recommendation of the Minister, in the manner provided in subsections (2) to (6), adjust the amounts specified in the following provisions:
+
+a section 204B(1)(d) (which relates to the maximum amount of advertising expenses that may be incurred by an unregistered promoter):
+
+b section 205C (which relates to the maximum amount of a candidate's election expenses):
+
+c section 206C (which relates to the maximum amount of a party's election expenses):
+
+d section 206V (which relates to the maximum amount of a registered promoter's election expenses).
+
+2 The first Order in Council must
+
+a come into force on 1 July 2011; and
+
+b adjust the amount referred to in section 206C(1)(a) to reflect the movement between the CPI for the quarter ending 30September 2010 and the CPI for the quarter ending 31March 2011.
+
+3 Every subsequent Order in Council must
+
+a come into force on every following 1July; and
+
+b adjust the amounts referred to in subsection (1) to reflect the movement between the CPI for the quarter ending 31March of the previous year and the CPI for the quarter ending 31March of the current year.
+
+4 If after adjustment in accordance with subsection (3)(b) any of the amounts specified in the following sections is not a whole number of hundred dollars, the adjusted amount must be rounded up to the next whole hundred dollars:
+
+a section 204B(1)(d):
+
+b section 205C(1)(a) and (b):
+
+c section 206C(1)(b) and (2).
+
+5 If after adjustment in accordance with subsection (2)(b) or (3)(b) the amount specified in section 206C(1)(a) or 206V is not a whole number of thousand dollars, the adjusted amount must be rounded up to the next whole thousand dollars.
+
+6 If an adjusted amount has been rounded up in accordance with subsection (4) or (5), the adjustment to that amount made the following year must be based on the adjusted amount as it was before it was rounded up.
+
+7 In this section *CPI* means the Consumers Price Index All Groups published by Statistics New Zealand.
 
 267 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
