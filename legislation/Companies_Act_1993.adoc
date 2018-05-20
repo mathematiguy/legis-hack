@@ -14,10 +14,6 @@
 
 *accounting period* , in relation to a company, means a year ending on a balance date of the company and, if as a result of the date of the registration of the company or a change of the balance date of the company, the period ending on that date is longer or shorter than a year, that longer or shorter period is an accounting period
 
-*applicable auditing and assurance standard*  has the same meaning as in section 5 of the Financial Reporting Act 2013
-
-*applicable financial reporting standard*  has the same meaning as in section 5 of the Financial Reporting Act 2013
-
 *address for service*  in relation to a company, means the company's address for service adopted in accordance with section 192
 
 *annual meeting*  means a meeting required to be held by section 120
@@ -27,6 +23,10 @@
 a means a report prepared under section 208; and
 
 b does not include a concise annual report
+
+*applicable auditing and assurance standard*  has the same meaning as in section 5 of the Financial Reporting Act 2013
+
+*applicable financial reporting standard*  has the same meaning as in section 5 of the Financial Reporting Act 2013
 
 *balance date* , in relation to a company or an overseas company, has the same meaning as in section 41 of the Financial Reporting Act 2013
 
@@ -184,9 +184,9 @@ b the last day of that period falls on the day of the anniversary of the provinc
 
 a the other company is its holding company or subsidiary; or
 
-b more than half of the issued shares of the company, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, is held by the other company and companies related to that other company (whether directly or indirectly, but other than in a fiduciary capacity); or
+b more than half of the issued shares of the company, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, are held by the other company and companies related to that other company (whether directly or indirectly, but other than in a fiduciary capacity); or
 
-c more than half of the issued shares, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, of each of them is held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
+c more than half of the issued shares, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, of each of them are held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
 
 d the businesses of the companies have been so carried on that the separate business of each company, or a substantial part of it, is not readily identifiable; or
 
@@ -295,7 +295,7 @@ b the company is a subsidiary of a company that is that other company's subsidia
 6 Extended meaning of subsidiary
 
 7 Control defined
-For the purposes of section 5, without limiting the circumstances in which the composition of a company's board is to be taken to be controlled by another company, the composition of the board is to be taken to be so *controlled*  if the other company, by exercising a power exercisable (whether with or without the consent or concurrence of any other person) by it, can appoint or remove all the directors of the company, or such number of directors as together hold a majority of the voting rights at meetings of the board of the company, and for this purpose, the other company is to be taken as having power to make such an appointment if
+For the purposes of section 5, without limiting the circumstances in which the composition of a company's board is to be taken to be controlled by another company, the composition of the board is to be taken to be so controlled if the other company, by exercising a power exercisable (whether with or without the consent or concurrence of any other person) by it, can appoint or remove all the directors of the company, or such number of directors as together hold a majority of the voting rights at meetings of the board of the company, and for this purpose, the other company is to be taken as having power to make such an appointment if
 
 a a person cannot be appointed as a director of the company without the exercise by the other company of such a power in the person's favour; or
 
@@ -1294,7 +1294,7 @@ a that the redemption of the shares is in the best interests of the company; and
 
 b the consideration for the redemption of the shares is fair and reasonable to the company.
 
-3 The resolution must set out in full the grounds for the director's conclusions.
+3 The resolution must set out in full the grounds for the directors conclusions.
 
 4 The directors who vote in favour of a resolution required by subsection (2) must sign a certificate as to the matters set out in that subsection and may combine it with the certificate required by section 70 and any certificate required by section 71.
 
@@ -3294,7 +3294,7 @@ b the charge set by the company is unreasonable,as the case may be, make an orde
 
 a the company does not have sufficient reason to refuse to supply the information; or
 
-b the company has sufficient reason to refuse to supply the information but that other reasons exist that outweigh the refusal,the court may make an order requiring the company to supply the information.
+b the company has sufficient reason to refuse to supply the information but that other reasons exist that outweigh the refusal,make an order requiring the company to supply the information.
 
 8 Where the court makes an order under subsection (7), it may specify the use that may be made of the information and the persons to whom it may be disclosed.
 
@@ -4360,7 +4360,7 @@ b a subsidiary may, with the written approval of the Registrar, make an annual r
 
 7 For the purposes of this section, *prescribed*  means prescribed by regulations made under this Act or by the Registrar by notice in the Gazette and different forms of annual return may be prescribed in respect of different classes of companies.
 
-8 The Registrar may, on the application of any person, approve the use, by such company or companies as the Registrar may specify, of a form of annual return different from that prescribed, and may at any time, revoke, in whole or in part, any such approval.
+8 The Registrar may, on the application of any person, approve the use, by such company or companies as the Registrar may specify, of a form of annual return different from that prescribed, and may at any time revoke, in whole or in part, any such approval.
 
 9 An annual return in a form approved under subsection (8) must contain all the prescribed information.
 
@@ -6853,7 +6853,7 @@ a a liquidator is appointed under section 241(2)(a), the shareholders must recor
 
 b a liquidator is appointed under section 241(2)(b), the board of the company must record in the instrument appointing the liquidator the date on which, and the time at which, the liquidator was appointed; or
 
-c a liquidator is appointed under section 241(2)(c), the court must record in the order appointing the liquidator the date on which, and the time at which, the order was made.
+c a liquidator is appointed under section 241(2)(c), the court must record in the order appointing the liquidator the date on which, and the time at which, the order was made; or
 
 d a liquidator is appointed under section 241(2)(d), the creditors must record in the resolution appointing the liquidator the date on which, and the time at which, the resolution was passed.
 
@@ -7099,7 +7099,7 @@ d any other matters that the court thinks fit.
 
 a the passing of a special resolution under section 241(2)(a) or a resolution under section 241(2)(d) appointing a liquidator of the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
 
-b the passing of a resolution by the board of a company under section 241(2)(b) appointing a liquidator or the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
+b the passing of a resolution by the board of a company under section 241(2)(b) appointing a liquidator of the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
 
 c the making of an application to the court under section 241(2)(c) to appoint a liquidator of the company.
 
@@ -7382,7 +7382,7 @@ b to provide the liquidator with such information about the business, accounts, 
 
 c to be examined on oath or affirmation by the liquidator or by a barrister or solicitor acting on behalf of the liquidator on any matter relating to the business, accounts, or affairs of the company:
 
-d assist in the liquidation to the best of the person's ability.
+d to assist in the liquidation to the best of the person's ability.
 
 3A Without limiting subsection (3)(a), a person may be required to attend on the liquidator under that subsection at a meeting of creditors of the company.
 
