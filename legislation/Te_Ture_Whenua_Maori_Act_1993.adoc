@@ -549,7 +549,7 @@ b by any of the provisions of sections 39, 43 to 48, and 50 to 52 of that Act.
 2 However, a power conferred on the court by subsection (1) may be exercised only if the occasion for the exercise of that power arises in the course of proceedings (other than an application made for the purposes of section 16(2), 39, or any of sections 43 to 48 of the Contract and Commercial Law Act 2017) properly before the court under section 18(1)(d) of this Act.
 
 24B Power to award interest on debt or damages
-The court, in its proceedings, has the same powers to award interest on any debt or damages as the District Court has under section 62B of the District Courts Act 1947 in its own proceedings.
+The court, in its proceedings, has the same powers to award interest on any debt or damages as the District Court has under Part 1 of the Interest on Money Claims Act 2016 in its own proceedings.
 
 25 Power of court to make order to restore effect of lost instruments of alienation
 
@@ -1280,7 +1280,7 @@ b in other cases, the Chief Judge is satisfied, on receipt of a written applicat
 
 5 A review under subsection (1) must be completed within 3 months of receipt of the request or application for review.
 
-6 This section applies to advice given and determinations made under section 30 before Te Ture Whenua Maori Amendment Act2002 (the Maori Land Amendment Act2002) was passed.
+6 This section applies to advice given and determinations made under section 30 before Te Ture Whenua Maori Amendment Act 2002 (the Maori Land Amendment Act2002) was passed.
 
 30J Definition of persons affected
 In sections 30A to 30G, *persons affected* by, or in relation to, a request for advice or an application for an order under section 30 are the members of the class or group of Maori to which the request or application relates.
