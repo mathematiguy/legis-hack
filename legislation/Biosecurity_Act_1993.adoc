@@ -5982,9 +5982,9 @@ b shall in all other respects comply with the conditions.
 
 110 Warrant to inspect dwellinghouse, marae, etc
 
-1 A District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a constable) may, on the written application of an inspector or authorised person made on oath, issue a warrant in the prescribed form authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
+1 An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided by subpart 3 of Part 4 of that Act by an inspector or authorised person, issue a warrant authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
 
-2 Such a warrant may be issued only if the Judge, Justice, Magistrate, or Registrar is satisfied that there is reasonable ground for believing that
+2 Such a warrant may be issued only if the issuing officer is satisfied that there is reasonable ground for believing that
 
 a there is, on or in the place (being a dwellinghouse, marae, or building associated with a marae) specified in the application, any pest, pest agent, unwanted organism, unauthorised goods, or risk goods; or
 
@@ -5996,9 +5996,11 @@ a authorises the inspector or authorised person to enter and inspect the place c
 
 b may be unconditional or subject to conditions.
 
+4 The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
+
 111 Entry in respect of offences
 
-1 Subject to subsection (2), a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a constable), who, on the written application (made on oath) of an inspector or authorised person, is satisfied that there is reasonable ground for believing that there is on or in any place specified in the application any thing
+1 Subject to subsection (2), an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application (made in the manner provided by subpart 3 of Part 4 of that Act) by an inspector or authorised person, is satisfied that there is reasonable ground for believing that there is on or in any place specified in the application any thing
 
 a in respect of which an offence against this Act punishable by imprisonment has been or may have been committed; or
 
@@ -6034,6 +6036,8 @@ b shall in all other respects comply with the conditions.
 
 5 Subject to subsection (4), a person exercising a warrant under subsection (1) may use such force in entering the place specified in it (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
 
+6 The provisions of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply.
+
 112 Duties on exercising power of entry
 
 1 An inspector, authorised person, or constable, exercising a power of entry conferred by sections 30A, 109, 111, or 126
@@ -6042,7 +6046,7 @@ a must have with him or her
 
 i evidence of his or her identity and appointment as an inspector, authorised person, or constable; and
 
-ii in the case of entry under section 109 to a place that is a dwellinghouse, a marae, or a building associated with a marae, the warrant under section110 or in the case of entry under section 111, the warrant authorising the entry; and
+ii in the case of entry under section 109 to a place that is a dwellinghouse, a marae, or a building associated with a marae, the warrant or copy of the warrant under section110 or in the case of entry under section 111, the warrant or copy of the warrant authorising the entry; and
 
 b must produce them to any person appearing to be in charge of the place entered
 
@@ -6209,7 +6213,9 @@ a may search for, and if it is found seize, any thing that is, or is a thing of 
 
 b while at the place specified in the warrant, may seize any other thing that the person believes on reasonable grounds to be a thing in respect of which the person could have obtained a warrant under that section.
 
-2 Section 199 of the Summary Proceedings Act 1957 shall, with any necessary modifications, apply to any thing seized under subsection (1).
+2 Subpart 6 of Part 4 of the Search and Surveillance Act 2012 shall, with any necessary modifications, apply to any thing seized under subsection (1).
+
+3 The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 119 Power to seize abandoned goods
 
