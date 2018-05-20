@@ -28,6 +28,14 @@ b does not include a concise annual report
 
 *applicable financial reporting standard*  has the same meaning as in section 5 of the Financial Reporting Act 2013
 
+*association* , in Parts 15 and 16 and in Schedule 11, includes
+
+a a body corporate (other than a company, an overseas company, or a body corporate that may be put into liquidation under or in accordance with the Act under which it is incorporated or registered); and
+
+b a partnership; and
+
+c an unincorporated body of persons
+
 *balance date* , in relation to a company or an overseas company, has the same meaning as in section 41 of the Financial Reporting Act 2013
 
 *board*  and *board of directors*  have the meanings set out in section 127
@@ -3506,17 +3514,17 @@ c validating the contract whether in whole or in part.
 185 Breach of pre-incorporation contract
 In proceedings against a company for breach of a pre-incorporation contract which has been ratified by the company, the court may, on the application of the company, any other party to the proceedings, or of its own motion, make such order for the payment of damages or other relief as the court considers just and equitable, in addition to or in substitution for any order which may be made against the company, against a person by whom the contract was made.
 
-185A Jurisdiction of District Courts
+185A Jurisdiction of District Court
 
-1 A District Court shall have jurisdiction to exercise any power conferred by sections 182 to 185 in any case where
+1 The District Court has jurisdiction to exercise any power conferred by sections 182 to 185 in any case where
 
 a the occasion for the exercise of the power arises in the course of civil proceedings properly before the court; or
 
-b the amount of the claim or the value of the property or relief claimed or in issue is not more than $200,000; or
+b the amount of the claim or the value of the property or relief claimed or in issue is not more than $350,000; or
 
-c the parties agree, in accordance with section 37 of the District Courts Act 1947, that a District Court shall have jurisdiction to determine the proceedings.
+c the parties agree, in accordance with section 81 of the District Court Act 2016, that the District Court has jurisdiction to determine the proceedings.
 
-2 For the purposes of section 43 of the District Courts Act 1947, an application made to a District Court under any of sections 182 to 185 shall be deemed to be a proceeding.
+2 For the purposes of sections 86 to 88 of the District Court Act 2016, an application made to the District Court under any of sections 182 to 185 is deemed to be a proceeding.
 
 
 
@@ -4937,13 +4945,17 @@ a a company within the meaning of section 2:
 
 b an overseas company that is registered on the overseas register:
 
-c an association that may be put into liquidation under section 17A of the Judicature Act 1908
+c an association:
+
+d any other body corporate to which this Part applies under any enactment.
 
 *creditor*  includes
 
 a a person who, in a liquidation, would be entitled to claim in accordance with section 303 that a debt is owing to that person by the company; and
 
-b a secured creditor.
+b a secured creditor
+
+*shareholder*  includes, in relation to an association, members of the association or persons that the court determines as being justly entitled to surplus assets of the association after the satisfaction of the claims of all of the creditors.
 
 236 Approval of arrangements, amalgamations, and compromises
 
@@ -6951,10 +6963,23 @@ b to the extent of the amount of any debt owing to the secured creditor in respe
 
 *statutory demand*  has the meaning set out in section 289.
 
+1A In this Part, *company*  means
+
+a a company within the meaning of section 2:
+
+b an overseas company to which this Part applies (see section 342):
+
+c an association (see section 240B):
+
+d any other body corporate to which this Part applies under any other enactment.
+
 2 For the purposes of this Act, the power to appoint a liquidator of a company includes the power to appoint 2 or more persons as liquidators of a company.
 
 240A Liquidation of licensed insurers
 If a licensed insurer may be put into liquidation under or in accordance with this Part, this Part applies in respect of the insurer subject to subpart 3 of Part 4 of the Insurance (Prudential Supervision) Act 2010.
+
+240B Liquidation of associations
+An association may be put into liquidation under this Part, and this Part applies to an association, subject to the modifications and exclusions set out in Schedule 11.
 
 241 Commencement of liquidation
 
