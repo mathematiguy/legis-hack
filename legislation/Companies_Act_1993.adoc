@@ -8792,9 +8792,9 @@ a The date specified in the notice given in accordance with subsection (1)(b) of
 
 b Receipt of a notice given by a liquidator in accordance with the provisions of Schedule 9 to this Act.
 
-342 Liquidation of assets in New Zealand
+342 Liquidation of overseas company
 
-1 An application may be made to the Court for the liquidation of the assets in New Zealand of an overseas company in accordance with Part 16 of this Act, subject to the modifications and exclusions set out in Schedule 9 to this Act.
+1 An application may be made to the Court for the liquidation of an overseas company in accordance with Part 16 of this Act, subject to the modifications and exclusions set out in Schedule 9 to this Act.
 
 2 An application may be made under subsection (1) of this section whether or not the overseas company
 
