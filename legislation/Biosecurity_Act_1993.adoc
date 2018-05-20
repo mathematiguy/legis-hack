@@ -825,7 +825,7 @@ a Open any bag, box, parcel, container, or other thing containing the goods:
 
 b Inspect the goods.
 
-2 Where any goods in a transitional facility or biosecurity control area are, or contain, risk goods, section 116 applies to those goods as if the goods were unauthorised goods seized in accordance with that section.
+2 Where any goods in a transitional facility or biosecurity control area are, or contain, risk goods or unauthorised goods, section 116 applies to those goods as if the goods were unauthorised goods seized in accordance with that section.
 
 3 For the purposes of this section an inspector may, at any reasonable time or times, enter any transitional facility or biosecurity control area and the provisions of section 112 apply.
 
@@ -2877,7 +2877,7 @@ b Bring and use any thing,to assist in the exercise of the power.
 
 116 Power to seize and dispose of unauthorised goods
 
-1 Any inspector lawfully exercising a power under any of sections 19(2), 31, 34(5), 109, 111, 113, 114, or 120 may seize
+1 Any inspector lawfully exercising a power under any of sections 19(2), 30A, 31, 34(5), 109, 111, 113, 114, or 120 may seize
 
 a Any unauthorised goods:
 
