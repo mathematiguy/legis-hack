@@ -251,6 +251,8 @@ c if neither the Speaker of the House of Representatives nor the Deputy Speaker 
 
 a Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereigns birthday, and Waitangi Day; and
 
+ab if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+
 b a day in the period commencing with 25December in any year and ending with 15January in the following year
 
 *writ* means a writ for an election issued under this Act
