@@ -2351,11 +2351,7 @@ a specifying particulars of the discrepancy and the suspension of benefit, and a
 
 b stating that the individual has 5 working days from the receipt of the notice to show cause why the benefit ought not to have been suspended or why the adverse action should not be taken, or bothand the adverse action shall not be taken until the expiration of those 5 working days.
 
-1B Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately suspending payment to an individual of all or part of an interim instalment of a credit of tax under subparts MA to MF and MZ of the Income Tax Act 2007 when a discrepancy is identified in information supplied to the Commissioner under section 85G of the Tax Administration Act 1994 if, before or immediately after the decision to suspend, the Commissioner gives a written notice to the individual that
-
-a provides details of the discrepancy and the suspension of payment of the credit of tax and any other adverse action which the Commissioner proposes to take; and
-
-b states that the individual has 5 working days from the receipt of the notice to show cause why payment of the credit of tax ought not to have been suspended or why the adverse action should not be taken, or bothand the other adverse action must not be taken until expiration of those 5 working days.
+1B 
 
 1C Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately taking action to recover amounts relating to
 
@@ -2363,7 +2359,7 @@ a unpaid amounts owed to the Commissioner by an individual who is in serious def
 
 b financial support under the Child Support Act 1991 owed to the Commissioner by an individual who is identified in information supplied to the Commissioner under section 280K or 280L of the Customs and Excise Act 1996.
 
-2 Nothing in subsection (1) or subsection (1A) or subsection (1B) prevents an agency from taking adverse action against an individual if compliance with the requirements of that subsection would prejudice any investigation into the commission of an offence or the possible commission of an offence.
+2 Nothing in subsection (1) or subsection (1A) prevents an agency from taking adverse action against an individual if compliance with the requirements of that subsection would prejudice any investigation into the commission of an offence or the possible commission of an offence.
 
 2A Nothing in subsection (1) prevents any constable or any bailiff from immediately executing a warrant to arrest an individual in respect of the non-payment of the whole or any part of a fine if the discrepancy arises in respect of arrival and departure information supplied under section 280D of the Customs and Excise Act 1996 and if, before executing the warrant, the individual concerned is
 
@@ -2379,7 +2375,7 @@ A the fine has been paid:
 
 B an arrangement to pay the fine over time has been entered into.
 
-3 Every notice required to be given to any individual under subsection (1) or subsection (1A) or subsection (1B) may be given by delivering it to that individual, and may be delivered
+3 Every notice required to be given to any individual under subsection (1) or subsection (1A) may be given by delivering it to that individual, and may be delivered
 
 a personally; or
 
