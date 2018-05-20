@@ -1,0 +1,1025 @@
+
+
+1 Short Title and commencement
+
+1 This Act may be cited as the Receiverships Act 1993.
+
+2 This Act shall come into force on 1July 1994.
+
+2 Interpretation
+
+1 In this Act, unless the context otherwise requires,
+
+*account receivable* has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
+
+*company* has the same meaning as in section 2(1) of the Companies Act 1993; and includes an overseas company
+
+*court* means the High Court
+
+*creditor* includes a person to whom the grantor owes a debt or is under a liability, whether present or future, certain or contingent, and whether an ascertained debt or liability or a liability in damages
+
+*director*, in relation to
+
+a a company within the meaning of section 2(1) of the Companies Act 1993, includes
+
+i any person occupying the position of director of the company by whatever name called; and
+
+ii a person in accordance with whose directions or instructions a person referred to in subparagraph(i) may be required or is accustomed to act; and
+
+iii a person in accordance with whose directions or instructions the board of the company may be required or is accustomed to act:
+
+b an overseas company, includes an agent, officer, or employee responsible in New Zealand for the business of the overseas company:
+
+c any other body corporate, means a person having functions similar to those of a director of a company;but does not include a receiver
+
+*document* means a document in any form; and includes
+
+a any writing on material; and
+
+b information recorded or stored by means of a tape recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
+
+c a book, graph, or drawing; and
+
+d a photograph, film, negative, tape, or other device in which 1or more visual images are embodied so as to be capable (with or without the aid of equipment) of being reproduced
+
+*grantor* means the person in respect of whose property a receiver is, or may be, appointed
+
+*inventory* has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
+
+*liquidator* means a liquidator appointed under Part 16 of the Companies Act 1993; and *liquidation* has a corresponding meaning
+
+*local authority* means a local authority within the meaning of the Local Government Act 2002
+
+*mortgage* includes a charge on property for securing money or money's worth
+
+*mortgagee* includes a person from time to time deriving title under the original mortgagee; but does not include a receiver
+
+*new value* has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
+
+*Official Assignee* means, in relation to the estate of a bankrupt, any Official Assignee or Deputy Assignee appointed under the Insolvency Act 2006 and having charge of that estate
+
+*overseas company* means a company incorporated outside New Zealand
+
+*preferential claims* means the claims referred to in Schedule7 of the Companies Act 1993 (except clause 1(1) of that schedule)
+
+*proceeds* has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
+
+*property* includes
+
+a real and personal property:
+
+b an estate or interest in real or personal property:
+
+c a debt:
+
+d any thing in action:
+
+e any other right or interest
+
+*property in receivership* means property in respect of which a receiver is appointed
+
+*purchase money security interest* has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
+
+*receiver* means a receiver, or a manager, or a receiver and manager in respect of any property appointed
+
+a by or under any deed or agreement; or
+
+b by the court in the exercise of a power conferred on the court or in the exercise of its inherent jurisdictionwhether or not the person appointed is empowered to sell any of the property in receivership; but does not include
+
+c a mortgagee who, whether personally or through an agent, exercises a power to
+
+i enter into possession of mortgaged property in a manner referred to in section 137 of the Property Law Act 2007; or
+
+ii sell or otherwise alienate mortgaged property; or
+
+d an agent of any such mortgagee
+
+*Registrar*, in relation to
+
+a a company, has the same meaning as in section 2(1) of the Companies Act 1993:
+
+b a society registered under the Industrial and Provident Societies Act 1908, means the Registrar of Industrial and Provident Societies:
+
+c a society registered under the Incorporated Societies Act 1908, means the Registrar of Incorporated Societies:
+
+d a friendly society or a credit union registered under the Friendly Societies and Credit Unions Act 1982, means the Registrar of Friendly Societies and Credit Unions:
+
+e any other body corporate registered under any enactment, means any person discharging the powers, functions, and duties of a registrar under that enactment
+
+*security agreement* has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
+
+*security interest* has the same meaning as in section 17 of the Personal Property Securities Act 1999.
+
+2 In this Act, unless the context otherwise requires, a reference to a person by whom, or in whose interests, a receiver was appointed, as the case may be, includes a reference to a person to whom the rights and interests under any deed or agreement by or under which the receiver was appointed have been transferred or assigned.
+
+3 Public notice
+
+1 Where, pursuant to this Act, public notice must be given of any matter affecting a grantor, not being a grantor that is an overseas company, that notice must be given by publishing notice of the matter
+
+a in at least 1 issue of the Gazette; and
+
+b in at least 1 issue of a newspaper circulating in the area in New Zealand in which is situated
+
+i the grantor's place of business; or
+
+ii if the grantor has more than 1 place of business, the grantor's principal place of business; or
+
+iii if the grantor has no place of business or neither its place of business nor its principal place of business is known, the grantor's registered office in the case of a body corporate, or the residence of the grantor in the case of an individual.
+
+2 Where, pursuant to this Act, public notice must be given of any matter affecting a grantor that is an overseas company, that notice must be given by publishing notice of the matter
+
+a in at least 1 issue of the Gazette; and
+
+b in at least 1 issue of a newspaper circulating in the area in which is situated
+
+i the place of business in New Zealand of the grantor; or
+
+ii if the grantor has more than 1 place of business in New Zealand, the principal place of business in New Zealand of the grantor.
+
+4 Application
+
+1 This Act applies
+
+a to a receiver appointed after the coming into force of this Act; and
+
+b with the exceptions and modifications specified in subsection (2), to a receiver holding office on the coming into force of this Act.
+
+2 In the application of this Act to a receiver holding office on the coming into force of this Act,
+
+a section 5 (except subsections (1)(e) and (2)) does not apply:
+
+b section 23 does not apply:
+
+c section 24(1)(a) does not require a receiver to prepare a report in relation to the period of 12 months specified in section 348(2) of the Companies Act 1955 that expires before the coming into force of this Act or that first expires after the commencement of this Act and the provisions of section 348(2) of that Act continue in force in relation to that period notwithstanding the repeal of Part 7 of that Act:
+
+d section 24(1)(b) does not require a receiver to give a report in respect of a receivership that ended before the commencement of this Act and the provisions of section348(2) of the Companies Act 1955 shall continue in force notwithstanding the repeal of Part 7 of that Act:
+
+e section 29 does not apply in respect of a receivership that ended before the commencement of this Act:
+
+f paragraphs (b) and (c) of subsection (1) and subsections(5) and (6) of section 32 do not apply.
+
+5 Qualifications of receivers
+
+1 Unless the court orders otherwise, none of the following persons may be appointed or act as a receiver:
+
+a a person who is under 18 years of age:
+
+b a mortgagee of the property in receivership:
+
+c a person who is, or who has within the period of 2 years immediately preceding the commencement of the receivership been,
+
+i a director of the grantor; or
+
+ii a director of the mortgagee of the property in receivership:
+
+d a person who has, or who has had within the period of 2years preceding the commencement of the receivership, an interest, whether direct or indirect, in
+
+i a share issued by the grantor; or
+
+ii 5% or more of any class of shares issued by the mortgagee of the property in receivership:
+
+e an undischarged bankrupt:
+
+f a person who is, or is deemed to be, subject to a compulsory treatment order made under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
+
+g a person in respect of whom an order has been made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1988:
+
+h a person in respect of whom an order has been made under section 286(5) of the Companies Act 1993:
+
+i a person in respect of whom an order has been made under section 37(6):
+
+ia 
+
+j 
+
+k a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
+
+l a person who is prohibited under section 299(1)(b) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
+
+m a person who is disqualified from acting as a receiver by the instrument that confers the power to appoint a receiver.
+
+2 A body corporate must not be appointed or act as a receiver.
+
+3 A person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+6 Appointment of receivers under deeds and agreements
+
+1 A receiver may be appointed in respect of the property of a person by, or in the exercise of a power conferred by, a deed or agreement to which that person is a party.
+
+2 The appointment of a receiver in the exercise of a power referred to in subsection (1) must be in writing.
+
+3 A receiver appointed by, or under a power conferred by, a deed or agreement is the agent of the grantor unless it is expressly provided otherwise in the deed or agreement or the instrument by or under which the receiver was appointed.
+
+7 Extent of power to appoint receiver
+
+1 A power conferred by a deed or an agreement to appoint a receiver includes the power to appoint
+
+a 2 or more receivers:
+
+b a receiver additional to 1 or more presently in office:
+
+c a receiver to succeed a receiver whose office has become vacantunless the deed or agreement expressly provides otherwise.
+
+2 Two or more receivers may act jointly or severally to the extent that they have the same powers unless the deed or agreement under which, or the order of the court by which, they are appointed expressly provides otherwise.
+
+8 Notice of appointment
+
+1 A receiver must, forthwith after being appointed,
+
+a give written notice of his or her appointment to the grantor; and
+
+b give public notice of his or her appointment, including
+
+i the receiver's full name:
+
+ii the date of the appointment:
+
+iii the receiver's office address:
+
+iv a brief description of the property in receivership.
+
+2 Where the appointment of the receiver is in addition to a receiver who already holds office or is in place of a person who has vacated office as receiver, as the case may be, every notice under this section must state that fact.
+
+3 If the grantor is a body corporate, the receiver must, within 7days after being appointed, send a copy of the public notice to the Registrar.
+
+4 Every receiver who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+9 Application of section 92 of Property Law Act 1952 to receivers
+
+10 Notice of receivership
+
+1 Where a receiver is appointed in relation to a specific asset or specific assets, every deed or agreement entered into, and every document issued, by or on behalf of the grantor or the receiver that relates to the asset or assets and on which the name of the grantor appears must state that a receiver has been appointed.
+
+2 Where a receiver is appointed in any other case, every deed or agreement entered into, and every document issued, by or on behalf of the grantor or the receiver and on which the name of the grantor appears must state that a receiver has been appointed.
+
+3 A failure to comply with subsection (1) or subsection (2) does not affect the validity of the deed or agreement or document.
+
+4 Every person who
+
+a contravenes subsection (1) or subsection (2); or
+
+b knowingly or wilfully authorises or permits a contravention of subsection (1) or subsection (2)commits an offence and is liable on conviction to a fine not exceeding $5,000.
+
+11 Vacancy in office of receiver
+
+1 The office of receiver becomes vacant if the person holding office resigns, dies, or becomes disqualified under section 5.
+
+2 A receiver may resign office by giving not less than 7days' written notice of his or her intention to resign to the person by whom the receiver was appointed.
+
+3 Where a vacancy in the office of receiver occurs as a result of the disqualification of the person holding office as receiver, that person must forthwith give written notice of the vacancy to the person by whom the receiver was appointed.
+
+4 Where a vacancy in the office of receiver occurs as the result of the resignation or disqualification of the person holding office as receiver, that person must
+
+a forthwith give public notice of the vacancy; and
+
+b if the receiver held office in relation to the property of a company, within 7days of the vacancy occurring, give written notice of the vacancy to the Registrar for registration in the register of charges.
+
+5 A receiver appointed by the court may resign office by giving not less than 7days' notice of his or her intention to resign to the Registrar of the court that made the appointment.
+
+6 A person vacating the office of receiver must, where practicable, provide such information and give such assistance in the conduct of the receivership to his or her successor as that person reasonably requires.
+
+7 On the application of a person appointed to fill a vacancy in the office of receiver, the court may make any order that it considers necessary or desirable to facilitate the performance of the receiver's duties.
+
+8 Every person who fails to comply with subsection (3) or subsection (4) commits an offence and is liable on conviction to a fine not exceeding $5,000.
+
+12 Obligations of grantor
+
+1 A grantor and, in the case of a grantor that is a body corporate, every director of the grantor, must
+
+a make available to the receiver all books, documents, and information relating to the property in receivership in the grantor's possession or under the grantor's control:
+
+b if required to do so by the receiver, verify, by statutory declaration, that the books, documents, and information are complete and correct:
+
+c give the receiver such assistance as he or she may reasonably require:
+
+d if the grantor is a body corporate that has a common seal, make the common seal available for use by the receiver.
+
+2 On the application of the receiver, the court may make an order requiring the grantor, or if the grantor is a body corporate, a director of the grantor to comply with subsection (1).
+
+13 Execution of documents
+
+1 A receiver may execute in the name and on behalf of the grantor all documents necessary or incidental to the exercise of the receiver's powers.
+
+2 
+
+3 A document signed on behalf of a grantor that is a company within the meaning of section 2(1) of the Companies Act 1993 by a receiver is deemed to have been properly executed for the purposes of section 180 of the Companies Act 1993.
+
+4 Despite any other enactment or rule of law, or any document defining the constitution of a grantor that is a body corporate, if the instrument under which a receiver is appointed empowers the receiver to execute documents (and, if the grantor has a common seal, to use the grantor's common seal for that purpose), the receiver may execute the documents in the name and on behalf of the grantor (and, if the grantor has a common seal, the receiver may affix the common seal to the documents and attest to the affixing of the common seal).
+
+5 A document executed in the manner prescribed by subsection(4) is deemed to have been properly executed by the grantor.
+
+14 Powers of receivers
+
+1 A receiver has the powers and authorities expressly or impliedly conferred by the deed or agreement or the order of the court by or under which the appointment was made.
+
+2 Subject to the deed or agreement or the order of the court by or under which the appointment was made, a receiver may
+
+a demand and recover, by action or otherwise, income of the property in receivership:
+
+b issue receipts for income recovered:
+
+c manage the property in receivership:
+
+d insure the property in receivership:
+
+e repair and maintain the property in receivership:
+
+f inspect at any reasonable time books or documents that relate to the property in receivership and that are in the possession or under the control of the grantor:
+
+g exercise, on behalf of the grantor, a right to inspect books or documents that relate to the property in receivership and that are in the possession or under the control of a person other than the grantor:
+
+h in a case where the receiver is appointed in respect of all or substantially all of the assets and undertaking of a grantor that is a body corporate, change the registered office or address for service of the body corporate.
+
+15 Power to make calls on shares
+
+1 A receiver has the same powers as the directors of a grantor that is a company have or, if the grantor is being wound up or in liquidation, as the directors would have if it was not being wound up or in liquidation, to make calls on the members or shareholders of the company in respect of uncalled capital that is charged under the deed or agreement by or under which the receiver was appointed and to charge interest on, and enforce payment of, calls.
+
+2 For the purposes of subsection (1), the expression *uncalled capital* includes the amount of any unpaid premium payable in respect of the issue of shares.
+
+3 The making of a call or the exercise of a power under subsection (1) is, as between the members or shareholders of the company affected and the company, deemed to be a proper call or power made or exercised by the directors of the company.
+
+16 Validity of acts of receivers
+
+1 Subject to subsection (2), no act of a receiver is invalid merely because the receiver was not validly appointed or is disqualified from acting as a receiver or is not authorised to do the act.
+
+2 No transaction entered into by a receiver is invalid merely because the receiver was not validly appointed or is disqualified from acting as a receiver or is not authorised to enter into the transaction unless the person dealing with the receiver has, or ought to have, by reason of his or her relationship with the receiver or the person by whom the receiver was appointed, knowledge that the receiver was not validly appointed or was disqualified from acting as a receiver or did not have authority to enter into the transaction.
+
+17 Consent of mortgagee to sale of property
+
+1 Where the consent of a mortgagee is required to the sale of property in receivership and the receiver is unable to obtain that consent, the receiver may apply to the court for an order authorising the sale of the property, either by itself or together with other assets.
+
+2 The court may, on an application under subsection (1), make such order as it thinks fit authorising the sale of the property by the receiver if satisfied that
+
+a the receiver has made reasonable efforts to obtain the mortgagee's consent; and
+
+b the sale
+
+i is in the interests of the grantor and the grantor's creditors; and
+
+ii will not substantially prejudice the interests of the mortgagee.
+
+3 An order under this section may be made on such terms and conditions as the court thinks fit.
+
+18 General duties of receivers
+
+1 A receiver must exercise his or her powers in good faith and for a proper purpose.
+
+2 A receiver must exercise his or her powers in a manner he or she believes on reasonable grounds to be in the best interests of the person in whose interests he or she was appointed.
+
+3 To the extent consistent with subsections (1) and (2), a receiver must exercise his or her powers with reasonable regard to the interests of
+
+a the grantor; and
+
+b persons claiming, through the grantor, interests in the property in receivership; and
+
+c unsecured creditors of the grantor; and
+
+d sureties who may be called upon to fulfil obligations of the grantor.
+
+4 Where a receiver appointed under a deed or agreement acts or refrains from acting in accordance with any directions given by the person in whose interests he or she was appointed, the receiver
+
+a is not in breach of the duty referred to in subsection (2); but
+
+b is still liable for any breach of the duty referred to in subsection (1) and the duty referred to in subsection (3).
+
+5 Nothing in this section limits or affects section 19.
+
+19 Duty of receiver selling property
+A receiver who exercises a power of sale of property in receivership owes a duty to
+
+a the grantor; and
+
+b persons claiming, through the grantor, interests in the property in receivership; and
+
+c unsecured creditors of the grantor; and
+
+d sureties who may be called upon to fulfil obligations of the grantorto obtain the best price reasonably obtainable as at the time of sale.
+
+20 No defence or indemnity
+Notwithstanding any enactment or rule of law or anything contained in the deed or agreement by or under which a receiver is appointed,
+
+a it is not a defence to proceedings against a receiver for a breach of the duty imposed by section 19 that the receiver was acting as the grantor's agent or under a power of attorney from the grantor:
+
+b a receiver is not entitled to compensation or indemnity from the property in receivership or the grantor in respect of any liability incurred by the receiver arising from a breach of the duty imposed by section 19.
+
+21 Duty in relation to money
+A receiver must keep money relating to the property in receivership separate from other money received in the course of, but not relating to, the receivership and from other money held by or under the control of the receiver.
+
+22 Accounting records
+
+1 A receiver must at all times keep accounting records that correctly record and explain the receipts, expenditure, and other transactions relating to the property in receivership.
+
+2 The accounting records must be retained for not less than 6years after the receivership ends.
+
+23 First report by receiver
+
+1 Not later than 2months after his or her appointment, a receiver must prepare a report on the state of affairs with respect to the property in receivership including
+
+a particulars of the assets comprising the property in receivership; and
+
+b particulars of the debts and liabilities to be satisfied from the property in receivership; and
+
+c the names and addresses of the creditors with an interest in the property in receivership; and
+
+d particulars of any encumbrance over the property in receivership held by any creditor including the date on which it was created; and
+
+e particulars of any default by the grantor in making relevant information available; and
+
+f such other information as may be prescribed.
+
+2 The report must also include details of
+
+a the events leading up to the appointment of the receiver, so far as the receiver is aware of them; and
+
+b property disposed of and any proposals for the disposal of property in receivership; and
+
+c amounts owing, as at the date of appointment, to any person in whose interests the receiver was appointed; and
+
+d amounts owing, as at the date of appointment, to creditors of the grantor having preferential claims; and
+
+e amounts likely to be available for payment to creditors other than those referred to in paragraph(c) or paragraph(d).
+
+3 A receiver may omit from the report details of any proposals for disposal of the property in receivership if he or she considers that their inclusion would materially prejudice the exercise of his or her functions.
+
+4 A receiver who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+24 Further reports by receiver
+
+1 Not later than 2months after
+
+a the end of each period of 6 months after his or her appointment as receiver; and
+
+b the date on which the receivership ends,a receiver or a person who was a receiver at the end of the receivership, as the case may be, must prepare a further report summarising the state of affairs with respect to the property in receivership as at those dates, and the conduct of the receivership, including all amounts received and paid, during the period to which the report relates.
+
+2 The report must include details of
+
+a property disposed of since the date of any previous report and any proposals for the disposal of property in receivership; and
+
+b amounts owing, as at the date of the report, to any person in whose interests the receiver was appointed; and
+
+c amounts owing, as at the date of the report, to creditors of the grantor having preferential claims; and
+
+d amounts likely to be available as at the date of the report for payment to creditors other than those referred to in paragraph(b) or paragraph (c).
+
+3 A receiver may omit from the report required to be prepared in accordance with subsection(1)(a) details of any proposals for disposal of property in receivership if he or she considers that their inclusion would materially prejudice the exercise of his or her functions.
+
+4 Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+25 Extension of time for preparing reports
+A period of time within which a person must prepare a report referred to in section 23 or section 24 may be extended, on the application of that person, by
+
+a the court, where the person was appointed a receiver by the court:
+
+b the Registrar, where the person was appointed a receiver by or under a deed or agreement.
+
+26 Persons entitled to receive reports
+
+1 A copy of every report prepared under section 23 or section 24 must be sent by the person required to prepare it to
+
+a the grantor; and
+
+b every person in whose interests the receiver was appointed.
+
+2 If the person was appointed a receiver by the court, he or she must file a copy of every report prepared under section 23 or section 24 in the office of the court.
+
+3 Not later than 21days after receiving a written request for a copy of any report prepared under section 23 or section 24 from
+
+a a creditor, director, or surety of the grantor; or
+
+b any other person with an interest in any of the property in receivership; or
+
+c the authorised agent of any of themand on payment of the reasonable costs of making and sending the copy, the person who prepared the report must send a copy of the report to the person requesting it.
+
+4 Within 7days after preparing a report under section 23 or section 24 in relation to a grantor that is a body corporate, the person who prepared the report must send or deliver a copy of the report to the Registrar.
+
+5 Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+27 Persons entitled to inspect reports
+A person to whom a report must be sent in accordance with section 26 is entitled to inspect the report during normal office hours at the office of the person required to send it.
+
+28 Duty to notify suspected offences against other Acts
+
+1 A receiver of a grantor that is a company and who considers that the grantor or any director of the grantor has committed an offence that is material to the receivership against
+
+a 
+
+aa the Crimes Act 1961; or
+
+b the Financial Markets Conduct Act 2013; or
+
+c the Companies Act 1993; or
+
+d 
+
+e the Takeovers Act 1993must report that fact to the Registrar.
+
+1A A report made under subsection (1), and any communications between the receiver and Registrar relating to that report, are protected by absolute privilege.
+
+1B If a report is made under subsection (1) in respect of a financial markets participant (within the meaning of section 4 of the Financial Markets Authority Act 2011), the Registrar may supply a copy of the report to the Financial Markets Authority (the *FMA*).
+
+1C Any communications between
+
+a the Registrar and the FMA that relate to that report are protected by absolute privilege:
+
+b the receiver and the FMA that relate to that report are protected by absolute privilege.
+
+2 A receiver who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+29 Notice of end of receivership
+
+1 Not later than 7days after the receivership of a grantor that is a body corporate ceases, the person who held office as receiver at the end of the receivership must send or deliver to the Registrar notice in writing of the fact that the receivership has ceased.
+
+2 Every person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+30 Preferential claims
+
+1 This section applies to a receiver of the property of a grantor that is a company, other than a company in liquidation at the time of the receiver's appointment, and who was appointed under a security agreement that created or provided for a security interest that
+
+a is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
+
+b is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+
+c is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+
+2 A receiver to whom this section applies must apply accounts receivable and inventory that are subject to the security interest or their proceeds
+
+a first, to reimburse the receiver for his or her expenses and remuneration; and
+
+b secondly, to pay the claims of any person who has
+
+i a purchase money security interest over all or any of those assets, that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999:
+
+ii a security interest over all or any of those assets, that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+
+c thirdly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses1(1) and 2(1)(b)) of the Companies Act 1993.
+
+2A The receiver must apply the accounts receivable and inventory as set out in subsection (2) before paying the claims of any person under a security interest, other than a security interest referred to in subsection (2)(b).
+
+2B For the purposes of subsection (2)(a), if an amount of an expense or of remuneration
+
+a is payable partly in relation to the accounts receivable or inventory concerned and partly in relation to other property,
+
+i the amount must be fairly and equitably apportioned between the accounts receivable or inventory and the other property; and
+
+ii the proportion relating to the accounts receivable or inventory must be taken into account; and
+
+iii the proportion relating to the other property must be disregarded:
+
+b is payable only in relation to property other than the accounts receivable or inventory concerned, the amount must be disregarded:
+
+c is not payable in relation to any particular property, only a fair and equitable proportion of the amount must be taken into account.
+
+3 In the application of Schedule 7 of the Companies Act 1993 in accordance with subsection (2),
+
+a references to a liquidator are to be read as references to a receiver:
+
+b references to the commencement of the liquidation are to be read as references to the appointment of the receiver:
+
+c references to a company being put into or being in liquidation are to be read as references to the company being put into or being in receivership:
+
+d the reference to a period of 4 months before the commencement of the liquidation in clause 1(2)(a) is to be read as a reference to a period beginning 4months before the date of appointment of the receiver and ending either
+
+i 14days after the date of appointment of the receiver; or
+
+ii if notice of the termination of that employee's employment is lawfully given to the employee within 14days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993, on the day on which the contract of employment is terminated:
+
+e the reference to before, or because of, the commencement of the liquidation in clause 1(2)(b) and (c) is to be read as a reference to before the expiry of 14days after the date of appointment of the receiver, or because notice of the termination of that employee's employment is lawfully given to the employee within 14days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993.
+
+4 
+
+5 The provisions of this section, as in force immediately before the commencement of the Personal Property Securities Act 1999, continue to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
+
+30A Extinguishment of subordinate security interests
+
+1 If property has been disposed of by a receiver, all security interests in the property and its proceeds that are subordinate to the security interest of the person in whose interests the receiver was appointed are extinguished on the disposition of the property.
+
+2 If there is a surplus left after the receiver has disposed of personal property, that surplus must be distributed according to the priorities set out in section 30B(1) and (2) unless otherwise required by any other law.
+
+30B Priorities on distribution by receiver of surplus representing proceeds of personal property
+
+1 A surplus representing the proceeds of personal property must be distributed in the following order:
+
+a to any person who has registered a financing statement under the Personal Property Securities Act 1999, or a security interest under any other Act, in the name of the grantor over the property, if
+
+i the registration was effective immediately before the receiver disposed of the property; and
+
+ii the security interest relating to that registration was subordinate to the security interest of the person in whose interests the receiver was appointed:
+
+b to any other person (*A*), if the receiver has notice that A had an interest in the property when it was disposed of, and the receiver is satisfied that A's interest was legally enforceable:
+
+c to the grantor.
+
+2 Priority as between persons referred to in subsection(1)(a), and as between persons referred to in subsection(1)(b), must be determined according to the applicable law (including Part7 or Part 8 of the Personal Property Securities Act 1999) as if, in the case of persons referred to in subsection (1)(a), their security interests had not been extinguished.
+
+3 If, in the case of a distribution of the surplus to a grantor, the grantor cannot be found after reasonable inquiry by the receiver, the provisions of section 186(2) to (5) of the Property Law Act 2007 apply with all necessary modifications as if references in that section to the mortgagee and the mortgagor were references to the receiver and the grantor respectively.
+
+30C Surplus may be paid into court
+
+1 A receiver may pay a surplus referred to in section 30A(2) into court if there is a question as to who is entitled to receive payment according to the priorities in section 30B(1) or (2).
+
+2 The surplus may only be paid out on an application by the receiver or by a person claiming an entitlement to the surplus.
+
+30D Meaning of surplus and net proceeds
+
+1 For the purposes of sections 30A to 30C, there is a surplus if the receiver has disposed of personal property in receivership, and the net proceeds exceed
+
+a the amount of the debt owed by the grantor to the person in whose interests the receiver was appointed (where the property secures payment of that debt); or
+
+b the monetary value of the obligation owed by the grantor to the person in whose interests the receiver was appointed (where the property secures performance of that obligation).
+
+2 In subsection (1), *net proceeds*, in relation to the disposal of personal property in receivership, means the net proceeds of the disposal after deducting
+
+a the receiver's expenses and remuneration; and
+
+b any amount or the monetary value of any obligation, as the case may be, secured by any security interest that ranks in priority to the security interest granted to the person in whose interests the receiver was appointed; and
+
+c any other preferential claims or priority claims according to law.
+
+31 Powers of receiver on liquidation or bankruptcy
+
+1 Subject to subsection (2), a receiver may be appointed or continue to act as a receiver and exercise all the powers of a receiver in respect of property of
+
+a a company that is being wound up or that has been put into liquidation; or
+
+b a debtor who has been adjudged bankrupt under the Insolvency Act 2006unless the court orders otherwise.
+
+2 A receiver holding office in respect of property referred to in subsection (1) may act as the agent of the grantor only
+
+a with the approval of the court; or
+
+b with the written consent of the liquidator or the Official Assignee, as the case may be.
+
+3 A receiver who, by reason of subsection (2), is not able to act as the agent of the grantor does not, by reason only of that fact, become the agent of a person by whom or in whose interests the receiver was appointed.
+
+4 A debt or liability incurred by a grantor through the acts of a receiver who is acting as the agent of the grantor in accordance with subsection (2) is not a cost, charge or expense of the liquidation or the administration of the bankrupt's estate.
+
+32 Liabilities of receiver
+
+1 Subject to subsections (2) and (3), a receiver is personally liable
+
+a on a contract entered into by the receiver in the exercise of any of the receiver's powers; and
+
+b for payment of wages or salary that, during the receivership, accrue under a contract of employment relating to the property in receivership and entered into before the appointment of the receiver if notice of the termination of the contract is not lawfully given within 14days after the date of appointment; and
+
+c for payment of remuneration under any contract with
+
+i a director of a grantor that is a body corporate; or
+
+ii a person who, in relation to a grantor that is not a body corporate, occupies a position equivalent to that of a director of a body corporateif the receiver has expressly confirmed the contract.
+
+2 The terms of a contract referred to in paragraph(a) of subsection (1) may exclude or limit the personal liability of a receiver other than a receiver appointed by the court.
+
+3 The court may, on the application of a receiver, extend the period within which notice of the termination of a contract is required to be given under paragraph(b) of subsection(1) and may extend that period on such terms and conditions as the court thinks fit.
+
+4 Every application under subsection (3) must be made before the expiry of the period referred to.
+
+5 Subject to subsection (7), a receiver is personally liable, to the extent specified in subsection (6), for rent and any other payments becoming due under an agreement subsisting at the date of the appointment of the receiver relating to the use, possession, or occupation by the grantor of property in receivership.
+
+6 The liability of a receiver under subsection (5) is limited to that portion of the rent or other payments which accrue in the period commencing 14days after the date of the appointment of the receiver and ending on
+
+a the date on which the receivership ends; or
+
+b the date on which the grantor ceases to use, possess, or occupy the property,whichever is the earlier.
+
+7 The court may, on the application of a receiver,
+
+a limit the liability of the receiver to a greater extent than that specified in subsection (6):
+
+b excuse the receiver from liability under subsection (5).
+
+8 Nothing in subsection (5) or subsection (6)
+
+a is to be taken as giving rise to an adoption by a receiver of an agreement referred to in subsection (5); or
+
+b renders a receiver liable to perform any other obligation under the agreement.
+
+9 A receiver is entitled to an indemnity out of the property in receivership in respect of personal liability under this section.
+
+10 Nothing in this section
+
+a limits any other right of indemnity to which a receiver may be entitled; or
+
+b limits the liability of a receiver on a contract entered into without authority; or
+
+c confers on a receiver a right to an indemnity in respect of liability on a contract entered into without authority.
+
+33 Relief from liability
+
+1 The court may relieve a person who has acted as a receiver from all or any personal liability incurred in the course of the receivership if it is satisfied that
+
+a the liability was incurred solely by reason of a defect in the appointment of the receiver or in the deed or agreement or order of the court by or under which the receiver was appointed; and
+
+b the receiver acted honestly and reasonably and ought, in the circumstances, to be excused.
+
+2 The court may exercise its powers under subsection (1) subject to such terms and conditions as it thinks fit.
+
+3 A person in whose interests a receiver was appointed is liable, subject to such terms and conditions as the court thinks fit, to the extent to which the receiver is relieved from liability.
+
+4 The court may give such directions as it thinks fit for the purposes of subsection (3).
+
+34 Court supervision of receivers
+
+1 The court may, on the application of a receiver,
+
+a give directions in relation to any matter arising in connection with the performance of the functions of the receiver:
+
+b revoke or vary any such directions.
+
+2 The court may, on the application of a person referred to in subsection (3),
+
+a in respect of any period, review or fix the remuneration of a receiver at a level which is reasonable in the circumstances:
+
+b to the extent that an amount retained by a receiver as remuneration is found by the court to be unreasonable in the circumstances, order the receiver to refund the amount:
+
+c declare whether or not a receiver was validly appointed in respect of any property or validly entered into possession or assumed control of any property.
+
+3 Any of the following persons may apply to the court under subsection (2):
+
+a the receiver:
+
+b the grantor:
+
+c a creditor of the grantor:
+
+d a person claiming, through the grantor, an interest in the property in receivership:
+
+e the board of directors of the grantor or, in the case of a grantor that is in liquidation, the board of the grantor at the time the liquidator was appointed:
+
+f if the grantor is a company, a liquidator:
+
+g if the grantor is a person who has been adjudged bankrupt, the Official Assignee of the estate of the grantor.
+
+4 The powers given by subsections (1) and (2)
+
+a are in addition to any other powers the court may exercise under this Act, any other Act, or in its inherent jurisdiction; and
+
+b may be exercised in relation to a matter occurring either before or after the commencement of this Act and whether or not the receiver has ceased to act as receiver when the application is made.
+
+5 The court may, on the application of a person referred to in subsection(3), revoke or vary an order made under subsection(2).
+
+6 Subject to subsection (7), it is a defence to a claim against a receiver in relation to any act or omission by the receiver that he or she acted or omitted to act in accordance with a direction given under subsection (1).
+
+7 The court may, on the application of a person referred to in subsection (3), order that, by reason of the circumstances in which a direction was obtained under subsection (1), a receiver is not entitled to the protection given by subsection (6).
+
+35 Court may terminate or limit receivership
+
+1 The court may, on the application of a person referred to in subsection (2),
+
+a order that a receiver must cease to act as such as from a specified date, and prohibit the appointment of any other receiver in respect of the property in receivership:
+
+b order that a receiver must, as from a specified date, act only in respect of specified assets forming part of the property in receivership.
+
+2 Any of the following persons may apply to the court under subsection (1):
+
+a the grantor:
+
+b if the grantor is a company, a liquidator:
+
+c if the grantor is a person who has been adjudged bankrupt, the Official Assignee of the estate of the grantor.
+
+3 An order may be made under subsection (1) only if the court is satisfied that
+
+a the purpose of the receivership has been satisfied so far as possible; or
+
+b circumstances no longer justify its continuation.
+
+4 Unless the court orders otherwise, a copy of an application under this section must be served on the receiver not less than 7days before the hearing of the application, and the receiver may appear and be heard at the hearing.
+
+5 An order under subsection (1) may be made on such terms and conditions as the court thinks fit.
+
+6 In making an order under subsection (1), the court may prohibit a person in whose interests the receiver was appointed from taking possession or assuming control of the property in receivership.
+
+7 Except as provided by subsection (6), an order under this section does not affect a security or charge over the property in respect of which the order is made.
+
+8 The court may, on the application of any person who applied for or is affected by the order, rescind or amend an order made under this section.
+
+36 Meaning of failure to comply
+In section 37, *failure to comply* in relation to a receiver means a failure by a receiver to comply with a relevant duty arising
+
+a under the deed or agreement or the order of the court by or under which the receiver was appointed; or
+
+b under this or any other Act or rule of law or rules of court; or
+
+c under any order or direction of the court other than an order to comply made under that section; and *comply*, *compliance*, and *failed to comply* have corresponding meanings.
+
+37 Orders to enforce receiver's duties
+
+1 An application for an order under this section may be made by
+
+a the Registrar:
+
+b a receiver:
+
+c a person seeking appointment as a receiver:
+
+d the grantor:
+
+e a person with an interest in the property in receivership:
+
+f a creditor of the grantor:
+
+g a guarantor of an obligation of the grantor:
+
+h if the grantor is a company, a liquidator of the grantor:
+
+i if the receiver is a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013), a member of the governing body of the association of accountants of which the qualified statutory accountant is a member:
+
+j if the receiver is a barrister and solicitor or a solicitor, the President of the New Zealand Law Society:
+
+k if the grantor is a person who has been adjudged bankrupt, the Official Assignee of the estate of the grantor.
+
+2 An application for an order under this section may be made by a receiver of the property of a grantor in relation to a failure to comply by another receiver of the property of the grantor.
+
+3 No application may be made to the court in relation to a failure to comply unless notice of the failure to comply has been served on the receiver not less than 7days before the date of the application and, as at the date of the application, there is a continuing failure to comply.
+
+4 If the court is satisfied that there is, or has been, a failure to comply, the court may
+
+a relieve the receiver of the duty to comply, wholly or in part; or
+
+b without prejudice to any other remedy that may be available in relation to a breach of duty by the receiver, order the receiver to comply to the extent specified in the order.
+
+5 The court may, in respect of a person who fails to comply with an order made under subsection (4)(b), or is or becomes disqualified under section 5 to become or remain a receiver,
+
+a remove the receiver from office; or
+
+b order that the person may be appointed and act or may continue to act as a receiver, notwithstanding the provisions of section 5.
+
+6 If it is shown to the satisfaction of the court that a person is unfit to act as a receiver by reason of
+
+a persistent failures to comply; or
+
+b the seriousness of a failure to comply,the court must make, in relation to that person, a prohibition order for a period not exceeding 5years.
+
+7 A person to whom a prohibition order applies must not
+
+a act as a receiver in any current or other receivership; or
+
+b act as a liquidator in any current or other liquidation.
+
+8 In making an order under this section the court may, if it thinks fit,
+
+a make an order extending the time for compliance:
+
+b impose a term or condition:
+
+c make an ancillary order.
+
+9 A copy of every order made under subsection(6) must, within 14days of the order being made, be delivered by the applicant to the Official Assignee for New Zealand who must keep it on a public file indexed by reference to the name of the receiver concerned.
+
+38 Special provisions relating to evidence
+
+1 Evidence that, within the preceding 5years while a person was acting as a receiver or as a liquidator, as the case may be,
+
+a the court has, in relation to that person, on 2 or more occasions made an order to comply under section 37; or
+
+b the court has, in relation to that person, on 2or more occasions made an order to comply under section 286 of the Companies Act 1993; or
+
+c the court has, in relation to that person, made 1or more orders to comply under section 37 and has also made 1or more orders to comply under section 286 of the Companies Act 1993,is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of section 37(6)(a).
+
+2 Evidence that, within the preceding 5years while a person was acting as a receiver or as a liquidator, as the case may be,
+
+a 2or more applications for an order to comply under section 37 were made in relation to that person; or
+
+b 2or more applications for an order to comply under section 286 of the Companies Act 1993 were made in relation to that person; or
+
+c 1or more applications for an order to comply under section 37 and 1or more applications for an order to comply under section 286 of the Companies Act 1993 were made in relation to that personand, in each case, the person has complied after the making of the application and before the hearing is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of section 37(6)(a).
+
+39 Orders protecting property in receivership
+The court may, on making an order that removes, or has the effect of removing, a receiver from office, make such orders as it thinks fit
+
+a for preserving property in receivership:
+
+b requiring the receiver for that purpose to make available to any person specified in the order any information and documents in the possession or under the control of the receiver.
+
+40 Refusal to supply essential services prohibited
+
+1 For the purposes of this section, an *essential service* means
+
+a the retail supply of gas:
+
+b the retail supply of electricity:
+
+c the supply of water:
+
+d telecommunications services.
+
+2 For the purposes of this section, *telecommunications services* means the conveyance from one device to another by any line, radio frequency or other medium of any sign, signal, impulse, writing, image, sound, instruction, information, or intelligence of any nature, whether or not for the information of a person using the device.
+
+3 Notwithstanding the provisions of any other Act or any contract, a supplier of an essential service must not
+
+a refuse to supply the service to a receiver or to the owner of property in receivership by reason of the grantor's default in paying charges due for the service in relation to a period before the date of the appointment of the receiver; or
+
+b make it a condition of the further supply of the service to a receiver or to the owner of property in receivership that payment be made of outstanding charges due for the service in relation to a period before the date of the appointment of the receiver; or
+
+c 
+
+
+
+40A Instrument may provide for appointment of receiver
+Subject to the Personal Property Securities Act 1999, and without limiting any other rights or remedies of the holder of a charge over any asset of a local authority, an instrument creating or evidencing the terms and conditions of the charge may provide for the appointment of a receiver of such assets in such terms as the parties may agree and the holder of that charge may exercise any such other rights or use any such other remedies.
+
+40B Power of court to appoint receiver
+
+1 Subject to sections 40D and 40E and to subsections(2) and (3), the High Court may, on the application of any creditor of the local authority, appoint a receiver of any asset of a local authority or appoint a receiver for the purposes of section 115 of the Local Government Act 2002.
+
+2 An appointment under subsection (1) must be for such period, with such rights, powers, and duties, and on such terms and conditions, including as to security and remuneration, as the court considers appropriate in all the circumstances.
+
+3 When considering, in accordance with subsection (2), the terms and conditions upon which a receiver can be appointed by a court pursuant to subsection (1), the court must
+
+a take account of the interests of both the secured and non-secured creditors of the local authority, as against
+
+i the interests of the local authority itself; and
+
+ii the requirement of the local authority to provide those services that are essential for the maintenance of public health and safety; and
+
+iii the interests of the ratepayers with property within the area of the local authority; and
+
+iv the interests of the general public living within the area of the local authority; and
+
+b take account of the interests of secured creditors as against the interests of non-secured creditors of the local authority.
+
+40C Powers and duties of receivers
+
+1 A receiver of any asset of a local authority is, as the circumstances and the context permit, affected by the restrictions and responsibilities which by law affect a receiver of a company or of an asset or property or rights of a company as if the local authority were a company.
+
+2 The provisions of this Act are, in their application to a receiver of an asset of a local authority, subject to the modifications and exceptions set out in the Schedule.
+
+3 If the assets subject to a charge to which this section applies comprise rates or other revenues, then, for the purposes of this section, from the date of the appointment of the receiver and until such time as the appointment terminates,
+
+a the rates or other revenues so charged vest in the receiver; and
+
+b all powers necessary for the recovery of rates levied under section 115 of the Local Government Act 2002 or other revenues are conferred on, and may be exercised by, the receiver.
+
+40D Constraints on receiver
+
+1 Despite anything in this Act or in any instrument providing for or governing the appointment of a receiver, a receiver of any asset of a local authority must ensure that no action of the receiver prevents the provision of those services of the local authority that are essential for the maintenance of public health and safety requirements.
+
+2 For the purposes of this section,
+
+a an action of a receiver is deemed not to prevent provision of the services specified in subsection (1) unless
+
+i that action necessarily results in that outcome; and
+
+ii the outcome is not more fairly attributable to the act, or omission to act, of persons outside the control of the receiver; and
+
+b *receiver* includes both a receiver and a manager and includes, if persons are appointed jointly or severally as receivers and managers or both jointly and severally as receivers or managers, each of those persons.
+
+3 A receiver must distribute the proceeds of collection of the money and assets the receiver is entitled to collect in the following order of priority:
+
+a first, the receiver's remuneration, and costs incurred by the receiver and reimbursement of the costs of obtaining appointment of the receiver to any person who has incurred them:
+
+b second, any amounts payable in respect of claims by law to be preferred to claims under any charge over those assets:
+
+c third, any amounts required to be paid out of the proceeds of collection of the money and assets to enable the receiver to provide the services specified in subsection(1):
+
+d fourth, the amounts secured by any charges over those assets in the order of priority accorded those charges, so as to preserve the respective entitlements of the holders of those charges:
+
+e fifth, if the receiver was appointed on the application of an unsecured creditor or unsecured creditors, to those creditors or, as the court may direct, any amounts payable to them,and any residue must be paid to, or applied for the benefit of, the local authority, as it may direct.
+
+4 A receiver appointed under section 40A or section 40B(1), in exercising any powers (including those of a manager), is not entitled to control, dispose of, or otherwise interfere with the local authority's ability to exercise or perform its rights, powers, and duties in relation to assets not charged in favour of the appointor of a receiver.
+
+5 Subject to subsection(6), if any land vested in a local authority is
+
+a a reserve under the Reserves Act 1977; or
+
+b land over which the local authority has no power of disposition; or
+
+c land in respect of which the local authority's power of disposition is conditional,the power of disposition that a receiver of that local authority has in respect of that land is limited to a power of disposition by way of lease or licence for a term or terms not exceeding in the aggregate 9years.
+
+6 The powers of disposition that a receiver has in respect of any land of the kind described in subsection(5)(c) comprise, in addition to the power specified in subsection (5), the same conditional power of disposition as the local authority.
+
+40E Protection for receiver
+
+1 Subject to subsection(4), no proceedings lie against any receiver of a local authority for breach of section40D(1)
+
+a by the receiver; or
+
+b by any adviser or delegate of the receiver (being an adviser or delegate who has been reasonably selected and reasonably supervised).
+
+2 Subject to subsection (4), no proceedings lie against any adviser or delegate of any receiver of a local authority for a breach of section40D other than at the instance of the receiver.
+
+3 Subject to subsection (4), a receiver (and any adviser or delegate who has been reasonably selected and reasonably supervised, as the case requires), must, in respect of any liability relating to the exercise or purported exercise or omission to exercise any right or power of the receiver by the receiver or the adviser of the receiver or the delegate of the receiver, be indemnified
+
+a by the local authority, in the case of a receiver appointed by the High Court under section40B(1):
+
+b out of the assets subject to receivership, in the case of any other receiver but subject to any contrary terms of appointment.
+
+4 No person is exempted from liability under subsection(1) or is entitled to be indemnified under subsection(3) for any act or omission to act which constitutes bad faith or gross negligence on the part of that person.
+
+5 Nothing in this section limits or affects the provisions of sections19 and 20.
+
+41 Repeals
+
+1 Section101 and Part7 of the Companies Act 1955 are hereby repealed.
+
+2 Sections 6 and 39 to 43 of the Companies Amendment Act 1980 are hereby consequentially repealed.
+
+42 Act subject to application of Cape Town Convention and Aircraft Protocol
+
+1 Sections 17 and 30 and all other provisions of this Act are subject to section 106 of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of Part12 of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
+
+2 In this section,
+
+*Aircraft Protocol* has the same meaning as in section104(1) of the Civil Aviation Act 1990
+
+*Cape Town Convention* has the same meaning as in section104(1) of the Civil Aviation Act 1990.

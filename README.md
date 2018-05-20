@@ -1,14 +1,21 @@
 # Version Tracking for Legislation
 
+We also have a [project website](https://jamestingedwards.github.io/legis-hack/) that you might like to check out.
+
 **Instructions**
 
-Install BeautifulSoup4
+Install BeautifulSoup4 (pip install beautifulsoup4 / apt-get install python-bs4)
 
+Edit xmldownload.py to set variables `start_year` and `end_year`, to determine what legislation years are to be downloaded - xmldownload.py scrapes www.legislation.govt.nz/subscribe/ to download all xmls between start_year and end_year.
+
+```
 $ python3 xmldownload.py
 
 $ python3 xmltransform.py
 
 $ python3 adoccommitter.py
+```
+adoccommitter.py runs a shell script that pushes after all commits, so you will need to authenticate to your git repo
 
 **Problem Statement**
 
