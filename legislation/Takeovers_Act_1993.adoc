@@ -40,7 +40,25 @@ b information recorded by means of any article or device (for example, a disk) f
 
 c material subsequently derived from information recorded by that means
 
+*financial product*, in relation to a code company,
+
+a means
+
+i an equity security within the meaning of section 8 of the Financial Markets Conduct Act 2013, whether or not the security carries voting rights:
+
+ii a debt security, within the meaning of section 8 of the Financial Markets Conduct Act 2013, that carries the right to vote at any annual or general meeting of the code company:
+
+iii a managed investment product, within the meaning of section 8 of the Financial Markets Conduct Act 2013, that carries the right to vote at any annual or general meeting of the code company; and
+
+b includes a financial product that is convertible, at the option of the product holder, into a financial product of the type referred to in paragraph (a)(i), (ii), or (iii)
+
 *FMA* means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
+
+*licensed market* has the meaning set out in section 6(1) of the Financial Markets Conduct Act 2013
+
+*licensed market operator* has the meaning set out in section 6(1) of the Financial Markets Conduct Act 2013
+
+*listed issuer* has the meaning set out in section 6(1) of the Financial Markets Conduct Act 2013
 
 *Minister* means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
 
@@ -52,29 +70,17 @@ a means the Takeovers Panel established under Part1; or
 
 b for the purposes of determining any matter or class of matter specified in a determination under section7A, means the division of the Panel specified in the determination in accordance with section7C(1)(a)
 
-*quoted*, in relation to securities of a person, means securities of the person that are approved for trading on a registered exchange's securities market (and, for the avoidance of doubt, securities do not cease to be quoted merely because trading in those securities is suspended)
-
-*registered exchange* has the meaning set out in section 2(1) of the Securities Markets Act 1988
-
-*registered exchange's securities market* has the meaning set out in section 2(1) of the Securities Markets Act 1988
+*quoted*, in relation to financial products of a person, means financial products of the person that are approved for trading on a licensed market (and, to avoid doubt, financial products do not cease to be quoted merely because trading in those financial products is suspended)
 
 *Registrar* means a person who for the time being holds the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act1993
-
-*security*, in relation to a code company, means
-
-a an equity security within the meaning of section 2 of the Securities Act 1978, whether or not the security carries voting rights:
-
-b a debt security within the meaning of section 2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the code company:
-
-c a participatory security within the meaning of section2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the code company,and includes a security that is convertible, at the option of the security holder, into a security of the type referred to in paragraph(a) or paragraph(b) or paragraph(c)
 
 *takeovers code* means the regulations made under section19
 
 *voting right* means a currently exercisable right to cast a vote at meetings of shareholders of a company, not being a right to vote that is exercisable only in 1or more of the following circumstances:
 
-a during a period in which a payment or distribution (or part of a payment or distribution) in respect of the security that confers the voting right is in arrears or some other default exists:
+a during a period in which a payment or distribution (or part of a payment or distribution) in respect of the financial product that confers the voting right is in arrears or some other default exists:
 
-b on a proposal that affects rights attached to the security that confers the voting right:
+b on a proposal that affects rights attached to the financial product that confers the voting right:
 
 c on a proposal to put the company into liquidation:
 
@@ -102,7 +108,7 @@ f conspiring with any other person to contravene the takeovers code or a term or
 
 1 *Code company* means a company that
 
-a is a party to a listing agreement with a registered exchange and that has securities that confer voting rights quoted on the registered exchange's securities market; or
+a is a listed issuer that has financial products that confer voting rights quoted on a licensed market; or
 
 b was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
 
@@ -110,7 +116,7 @@ c has 50 or more shareholders and 50 or more share parcels.
 
 2 However, if, as a result of a transaction or an event regulated under the code, a company that previously satisfied subsection (1)(c) ceases to have 50 or more shareholders and 50 or more share parcels, that company continues to be a code company for the purposes of Part 7 of the code.
 
-3 In this section, *shareholder* means a shareholder holding a security that confers a voting right.
+3 In this section, *shareholder* means a shareholder holding a financial product that confers a voting right.
 
 3 Act to bind the Crown
 This Act binds the Crown.
@@ -312,6 +318,20 @@ b considers may assist the Commerce Commission in the exercise of the Commerce C
 
 4 Nothing in this section limits the Privacy Act 1993.
 
+15C Sharing of information and documents with licensed market operators
+
+1 The Panel may provide to a licensed market operator any information, or a copy of any document, that the Panel
+
+a holds in relation to the exercise of the Panels powers, or the performance of its functions and duties; and
+
+b considers may assist the licensed market operator in the exercise of the operators powers, or the performance of its functions and duties, under any enactment or any market rules (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
+
+2 The Panel may use any information, or a copy of any document, provided to it by a licensed market operator under section 357 or 358 of the Financial Markets Conduct Act 2013 in the Panels exercise of its powers, or the performance of its functions and duties.
+
+3 This section applies despite anything to the contrary in any contract, deed, or document.
+
+4 Nothing in this section limits the Privacy Act 1993.
+
 16 Annual reports
 
 17 Annual fee in respect of funding of Panel
@@ -349,11 +369,11 @@ a encouraging the efficient allocation of resources:
 
 b encouraging competition for the control of code companies:
 
-c assisting in ensuring that the holders of securities in a takeover are treated fairly:
+c assisting in ensuring that the holders of financial products in a takeover are treated fairly:
 
 d promoting the international competitiveness of New Zealand's capital markets:
 
-e recognising that the holders of securities must ultimately decide for themselves the merits of a takeover offer:
+e recognising that the holders of financial products must ultimately decide for themselves the merits of a takeover offer:
 
 f maintaining a proper relation between the costs of compliance with the code and the benefits resulting from it.
 
@@ -368,15 +388,15 @@ Without limiting the matters that the Minister may consider, the Minister must, 
 
 a that advance notice and publicity should be given of takeovers:
 
-b that in a takeover, the code company and its security holders should be fully informed:
+b that in a takeover, the code company and its financial product holders should be fully informed:
 
-c that in a takeover, offers should be made to all security holders, that the consideration offered should be the same for all security holders, and that all security holders should have the same opportunity for acceptance:
+c that in a takeover, offers should be made to all financial product holders, that the consideration offered should be the same for all financial product holders, and that all financial product holders should have the same opportunity for acceptance:
 
 d that incremental acquisitions and partial bids should be permitted:
 
-e that there should be rules to determine the price or prices payable for the acquisition of securities in a takeover:
+e that there should be rules to determine the price or prices payable for the acquisition of financial products in a takeover:
 
-f for the compulsory acquisition of securities in a code company at the option of offerors or security holders, or both:
+f for the compulsory acquisition of financial products in a code company at the option of offerors or financial product holders, or both:
 
 g for the regulation of defensive tactics.
 
@@ -385,9 +405,9 @@ Without limiting section 19, but subject to section 23, regulations under that s
 
 a define the transactions or classes of transactions in relation to which the code applies and for that purpose define terms and expressions used in the code in such manner as it thinks fit:
 
-b prescribe the requirements in relation to offers and the making of offers to acquire securities in a code company in a takeover including requirements as to the form and content of those offers, variations of those offers, the time during which those offers are to remain open for acceptance, the persons to whom those offers are to be made, and the manner of acceptance:
+b prescribe the requirements in relation to offers and the making of offers to acquire financial products in a code company in a takeover including requirements as to the form and content of those offers, variations of those offers, the time during which those offers are to remain open for acceptance, the persons to whom those offers are to be made, and the manner of acceptance:
 
-c prescribe the information, statements, certificates, and documents or other matters that must be supplied to a code company and the security holders of the code company in a takeover:
+c prescribe the information, statements, certificates, and documents or other matters that must be supplied to a code company and the financial product holders of the code company in a takeover:
 
 d prescribe requirements for the registration by the Registrar of Companies of documents in connection with a takeover:
 
@@ -396,9 +416,9 @@ e prescribe the duties and obligations of a code company and the directors of th
 23 Takeovers code not to apply in certain cases
 Nothing in the takeovers code shall require any person to comply with the code
 
-a by reason only of the fact that, on the coming into force of the code, a particular proportion of securities have been acquired in a code company, whether by that person or any other person, before the code comes into force; or
+a by reason only of the fact that, on the coming into force of the code, a particular proportion of financial products have been acquired in a code company, whether by that person or any other person, before the code comes into force; or
 
-b by reason of the acquisition of securities in a code company, whether by that person or any other person, on or after the coming into force of the code, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the date on which an approved takeovers code comes into force.
+b by reason of the acquisition of financial products in a code company, whether by that person or any other person, on or after the coming into force of the code, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the date on which an approved takeovers code comes into force.
 
 23A Takeovers code does not apply where court order under section 236 of Companies Act 1993
 The takeovers code does not apply where the court has made an order under section 236(1) of the Companies Act 1993 that affects the voting rights of a code company (within the meaning of that term in section 236A of the Companies Act 1993).
@@ -781,19 +801,19 @@ c may also give notice to any other person of those matters.
 33 Temporary restraining orders
 For the purposes of section32, a temporary restraining order is an order for 1or more of the following:
 
-a restraining a person from acquiring securities in the code company concerned or any interest in or rights relating to such securities:
+a restraining a person from acquiring financial products in the code company concerned or any interest in or rights relating to such financial products:
 
-b restraining a person from disposing of securities in the code company concerned or any interest in or rights relating to such securities:
+b restraining a person from disposing of financial products in the code company concerned or any interest in or rights relating to such financial products:
 
-c restraining a person from exercising the right to vote attaching to securities in the code company concerned or any other right relating to such securities:
+c restraining a person from exercising the right to vote attaching to financial products in the code company concerned or any other right relating to such financial products:
 
 d restraining a person from taking any action (including from making any statement or distributing any document) that is or that may reasonably be expected to constitute a contravention of the takeovers code (see section 2(2) for the definition of contravention of the takeovers code):
 
-e directing the code company concerned not to make any payments in respect of any securities:
+e directing the code company concerned not to make any payments in respect of any financial products:
 
-f directing the code company concerned not to register the transfer or transmission of any securities:
+f directing the code company concerned not to register the transfer or transmission of any financial products:
 
-g directing the code company concerned not to issue or allot securities to any person:
+g directing the code company concerned not to issue or allot financial products to any person:
 
 h for the purpose of securing compliance with any such order, an order directing a person to do or refrain from doing a specified act.
 
@@ -831,7 +851,7 @@ a subject to paragraph(b), is not admissible in
 
 i criminal proceedings against that person; or
 
-ii proceedings under this Act, the Securities Act 1978, or the Securities Markets Act 1988 for a pecuniary penalty order against that person; but
+ii proceedings under this Act or the Financial Markets Conduct Act 2013 for a pecuniary penalty order against that person; but
 
 b is admissible against that person in any proceeding in respect of the falsity of the person's testimony, for example, in a prosecution for perjury or for an offence under section 44(1).
 
@@ -922,21 +942,21 @@ The court may, on application by any person in accordance with section 35, make 
 33J Terms of various civil remedy orders
 A civil remedy order under section 33I may
 
-a restrain the exercise of rights attaching to securities or declare an exercise of those rights to be void and of no effect:
+a restrain the exercise of rights attaching to financial products or declare an exercise of those rights to be void and of no effect:
 
-b restrain the issue or allotment of securities or restrain any distribution due in relation to securities:
+b restrain the issue or allotment of financial products or restrain any distribution due in relation to financial products:
 
-c restrain the acquisition or disposal of securities or of interests in or rights relating to them or restrain the registration of any transfer or transmission of securities:
+c restrain the acquisition or disposal of financial products or of interests in or rights relating to them or restrain the registration of any transfer or transmission of financial products:
 
-d direct the disposal of securities or of interests in or rights relating to them (including the person or class of persons to which they must, or must not, be disposed of) and direct the payment of the proceeds of any disposal:
+d direct the disposal of financial products or of interests in or rights relating to them (including the person or class of persons to which they must, or must not, be disposed of) and direct the payment of the proceeds of any disposal:
 
-e require securities to be forfeited and require the public issuer to cancel the forfeited securities:
+e require financial products to be forfeited and require the issuer to cancel the forfeited financial products:
 
-f cancel an agreement for the acquisition or disposal of securities or interests in or rights relating to them:
+f cancel an agreement for the acquisition or disposal of financial products or interests in or rights relating to them:
 
-g vest securities or interests in or rights relating to them in a trustee for sale on the terms and conditions the court thinks fit:
+g vest financial products or interests in or rights relating to them in a trustee for sale on the terms and conditions the court thinks fit:
 
-h declare an agreement for the acquisition of securities or interests in or rights relating to them to be voidable at the option of the person from whom the securities or interests or rights were acquired:
+h declare an agreement for the acquisition of financial products or interests in or rights relating to them to be voidable at the option of the person from whom the financial products or interests or rights were acquired:
 
 i if a contract is entered into in contravention of the takeovers code, or a contract contains a provision which, if given effect to, would contravene the takeovers code,
 
@@ -994,7 +1014,7 @@ c may order the person to pay a pecuniary penalty that the court considers appro
 
 i materially prejudices the interests of offerees, the code company, the offeror or acquirer, competing offerors, or any other person involved in or affected by a transaction or event that is or will be regulated by the takeovers code, or that is incidental or preliminary to a transaction or event of that kind; or
 
-ii is likely to materially damage the integrity or reputation of any of New Zealand's securities markets; or
+ii is likely to materially damage the integrity or reputation of any of New Zealand's financial markets; or
 
 iii is otherwise serious.
 
@@ -1027,7 +1047,7 @@ a the principles contained in the takeovers code; and
 
 b the nature and extent of the contravention; and
 
-c the likelihood, nature, and extent of any damage to the integrity or reputation of any of New Zealand's securities markets because of the contravention; and
+c the likelihood, nature, and extent of any damage to the integrity or reputation of any of New Zealand's financial markets because of the contravention; and
 
 d the nature and extent of any loss or damage suffered by a person referred to in section 33M(c)(i) because of the contravention; and
 
@@ -1048,15 +1068,15 @@ If the court orders that a person pay a pecuniary penalty, and the proceedings w
 
 a the Panel:
 
-b if the code company's securities are, or were at any material time, quoted on a registered exchange's securities market, that registered exchange:
+b if the code company's financial products are, or were at any material time, quoted on a licensed market, the licensed market operator:
 
 c the code company concerned:
 
-d a member or security holder of the code company concerned:
+d a member or financial product holder of the code company concerned:
 
-e a person who was a member or security holder of the code company concerned at the time that the conduct to which the application relates occurred:
+e a person who was a member or financial product holder of the code company concerned at the time that the conduct to which the application relates occurred:
 
-f a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the code company in accordance with the takeovers code:
+f a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire financial products in the code company in accordance with the takeovers code:
 
 g with the leave of the court, any other person.
 
@@ -1068,15 +1088,15 @@ b that person has requested the Panel in writing to make an application to the c
 
 3 Where a request is made to the Panel to hold a meeting under section 32(1) and the Panel does not, within 14 days after receiving the request, make a determination under section 32(3), the following persons may make an application to the court under section 33F, 33I, or 33K
 
-a if the code company's securities are, or were at any material time, quoted on a registered exchange's securities market, that registered exchange:
+a if the code company's financial products are, or were at any material time, quoted on a licensed market, the licensed market operator:
 
 b the code company concerned:
 
-c a member or security holder of the code company concerned:
+c a member or financial product holder of the code company concerned:
 
-d a person who was a member or security holder of the code company concerned at the time that the conduct to which the application relates occurred:
+d a person who was a member or financial product holder of the code company concerned at the time that the conduct to which the application relates occurred:
 
-e a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the code company in accordance with the takeovers code:
+e a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire financial products in the code company in accordance with the takeovers code:
 
 f with the leave of the court, any other person.
 
@@ -1112,13 +1132,13 @@ d any other matters that the court thinks fit.
 
 3 The order has effect according to its tenor.
 
-42 Court may require person to give evidence or produce documents relating to interests in securities
+42 Court may require person to give evidence or produce documents relating to interests in financial products
 
 1 The court may, in any application under this subpart, for the purpose of ascertaining whether any person
 
-a has or had any direct or indirect interest in or right to any security in the code company concerned; or
+a has or had any direct or indirect interest in or right to any financial product in the code company concerned; or
 
-b has or had any direct or indirect right to exercise any voting rights attaching to any such security,order any person to
+b has or had any direct or indirect right to exercise any voting rights attaching to any such financial product,order any person to
 
 c attend before the court and be examined on oath or affirmation; or
 
@@ -1127,7 +1147,7 @@ d produce documents in that person's possession or under that person's control.
 2 An order under subsection (1) may be made on the application of any person who is a party to the application under this subpart.
 
 43 More than 1civil remedy order may be made for same conduct
-The court may make a civil remedy order of one kind against a person even though the court has made another civil remedy order of a different kind against the person for the same conduct.ExamplesThe court may make a compensatory order and a pecuniary penalty order for the same conduct.The court may make a civil remedy order requiring forfeiture of securities and declaring a previous exercise of voting rights attaching to those securities to be void.
+The court may make a civil remedy order of one kind against a person even though the court has made another civil remedy order of a different kind against the person for the same conduct.ExamplesThe court may make a compensatory order and a pecuniary penalty order for the same conduct.The court may make a civil remedy order requiring forfeiture of financial products and declaring a previous exercise of voting rights attaching to those financial products to be void.
 
 43A Only 1 pecuniary penalty order may be made for same conduct
 If conduct by a person constitutes a contravention of 2 or more provisions of the takeovers code, proceedings may be brought against that person for the contravention of any 1or more of the provisions, but no person is liable to more than 1 pecuniary penalty order for the same conduct.
@@ -1193,13 +1213,13 @@ a a material aspect of the statement or information is false or the statement or
 
 b the statement or information is likely to
 
-i induce a person to trade, or hold, the securities of a code company; or
+i induce a person to trade, or hold, the financial products of a code company; or
 
-ii have the effect of increasing, reducing, maintaining, or stabilising the price for trading in those securities; or
+ii have the effect of increasing, reducing, maintaining, or stabilising the price for trading in those financial products; or
 
 iii induce a person to vote for, or to vote against, a transaction that is or is likely to be regulated by the takeovers code, or to abstain from voting in respect of that transaction.
 
-2 In this section, *trade* means to acquire or dispose of securities.
+2 In this section, *trade* means to acquire or dispose of financial products.
 
 44C Criminal liability for false or misleading statement or information
 
@@ -1227,7 +1247,7 @@ a A has been convicted of an offence against either section 44 or section 44C or
 
 b A has, while a director of an incorporated or unincorporated body,
 
-i persistently contravened this Act, the Companies Act 1993, the Securities Markets Act 1988, the Securities Act 1978, the Securities Trustees and Statutory Supervisors Act 2011, or the takeovers code; or
+i persistently contravened this Act, the Companies Act 1993, the Financial Markets Conduct Act 2013, the Financial Markets Supervisors Act 2011, or the takeovers code; or
 
 ii if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
 
@@ -1243,7 +1263,7 @@ c A has been prohibited in an overseas jurisdiction from carrying on activities 
 An individual who acts in contravention of a management banning order under section 44F commits an offence and is liable on conviction to imprisonment for a term not exceeding 3years or to a fine not exceeding $100,000, or to both.
 
 44I Only 1 management banning order may be made for same conduct
-If conduct by a person constitutes grounds for making an order under any 1 or more of section 44F of this Act, section 60A of the Securities Act 1978, section 43F of the Securities Markets Act 1988, and section 383 of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
+If conduct by a person constitutes grounds for making an order under any 1 or more of section 44F of this Act, subpart 6 of Part 8 of the Financial Markets Conduct Act 2013, and section 383 of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
 
 44J Persons automatically banned from management
 
@@ -1267,7 +1287,7 @@ b give notice in the Gazette of the name of the person against whom the order is
 
 
 
-44L When court may prohibit payment or transfer of money, securities, or other property
+44L When court may prohibit payment or transfer of money, financial products, or other property
 
 1 This section applies if
 
@@ -1283,19 +1303,9 @@ c a civil proceeding has begun against a person under this Act.
 
 *aggrieved person* means any person to whom a relevant person is liable
 
-*associated persons* are
+*associated person* has the same meaning as in section 12(1) of the Financial Markets Conduct Act 2013
 
-a persons who are relatives within the meaning of the Income Tax Act 2007 or de facto partners; or
-
-b persons who are partners to whom the Partnership Act 1908 applies; or
-
-c bodies corporate that consist of substantially the same shareholders or are under the control of the same persons; or
-
-d a body corporate and a person who has the power, directly or indirectly, to exercise, or control the exercise of, the right to vote attached to 25% or more of the voting securities of the body corporate; or
-
-e a body corporate and a person who is a director or principal officer of the body corporate
-
-*liable* means liable, or may be or become liable, to pay money (whether in respect of a debt, by way of damages or compensation, or otherwise) or to account for securities or other property
+*liable* means liable, or may be or become liable, to pay money (whether in respect of a debt, by way of damages or compensation, or otherwise) or to account for financial products or other property
 
 *relevant person* means a person referred to in subsection (1).
 
@@ -1303,17 +1313,17 @@ e a body corporate and a person who is a director or principal officer of the bo
 
 1 The orders that may be made under section 44L are
 
-a an order prohibiting the relevant person from transferring, charging, or otherwise dealing with money, securities, or other property held or controlled by the relevant person:
+a an order prohibiting the relevant person from transferring, charging, or otherwise dealing with money, financial products, or other property held or controlled by the relevant person:
 
 b an order prohibiting a person who is indebted to the relevant person or to an associated person of the relevant person from making a payment in total or partial discharge of the debt to, or to another person at the direction or request of, the person to whom the debt is owed:
 
-c an order prohibiting a person holding money, securities, or other property, on behalf of the relevant person, or on behalf of an associated person of the relevant person, from paying all or any of the money, or transferring, or otherwise parting with possession of, the securities or other property, to, or to another person at the direction or request of, the person on whose behalf the money, securities, or other property, is or are held:
+c an order prohibiting a person holding money, financial products, or other property, on behalf of the relevant person, or on behalf of an associated person of the relevant person, from paying all or any of the money, or transferring, or otherwise parting with possession of, the financial products or other property, to, or to another person at the direction or request of, the person on whose behalf the money, financial products, or other property, is or are held:
 
 d an order prohibiting the taking or sending out of New Zealand by a person of money of the relevant person or of an associated person of the relevant person:
 
-e an order prohibiting the taking, sending, or transfer by a person of securities or other property of the relevant person, or of an associated person of the relevant person from a place in New Zealand to a place outside New Zealand (including the transfer of securities from a register in New Zealand to a register outside New Zealand):
+e an order prohibiting the taking, sending, or transfer by a person of financial products or other property of the relevant person, or of an associated person of the relevant person from a place in New Zealand to a place outside New Zealand (including the transfer of financial products from a register in New Zealand to a register outside New Zealand):
 
-f an order requiring the relevant person, or any person holding money, securities, or other property on behalf of the relevant person or an associated person of the relevant person, to pay or transfer money, securities, or other property to a specified person to be held on trust pending determination of the investigation, prosecution, or civil proceeding:
+f an order requiring the relevant person, or any person holding money, financial products, or other property on behalf of the relevant person or an associated person of the relevant person, to pay or transfer money, financial products, or other property to a specified person to be held on trust pending determination of the investigation, prosecution, or civil proceeding:
 
 g an order appointing,
 
@@ -1388,15 +1398,15 @@ a the applicant:
 
 b the Panel:
 
-c if the code company's securities are, or were at the material time, quoted on a registered exchange's securities market, that registered exchange:
+c if the code company's financial products are, or were at any material time, quoted on a licensed market, the licensed market operator:
 
 d the code company:
 
 e a person who is alleged to have suffered, or to be likely to suffer, loss or damage because of an alleged contravention of this Act or the takeovers code (whether that person or another person makes the allegation):
 
-f a person who was a security holder of the code company at the time that the conduct to which the application relates occurred:
+f a person who was a financial product holder of the code company at the time that the conduct to which the application relates occurred:
 
-g a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the code company in accordance with the takeovers code:
+g a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire financial products in the code company in accordance with the takeovers code:
 
 h a person directed to be given notice of the application:
 
