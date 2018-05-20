@@ -1832,7 +1832,7 @@ An application under section 109 or section 109A or section 109B may be made by 
 
 117 Appeal against order for destruction
 
-1 Any person aggrieved by an order made under section 116(1)  for the destruction of any publication may (whatever the amount involved) appeal from that order in the manner provided by the Summary Proceedings Act 1957, and until such appeal is determined or abandoned the order shall be suspended and shall not be carried into effect.
+1 Any person aggrieved by an order made under section 116(1)  for the destruction of any publication may (whatever the amount involved) appeal from that order in the manner provided by the Criminal Procedure Act 2011, and until such appeal is determined or abandoned the order shall be suspended and shall not be carried into effect.
 
 2 Nothing in subsection (1) confers on any person any right to appeal to the High Court, other than under section 58, against any decision of the Classification Office or the Board in respect of any publication.
 
@@ -1883,7 +1883,7 @@ ii fails to advertise, in the prescribed form and manner, the contents of any su
 
 4 Nothing in this section shall apply in relation to the public supply or public exhibition of a film that is exempted by section 7 or section 8 from the requirements of section 6.
 
-5 Every person who commits an offence against subsection (1) or subsection (2) or subsection (3) is liable to a fine not exceeding,
+5 Every person who commits an offence against subsection (1) or subsection (2) or subsection (3) is liable on conviction to a fine not exceeding,
 
 a in the case of an individual, $3,000:
 
@@ -1893,7 +1893,7 @@ b in the case of a body corporate, $10,000.
 
 1 Every person commits an offence against this Act who, not being the labelling body, issues or purports to issue any label that is intended or is likely, by reason of its wording or appearance, or in any other manner, to cause any person to believe, contrary to the fact, that the label was issued under this Act.
 
-2 Every person who commits an offence against this section is liable to a fine not exceeding,
+2 Every person who commits an offence against this section is liable on conviction to a fine not exceeding,
 
 a in the case of an individual, $3,000:
 
@@ -1966,7 +1966,7 @@ e has in that person's possession, for the purposes of supply or distribution to
 
 f in expectation of payment or otherwise for gain, or by way of advertisement, displays or exhibits an objectionable publication to any other person.
 
-2 Every person who commits an offence against subsection (1) is liable,
+2 Every person who commits an offence against subsection (1) is liable on conviction,
 
 a in the case of an individual, to a fine not exceeding $10,000:
 
@@ -1986,7 +1986,7 @@ c imported into New Zealand for the purposes of paragraph (c) of subsection (1),
 
 1 Every person commits an offence against this Act who does any act mentioned in section 123(1), knowing or having reasonable cause to believe that the publication is objectionable.
 
-2 Every person who commits an offence against subsection (1) is liable,
+2 Every person who commits an offence against subsection (1) is liable on conviction,
 
 a in the case of an individual, to imprisonment for a term not exceeding 10 years:
 
@@ -2026,7 +2026,7 @@ a supplies, distributes, exhibits, displays, or otherwise deals with a restricte
 
 b delivers to any person any restricted publication with intent that it should be dealt with by that person or any other person in such manner as to constitute an offence against this section.
 
-2 Every person who commits an offence against subsection (1) is liable to a fine not exceeding,
+2 Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding,
 
 a in the case of an individual, $3,000:
 
@@ -2046,7 +2046,7 @@ i that is objectionable if made available to a person of the age of the person t
 
 ii that the person so supplying, distributing, exhibiting, or displaying it knows is likely to be classified under this Act as objectionable if made available to a person of the age of the other person.
 
-2 Every person who commits an offence against subsection (1) is liable,
+2 Every person who commits an offence against subsection (1) is liable on conviction,
 
 a in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $10,000:
 
@@ -2056,7 +2056,7 @@ b in the case of a body corporate, to a fine not exceeding $25,000.
 
 1 Every person commits an offence against this Act who exhibits or displays an objectionable publication to any person under the age of 18 years.
 
-2 Every person who commits an offence against subsection (1) is liable,
+2 Every person who commits an offence against subsection (1) is liable on conviction,
 
 a in the case of an individual, to a fine not exceeding $10,000:
 
@@ -2066,7 +2066,7 @@ b in the case of a body corporate, to a fine not exceeding $30,000.
 
 4 Every person commits an offence against this Act who exhibits or displays an objectionable publication to any person under the age of 18 years knowing or having reasonable cause to believe that the publication is objectionable.
 
-5 Every person who commits an offence against subsection (4) is liable,
+5 Every person who commits an offence against subsection (4) is liable on conviction,
 
 a in the case of an individual, to imprisonment for a term not exceeding 10 years:
 
@@ -2087,7 +2087,7 @@ c at premises occupied by the Classification Office.
 
 2 It shall be no defence to a charge under subsection (1) that the defendant had no knowledge or no reasonable cause to believe that the publication to which the charge relates was objectionable.
 
-2A Every person who commits an offence against subsection (1) is liable,
+2A Every person who commits an offence against subsection (1) is liable on conviction,
 
 a in the case of an individual, to a fine not exceeding $10,000:
 
@@ -2095,7 +2095,7 @@ b in the case of a body corporate, to a fine not exceeding $30,000.
 
 3 Every person commits an offence against this Act who distributes an objectionable publication to any person in a public place knowing or having reasonable cause to believe that the publication is objectionable.
 
-4 Every person who commits an offence against subsection (3) is liable,
+4 Every person who commits an offence against subsection (3) is liable on conviction,
 
 a in the case of an individual, to imprisonment for a term not exceeding 1 year or to a fine not exceeding $20,000:
 
@@ -2109,7 +2109,7 @@ a publicly displays any restricted publication or any film poster or advertising
 
 b publicly displays any restricted publication or any film poster or advertising poster in contravention of any such condition.
 
-2 Every person who commits an offence against subsection (1) is liable to a fine not exceeding,
+2 Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding,
 
 a in the case of an individual, $5,000:
 
@@ -2121,7 +2121,7 @@ b in the case of a body corporate, $15,000.
 
 1 Subject to subsections (4) and (5), every person commits an offence against this Act who, without lawful authority or excuse, has in that person's possession an objectionable publication.
 
-2 Every person who commits an offence against subsection (1) is liable to a fine not exceeding,
+2 Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding,
 
 a in the case of an individual, $2,000:
 
@@ -2177,7 +2177,7 @@ f in connection with the delivery of the publication to the National Librarian i
 
 1 Every person commits an offence who does any act that constitutes an offence against section 131(1), knowing or having reasonable cause to believe that the publication is objectionable.
 
-2 Every person who commits an offence against subsection (1) is liable,
+2 Every person who commits an offence against subsection (1) is liable on conviction,
 
 a in the case of an individual, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $50,000:
 
@@ -2219,21 +2219,21 @@ b if the publication has been referred to the Classification Office under sectio
 
 
 133 Contravention of serial publication order or interim restriction order
-Every person commits an offence and is liable to a fine not exceeding,
+Every person commits an offence and is liable on conviction to a fine not exceeding,
 
 a in the case of a individual, $3,000; or
 
 b in the case of a body corporate, $10,000,who acts in contravention of, or fails to comply with, section 37(5) or section 37(6) or section 49(3) or section 67(3).
 
 134 Obstruction of Inspector
-Every person commits an offence and is liable to a fine not exceeding $1,000 who
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who
 
 a obstructs an Inspector in the performance of that Inspector's duties under this Act; or
 
 b fails to comply with any requirement of an Inspector under subsection (4) of section 106, otherwise than on the ground set out in subsection (5) of that section.
 
 135 Failure to surrender warrant
-Every person commits an offence and is liable to a fine not exceeding $1,000 who fails to comply with section 105(4).
+Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails to comply with section 105(4).
 
 
 
@@ -2282,19 +2282,14 @@ a that person reasonably and in good faith believes that that person's acceptanc
 b that person gives to the person from whom that person received or is to receive delivery of that publication notice in writing of that person's rejection or refusal of the publication, and of the reason for that rejection or refusal, as soon as practicable after that person becomes aware of the nature of the publication in question.
 
 141A Offences punishable on conviction on indictment
-Every offence against any of the following sections of this Act is punishable on conviction on indictment:
-
-a section 124(1) (offences involving knowledge in relation to objectionable publications):
-
-b section 127(4) (offence of exhibiting or displaying objectionable publication to person under age of 18 years knowing or having reasonable cause to believe that publication is objectionable):
-
-c section 131A(1) (offences relating to possession of objectionable publications and involving knowledge).
 
 142 Offences punishable on summary conviction
-Every offence against this Act or any regulations made under this Act and that is not an offence against a section specified in section 141A(a) to (c) is punishable on summary conviction.
 
-143 Extending time for taking prosecutions
-Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+143 Time for filing charging document
+
+1 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
+
+2 This section does not apply to an offence against section 124(1), 127(4), or 131A(1).
 
 144 Leave of Attorney-General to prosecute
 
@@ -2430,7 +2425,7 @@ b any magazine, newspaper, or periodical the title of which has been notified by
 
 4 The Minister of Justice may from time to time, by notice in the Gazette, grant exemptions from compliance with the provisions of subsection (1) or subsection (2) in respect of any printed matter or class of printed matter specified or described in the notice, and may from time to time in like manner amend or revoke any such notice.
 
-5 Every person commits an offence and is liable to a fine not exceeding $500 who acts in contravention of, or fails to comply with, any provision of this section.
+5 Every person commits an offence and is liable on conviction to a fine not exceeding $500 who acts in contravention of, or fails to comply with, any provision of this section.
 
 148 Fees charged by Classification Office to be reasonable
 Any fee charged under section 15(6) or section 38(3) or section 39(6) for a copy of any document shall be no more than is reasonably required to recover the costs of supplying that copy.
@@ -2498,7 +2493,7 @@ nc providing that film posters in respect of which an approval given pursuant to
 
 nd providing, in relation to any film in respect of which a decision has been made under the Video Recordings Act 1987, that unless a label has been issued under this Act in respect of the film, compliance with all or any of the requirements of the Video Recordings Act 1987 with respect to the labelling of a video recording is regarded as compliance with all or any of the requirements of this Act with respect to the public supply of that film:
 
-o prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $2,000, that may, on summary conviction, be imposed in respect of any such offences:
+o prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $2,000, that may, on conviction, be imposed in respect of any such offences:
 
 p providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for their due administration.
 
