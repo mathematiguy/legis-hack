@@ -1181,7 +1181,6 @@ a in the case of an individual, imprisonment for a term not exceeding 5 years or
 b in the case of a body corporate, a fine not exceeding $1,000,000.
 
 44D Exception for disclosure by investment advisers or brokers
-Section 44B does not apply to conduct in relation to a disclosure under Part 4 of the Securities Markets Act 1988 or to conduct in relation to an advice advertisement, a broker advertisement, or a product advertisement to the extent that that conduct is regulated by Part 4 of that Act.
 
 44E Fair Trading Act 1986 excluded
 The Fair Trading Act 1986 does not apply to conduct in relation to any transaction or event regulated by the takeovers code or incidental or preliminary to a transaction or event that is or is likely to be regulated by the takeovers code.
