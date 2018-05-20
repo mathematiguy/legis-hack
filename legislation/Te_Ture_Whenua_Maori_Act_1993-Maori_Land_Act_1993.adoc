@@ -5441,7 +5441,7 @@ c Create easements in gross over any land to which this Part of this Act applies
 
 4 The Court shall not lay out roadways over any Crown land without the consent of the Commissioner of Crown Lands.
 
-5 The Court shall not lay out roadways connecting with any State highway without the consent of Transit New Zealand and the territorial authority for the district in which the connection would be effected.
+5 The Court shall not lay out roadways connecting with any State highway without the consent of the New Zealand Transport Agency and the territorial authority for the district in which the connection would be effected.
 
 6 The Court shall not lay out roadways connecting with any public road without the consent of the territorial authority for the district in which the connection would be effected.
 
@@ -5481,7 +5481,7 @@ c Create easements in gross over any land to which this Part of this Act applies
 
 4 No roadway shall be declared a road or street pursuant to this section without the consent in writing of
 
-a Transit New Zealand and the territorial authority for the district in which the land is situated, in the case of a State highway or a proposed State highway; or
+a the New Zealand Transport Agency and the territorial authority for the district in which the land is situated, in the case of a State highway or a proposed State highway; or
 
 b The territorial authority for the district in which the road or proposed road is situated.
 
