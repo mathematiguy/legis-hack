@@ -60,7 +60,7 @@ d A photograph, film, negative, tape, or other device in which one or more visua
 
 *new value* has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
 
-*Official Assignee* means, in relation to the estate of a bankrupt, any Official Assignee or Deputy Assignee appointed under the Insolvency Act 1967 and having charge of that estate
+*Official Assignee* means, in relation to the estate of a bankrupt, any Official Assignee or Deputy Assignee appointed under the Insolvency Act 2006 and having charge of that estate
 
 *Overseas company* means a company incorporated outside New Zealand
 
@@ -200,7 +200,7 @@ j
 
 k a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
 
-l A person who is prohibited under section 111(1)(c) of the Insolvency Act 1967 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
+l A person who is prohibited under section 299(1)(b) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
 
 m A person who is disqualified from acting as a receiver by the instrument that confers the power to appoint a receiver.
 
@@ -637,7 +637,7 @@ c any other preferential claims or priority claims according to law.
 
 a A company that is being wound up or that has been put into liquidation; or
 
-b A debtor who has been adjudged bankrupt under the Insolvency Act 1967unless the Court orders otherwise.
+b A debtor who has been adjudged bankrupt under the Insolvency Act 2006unless the Court orders otherwise.
 
 2 A receiver holding office in respect of property referred to in subsection (1) of this section may act as the agent of the grantor only
 
