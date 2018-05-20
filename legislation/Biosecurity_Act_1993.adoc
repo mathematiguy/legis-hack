@@ -706,7 +706,7 @@ cf publish notices about industry organisations under section 100ZA(2):
 
 cg recommend to the Governor-General under section 100ZB(1) the making of Orders in Council imposing readiness and response levies:
 
-d recommend to the Governor-General under section137(1) the making of Orders in Council imposing levies, and perform other functions in relation to levies:
+d recommend to the Governor-General under section 137(1) or section 140AA(3) the making of Orders in Council imposing levies, and perform other functions in relation to levies:
 
 e recommend to the Governor-General under section 165 the making of regulations.
 
@@ -6451,7 +6451,7 @@ An inspector may by notice in writing direct that any risk goods specified in th
 
 126 Inspection of and intervention in transitional facilities and containment facilities
 
-1 An inspector authorised in writing by the Director-General may at any reasonable time enter a transitional facility or a containment facility for the purpose of confirming that the facility complies with the standards set in accordance with section 39or section 11(1)(fc) of the Hazardous Substances and New Organisms Act 1996 or that the operator is approved as the facility operator for that facility, and the provisions of section 112 apply to any such entry.
+1 An inspector authorised in writing by the Director-General may at any reasonable time enter a transitional facility or a containment facility for the purpose of confirming that the facility complies with the standards set in accordance with section 39 or section 11(1)(fc) of the Hazardous Substances and New Organisms Act 1996 or that the operator is approved as the facility operator for that facility, and the provisions of section 112 apply to any such entry.
 
 2 An inspector may exercise a power described in subsection (3) if (and only if) the inspector has reasonable grounds to suspect that
 
@@ -6792,9 +6792,60 @@ c the payment of additional or increased levy when amounts of levy otherwise pay
 
 d the holding of funds from which payments of levy are to be made, on trust in separate accounts.
 
+140AA Levies for recovering border processing costs
+
+1 In this section, *traveller* means any person who arrives in New Zealand from any place outside New Zealand.
+
+2 Every traveller who arrives in New Zealand on or after 1 January 2016 is liable, while there is a levy order in force under subsection (3), to pay a levy to the Director-General in relation to the costs incurred by the Ministry in, or for the purpose of, exercising its powers or performing its functions under this Act in relation to travellers and the goods in their possession or under their control (including as part of their personal effects or baggage).
+
+3 The Governor-General may, by Order in Council, on the recommendation of the responsible Minister, make a levy order prescribing
+
+a the rate of levy or the basis on which the rate is to be calculated or ascertained; and
+
+b insofar as the order does not set an actual rate, how the actual rate of the levy is to be set; and
+
+c when and how the levy is to be paid; and
+
+d how the rate of levy, and any variation of the rate, is to be notified.
+
+4 The responsible Minister must, before recommending that a levy order be made under this section, consult with persons who the Minister believes are representative of interests likely to be affected substantially by the order.
+
+5 A levy order must not be made in respect of the costs that are otherwise recovered or otherwise to be recovered under this Act or the Airports (Cost Recovery for Processing of International Travellers) Act 2014.
+
+6 A levy order made under this section
+
+a is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
+
+b must be presented to the House of Representatives under section 41 of that Act.
+
+7 To avoid doubt, this section does not limit section 135 or 137.
+
+140AB Contents of border processing levy order
+A levy order under section 140AA may
+
+a prescribe different rates of levy, on any differential basis, for different persons or different classes of persons:
+
+b prescribe a maximum rate or maximum rates of levy:
+
+c exempt certain persons or classes of persons from the requirement to pay the levy:
+
+d prescribe persons responsible for collecting the levy from those primarily responsible for paying it:
+
+e allow persons collecting the levy to recover the costs of collecting the levy and, if so, prescribe the basis on which those costs are to be calculated or ascertained:
+
+f require that returns be made to the Director-General or some other person or body to enable amounts of levy payable to be calculated, determined, or verified:
+
+g provide, subject to such conditions as may be prescribed, for extensions of time for the payment of levy:
+
+h provide for the payment of additional or increased levy in the event of late payment or non-payment:
+
+i provide for circumstances in which levy paid may be refunded:
+
+j require that levy funds payable be held on trust in separate accounts.
+
 140A Trust accounts for levy money payable to Director-General
 
-1 Where an order under section 137 provides that funds from which payments of levy are made are to be held on trust in separate accounts, the persons responsible for collecting the levy must each keep a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989; and
+1 Where an order under section 137 or 140AA provides that funds from which payments of levy are made are to be held on trust in separate accounts, the persons responsible for collecting the levy must each keep a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989; and
 
 a ensure that the account is so named as to identify that it is a trust account kept by the person responsible for collecting the levy for the purposes of the order; and
 
@@ -6806,15 +6857,15 @@ ii the balance in the account on any day is not less than the amount outstanding
 
 2 For the purpose of this section, the amount outstanding to the Director-General by a person responsible for collecting the levy on any day is the remainder obtained by subtracting
 
-a the total of all amounts of levy paid by that person to the Director-General before that day calculated on the basis specified in the order under section 137; from
+a the total of all amounts of levy paid by that person to the Director-General before that day calculated on the basis specified in the order under section 137 or 140AA; from
 
 b the total of all amounts required by subsection (3) to be deposited in the trust account by the person responsible for collecting the levy not later than a day before that day.
 
-3 Where a person is responsible for collecting a levy, that person must deposit an amount equal to the levy calculated on the basis provided for in the order under section 137 in the trust account on the day or days specified in that order or on a day or days calculated in accordance with that order.
+3 Where a person is responsible for collecting a levy, that person must deposit an amount equal to the levy calculated on the basis provided for in the order under section 137 or 140AA in the trust account on the day or days specified in that order or on a day or days calculated in accordance with that order.
 
 4 There is deemed to be held on trust for the Director-General as levy money
 
-a the amount outstanding to the Director-General by the person responsible for collecting the levy held in the trust account specified in the order under section 137; or
+a the amount outstanding to the Director-General by the person responsible for collecting the levy held in the trust account specified in the order under section 137 or 140AA; or
 
 b where the amount held in the account is less than the amount outstanding, all the money in the account.
 
@@ -6829,14 +6880,14 @@ b is not liable to be attached or taken in execution at the instance ofany credi
 7 Nothing in subsection (6) limits or affects any obligation or liability under this Act of any person who has become responsible for collecting the levy.
 
 141 Effect of levy order
-Where an order is made under section 137, the following provisions apply:
+Where an order is made under section 137 or 140AA, the following provisions apply:
 
-a every person responsible for paying the levy to the Director-General shall do so; and
+a every person responsible for paying or collecting the levy shall do so; and
 
-b the Director-General may recover the levy from any person responsible for paying it as a debt due in a court of competent jurisdiction.
+b the Director-General may recover the levy from any person responsible for paying or collecting it as a debt due in a court of competent jurisdiction.
 
 141A Orders to provide for records to be kept for Director-General's levy
-For the purpose of ascertaining whether or not an order under section 137 is being complied with, the order must provide for
+For the purpose of ascertaining whether or not an order under section 137 or 140AA is being complied with, the order must provide for
 
 a the keeping of statements, accounts, and records of specified classes or descriptions by the Director-General, persons responsible for collecting the levy, and persons responsible for paying the levy concerned, or any of them; and
 
@@ -6844,13 +6895,13 @@ b any such statements, accounts, or records to be retained for a specified perio
 
 141B Compliance audits for Director-General's levy
 
-1 While an order under section 137 is in force, the Minister may, at the request of the Director-General, appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
+1 While an order under section 137 or 140AA is in force, the Minister may, at the request of the Director-General, appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
 
 a some or all of the persons responsible for collecting the levy:
 
 b some or all of the persons responsible for paying the levy.
 
-2 While an order under section 137 is in force, the Minister may, if an arbitrator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of all or any of the persons involved in the dispute.
+2 While an order under section 137 or 140AA is in force, the Minister may, if an arbitrator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of all or any of the persons involved in the dispute.
 
 3 No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 
@@ -8106,9 +8157,9 @@ a fails to make the declaration required by section 24J(b) or 24K(8)(b), if an i
 
 b makes a false declaration under section 24J or 24K, if an inspector requires the person to make the declaration.
 
-15 A person commits an offence against this Act who fails to keep statements, accounts, or records of leviable activity carried on by the person sufficient to satisfy the requirements of an order made under any of sections 100L, 100ZB, and 137.
+15 A person commits an offence against this Act who fails to keep statements, accounts, or records of leviable activity carried on by the person sufficient to satisfy the requirements of an order made under any of sections 100L, 100ZB, 137, and 140AA.
 
-16 A person commits an offence against this Act who fails to maintain statements, accounts, or records of leviable activity carried on by the person to a sufficient standard to satisfy the requirements of an order made under any of sections 100L, 100ZB, and 137.
+16 A person commits an offence against this Act who fails to maintain statements, accounts, or records of leviable activity carried on by the person to a sufficient standard to satisfy the requirements of an order made under any of sections 100L, 100ZB, 137, and 140AA.
 
 17 A person commits an offence against this Act in the following circumstances:
 
