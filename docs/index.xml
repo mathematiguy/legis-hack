@@ -36,7 +36,7 @@
       <pubDate>Tue, 23 Jan 2018 18:43:07 +1300</pubDate>
       
       <guid>https://jamestingedwards.github.io/legis-hack/contact/</guid>
-      <description></description>
+      <description>The Code Our code is in a GitHub repository here</description>
     </item>
     
     <item>
@@ -45,7 +45,9 @@
       <pubDate>Tue, 23 Jan 2018 18:42:58 +1300</pubDate>
       
       <guid>https://jamestingedwards.github.io/legis-hack/about/</guid>
-      <description>Law as Code As part of the Better Rules Hackathon, we wanted to help make legislation easier to use, track, and improve.</description>
+      <description>Law as Code As part of the Better Rules Hackathon, we wanted to help make legislation easier to use, track, and improve.
+The Goal We wanted to build a proof-of-concept, to show that it is both feasible and beneficial to make legislation easier to work with.
+The Approach We wanted to use simple, familiar tools, to make the most of our limited time over the weekend. We chose to push our output to GitHub, a popular platform for sharing and working with code, to avoid any need to manage our own web hosting.</description>
     </item>
     
   </channel>
