@@ -414,11 +414,7 @@ b if the indicative referendum is to be held on another day, the 50thday after t
 
 5 The latest day for the return of the writ must be stated in the writ.
 
-6 The latest day for the return of the writ is,
-
-a if the voting period for the indicative referendum ends on the polling day for a general election, the 60thday after the issue of the writ:
-
-b if the voting period for the indicative referendum ends on another day, the 50th day after the issue of the writ.
+6 The latest day for the return of the writ is the 60th day after the issue of the writ.
 
 26B Notice of issue of writ
 
@@ -540,7 +536,11 @@ c immediately after endorsing and signing the writ, transmit the writ to the Cle
 
 5 If, at any time before the expiry of the time for an application for a recount of the votes, it appears to the Electoral Commission that such an application may be made, the Electoral Commission may postpone the return of the writ until that expiry.
 
-6 Subsections (4) and (5) prevail over subsections(1)to (3).
+5A If the voting period for an indicative referendum conducted by postal voting is extended under section 37 of the Referenda (Postal Voting) Act 2000, the Electoral Commission may postpone the return of the writ until as soon as practicable after noon on the fourth day after the last day of the extended voting period.
+
+5B Subsection (5A) applies whether the voting period is extended in relation to the whole or any area or areas of New Zealand, or any or all of Tokelau, Campbell Island, Raoul Island, or the Ross Dependency.
+
+6 Subsections (4) to (5B) prevail over subsections(1)to (3).
 
 40 Declaration of result
 
