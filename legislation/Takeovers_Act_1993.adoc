@@ -1156,11 +1156,35 @@ b the contravention ought reasonably to be excused, having regard to all the cir
 
 44B False or misleading statement or information
 
+1 A person must not make a statement or disseminate information, in relation to any transaction or event regulated by the takeovers code or incidental or preliminary to a transaction or event that is or is likely to be regulated by the takeovers code, if
+
+a a material aspect of the statement or information is false or the statement or information is materially misleading; and
+
+b the statement or information is likely to
+
+i induce a person to trade, or hold, the securities of a specified company; or
+
+ii have the effect of increasing, reducing, maintaining, or stabilising the price for trading in those securities; or
+
+iii induce a person to vote for, or to vote against, a transaction that is or is likely to be regulated by the takeovers code, or to abstain from voting in respect of that transaction.
+
+2 In this section, *trade* means to acquire or dispose of securities.
+
 44C Criminal liability for false or misleading statement or information
 
+1 A person who contravenes section 44B commits an offence if the person has actual knowledge that the statement or information is false in a material aspect or is materially misleading.
+
+2 A person who commits an offence against subsection (1) is liable on conviction on indictment to,
+
+a in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or to both:
+
+b in the case of a body corporate, a fine not exceeding $1,000,000.
+
 44D Exception for disclosure by investment advisers or brokers
+Section 44B does not apply to conduct in relation to a disclosure under Part 4 of the Securities Markets Act 1988 or to conduct in relation to an advice advertisement, a broker advertisement, or a product advertisement to the extent that that conduct is regulated by Part 4 of that Act.
 
 44E Fair Trading Act 1986 excluded
+The Fair Trading Act 1986 does not apply to conduct in relation to any transaction or event regulated by the takeovers code or incidental or preliminary to a transaction or event that is or is likely to be regulated by the takeovers code.
 
 4 Other Court orders
 
