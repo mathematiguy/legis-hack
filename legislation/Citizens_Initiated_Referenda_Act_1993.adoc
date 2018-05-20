@@ -241,9 +241,9 @@ a calculate the number of signatures that must be checked for the purpose of pro
 
 b take, from the signatures to the indicative referendum petition, the number of signatures calculated under paragraph (a).
 
-2 The Clerk of the House of Representatives shall give to the Chief Registrar of Electors the signatures taken under subsection (1)(b).
+2 The Clerk of the House of Representatives must give to the Electoral Commission established by section4B of the Electoral Act 1993 the signatures taken under subsection (1)(b).
 
-3 The Chief Registrar of Electors shall check whether or not the signatories are eligible electors and shall give the result to the Clerk of the House of Representatives.
+3 The Electoral Commission must check whether or not the signatories are eligible electors and shall give the result to the Clerk of the House of Representatives.
 
 4 The Clerk of the House of Representatives shall, on receiving the result, determine, with the assistance of the Government Statistician, whether or not the indicative referendum petition has, after the date on which the promoter received the written notice required by section 13(1)(a), been signed by not less than 10% of the eligible electors.
 
@@ -422,7 +422,7 @@ b if the indicative referendum is to be held on another day, the 50thday after t
 
 a the Clerk of the House of Representatives:
 
-b the Chief Registrar of Electors:
+b 
 
 c the promoter of the indicative referendum petition seeking the holding of that indicative referendum.
 
