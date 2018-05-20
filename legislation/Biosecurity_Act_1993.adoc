@@ -2421,66 +2421,14 @@ c whether or not access is currently occurring.
 
 
 41B Purpose of sections 41C to 41E
-The purpose of sections 41C to 41E is to support certain interim information-sharing measures (relating to joint border management initiatives between the Ministry and the Customs) that are required to be in place until the JBMS becomes operational by allowing
-
-a the Ministry or an agency appointed under section 41C to collect or store any border information:
-
-b the Customs to access that border information for a customs-related border management function.
 
 41C Interim collection of border information
 
-1 The Ministry may
-
-a collect any border information:
-
-b store any border information.
-
-2 If the border information is personal information, subsection (1) applies despite anything in information privacy principle 2 or 3 of the Privacy Act 1993.
-
-3 The Minister may appoint any agency (in addition to, or instead of, the Customs) to exercise any of the powers conferred on the Ministry by subsection (1).
-
 41D Requirement by or under this Act to supply border information is complied with if information is supplied to Customs or other agency
-
-1 A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Ministry if, instead of to the Ministry, the person supplies the border information to
-
-a the Customs, for the purposes of, and in accordance with, section 282F(1) of the Customs and Excise Act 1996:
-
-b an agency appointed under section 41C(3), for the purposes of, and in accordance with, section 41C(1) of this Act or section 282F(1) of the Customs and Excise Act 1996.
-
-2 However, subsection (1) does not apply if the Director-General has given the person a written notice requiring the border information to be supplied to the Ministry instead of to the Customs or an agency appointed under section 41C(3).
 
 41E Interim access to border information
 
-1 The Director-General may, in accordance with a written agreement entered into by the Director-General and the chief executive, allow the Customs to access any border information that was or is collected or stored before, on, or after the commencement of this section.
-
-2 If the border information is personal information, subsection (1) applies despite anything in information privacy principle 10 or 11 of the Privacy Act 1993.
-
-3 An agreement must state
-
-a the purpose of the agreement; and
-
-b the border information that can be accessed; and
-
-c the conditions subject to which the border information will be accessed; and
-
-d how the Customs will use the border information (including the limits on any further disclosure by the Customs); and
-
-e the method and form of access.
-
-4 An agreement may be varied by the Director-General and the chief executive in writing.
-
-5 The Director-General and the chief executive must consult the Privacy Commissioner before entering into or varying an agreement.
-
-6 To avoid doubt, nothing in subsection (1) limits or prevents the Customs from carrying out an analysis of any border information to which it has access under that subsection for the purpose of examining risk patterns or risk profiles in relation to any or all of the following:
-
-a goods, persons, or craft:
-
-b import or export transactions:
-
-c importers or exporters.
-
 41F Expiry of sections 41B to 41E and agreements made under section 41E
-Sections 41B to 41E and any agreement made under section 41E expire, or must be taken to have expired, on the date of expiry of sections 282E to 282H of the Customs and Excise Act 1996 (as provided for in section 282I of that Act).
 
 
 
