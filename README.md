@@ -2,11 +2,17 @@
 
 **Instructions**
 
-Install python3 and beautifulsoup
+Install BeautifulSoup4
 
-python3 ./xmldownload.py
+Example on aws ubuntu box:
 
-python3 ./xmltransform.py
+$ apt-get install python3-bs4
+
+$ git clone https://github.com/jamestingedwards/legis-hack.git
+
+$ python3 ./xmldownload.py
+
+$ python3 ./xmltransform.py
 
 **Problem Statement**
 
