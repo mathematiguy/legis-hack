@@ -3661,7 +3661,7 @@ b Who is not responsible for the administration of the trust:
 
 a Who is a minor; or
 
-b Who is mentally disordered within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+b 
 
 c Who is detained in a prison; or
 
@@ -4645,11 +4645,23 @@ b Declare the election invalid and order a new election to be held.
 
 2 Without limiting the powers of the Court under section 269(4) of this Act, no person shall be appointed or elected or shall continue to hold office as a member of a committee of management who is or becomes
 
-a A person who is, or is deemed to be, subject to a compulsory treatment order made under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+a a person who is subject to a personal order or a property order made under the Protection of Personal and Property Rights Act 1988 or for whom a trustee corporation is acting as manager under section 32 or 33 of that Act; or
 
 b A bankrupt who has not obtained an order of discharge, or whose order of discharge is suspended for a term not yet expired or is subject to conditions not yet fulfilled; or
 
 c A person convicted of any offence punishable by imprisonment for a term of 6 months or more, unless that person has served the sentence or otherwise suffered the penalty imposed upon that person.
+
+3 However, if a property order is made in respect of a member of a committee of management under section 30 of the Protection of Personal and Property Rights Act 1988,
+
+a the member does not cease to hold office as a member of the committee by virtue only of the making of that order; but
+
+b while that order remains in force, the member is suspended from office.
+
+4 A member who is suspended from office under subsection (3)
+
+a is deemed to have been granted leave of absence; and
+
+b is not capable of acting as a member of the committee during the period of suspension.
 
 273 Election of chairman of committee and appointment of secretary
 
