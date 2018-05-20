@@ -4,7 +4,7 @@ import re
 import os
 import xml.dom.minidom
 
-def read_url(url, start_year, pretty_print):
+def read_url(url, start_year, end_year, pretty_print):
     url = url.replace(" ","%20")
     req = Request(url)
     a = urlopen(req).read()
@@ -27,11 +27,11 @@ def read_url(url, start_year, pretty_print):
         if match:
             #print("Group 1: " + match.group(1))
             year = int(match.group(1))
-            if year != None and year >= start_year:
+            if year != None and year >= start_year and <= end_year:
                 #print('Going in to dir ' + dirUrl)
                 
                 #Recurse in to the directory
-                read_url(dirUrl, start_year, pretty_print)
+                read_url(dirUrl, start_year, end_year, pretty_print)
                 
     #absolute dir the script is in
     root_path = os.path.dirname(os.path.realpath(__file__))
@@ -94,4 +94,4 @@ def read_url(url, start_year, pretty_print):
             file.close()
             print("Downloaded to: " + file_path)
         
-read_url("http://legislation.govt.nz/subscribe/act/public", 1993, False)
+read_url("http://legislation.govt.nz/subscribe/act/public", 1993, 1993, False)
