@@ -9674,7 +9674,7 @@ a A person has been convicted on indictment of any offence in connection with th
 
 b A person has been convicted of an offence under any of sections 377 to 380 of this Act or of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
 
-c A judgment has been obtained in an action under Part 1 of the Securities Markets Act 1988 against a person as an insider (within the meaning of that Part of that Act),that person shall not, during the period of 5 years after the conviction or the judgment, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company, unless that person first obtains the leave of the Court which may be given on such terms and conditions as the Court thinks fit.
+c that person shall not, during the period of 5 years after the conviction or the judgment, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company, unless that person first obtains the leave of the Court which may be given on such terms and conditions as the Court thinks fit.
 
 2 A person intending to apply for the leave of the Court under this section shall give to the Registrar not less than 10 days' notice of that person's intention to apply.
 
@@ -9702,7 +9702,7 @@ iii Acted in a reckless or incompetent manner in the performance of his or her d
 
 ca a person has been prohibited in a country, State, or territory outside New Zealand from carrying on activities that the Court is satisfied are substantially similar to being a director or promoter of or being concerned or taking part in the management of a body corporate; or
 
-d A judgment has been obtained in an action under Part 1 of the Securities Markets Amendment Act 1988 against a person as an insider (within the meaning of that Part of that Act); or
+d 
 
 e A person has become of unsound mind,the Court may make an order that the person must not, without the leave of the Court, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company for such period not exceeding 10 years as may be specified in the order.
 
