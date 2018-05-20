@@ -1434,7 +1434,7 @@ b the terms and conditions under which the assistance is proposed are fair and r
 
 3 If, after a resolution is passed under subsection (1) and before the financial assistance is given, the board ceases to be satisfied on reasonable grounds that the company will, immediately after the financial assistance is given, satisfy the solvency test, any financial assistance given by the company is deemed not to have been authorised.
 
-4 Every director of a company who fails to comply with subsection (2) commits an offence and is liable to the penalty set out in section 373(1).
+4 Every director of a company who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in section 373(1).
 
 5 The provisions of section 56 apply in relation to the giving of financial assistance by a company with such modifications as may be necessary.
 
@@ -9708,15 +9708,15 @@ o section 218(2)(b) (which relates to the obligation to provide copies of docume
 
 375 Proceedings for offences
 
-1 The offences specified in
+1 
 
-a subsections (1), (2), and (3) of section 373; and
+2 
 
-b section 374are triable summarily.
+3 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,
 
-2 The offences specified in subsection (4) of section 373 are triable on indictment.
+a a charging document may be filed at any time in respect of an offence against section 373(4); and
 
-3 Notwithstanding anything to the contrary in the Summary Proceedings Act 1957, any information for an offence referred to in subsection (1) may be laid at any time within 3 years after the date of the offence.
+b the limitation period in respect of an offence specified in section 373(1) or (2), or section 374 of this Act ends on the date that is 3 years after the date on which the offence was committed.
 
 4 Nothing in sections 377 to 380 affects the liability of any person under any other Act, but no person shall be convicted of an offence against any of those sections and a provision of any other Act in respect of the same conduct.
 
@@ -9804,7 +9804,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
 
 1 Where
 
-a a person has been convicted on indictment of any offence in connection with the promotion, formation, or management of a company; or
+a a person has been convicted under any of subparagraphs (g) to (j) of section 373(4) of any offence in connection with the promotion, formation, or management of a company; or
 
 b a person has been convicted of an offence under any of sections 377 to 380 or of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
 
@@ -9822,7 +9822,7 @@ c that person shall not, during the period of 5 years after the conviction or th
 
 1 Where
 
-a a person has been convicted on indictment of an offence in connection with the promotion, formation, or management of a company, or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
+a a person has been convicted under section 373(4) of an offence in connection with the promotion, formation, or management of a company, or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
 
 b a person has committed an offence for which the person is liable (whether convicted or not) under this Part; or
 
@@ -9950,7 +9950,7 @@ b directly or indirectly be concerned in or take part in the promotion, formatio
 
 c directly or indirectly be concerned in or take part in the carrying on of a business that has the same name as the failed company's pre-liquidation name or a similar name.
 
-2 A person who contravenes subsection (1) commits an offence and is liable on conviction on indictment to the penalty set out in section 373(4).
+2 A person who contravenes subsection (1) commits an offence and is liable on conviction to the penalty set out in section 373(4).
 
 386B Definitions for purpose of phoenix company provisions
 
