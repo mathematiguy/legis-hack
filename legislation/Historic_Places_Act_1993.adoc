@@ -27,6 +27,8 @@ b is or may be able through investigation by archaeological methods to provide e
 
 *Council* means the Maori Heritage Council established by section 84(1)
 
+*customary marine title area* has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+
 *Environment Court* means the Environment Court continued by section 247 of the Resource Management Act 1991
 
 *financial year* means the 12months ending on the close of 30June or any other date determined for the Trust by the Minister of Finance
@@ -66,6 +68,8 @@ b includes anything that is in or fixed to such land
 *Minister* means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
 
 *occupier* means the inhabitant occupier of any property
+
+*planning document* has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
 
 *public notice* means a notice published in
 
@@ -264,6 +268,8 @@ b every individual site of the class to which the application relates that is pr
 
 3A In exercising a power under any of subsections (1) to (3), the Trust must have regard (in accordance with the provisions of the relevant Act) to a statutory acknowledgement that relates to the site or sites concerned.
 
+3B The Trust must comply with section 89 of the Marine and Coastal Area (Takutai Moana) Act 2011.
+
 4 The Trust shall make its decision within 3 months after an application in respect of a site is lodged with the Trust under section 11 or section 12, unless the Trust, by written notice to the applicant, requires the applicant to provide further information relating to the application.
 
 5 Subject to subsections (6) and (7) or where the Trust requires further information under subsection (4), the Trust may extend the time period specified in subsection (4).
@@ -416,6 +422,8 @@ e a statutory acknowledgement that relates to the site or sites concerned:
 f the relationship of Maori and their culture and traditions with their ancestral lands, water, sites, wahi tapu, and other taonga.
 
 6A For the purposes of subsection (6)(e), if the court has regard to a statutory acknowledgement, the court must have regard to the statutory acknowledgement in accordance with the provisions of the relevant Act.
+
+6B In determining an appeal in respect of a decision made under section 14(1)(a) or (b) that relates to a customary marine title area, the court must have particular regard to any planning documents lodged with the New Zealand Historic Places Trust under section 89 of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to an archaeological site within the customary marine title area.
 
 7 Nothing in this section limits or affects the powers of the Trust to issue a requirement for a heritage order.
 
