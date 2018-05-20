@@ -455,30 +455,19 @@ c Where the occupier of any Maori freehold land under a lease or licence, either
 d Where any person without right, title, or licence is in possession of any Maori freehold land.
 
 21 Power of Court to grant relief against forfeiture
-The Court may exercise with respect to Maori freehold land all of the powers conferred on the High Court by sections 118 and 119 of the Property Law Act 1952.
+The Court may exercise with respect to Maori freehold land all of the powers conferred on the High Court by sections 253 to 260 of the Property Law Act 2007.
 
 22 Power of Court to grant relief against refusal to grant renewal
-The Court may exercise with respect to Maori freehold land all of the powers conferred on the High Court by section 120 of the Property Law Act 1952.
+The Court may exercise with respect to Maori freehold land all of the powers conferred on the High Court by section 264 of the Property Law Act 2007.
 
 22A Power of Court to grant specific performance of leases of Maori freehold land
 The Court has the same jurisdiction as that of the High Court to grant and enforce specific performance or to award damages in addition to, or in substitution for, specific performance, in respect of leases of Maori freehold land or leases of General land owned by Maori that ceased to be Maori land under Part 1 of the Maori Affairs Amendment Act 1967.
 
 23 Power of Court to authorise entry for erecting or repairing buildings, etc
-The Court may exercise with respect to Maori freehold land all of the powers conferred on the District Court by subsections (1), (2), and (4) of section 128 of the Property Law Act 1952.
+The Court may exercise with respect to Maori freehold land all of the powers conferred on a court by subpart 1 of Part 6 of the Property Law Act 2007.
 
-24 Power of Court to grant relief in cases of encroachment
-
-1 Subject to the provisions of this section, the Court may exercise with respect to Maori freehold land all of the powers conferred on the High Court
-
-a By subsections (1) to (5) of section 129 of the Property Law Act 1952; and
-
-b By subsections (1) to (6) of section 129A of the Property Law Act 1952.
-
-2 Instead of awarding damages to the owner of the land encroached or wrongly built upon, the Court may, in its discretion, award to the owner such portion of the encroaching owner's land or of the original land as in the Court's opinion will be reasonable recompense to the owner whose land has been encroached or wrongly built upon, and the Court may make a vesting order accordingly.
-
-3 An order may be made under this section notwithstanding that the encroachment took place before the commencement of this Act.
-
-4 Nothing in subsections (1) to (6) of section 129A of the Property Law Act 1952 (as applied by subsection (1)(b) of this section) restricts the operation of subsections (1) to (5) of section 129 of that Act (as applied by subsection (1)(a) of this section).
+24 Power of Court to grant relief if building is on wrong land or encroachment exists
+The Court may exercise with respect to Maori freehold land all of the powers conferred on a court by subpart 2 of Part 6 of the Property Law Act 2007.
 
 24A Powers of Court under Contracts (Privity) Act 1982 and Contractual Remedies Act 1979
 
@@ -2113,7 +2102,7 @@ b The term *heir*, or *next-of-kin*, or any similar term used in relation to the
 
 2 Where any term referred to in paragraph (a) or paragraph (b) of subsection (1) of this section appears in a will of a Maori who died on or after the 1st day of April 1968 but before the 24th day of October 1969 (being the date of the commencement of subsections (1) to (3) of section 4 of the Maori Purposes Act 1969), that term shall be construed in the same manner as it would have been had the person who made the will not been Maori.
 
-3 Sections 37 and 38 of the Property Law Act 1952 shall be read subject to the provisions of this section.
+3 Section 65 of the Property Law Act 2007 shall be read subject to the provisions of this section.
 
 
 
@@ -4715,7 +4704,7 @@ Members of the committee of management of a Maori incorporation shall be entitle
 
 276 Accounts and statement of financial position
 
-1 Every Maori incorporation shall cause to be kept proper books of account in which shall be kept full, true, and complete accounts of the affairs and transactions of the incorporaton.
+1 Every Maori incorporation shall cause to be kept proper books of account in which shall be kept full, true, and complete accounts of the affairs and transactions of the incorporation.
 
 2 The committee of management of every Maori incorporation shall, within 18 months after the making of the order of incorporation, and subsequently at least once in every calendar year, submit to a general meeting of shareholders a statement of financial performance made up to a date not earlier than 6 months before the meeting, together with a statement of financial position as at the date to which the statement of financial performance is made up.
 
