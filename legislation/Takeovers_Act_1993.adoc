@@ -154,7 +154,7 @@ e empower the Panel to co-operate with overseas regulators.
 
 a any power in connection with the performance of its functions under section8(1)(a):
 
-b the power of the Panel to grant an exemption under section45(1)(b).
+b the power of the Panel to grant an exemption under section45(1)(c).
 
 3 The Panel or chairperson may revoke or amend a determination made under subsection(1).
 
@@ -1392,39 +1392,45 @@ A person cannot be ordered to pay a pecuniary penalty and be liable for a fine u
 
 45 Panel may grant exemptions
 
-1 The Panel may, in its discretion and on such terms and conditions (if any) as it thinks fit,
+1 The Panel may, in its discretion and subject to such terms and conditions (if any) as it thinks fit, exempt from compliance with any provision of the takeovers code
 
-a exempt any person from compliance with any provision of the takeovers code; and
+a any person, transaction, or offer:
 
-b exempt, from compliance with any provision of the takeovers code,
+b any class of persons, transactions, or offers associated with or involving a particular code company or entity:
 
-i any class of persons:
+c any class of persons, transactions, or offers that is not associated with or does not involve a particular code company or entity.
 
-ii any class of transactions:
+2 An exemption may be granted in respect of past acts or omissions only under subsection (1)(a).
 
-iii any class of offers.
+3 An exemption under this section is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
-2 An exemption under subsection(1)(a) may be granted in respect of past or proposed acts or omissions.
+4 An exemption under subsection (1)(a) or (b) must, as soon as practicable after being granted, be
 
-2A An exemption under subsection(1)(b) may be granted in respect of proposed acts or omissions.
+a published on an Internet site maintained by or on behalf of the Panel; and
 
-3 An exemption shall have effect according to its tenor.
+b notified (without incorporating the exemption) in the Gazette; and
 
-4 An exemption, and the Panel's reasons for granting it, shall be notified in the Gazette as soon as practicable after being granted.
+c made available in printed form for purchase on request by members of the public.
 
-4A The Panel's reasons for granting an exemption under subsection (1) must include
+5 An exemption under subsection (1)(c) is of general application and must be published under section 6 of the Legislation Act 2012.
+
+6 The Panels reasons for granting an exemption under this section must be published together with the exemption, and the reasons must include
 
 a why it is appropriate that the exemption is granted; and
 
 b how the exemption is consistent with the objectives of the takeovers code.
 
-5 The Panel may defer notifying an exemption in the Gazette if the Panel is satisfied that it is proper to do so on the ground of commercial confidentiality.
+7 Subsections (4) and (6) are subject to section 45A.
 
-6 The Panel may defer notifying, or omit to notify, the reasons for granting an exemption in the Gazette if the Panel is satisfied that it is proper to do so on the ground of commercial confidentiality.
+45A Deferral of obligations, and variation or revocation of exemptions
 
-7 The Panel may vary any exemption granted under this section, and the provisions of this section shall apply, with necessary modifications, in all respects to the variation.
+1 The Panel may defer complying with section 45(4) if the Panel is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
 
-8 The Panel may revoke any exemption granted under this section, and shall notify the revocation in the Gazette as soon as practicable.
+2 The Panel may defer publishing, and need not publish, under section 45 the reasons for granting an exemption if the Panel is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
+
+3 The Panel may vary or revoke an exemption granted under section 45.
+
+4 Section 45(1) to (5) and this section apply, with necessary modifications, in all respects to a variation or revocation under this section.
 
 46 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
