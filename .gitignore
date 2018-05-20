@@ -1,5 +1,6 @@
 # All subdirectories in legislation
-legislation/*/*
+legislation/xml/*
+legislation/adoc/*
 
 #bs4 and dist for beautifulsoup
 /bs4
