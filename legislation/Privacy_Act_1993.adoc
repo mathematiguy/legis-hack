@@ -2221,7 +2221,7 @@ c the Ministry of Justice:
 
 d the Department of Corrections:
 
-e the Department of Labour:
+e the Ministry of Business, Innovation, and Employment:
 
 f the department for the time being responsible for the administration of the Social Security Act 1964:
 
@@ -2242,6 +2242,8 @@ h the New Zealand Customs Service:
 ha the Registrar of Motor Vehicle Traders:
 
 i the Regulator, as defined in the Accident Insurance Act 1998:
+
+ia WorkSafe New Zealand:
 
 j any tertiary institution, secondary school, or private training establishment (as those terms are defined in the Education Act 1989) to which section 226A or section238B of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the Social Security Act 1964:
 
