@@ -103,6 +103,8 @@ b
 
 a a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
 
+ab if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+
 b a day in the period commencing with 20December in any year and ending with 10January in the following year.
 
 3 Act to bind the Crown
@@ -155,7 +157,7 @@ b such area of land (if any) surrounding that historic place, historic area, wah
 
 a any lessee or licensee of any land proposes to enter into a heritage covenant with the Trust; or
 
-b any lessee or licensee of any land and the Trust propose to vary or cancel a heritage covenant under subsection(4).
+b any lessee or licensee of any land and the Trust propose to vary or cancel a heritage covenant under subsection (4).
 
 6 In the case of the proposed execution of a heritage covenant or a variation of such a covenant, any consent given under subsection (5) may be given subject to the inclusion in the heritage covenant or variation of the heritage covenant of any additional provisions or modified provisions, or to the deletion of such provisions, as the owner giving the consent considers necessary.
 
