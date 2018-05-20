@@ -1665,13 +1665,7 @@ iii the person is subject to, and has for a period exceeding 3 years been subjec
 
 iv the person is detained under section 46 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, and is a person to whom paragraph (d) would otherwise apply:
 
-d a person who, under
-
-i a sentence of imprisonment for life; or
-
-ii a sentence of preventive detention; or
-
-iii a sentence of imprisonment for a term of 3 years or more,is being detained in a prison:
+d a person who is detained in a prison pursuant to a sentence of imprisonment imposed after the commencement of the Electoral (Disqualification of Sentenced Prisoners) Amendment Act 2010:
 
 e a person whose name is on the Corrupt Practices List made out for any district.
 
@@ -1693,17 +1687,19 @@ i is accompanying a person described in subparagraph (i) or subparagraph (ii) or
 
 ii is the spouse, civil union partner, de facto partner, or child of the person referred to in subparagraph (i), or the child of the spouse, civil union partner, or de facto partner of that person.
 
-81 Detention in prison pursuant to conviction
+81 Detention in prison pursuant to sentence of imprisonment
 
 1 Where a person who has been sentenced to imprisonment is received into a prison in which that person is to serve the whole or part of the sentence, the prison manager of that prison shall, not later than the seventh day after the day on which the prisoner is received into the prison, forward to the Chief Registrar of Electors a notice
 
 a showing the name, previous residential address, and date of birth of that person; and
 
-b showing the name and address of the prison; and
+b showing the name and address of the prison.
 
-c indicating whether the provisions of section 80(1)(d) apply to that person.
+c 
 
 2 The Chief Registrar of Electors shall, on receiving a notice under subsection (1), forward a copy of that notice to the appropriate Registrar of Electors.
+
+3 In subsection (1), *prison manager* has the meaning given to it by section 3(1) of the Corrections Act 2004.
 
 
 
