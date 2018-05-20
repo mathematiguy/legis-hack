@@ -1208,7 +1208,7 @@ b any other persons the officer considers to be representative of the classes of
 
 a must have regard to the matters raised by the persons consulted; and
 
-b  must have regard to the following matters in relation to goods of the class or description proposed for coverage by the standard:
+b must have regard to the following matters in relation to goods of the class or description proposed for coverage by the standard:
 
 i the likelihood that the goods will import organisms:
 
@@ -1340,7 +1340,7 @@ ii provide the inspector with the declaration in an approved manner.Permits
 
 1 A craft risk management standard specifies requirements to be met for the effective management of risks that
 
-a are associated with the entry of craft into New Zealand territory; and
+a are associated with the entry of craft into New Zealand territory or the arrival of craft in the EEZ; and
 
 b are not already covered by, or are not suitable to be covered by, an import health standard.
 
@@ -2390,7 +2390,7 @@ iv the Animal Products Act 1999:
 
 v the Wine Act 2003:
 
-vi  any other Act that is specified by the Governor-General, by Order in Council made under section 165A, to be an Act for the purposes of this definition.
+vi any other Act that is specified by the Governor-General, by Order in Council made under section 165A, to be an Act for the purposes of this definition.
 
 2 For the purposes of the definition of computer system, a computer is interconnected with another computer if it can be lawfully used to provide access to that other computer
 
@@ -6077,7 +6077,7 @@ b shall in all other respects comply with the conditions.
 
 110 Warrant to inspect dwellinghouse, marae, etc
 
-1 An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided by subpart 3 of Part 4 of that Act by an inspector or authorised person, issue a warrant authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
+1 An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided by subpart 3 of Part 4 of that Act by an inspector or authorised person, issue a warrant authorising every inspector and authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
 
 2 Such a warrant may be issued only if the issuing officer is satisfied that there is reasonable ground for believing that
 
@@ -6087,7 +6087,7 @@ b an activity that is regulated by or under the Act is being carried out on or i
 
 3 Such a warrant
 
-a authorises the inspector or authorised person to enter and inspect the place concerned on 1 occasion within 14 days of the issue of the warrant; and
+a authorises every inspector and authorised person to enter and inspect the place concerned on 1 occasion within 14 days of the issue of the warrant; and
 
 b may be unconditional or subject to conditions.
 
@@ -6451,7 +6451,7 @@ An inspector may by notice in writing direct that any risk goods specified in th
 
 126 Inspection of and intervention in transitional facilities and containment facilities
 
-1 An inspector authorised in writing by the Director-General may at any reasonable time enter a transitional facility or a containment facility for the purpose of confirming that the facility complies with the standards set in accordance with section 39 or section 11(1)(fc) of the Hazardous Substances and New Organisms Act 1996 or that the operator is approved as the facility operator for that facility, and the provisions of section 112 apply to any such entry.
+1 An inspector authorised in writing by the Director-General may at any reasonable time enter a transitional facility or a containment facility for the purpose of confirming that the facility complies with the standards set in accordance with section 39or section 11(1)(fc) of the Hazardous Substances and New Organisms Act 1996 or that the operator is approved as the facility operator for that facility, and the provisions of section 112 apply to any such entry.
 
 2 An inspector may exercise a power described in subsection (3) if (and only if) the inspector has reasonable grounds to suspect that
 
@@ -6953,7 +6953,7 @@ e the name and contact details of the occupier.
 
 5 The information in the database may come from any source, such as
 
-a information in the public domain:
+a information that is publicly available, as defined in section 142C(7):
 
 b information provided voluntarily for inclusion in the database by a person to whom the information relates or by the person's agent:
 
@@ -6985,15 +6985,15 @@ d free of any charge except the actual and reasonable costs of transferring the 
 
 3 The Local Government (Rating) Act 2002 does not prevent a local authority from complying with this section.
 
-142C Access, use, or disclosurePublic domain
+142C Access, use, or disclosurePublicly available information
 
-1 For information in the biosecurity database that comes from the public domain, the Director-General may
+1 For information in the biosecurity database that is publicly available, the Director-General may
 
 a access, use, or disclose it for any lawful purpose:
 
-b authorise other persons to access and use it for any lawful purpose.Other sources
+b authorise other persons to access and use it for any lawful purpose.Information that is not publicly available
 
-2 For information in the biosecurity database that comes from any other source, the only rights that the Director-General has are
+2 For information in the biosecurity database that is not publicly available, the only rights that the Director-General has are
 
 a to access, use, or disclose it for the purposes of this Act:
 
@@ -7005,13 +7005,25 @@ d to authorise other persons to access and use it as required by any other enact
 
 e to access, use, or disclose it in accordance with a permission of a kind described in subsection (4) or (5):
 
-f to authorise other persons to access and use it in accordance with a permission of a kind described in subsection (4) or (5).
+f to authorise other persons to access and use it in accordance with a permission of a kind described in subsection (4) or (5):
+
+g to access, use, or disclose it for statistical or research purposes, provided that the information accessed, used, or disclosed
+
+i does not identify any person; and
+
+ii is not published in any form that could reasonably be expected to identify any person:
+
+h to authorise other persons to access and use it for statistical or research purposes, provided that the information used
+
+i does not identify any person; and
+
+ii is not published in any form that could reasonably be expected to identify any person.
 
 3 The references to the Official Information Act 1982 (*OIA*) in subsection (2)(c) and (d) mean that the OIA cannot be used to access information in the biosecurity database, whether or not the OIA can be used to access the same information from another source.
 
-4 For information in the biosecurity database that comes from any other source, the person to whom the information relates or the person's agent may give written permission for access to it and use and disclosure of it for a purpose specified in the permission.
+4 For information in the biosecurity database that is not publicly available, the person to whom the information relates or the person's agent may give written permission for access to it and use and disclosure of it for a purpose specified in the permission.
 
-5 For information in the biosecurity database that comes from any other source, the person to whom the information relates or the person's agent may give an oral permission to which the following apply:
+5 For information in the biosecurity database that is not publicly available, the person to whom the information relates or the person's agent may give an oral permission to which the following apply:
 
 a it must be for 1 or all of access to the information, use of the information, or disclosure of the information; and
 
@@ -7035,7 +7047,13 @@ ii an enactment containing a provision under which the Director-General may make
 
 iii an enactment containing a provision under which the Director-General has made an agreement allowing a person access to, use of, or disclosure of information in the biosecurity database; and
 
-b ensure that the register is available on an Internet site maintained by or on behalf of the Ministry.
+b ensure that the register is available on an Internet site maintained by or on behalf of the Ministry.Meaning of publicly available
+
+7 In this section and section 142A(5)(a), information that is *publicly available* means information that
+
+a comes directly or indirectly from a source that is, or was at the time of collection, available to the public; or
+
+b the Director-General believes on reasonable grounds is available to the public.
 
 142D Person may require Director-General not to access, use, or disclose information
 
@@ -7399,7 +7417,7 @@ i on an Internet site maintained by or on behalf of the responsible body:
 
 ii by providing a hypertext link from an Internet site maintained by or on behalf of the responsible body to an Internet site maintained by or on behalf of someone else where the material is available free of charge:
 
-d  making copies of the material available for purchase.
+d making copies of the material available for purchase.
 
 3 If the material is not in an official New Zealand language, an accurate translation of the material into an official New Zealand language must also be available in each of the circumstances described in subsection (2).
 
@@ -8523,17 +8541,25 @@ ii a deputy chief technical officer appointed under section 102:
 
 d a certificate purporting to be signed by a chief technical officer appointed under section 101(1) stating that the person specified in the certificate is
 
-i an inspector or authorised person appointed by that chief technical officer under section 103(1)(a); or
+i an inspector or authorised person appointed under section 103(1)(a); or
 
-ii an authorised person appointed by that chief technical officer under section 103(1)(b) in relation to the national pest management plan or national pathway management plan described in, or attached to, the certificate:
+ii an authorised person appointed under section 103(1)(b) in relation to the national pest management plan or national pathway management plan described in, or attached to, the certificate; or
+
+iii a person accredited for a particular function under section 103(7):
 
 e a certificate purporting to be signed by a chief technical officer appointed under section 101(2) stating that the person specified in the certificate is
 
-i an inspector or authorised person appointed by that chief technical officer under section 103(2)(a); or
+i an inspector or authorised person appointed under section 103(2)(a); or
 
-ii an authorised person appointed by that chief technical officer under section 103(2)(b) in relation to the national pest management plan or national pathway management plan described in, or attached to, the certificate:
+ii an authorised person appointed under section 103(2)(b) in relation to the national pest management plan or national pathway management plan described in, or attached to, the certificate; or
 
-f a certificate purporting to be signed by the principal officer of a regional council stating that a person specified in the certificate is an authorised person appointed by that principal officer under section 103(3) in relation to a regional pest management plan or a regional pathway management plan or small-scale management programme specified or described in, or attached to, the certificate:
+iii a person accredited for a particular function under section 103(7):
+
+f a certificate purporting to be signed by the principal officer of a regional council stating that a person specified in the certificate is
+
+i an authorised person appointed under section 103(3) in relation to a regional pest management plan or a regional pathway management plan or a small-scale management programme specified or described in, or attached to, the certificate; or
+
+ii a person accredited for a particular function under section 103(7):
 
 g a certificate purporting to be signed by any person authorised by this Act, the State Sector Act 1988, or the Local Government Act 2002 to delegate to any person (or people of any kind or description) the exercise or performance of any power or function under this Act stating that
 
