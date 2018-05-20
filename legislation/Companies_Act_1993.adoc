@@ -737,7 +737,7 @@ d not confer voting rights.
 3 The personal representative of a deceased shareholder may transfer a share even though the personal representative is not a shareholder at the time of transfer.
 
 40 Contracts for issue of shares
-A contract or deed under which a company is or may be required to issue shares, whether on the exercise of an option or on the conversion of financial products or otherwise, is an illegal contract for the purposes of the Illegal Contracts Act 1970 unless
+A contract or deed under which a company is or may be required to issue shares, whether on the exercise of an option or on the conversion of financial products or otherwise, is an illegal contract for the purposes of subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 unless
 
 a the board is entitled to issue the shares; and
 
@@ -3514,7 +3514,7 @@ b a contract made by a person on behalf of a company before and in contemplation
 
 4 A pre-incorporation contract may be ratified by a company in the same manner as a contract may be entered into on behalf of a company under section 180.
 
-5 Notwithstanding the Contracts (Privity) Act 1982, if a pre-incorporation contract has not been ratified by a company, or validated by the court under section 184, the company may not enforce it or take the benefit of it.
+5 Despite subpart 1 of Part 2 of the Contract and Commercial Law Act 2017, if a pre-incorporation contract has not been ratified by a company, or validated by the court under section 184, the company may not enforce it or take the benefit of it.
 
 183 Warranties implied in pre-incorporation contracts
 
