@@ -268,12 +268,111 @@ b is a member of any commission, council, board, committee, or other body of whi
 
 4A Crown Entities Act 2004 to apply
 
-1 The Electoral Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+1 The Electoral Commission established by section 4 is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 
 2 The Crown Entities Act 2004 applies to the Electoral Commission except to the extent that this Act expressly provides otherwise.
 
+4B Electoral Commission
+
+1 This section establishes the Electoral Commission.
+
+2 The Electoral Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+
+3 The Crown Entities Act 2004 applies to the Electoral Commission except to the extent that this Act expressly provides otherwise.
+
+4 The Electoral Commission established by subsection (1) is not the same body as the Electoral Commission established by section 4.
+
+4C Objective
+The objective of the Electoral Commission established by section4B is to administer the electoral system impartially, efficiently, effectively, and in a way that
+
+a facilitates participation in parliamentary democracy; and
+
+b promotes understanding of the electoral system and associated matters; and
+
+c maintains confidence in the administration of the electoral system.
+
+4D Membership of Electoral Commission
+
+1 The Governor-General, on the recommendation of the House of Representatives, must appoint 3members of the Electoral Commission established by section 4B as follows:
+
+a 1 member as the Chief Electoral Officer; and
+
+b 1 member as the chairperson; and
+
+c 1 member as the deputy chairperson.
+
+2 The member appointed as the Chief Electoral Officer under subsection (1)(a) is the chief executive of the Electoral Commission.
+
+3 The members of the Electoral Commission are the board for the purposes of the Crown Entities Act 2004.
+
+4 Subsection (1) applies despite
+
+a section 28(1)(b) of the Crown Entities Act 2004; and
+
+b clause 1(2) of Schedule 5  of the Crown Entities Act 2004.
+
+4E Appointment of Judge as member not to affect tenure, etc
+The appointment of a Judge as a member of the board of the Electoral Commission established by section 4B does not affect the Judge's tenure of his or her judicial office or the Judge's rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including those in relation to superannuation) and, for all purposes, the Judge's services as a member must be taken to be service as a Judge.
+
+4F Resignation of member
+
+1 A member of the Electoral Commission established by section 4B may resign from office by written notice to the Governor-General (with a copy to the Electoral Commission) signed by the member.
+
+2 The resignation is effective when the Governor-General receives the notice or at any later time specified in the notice.
+
+3 This section applies despite section 44 of the Crown Entities Act 2004.
+
+4G Power to remove or suspend members
+
+1 Section 42 of the Crown Entities Act 2004 applies to any member of the Electoral Commission established by section 4B who is a Judge.
+
+2 Section 39(1) of the Crown Entities Act 2004 does not apply to any member.
+
+3 Instead, any member who is not a Judge may be removed for just cause by the Governor-General acting upon an address from the House of Representatives.
+
+4 Just cause has the same meaning as in section 40 of the Crown Entities Act 2004.
+
+4H Filling of vacancy
+
+1 If a vacancy occurs in the membership of the Electoral Commission established by section 4B, the Governor-General, on the recommendation of the House of Representatives, may appoint a successor.
+
+2 Despite subsection (1), if the vacancy exists at the close of a session, or the vacancy occurs while Parliament is not in session, and the House of Representatives has not recommended an appointment to fill the vacancy, the Governor-General in Council may appoint a successor at any time before the commencement of the next session of Parliament.
+
+3 An appointment made under subsection (2) lapses, and the office again becomes vacant, unless the appointment is confirmed by the House of Representatives before the end of the 24th sitting day following the date of the appointment.
+
+4I Deputy Electoral Commissioners
+
+1 The Electoral Commission established by section 4B may, by written notice, appoint an electoral official to be the deputy for an Electoral Commissioner.
+
+2 The persons described in section 30(2) of the Crown Entities Act 2004 are disqualified from being appointed as Deputy Electoral Commissioners.
+
+3 The notice of appointment must
+
+a state the date on which the appointment takes effect, which must not be earlier than the date on which the notice is received; and
+
+b state the term of the appointment; and
+
+c be published by the Electoral Commission in the Gazette as soon as practicable after the appointment is made.
+
+4 If an Electoral Commissioner becomes incapable of performing his or her functions or duties or exercising his or her powers by reason of illness, absence, or other sufficient cause, the functions, duties, and powers of that Electoral Commissioner may be performed and exercised by his or her deputy.
+
+5 Despite subsection (4), a Deputy Electoral Commissioner
+
+a must not act as chairperson or deputy chairperson of the board of the Electoral Commission; and
+
+b is not eligible to be appointed by the board of the Electoral Commission as a temporary deputy chairperson under clause 5 of Schedule 5 of the Crown Entities Act 2004.
+
+6 The Electoral Commission may, at any time, revoke the appointment of any deputy.
+
+7 A Deputy Electoral Commissioner is a public servant for the purposes of sections 28(2)(f) and 80(3)(a)(i).
+
+8 In subsection (1), *electoral official* means any person that the Electoral Commission established by section 4B employs or engages for the purpose of assisting with the performance of its functions.
+
+4J Proceedings of Electoral Commission
+The provisions of Schedule 1 apply to the Electoral Commission established by section 4B and to its proceedings.
+
 5 Functions
-The principal functions of the Electoral Commission shall be
+The principal functions of the Electoral Commission established by section 4 are
 
 a to carry out such duties in relation to the registration of political parties and political party logos as are prescribed by Part 4:
 
@@ -293,7 +392,7 @@ e to consider and report to the Minister or to the House of Representatives on e
 
 1 
 
-2 The Commission shall have the power
+2 The Electoral Commission established by section 4 has the power
 
 a to initiate, sponsor, and carry out such studies and research as the Commission thinks necessary for the proper discharge of its functions:
 
@@ -306,7 +405,7 @@ c to request advice, assistance, and information from any government department 
 3 Subsection (2) does not limit sections 16 and 17 of the Crown Entities Act 2004.
 
 7 Independence
-The Electoral Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under
+The Electoral Commission established by section 4 must act independently in performing its statutory functions and duties, and exercising its statutory powers, under
 
 a this Act; and
 
@@ -314,7 +413,7 @@ b any other Act that expressly provides for the functions, duties, or powers of 
 
 8 Membership
 
-1 The Electoral Commission shall consist of
+1 The Electoral Commission established by section 4 consists of
 
 a the Secretary for Justice:
 
@@ -343,7 +442,7 @@ ii a retired Judge of any of the courts specified in subparagraph (i).
 5 
 
 9 Appointment of Judge as member not to affect tenure, etc
-The appointment of a Judge as a member of the Electoral Commission, or service by a Judge as a member of the Commission, does not affect the Judges tenure of the judicial office or the Judges rank, title, status, precedence, salary, annual or other allowances or other rights or privileges as a Judge (including those in relation to superannuation) and, for all purposes, the Judges services as a member shall be taken to be service as a Judge.
+The appointment of a Judge as a member of the Electoral Commission established by section 4, or service by a Judge as a member of the Commission, does not affect the Judges tenure of the judicial office or the Judges rank, title, status, precedence, salary, annual or other allowances or other rights or privileges as a Judge (including those in relation to superannuation) and, for all purposes, the Judges services as a member shall be taken to be service as a Judge.
 
 10 Term of office
 
@@ -382,7 +481,7 @@ b must be signed by the member making the appointment.
 13 Procedure
 
 14 Proceedings of Electoral Commission
-The provisions of Schedule 1 shall have effect in relation to the Electoral Commission and its proceedings.
+The provisions of Schedule 1 shall have effect in relation to the Electoral Commission established by section 4 and its proceedings.
 
 15 Annual report
 
