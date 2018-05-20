@@ -356,6 +356,9 @@ i the ordinary business of that other company or its subsidiary, as the case may
 
 ii the shares are held or the power is exercisable by way of security only for the purposes of a transaction entered into in the ordinary course of that business.
 
+8A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 9 Act binds the Crown
 This Act binds the Crown.
 
@@ -6810,7 +6813,12 @@ i the debt that is owed to the creditor and that may be admitted under the deed 
 ii the amount that is payable to the company,as the case may be.
 
 239AEJ Mutuality required for transactions under bilateral netting agreements
-Sections 239AEI to 239AEP apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+
+1 Sections 239AEI to 239AEP apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+
+2 Subsection (3) applies for the purpose of determining under this section whether there are mutual credits, mutual debts, or other mutual dealings.
+
+3 A debt or other liability incurred by a person (*T* ) who holds property as a trustee is to be regarded as incurred by T in the same capacity as that in which T holds the property, if T incurs, and is authorised by the terms of the trust to incur, the debt or other liability acting as the trustee.
 
 239AEK When mutuality required for transactions under recognised multilateral netting agreements
 
@@ -8734,7 +8742,12 @@ a any netted balance payable by or to the company must be calculated in accordan
 b that netted balance constitutes the amount that may be claimed in the liquidation or is payable to the company, as the case may be, in respect of the transactions that are included in the calculation.
 
 310D Mutuality required for transactions under bilateral netting agreements
-Sections 310A to 310O apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+
+1 Sections 310A to 310O apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+
+2 Subsection (3) applies for the purpose of determining under this section whether there are mutual credits, mutual debts, or other mutual dealings.
+
+3 A debt or other liability incurred by a person (*T* ) who holds property as a trustee is to be regarded as incurred by T in the same capacity as that in which T holds the property, if T incurs, and is authorised by the terms of the trust to incur, the debt or other liability acting as the trustee.
 
 310E When mutuality required for transactions under recognised multilateral netting agreements
 
