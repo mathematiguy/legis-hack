@@ -3690,6 +3690,8 @@ b will enable the company to ensure that the financial statements or group finan
 
 c will enable the financial statements or group financial statements of the company to be readily and properly audited (if those statements are required to be audited).
 
+1A For the purpose of subsection (1), the transactions of the company include any transaction that constitutes an act of the type described in section 105C(3) of the Crimes Act 1961.
+
 2 The board of a company must establish and maintain a satisfactory system of control of its accounting records.
 
 3 The accounting records must be kept
@@ -6720,7 +6722,7 @@ If there is a time before which, or a period during which, an act for any purpos
 239AEG Mutual credit and set-off
 Where there have been mutual credits, mutual debts, or other mutual dealings between a company and a person who seeks or, but for the operation of this section, would seek to have a claim admitted under a deed of company arrangement,
 
-a an account must be taken of what is due from the one party to the other in respect of those credits, debts, or dealings; and
+a an account must be taken of what is due from one party to the other in respect of those credits, debts, or dealings; and
 
 b an amount due from one party must be set off against an amount due from the other party; and
 
@@ -8327,7 +8329,7 @@ d another company that, at the time of the disposition, provision, or issue, was
 
 3 For the purposes of this section,
 
-a the value of a business or property includes the value of any goodwill attaching to the business or property;
+a the value of a business or property includes the value of any goodwill attaching to the business or property; and
 
 b the provisions of section 7 apply with such modifications as may be necessary to determine control of a company.
 
@@ -8751,9 +8753,9 @@ d a related company
 
 2 In determining whether a declaration should be made, varied, or revoked under section 310K, the Bank may have regard to any of the following matters:
 
-a the type of transactions that may be effected through the clearing house; and
+a the type of transactions that may be effected through the clearing house; or
 
-b any laws or regulatory requirements relating to the operation of that clearing house and compliance with those laws or regulatory requirements; and
+b any laws or regulatory requirements relating to the operation of that clearing house and compliance with those laws or regulatory requirements; or
 
 c any other matters that the Bank may, in any particular case, consider appropriate.
 
@@ -10183,7 +10185,7 @@ iii a money laundering offence (within the meaning of section 5 of the Anti-Mone
 
 iv any offence under section 143B of the Tax Administration Act 1994; or
 
-v any serious offence (within the meaning of section 243(1) of the Crimes Act 1961):
+v any offence that is punishable by imprisonment for a term of 5 years or more and includes any act, wherever committed, that if committed in New Zealand would constitute an offence punishable by imprisonment for a term of 5 years or more:
 
 c the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009:
 
