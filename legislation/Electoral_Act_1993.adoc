@@ -3643,7 +3643,7 @@ c the latest day for the return of the writ.
 
 3 
 
-4 The latest day for the return of the writ (other than a writ issued under section  153E(2)) shall be the 50th day after its issue.
+4 The latest day for the return of the writ (other than a writ issued under section 153E(2)) shall be the 50th day after its issue.
 
 5 The latest day for the return of a writ issued under section 153E(2) shall be the 78th day after its issue.
 
@@ -5558,7 +5558,7 @@ b a candidate:
 
 c a registered promoter:
 
-d an unregistered promoter who does not incur advertising expenses exceeding $12,300 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+d an unregistered promoter who does not incur advertising expenses exceeding $12,500 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
 
 2 The amount in subsection (1)(d) is inclusive of goods and services tax.
 
@@ -5874,9 +5874,9 @@ b an illegal practice who contravenes section 205A in any other case.
 
 1 The total election expenses of a candidate in respect of any regulated period must not exceed
 
-a $25,700 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+a $26,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
 
-b $51,300 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+b $52,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 
 2 The amounts in subsection (1) are inclusive of goods and services tax.
 
@@ -6103,11 +6103,11 @@ b an illegal practice who contravenes section 206A in any other case.
 
 1 If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed
 
-a $1,091,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+a $1,108,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
 
-b $25,700 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+b $26,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
 
-2 If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $25,700 for each electoral district contested by a candidate for the party.
+2 If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $26,100 for each electoral district contested by a candidate for the party.
 
 3 The amounts in subsections (1) and (2) are inclusive of goods and services tax.
 
@@ -6377,7 +6377,7 @@ b an illegal practice who contravenes section 206T in any other case.
 
 206V Maximum amount of registered promoter's total election expenses
 
-1 The total election expenses of a registered promoter in respect of any regulated period must not exceed $308,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+1 The total election expenses of a registered promoter in respect of any regulated period must not exceed $313,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
 
 2 The amount in subsection (1) is inclusive of goods and services tax.
 
