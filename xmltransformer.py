@@ -6,18 +6,16 @@ from bs4 import BeautifulSoup, element
 def xml_transform_asciidoc(file_path):
     #setup the name of the output file
     root_path = os.path.dirname(os.path.realpath(__file__))
+    file_title = os.path.basename(file_path)[:-4]
+    files_folder_name = file_title[5:]
     
     #create the output file and open it
     with open(file_path) as inputFile:
         #parse the xml and get only the body tag
         soup = BeautifulSoup(inputFile, "lxml-xml")
         
-        title = soup.find('title').contents[0]
-        title = re.sub(r"/", "-", title)
-        title = re.sub(r"\s", "_", title)
-        
-        output_file_name = title + ".adoc"
-        output_file_path = os.path.join(root_path, 'legislation/adoc', title, output_file_name)
+        output_file_name = file_title + ".adoc"
+        output_file_path = os.path.join(root_path, 'legislation/adoc', files_folder_name, output_file_name)
 
         dirname = os.path.dirname(output_file_path) + "/"
 
@@ -101,9 +99,7 @@ def walk_dir():
     walk_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'legislation/xml')
     
     #print('walk_dir (absolute) = ' + os.path.abspath(walk_dir))
-
     for root, subdirs, files in os.walk(walk_dir):
-        print(files)
         for filename in files:
             #regex to check if the file is original downloaded xml
             pattern = re.compile(".xml")
