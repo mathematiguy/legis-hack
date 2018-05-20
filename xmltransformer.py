@@ -1,19 +1,31 @@
 import os
 import sys
 import re
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, element
 
 def xml_transform_asciidoc(file_path):
     #setup the name of the output file
-    output_name = os.path.basename(file_path)[:-4] + "_output.xml"
-    output_file_path = os.path.join(os.path.dirname(file_path), output_name)
+    root_path = os.path.dirname(os.path.realpath(__file__))
     
-    print("Generating output: " + output_file_path)
-    
-    #creae the output file and open it
+    #create the output file and open it
     with open(file_path) as inputFile:
         #parse the xml and get only the body tag
         soup = BeautifulSoup(inputFile, "lxml-xml")
+        
+        title = soup.find('title').contents[0]
+        title = re.sub(r"/", "-", title)
+        title = re.sub(r"\s", "_", title)
+        
+        output_file_name = title + ".adoc"
+        output_file_path = os.path.join(root_path, 'legislation/adoc', title, output_file_name)
+
+        dirname = os.path.dirname(output_file_path) + "/"
+
+        if not os.path.exists(dirname):
+            os.makedirs(dirname)
+        
+        print("Generating output: " + output_file_path)
+        
         body = soup.find('body')
         
         cfTags = body.find_all('cf')
@@ -61,11 +73,16 @@ def xml_transform_asciidoc(file_path):
                 
         variableDefs = body.find_all('variable-def')
         for variableDef in variableDefs:
-            text = variableDef.contents
-            if len(text) > 0:
-                variableDef.replace_with('\n\n' + text[0] + ' ')
-                
-        
+            contents = variableDef.contents
+            if len(contents) > 0:
+                if isinstance(contents[0], element.Tag):
+                    content = contents[0].extract()
+                    newTag = soup.new_tag('text')
+                    newTag.string = '\n\n'
+                    defPara.insert_before(newTag)
+                    defPara.insert_before(content)
+                if isinstance(contents[0], str):
+                    variableDef.replace_with('\n\n' + content[0] + ' ')
         
         bodyString = body.get_text()
         #bodyString = body.decode()
@@ -81,13 +98,15 @@ def xml_transform_asciidoc(file_path):
         
 #walks through the directory the script is located, passing matching files to the transform function
 def walk_dir():
-    walk_dir = os.path.dirname(os.path.realpath(__file__))
+    walk_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'legislation/xml')
+    
     #print('walk_dir (absolute) = ' + os.path.abspath(walk_dir))
 
     for root, subdirs, files in os.walk(walk_dir):
+        print(files)
         for filename in files:
             #regex to check if the file is original downloaded xml
-            pattern = re.compile("[a-f0-9]{16}\.xml")
+            pattern = re.compile(".xml")
             match = pattern.search(filename)
             if match:
                 file_path = os.path.join(root, filename)
