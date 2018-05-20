@@ -1217,7 +1217,10 @@ ii if the incorporated or unincorporated body has so contravened, persistently f
 c A has been prohibited in an overseas jurisdiction from carrying on activities that the court is satisfied are substantially similar to any of the activities referred to in section 44G in connection with a contravention of any law relating to takeovers.
 
 44G Terms of management banning orders
-A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+
+1 A management banning order may, permanently or for a period specified in the order, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+
+2 The court may make a management banning order permanent or for a period longer than 10 years only in the most serious of cases for which an order may be made.
 
 44H Offence of contravening management banning order
 An individual who acts in contravention of a management banning order under section 44F commits an offence and is liable on conviction to imprisonment for a term not exceeding 3years or to a fine not exceeding $100,000, or to both.
