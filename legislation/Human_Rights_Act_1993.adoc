@@ -451,7 +451,7 @@ a may resign from the office by delivering to the Minister a notice in writing t
 
 b ceases to hold office if he or she dies:
 
-c ceases to hold office if he or she is, under the Insolvency Act 1967, adjudged bankrupt:
+c ceases to hold office if he or she is, under the Insolvency Act 2006, adjudged bankrupt:
 
 d may, at any time, be removed from the office by the Governor-General for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 
@@ -2095,7 +2095,7 @@ e cultural issues and the needs and aspirations (including life experiences) of 
 
 3 The name of a person shall be removed from the panel if
 
-a The person dies or is, under the Insolvency Act 1967, adjudged bankrupt; or
+a The person dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
 
 b The Minister directs that the name of the person be removed from the panel for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Minister; or
 
@@ -2119,7 +2119,7 @@ d The person requests by writing addressed to the Minister that his or her name 
 
 1 A Chairperson and any Deputy Chairperson of the Tribunal may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
 
-2 A Chairperson and any Deputy Chairperson of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 1967, adjudged bankrupt.
+2 A Chairperson and any Deputy Chairperson of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
 
 3 A Chairperson and any Deputy Chairperson of the Tribunal may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 
