@@ -1789,7 +1789,7 @@ a in proceedings before the Human Rights Review Tribunal alleging a breach of Pa
 
 b in proceedings in any of the following courts in relation to proceedings of a kind referred to in paragraph (a) that are or have been before the Human Rights Review Tribunal:
 
-i a District Court:
+i the District Court:
 
 ii the High Court:
 
@@ -1809,7 +1809,7 @@ a in proceedings before the Human Rights Review Tribunal; and
 
 b in proceedings in any of the following courts in relation to proceedings that are or have been before the Human Rights Review Tribunal:
 
-i a District Court:
+i the District Court:
 
 ii the High Court:
 
@@ -1977,7 +1977,7 @@ b the obligation of the Government to balance competing demands for the expendit
 
 1 Proceedings under section 92B or section 92E may be brought before the Human Rights Review Tribunal irrespective of the amount of damages claimed or the value of the property in respect of which any remedy is sought.
 
-2 However, except as provided in sections 92R to 92V, the Tribunal must not award any damages or grant any remedy in any proceedings of that kind if the making of that award or the granting of that remedy would, because of the monetary limits contained in sections 29 to 34 of the District Courts Act 1947, be beyond the jurisdiction of a District Court.
+2 However, except as provided in sections 92R to 92V, the Tribunal must not award any damages or grant any remedy in any proceedings of that kind if the making of that award or the granting of that remedy would, because of the monetary limits contained in sections 74 to 79 of the District Court Act 2016, be beyond the jurisdiction of the District Court.
 
 3 For the purposes of subsection (2), if civil proceedings under section 92B are brought on behalf of more than 1 complainant or, as the case may be, more than 1 aggrieved person, those proceedings must, for the purpose of applying any monetary limit under subsection (2), be treated as if each complainant or, as the case may be, each aggrieved person on whose behalf those proceedings are brought, were the plaintiff in a separate action against the defendant.
 
@@ -2032,7 +2032,7 @@ b prevents the making of an appeal in accordance with section 123 in respect of 
 
 92V Abandonment to enable Tribunal to make award of damages
 
-1 This section applies where the Tribunal would have jurisdiction in any proceedings under section 92B or section 92E to make an award of damages in accordance with section 92M if the amount of the award were within the limit for the time being fixed by section 29(1) of the District Courts Act 1947 (as applied by section 92Q(2)).
+1 This section applies where the Tribunal would have jurisdiction in any proceedings under section 92B or section 92E to make an award of damages in accordance with section 92M if the amount of the award were within the limit for the time being fixed by section 74(1) of the District Court Act 2016 (as applied by section 92Q(2)).
 
 2 The Tribunal may make an award within that limit if the plaintiff abandons the excess.
 
@@ -2318,7 +2318,7 @@ a form part of the costs of the proceedings; or
 b be paid from money appropriated by Parliament for the purpose.
 
 112 Privileges and immunities
-Witnesses and counsel appearing before the Tribunal shall have the same privileges and immunities as witnesses and counsel have in proceedings in a District Court.
+Witnesses and counsel appearing before the Tribunal shall have the same privileges and immunities as witnesses and counsel have in proceedings in the District Court.
 
 113 Non-attendance or refusal to co-operate
 
@@ -2344,7 +2344,7 @@ b intentionally interrupts the proceedings of the Tribunal or otherwise misbehav
 
 c intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal,any officer of the Tribunal, with or without the assistance of any constable or other person, may, in accordance with any order given by a member of the Tribunal, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the Tribunal, and the Chairperson may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
 
-2 A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that court.
+2 A warrant under subsection (1) may be filed in the District Court and shall then be enforceable as an order made by that court.
 
 115 Tribunal may dismiss trivial, etc, proceedings
 The Tribunal may at any time dismiss any proceedings brought under section 92B or section 92E if it is satisfied that they are trivial, frivolous, or vexatious or are not brought in good faith.
