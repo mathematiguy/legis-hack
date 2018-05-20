@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jamestingedwards.github.io/legis-hack/projects/asciidoc-to-github/</loc>
+    <lastmod>2018-05-20T13:45:04+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamestingedwards.github.io/legis-hack/projects/xml-to-asciidoc/</loc>
+    <lastmod>2018-05-20T13:44:39+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamestingedwards.github.io/legis-hack/contact/</loc>
+    <lastmod>2018-01-23T18:43:07+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamestingedwards.github.io/legis-hack/about/</loc>
+    <lastmod>2018-01-23T18:42:58+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamestingedwards.github.io/legis-hack/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamestingedwards.github.io/legis-hack/</loc>
+    <lastmod>2018-05-20T13:45:04+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamestingedwards.github.io/legis-hack/projects/</loc>
+    <lastmod>2018-05-20T13:45:04+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamestingedwards.github.io/legis-hack/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
