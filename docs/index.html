@@ -44,7 +44,7 @@ crossorigin="anonymous"></script>
 
 
     
-    <link rel="stylesheet" href="css/dark-style.css?t=1526783478">
+    <link rel="stylesheet" href="css/dark-style.css?t=1526785498">
     
 
 
@@ -142,6 +142,32 @@ crossorigin="anonymous"></script>
 
 <p>We chose to turn the XML law into AsciiDoc text files. AsciiDoc is a format that works well for both people and computers.</p>
 
+<h2 id="the-source">The Source</h2>
+
+<p>We started with raw XML files from the official legislation website.</p>
+
+<p><img src="https://jamestingedwards.github.io/legis-hack/img/legislation-web.png" alt="Legislation.govt.nz offers enactments in XML format" title="The official website for NZ legislation offers law as XML files" /></p>
+
+<h1 id="the-outcome">The Outcome</h1>
+
+<p>We created automated tools to:</p>
+
+<ol>
+<li>Read legislation from the official XML source</li>
+<li>Transform the XML into readable .adoc files</li>
+<li>Upload the .adoc files to GitHub for sharing and re-use</li>
+</ol>
+
+<p>Our proof-of-concept worked with legislation from 1993, but is already capable of working on <strong>all</strong> legislation provided through the official XML source. That includes law going all the way back to the Statute of Marlborough from 1267.</p>
+
+<h2 id="the-proof-of-concept">The Proof-of-Concept</h2>
+
+<p>We demonstrated our tools working with the Privacy Act 1993. This is a topical bit of law, with a Privacy Bill to update it before Parliament. Below you can see how the automated comparison in GitHub helps to see the specifics of a law change.</p>
+
+<p>GitHub also makes it easy to <a href="https://github.com/jamestingedwards/legis-hack/commit/c34b6fc40521174591afca9fd7ffdbf1d4a5e6df?diff=split">link to a specific change</a> - try it out!</p>
+
+<p><img src="img/priv-act-diff.png" alt="" /></p>
+
                         
                     
             </div>
@@ -171,17 +197,17 @@ crossorigin="anonymous"></script>
                         <div class="card-image">
                             <figure class="image is-3by2">
                                 <a 
-                                    id="projectasciidoc-to-github"
+                                    id="projectlaw-to-xml"
                                     >
-                                    <img src="img/legislation-web.png">
+                                    <img src="img/phase1.png">
                                 </a>
                             </figure>
                         </div>
                         <div class="card-content has-text-centered top-pad">
                                 <a 
-                                    id="projectasciidoc-to-github"
+                                    id="projectlaw-to-xml"
                                     >
-                                    AsciiDoc to GitHub
+                                    Law to XML
                                 </a>
                         </div>
                 </div>
@@ -194,17 +220,17 @@ crossorigin="anonymous"></script>
                         <div class="card-image">
                             <figure class="image is-3by2">
                                 <a 
-                                    id="projectxml-to-asciidoc"
+                                    id="projectxml-to-open-law-on-github"
                                     >
-                                    <img src="img/xml.png">
+                                    <img src="img/phase2.png">
                                 </a>
                             </figure>
                         </div>
                         <div class="card-content has-text-centered top-pad">
                                 <a 
-                                    id="projectxml-to-asciidoc"
+                                    id="projectxml-to-open-law-on-github"
                                     >
-                                    XML to AsciiDoc
+                                    XML to open law on GitHub
                                 </a>
                         </div>
                 </div>
@@ -217,16 +243,49 @@ crossorigin="anonymous"></script>
 
 
  
-<div class="modal" id="modalasciidoc-to-github">
+<div class="modal" id="modallaw-to-xml">
     <div class="modal-background"></div>
     <div class="modal-card">
         
         <header class="modal-card-header bottom-pad">
-            <p class="modal-card-title has-text-centered">AsciiDoc to GitHub</p>
+            <p class="modal-card-title has-text-centered">Law to XML</p>
         </header>
         
         
-            <img src="img/legislation-web.png" class="img-responsive img-centered">
+            <img src="img/phase1.png" class="img-responsive img-centered">
+        
+        
+        <section class="modal-card-body markdown">
+            
+
+<h1 id="the-current-flow-and-format">The current flow and format</h1>
+
+<p>The Parliamentary Counsel&rsquo;s Office writes New Zealand enactments, using software tools which generate XML files. Those files are packed with detailed metadata to help with print layouts. But that extra data can get in the way of open-source, automated, and collaborative approaches to working with legislation.</p>
+
+        </section>
+        
+    </div>
+    <button class="modal-close is-large" aria-label="close" id="closelaw-to-xml"></button>
+</div>
+<script>
+    $('#projectlaw-to-xml').click(function() {
+        $('#modallaw-to-xml').addClass('is-active');
+    });
+    $('#closelaw-to-xml').click(function() {
+        $('#modallaw-to-xml').removeClass('is-active');
+    });
+</script>
+  
+<div class="modal" id="modalxml-to-open-law-on-github">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+        
+        <header class="modal-card-header bottom-pad">
+            <p class="modal-card-title has-text-centered">XML to open law on GitHub</p>
+        </header>
+        
+        
+            <img src="img/phase2.png" class="img-responsive img-centered">
         
         
         <section class="modal-card-body markdown">
@@ -234,58 +293,19 @@ crossorigin="anonymous"></script>
 
 <h1 id="tracking-changes-online">Tracking changes online</h1>
 
-<p>GitHub is a tool for sharing text. Most of that text is code, but it can also work for sharing legislation. It is a familiar tool for programmers, making it easy to track changes to code over time, and to talk about what changes make sense. Those are natural advantages for legislation as well as code.</p>
+<p>GitHub is a tool for sharing text. Most of that text is code, but it can also work for sharing legislation. It is a familiar tool for programmers, making it easy to track changes to code over time, and to talk about what changes make sense. Those are natural advantages for legislation as well.</p>
 
         </section>
         
     </div>
-    <button class="modal-close is-large" aria-label="close" id="closeasciidoc-to-github"></button>
+    <button class="modal-close is-large" aria-label="close" id="closexml-to-open-law-on-github"></button>
 </div>
 <script>
-    $('#projectasciidoc-to-github').click(function() {
-        $('#modalasciidoc-to-github').addClass('is-active');
+    $('#projectxml-to-open-law-on-github').click(function() {
+        $('#modalxml-to-open-law-on-github').addClass('is-active');
     });
-    $('#closeasciidoc-to-github').click(function() {
-        $('#modalasciidoc-to-github').removeClass('is-active');
-    });
-</script>
-  
-<div class="modal" id="modalxml-to-asciidoc">
-    <div class="modal-background"></div>
-    <div class="modal-card">
-        
-        <header class="modal-card-header bottom-pad">
-            <p class="modal-card-title has-text-centered">XML to AsciiDoc</p>
-        </header>
-        
-        
-            <img src="img/xml.png" class="img-responsive img-centered">
-        
-        
-        <section class="modal-card-body markdown">
-            
-
-<h1 id="a-format-to-make-legislation-readable">A format to make legislation readable&hellip;</h1>
-
-<h2 id="for-computers">&hellip;For computers</h2>
-
-<p>The AsciiDoc format is plain text with some simple markup. Using plain text makes it easy to track changes, and do other transformations, with tools familiar to most programmers.</p>
-
-<h2 id="for-people">&hellip;For people</h2>
-
-<p>Raw AsciiDoc is still pretty readable for people. That means the automatic comparison of &ldquo;what changed&rdquo; is more useful than with raw XML. AsciiDoc also renders to look like a formatted web page, so the text is still approachable for non-technical users.</p>
-
-        </section>
-        
-    </div>
-    <button class="modal-close is-large" aria-label="close" id="closexml-to-asciidoc"></button>
-</div>
-<script>
-    $('#projectxml-to-asciidoc').click(function() {
-        $('#modalxml-to-asciidoc').addClass('is-active');
-    });
-    $('#closexml-to-asciidoc').click(function() {
-        $('#modalxml-to-asciidoc').removeClass('is-active');
+    $('#closexml-to-open-law-on-github').click(function() {
+        $('#modalxml-to-open-law-on-github').removeClass('is-active');
     });
 </script>
      

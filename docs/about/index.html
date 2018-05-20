@@ -43,7 +43,7 @@ crossorigin="anonymous"></script>
 
 
     
-    <link rel="stylesheet" href="css/dark-style.css?t=1526783478">
+    <link rel="stylesheet" href="css/dark-style.css?t=1526785498">
     
 
 
@@ -128,6 +128,32 @@ crossorigin="anonymous"></script>
 <p>We wanted to use simple, familiar tools, to make the most of our limited time over the weekend. We chose to push our output to GitHub, a popular platform for sharing and working with code, to avoid any need to manage our own web hosting.</p>
 
 <p>We chose to turn the XML law into AsciiDoc text files. AsciiDoc is a format that works well for both people and computers.</p>
+
+<h2 id="the-source">The Source</h2>
+
+<p>We started with raw XML files from the official legislation website.</p>
+
+<p><img src="https://jamestingedwards.github.io/legis-hack/img/legislation-web.png" alt="Legislation.govt.nz offers enactments in XML format" title="The official website for NZ legislation offers law as XML files" /></p>
+
+<h1 id="the-outcome">The Outcome</h1>
+
+<p>We created automated tools to:</p>
+
+<ol>
+<li>Read legislation from the official XML source</li>
+<li>Transform the XML into readable .adoc files</li>
+<li>Upload the .adoc files to GitHub for sharing and re-use</li>
+</ol>
+
+<p>Our proof-of-concept worked with legislation from 1993, but is already capable of working on <strong>all</strong> legislation provided through the official XML source. That includes law going all the way back to the Statute of Marlborough from 1267.</p>
+
+<h2 id="the-proof-of-concept">The Proof-of-Concept</h2>
+
+<p>We demonstrated our tools working with the Privacy Act 1993. This is a topical bit of law, with a Privacy Bill to update it before Parliament. Below you can see how the automated comparison in GitHub helps to see the specifics of a law change.</p>
+
+<p>GitHub also makes it easy to <a href="https://github.com/jamestingedwards/legis-hack/commit/c34b6fc40521174591afca9fd7ffdbf1d4a5e6df?diff=split">link to a specific change</a> - try it out!</p>
+
+<p><img src="img/priv-act-diff.png" alt="" /></p>
 
         </div>
         
