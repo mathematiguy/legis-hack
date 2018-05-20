@@ -34,4 +34,3 @@ cp -rf ${input_params} legislation/${new_file_name}
 git status
 git add legislation/${new_file_name}
 git commit -m "amendments specified in ${file_name}"
-git push origin master
