@@ -782,6 +782,12 @@ h The disclosure of the information, being information contained in material pla
 
 i The disclosure of the information would constitute contempt of Court or of the House of Representatives; or
 
+ia the request is made by a defendant or a defendant's agent and is
+
+i for information that could be sought by the defendant under the Criminal Disclosure Act 2008; or
+
+ii for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act; or
+
 j The request is frivolous or vexatious, or the information requested is trivial.
 
 2 An agency may refuse a request made pursuant to principle 6 if
@@ -818,10 +824,6 @@ c For the purpose of deciding whether to insure any individual or property or to
 Subject to sections 7, 31, and 32 of this Act, no reasons other than one or more of the reasons set out in sections 27 to 29 of this Act justifies a refusal to disclose any information requested pursuant to principle 6.
 
 31 Restriction where person sentenced to imprisonment
-
-1 Nothing in principle 6 gives any individual who, after the commencement of this section, is sentenced to imprisonment for an offence the right to be given access to any personal information about that individual that is held by the Police and that relates to the offence for which that individual was sentenced, or to the conviction or sentencing of that individual for that offence.
-
-2 This section shall come into force on a date to be appointed by the Governor-General by Order in Council.
 
 32 Information concerning existence of certain information
 Where a request made pursuant to principle 6 relates to information to which section 27 or section 28 of this Act applies, or would, if it existed, apply, the agency dealing with the request may, if it is satisfied that the interest protected by section 27 or section 28 of this Act would be likely to be prejudiced by the disclosure of the existence or non-existence of such information, give notice in writing to the applicant that it neither confirms nor denies the existence or non-existence of that information.
