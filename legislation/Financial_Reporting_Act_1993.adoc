@@ -1,0 +1,1167 @@
+
+
+1 Short Title and commencement
+
+1 This Act may be cited as the Financial Reporting Act 1993.
+
+2 Except as provided in subsection (3) of this section, this Act shall come into force on the date on which it receives the Royal assent.
+
+3 Part 2 (except subsections (2) to (5) of section 12) and Part 4 (except section 43) of, and Schedule 2 to, this Act shall come into force on the 1st day of July 1994.
+
+1 Interpretation and application
+
+2 Interpretation
+
+1 In this Act, unless the context otherwise requires,
+
+*Accounting period*, in relation to an entity, means a year ending on a balance date of the entity and, if as a result of the date of the formation or incorporation of the entity or a change of the balance date of the entity, the period ending on that date is longer or shorter than a year, that longer or shorter period is an accounting period
+
+*Applicable financial reporting standard*, in relation to a reporting entity or a group and to an accounting period or to an interim accounting period of a reporting entity, means an approved financial reporting standard that applies to that reporting entity or to that group and to that accounting period or that interim accounting period in accordance with a determination of the Board for the time being in force or any election made under section 27 of this Act
+
+*Approved financial reporting standard* means a financial reporting standard approved by the Board under section 24 of this Act; and includes an amendment to an approved financial reporting standard that is approved by the Board under that section
+
+*Balance date* has the meaning given to it by section 7 of this Act
+
+*Board* means the Accounting Standards Review Board established by this Act
+
+*Chief Executive* has the same meaning as in section 2 of the Public Finance Act 1989
+
+*Company* has the same meaning as in
+
+a Section 2 of the Companies Act 1955; or
+
+b Section 2 of the Companies Act 1993,as the case may be, and includes an overseas company
+
+*Crown* has the same meaning as in section 2 of the Public Finance Act 1989
+
+*Crown entity* has the same meaning as in section 10 of the Crown Entities Act 2004.
+
+*Department* has the same meaning as in section 2 of the Public Finance Act 1989
+
+*Director* means,
+
+a In relation to a company, a person occupying the position of a director of the company by whatever name called:
+
+b In relation to a partnership (other than a special partnership), a partner:
+
+c In relation to a special partnership, any general partner:
+
+d In relation to a body corporate or unincorporate, other than a company or a partnership or a special partnership, a person occupying a position in the body that is comparable with that of a director of a company:
+
+e In relation to a unit trust (within the meaning of section 2 of the Unit Trusts Act 1960), the manager of the unit trust and, where the manager is a company, every director of that company:
+
+f In relation to any other person, that person:
+
+*Entity* means
+
+a A company; or
+
+b An issuer:
+
+*Equity security* means
+
+a An interest in or right to a share in the share capital of a company; or
+
+b An interest in or right to participate in any distribution of profits or surplus assets of a company;and includes a preference share, company stock, and any renewal or variation of the terms and conditions of any existing equity security
+
+*exempt company* has the meaning given to it by section 6A
+
+*Financial statements* has the meaning given to it by section 8 of this Act
+
+*Generally accepted accounting practice* has the meaning given to it by section 3 of this Act
+
+*Group* means a group comprising a reporting entity and its subsidiaries
+
+*Group financial statements* has the meaning given to it by section 9 of this Act
+
+*infringement fee*, in relation to an infringement offence, means $7,000
+
+*infringement notice* means a notice issued under section 41B
+
+*infringement offence* means an offence against section 38(b) or 39
+
+*Interim accounting period*, in relation to a reporting entity, means a period ending on a date other than the balance date of the reporting entity
+
+*Issuer* has the meaning given to it by section 4 of this Act
+
+*local authority* means a local authority within the meaning of the Local Government Act 2002
+
+*Minister* means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+
+*Office of Parliament* has the same meaning as in section 2 of the Public Finance Act 1989
+
+*Overseas company* means a company incorporated outside New Zealand that carries on business in New Zealand within the meaning of section 332 of the Companies Act 1993
+
+*Registrar* means
+
+a In relation to an issuer that is
+
+i A society; or
+
+ii A branch of a society; or
+
+iii A credit unionregistered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982, the Registrar within the meaning of section 2 of that Act; and
+
+b In relation to any other entity, the Registrar of Companies, the Deputy Registrar of Companies, a District Registrar of Companies, and an Assistant Registrar of Companies:
+
+*Reporting entity* means
+
+a An issuer; or
+
+b A company, other than an exempt company; or
+
+c A person that is required by any Act, other than this Act, to comply with this Act as if it were a reporting entity:
+
+*Security* means an interest or right to participate in any capital, assets, earnings, royalties, or other property of any person; and includes
+
+a An interest in or right to be paid money that is deposited with, lent to, or otherwise owing by any person (whether or not the interest or right is secured by a charge over property); and
+
+b A renewal or variation of the terms or conditions of an existing security:
+
+*Subsidiary* means a subsidiary within the meaning of section 158 of the Companies Act 1955 or sections 5 to 8 of the Companies Act 1993, as the case may be; and includes any company or body corporate or association of persons that is classified as a subsidiary in any applicable financial reporting standard
+
+*turnover*
+
+a means, in relation to a company, the total annualised gross operating revenue of the company (exclusive of any tax required to be collected) reported in the statement of financial performance, income and expenditure statement, or revenue and appropriation account, as the case may be, for the accounting period for which the financial statements are required; and includes (without limitation) any sales, fee income, grants, output appropriations, cost recoveries, donations, dividends, interest, and subscriptions of the company for that accounting period:
+
+b means, in relation to a group, the total annualised gross operating revenue of the group (exclusive of any tax required to be collected) reported in the consolidated statement of financial performance or consolidated income and expenditure statement, as the case may be, for the accounting period for which the financial statements are required; and includes (without limitation) any sales, fee income, grants, output appropriations, cost recoveries, donations, dividends, interest, and subscriptions of the group for that accounting period
+
+*Working day* means a day of the week other than
+
+a Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+
+b A day in the period commencing with the 25th day of December in any year and ending with the 2nd day of January in the following year; and
+
+c If the 1st day of January in any year falls on a Friday, the following Monday; and
+
+d If the 1st day of January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday.
+
+2 Where the last day of the period prescribed under section 18 or section 19 of this Act for delivering financial statements or group financial statements to the appropriate Registrar falls on the anniversary of the province in which,
+
+a In the case of financial statements that are required to be delivered to the Registrar of Friendly Societies and Credit Unions, the office of the Registrar of Friendly Societies and Credit Unions is situated; or
+
+b In the case of any other reporting entity, the office of the appropriate Deputy Registrar of Companies or District Registrar of Companies or Assistant Registrar of Companies is situatedthe financial statements or group financial statements may be delivered on the next working day.
+
+3 Meaning of generally accepted accounting practice
+For the purposes of this Act, financial statements and group financial statements comply with generally accepted accounting practice only if those statements comply with
+
+a Applicable financial reporting standards; and
+
+b In relation to matters for which no provision is made in applicable financial reporting standards and that are not subject to any applicable rule of law, accounting policies that
+
+i Are appropriate to the circumstances of the reporting entity; and
+
+ii Have authoritative support within the accounting profession in New Zealand.
+
+4 Meaning of issuer
+
+1 In this Act, *issuer* means
+
+a Every person who has, whether before or after the commencement of this Act, allotted securities pursuant to
+
+i An offer for which, or for which but for an exemption granted by the Securities Commission pursuant to section 5 of the Securities Act 1978, an investment statement or a registered prospectus, or both, is or was required under that Act (other than an offer of a unit in a unit trust); or
+
+ii An offer required to be contained in a prospectus required to be registered under the Companies Act 1955,whether or not the securities allotted are securities of the same type as the securities offered:
+
+b Every manager of a unit trust (within the meaning of section 2 of the Unit Trusts Act 1960) in which securities have been allotted, whether before or after the commencement of this Act, pursuant to an offer of securities to the public within the meaning of the Securities Act 1978:
+
+ba every recipient of money from a conduit issuer (within the meaning of section 4A):
+
+c Every person who is a party to a listing agreement with a stock exchange in New Zealand and who has issued securities which are quoted on such an exchange:
+
+d every insurer to whom Part 10 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies.
+
+e every operator within the meaning of the Retirement Villages Act 2003 (other than a receiver or liquidator, or a person who has no financial interest in the village).
+
+2 Every registered bank (within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989) that has allotted securities to the public within the meaning of the Securities Act 1978 is an issuer for the purposes of this Act.
+
+3 In this section references to securities that have been issued or allotted are to be taken as references to securities that have not been cancelled, redeemed, forfeited, or in respect of which obligations owing under them have not been discharged.
+
+4 Subsection (2) of this section shall come into force on a date to be appointed by the Governor-General by Order in Council.
+
+4A Recipients of money from conduit issuers
+
+1 In section 4, a person is a *recipient of money from a conduit issuer* if
+
+a the person is related to another person (the *conduit issuer*); and
+
+b the conduit issuer raises an amount of money by the issue of securities offered to the public within the meaning of the Securities Act 1978 and that offer is made under that Act after the commencement of this section; and
+
+c that money is raised as part of a scheme or arrangement under which 75% or more of that money is provided, directly or indirectly and whether by 1 transaction or a series of transactions, for the use of
+
+i the person; or
+
+ii the person and 1 or more third persons that are related to the person; and
+
+d the money that is provided to the person under paragraph (c) is 10% or more of the money that is raised under paragraph (b); and
+
+e all or part of the money that is provided under paragraph (c) has not yet been repaid or returned to the conduit issuer.
+
+2 In subsection (1),
+
+a a person is related to another person if
+
+i they are acting jointly or in concert; or
+
+ii either person acts, or is accustomed to act, in accordance with the wishes of the other person; or
+
+iii they are related companies within the meaning of section 2(3) of the Companies Act 1993; or
+
+iv either person is able, directly or indirectly, to exert a substantial degree of influence over the activities of the other; or
+
+v they are both, directly or indirectly, under the control of the same person; but
+
+b a director of a company or other body corporate is not related to that company or body corporate merely because he or she is a director of that company or body corporate.
+
+4B Exemption from being issuer under section 4(1)(ba)
+
+1 The Securities Commission may, by notice in the Gazette, exempt
+
+a a person from being an issuer under section 4(1)(ba); or
+
+b a class of persons from being issuers under section 4(1)(ba).
+
+2 The exemption may be granted on any terms and conditions that the Securities Commission thinks fit.
+
+3 The Securities Commission may vary or revoke an exemption in the same way as an exemption may be granted under this section.
+
+4 Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+
+4C Exemption may apply to accounting period before exemption is granted
+An exemption under section 4B may, if the Securities Commission thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before the financial statements or group financial statements for that period are required to be completed.
+
+4D Securities Commission must notify reasons for exemption
+
+1 The Securities Commission's reasons for granting an exemption under section 4B (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
+
+2 However, the Securities Commission may defer notifying or not notify the reasons for granting an exemption if the Commission is satisfied that it is proper to do so on the ground of commercial confidentiality.
+
+5 Persons ceasing to be issuers during accounting period
+
+1 Where a person ceases to be an issuer during an accounting period, that person shall be deemed to continue to be an issuer in relation to that accounting period for the purposes of this Act.
+
+2 However, this section does not apply to a person who ceases to be an issuer as a result of an exemption under section 4B.
+
+6 Certain persons not issuers
+None of the following is an issuer for the purposes of this Act:
+
+a The Crown:
+
+b A local authority:
+
+c The Board of Trustees of the National Provident Fund continued in existence under section 12 of the National Provident Fund Restructuring Act 1990:
+
+d The Reserve Bank of New Zealand continued in existence under section 5 of the Reserve Bank of New Zealand Act 1989:
+
+e 
+
+f A company within the meaning of section 2(1) of the Companies Act 1955 that does not have more than 25 members and that would, but for this section, be an issuer by reason only of the allotment of equity securities:
+
+g A company within the meaning of section 2(1) of the Companies Act 1993 that does not have more than 25 shareholders and that would, but for this section, be an issuer by reason only of the allotment of equity securities.
+
+6A Meaning of exempt company
+
+1 In this Act, *exempt company* means a company, other than an overseas company or an issuer, if
+
+a at least 2 of the following subparagraphs apply:
+
+i as at the balance date of the accounting period for which financial statements are required, the value of the total assets of the company (including intangible assets) reported in the statement of financial position did not exceed $1,000,000:
+
+ii in the accounting period for which financial statements are required, the turnover of the company did not exceed $2,000,000:
+
+iii as at the balance date of the accounting period for which financial statements are required, the company has 5 or fewer full-time equivalent employees; and
+
+b as at the balance date of the accounting period for which financial statements are required, the company
+
+i was not a subsidiary of another body corporate or association of persons; and
+
+ii did not have any subsidiaries.
+
+2 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+
+a amending the maximum amount of assets that applies under subsection (1)(a)(i):
+
+b amending the maximum amount of turnover that applies under subsection (1)(a)(ii):
+
+c amending the maximum number of full-time equivalent employees that applies under subsection (1)(a)(iii).
+
+3 In counting employees for the purposes of subsection (1), part-time employees must be taken into account as an appropriate fraction of a full-time equivalent.
+
+7 Meaning of balance date
+
+1 In this Act, the term *balance date* in relation to an entity, means the close of the 31st day of March or of such other date as the directors of the entity adopt as the entity's balance date.
+
+2 Subject to subsections (3) and (4) of this section, an entity must have a balance date in each calendar year.
+
+3 An entity need not have a balance date in the calendar year in which it is formed or incorporated if its first balance date is in the following calendar year and is not later than 15 months after the date of its formation or incorporation.
+
+4 If an entity changes its balance date, it need not have a balance date in a calendar year if
+
+a The period between any 2 balance dates does not exceed 15 months; and
+
+b The Registrar approves the change of balance date before it is made.
+
+5 The Registrar may approve a change of balance date with or without conditions.
+
+6 If an entity changes its balance date, the period between any 2 balance dates must not exceed 15 months.
+
+7 The board of a reporting entity (not being an issuer) that is a company must ensure that, unless in the board's opinion there are good reasons against it, the balance date of each subsidiary of the company is the same as the balance date of the company.
+
+8 The board of an issuer must ensure that the balance date of the issuer is the same as the balance date of its subsidiaries.
+
+9 Subject to subsection (11) of this section, the Registrar may, by notice in writing and subject to such conditions as the Registrar thinks fit, exempt an issuer from subsection (8) of this section either completely or in relation to a subsidiary or a class of subsidiaries.
+
+10 The existence of the exemption must be stated in a note to the consolidated statement of financial position for a group.
+
+11 If the balance date of a subsidiary of a reporting entity is not the same as that of the reporting entity, the balance date of the subsidiary for the purposes of any particular group financial statements must be that preceding the balance date of the reporting entity.
+
+8 Meaning of financial statements
+
+1 In this Act, the term *financial statements*, in relation to an entity and a balance date, means
+
+a A statement of financial position for the entity as at the balance date; and
+
+b In the case of
+
+i An entity trading for profit, a statement of financial performance for the entity in relation to the accounting period ending at the balance date; and
+
+ii An entity not trading for profit, an income and expenditure statement for the entity in relation to the accounting period ending at the balance date; and
+
+iii An entity that is a building society within the meaning of the Building Societies Act 1965, a revenue and appropriation account for the entity in relation to the accounting period ending at the balance date; and
+
+c If, in the case of a reporting entity, an applicable financial reporting standard requires a statement of cash flows for the reporting entity, a statement of cash flows for the reporting entity in relation to the accounting period ending on the balance date,together with any notes or documents giving information relating to the statement of financial position, statements, or account.
+
+2 In this Act, the term *financial statements*, in relation to a reporting entity that is an overseas company, includes, in addition to the financial statements of the overseas company, financial statements referred to in subsection (1) of this section for its New Zealand business prepared as if that business were conducted by a company formed and registered in New Zealand.
+
+3 Where the Registrar notifies an overseas company that he or she is satisfied that the financial statements of the overseas company that comply with subsection (1) of this section comply with subsection (2) of this section, those financial statements shall be taken to comply with subsection (2) of this section.
+
+9 Meaning of group financial statements
+
+1 In this Act, the term *group financial statements*, in relation to a group and a balance date, means
+
+a A consolidated statement of financial position for the group as at that balance date; and
+
+b Where a member of the group trades for profit, a consolidated statement of financial performance for the group in relation to the accounting period ending on that balance date; and
+
+c Where no member of the group trades for profit, a consolidated income and expenditure statement for the group in relation to the accounting period ending on that balance date; and
+
+d If an applicable financial reporting standard requires a consolidated statement of cash flows for the group, a consolidated statement of cash flows for the group in relation to the accounting period ending on that balance date,together with any notes or documents giving information relating to the statement of financial position or statement.
+
+2 In this Act, the term *group financial statements*, in relation to a group that comprises a reporting entity that is an overseas company and its subsidiaries, includes, in addition to the financial statements of the group, financial statements referred to in subsection (1) of this section for the group's New Zealand business prepared as if the members of the group were companies formed and registered in New Zealand.
+
+3 Where the Registrar notifies an overseas company that he or she is satisfied that the financial statements of the group that comply with subsection (1) of this section comply with subsection (2) of this section, those financial statements shall be taken to comply with subsection (2) of this section.
+
+9A Application to certain issuers
+
+1 For the purposes of this Act, a requirement on the directors of an issuer of securities in relation to a scheme within the meaning of section 2 of the Securities Act 1978 (other than a scheme to which subsection (2) of this section applies) to prepare and register financial statements shall be construed as including a requirement to prepare and register (in addition to financial statements in respect of the issuer itself),
+
+a If the liabilities of the issuer and the scheme are not limited to a particular group of assets (in this section referred to as a *separate fund*), financial statements in respect of the scheme; or
+
+b If the liabilities of the issuer or the scheme are limited to a separate fund, financial statements in respect of both the scheme and that fund.
+
+2 For the purposes of this Act, a requirement on the trustees of a superannuation scheme that is registered under the Superannuation Schemes Act 1989 to prepare and register financial statements shall be construed as a requirement to prepare and register,
+
+a If the liabilities of the trustee and the scheme are not limited to a separate fund, financial statements in respect of the scheme; or
+
+b If the liabilities of the trustee or the scheme are limited to a separate fund, financial statements in respect of both the scheme and that fund.
+
+3 Where the liability of an issuer that is a life insurance company to satisfy its obligations under any securities (as distinct from calculating the returns on the securities) is limited to a separate fund (whether the fund or the limitation is created by statute or by contract or otherwise), then, for the purposes of this Act, a requirement on the directors of the issuer to prepare and register financial statements shall be construed as including a requirement to prepare and register (in addition to financial statements in respect of the issuer itself), financial statements in respect of each such fund.
+
+4 Subsection (5) applies if
+
+a the financial statements of an operator of a retirement village (as those terms are defined in sections 5 and 6 of the Retirement Villages Act 2003) include the activities of
+
+i more than 1 retirement village; or
+
+ii another trading activity that operates independently of the retirement village; and
+
+b either the statutory supervisor of the retirement village, or (if the operator is exempted under section 41 of that Act from appointing a statutory supervisor) the Registrar, as a condition of that exemption, requires the operator to comply with subsection (5).
+
+5 If this subsection applies, any requirement for an operator of a retirement village to prepare financial statements includes
+
+a a requirement to prepare financial statements in respect of the retirement village as well as in respect of the operator; and
+
+b a requirement to lodge a copy of both statements, within 20 working days after the financial statements are required to be signed,
+
+i with the statutory supervisor of the retirement village (if there is one); or
+
+ii if the operator is exempted from appointing a statutory supervisor, with the Registrar or with any person the Registrar appoints under a condition of that exemption.
+
+2 Financial statements
+
+
+
+10 Obligation to prepare financial statements
+
+1 The directors of every reporting entity must ensure that, within 5 months after the balance date of the entity or, where the entity is required by any other Act to prepare financial statements or accounts within a shorter period after the end of its financial year or balance date, within that period, financial statements that comply with section 11 of this Act are
+
+a Completed in relation to the entity and that balance date; and
+
+b Dated and signed on behalf of the directors by 2 directors of the entity, or, if the entity has only 1 director, by that director.
+
+2 The directors of every exempt company must ensure that within 5 months after the balance date of the company or, if all the members or shareholders of the company agree, within 9 months after the balance date of the company, financial statements that comply with section 12 of this Act are
+
+a Completed in relation to the company and that balance date; and
+
+b Dated and signed on behalf of the directors by 2 directors of the company, or, if the company has only 1 director, by that director.
+
+10A Non-active entities not required to prepare financial statements
+
+1 The directors of an entity do not have to comply with section 10 or 19 in respect of an accounting period if the entity
+
+a was a non-active entity in respect of that accounting period; and
+
+b has, within the specified period, delivered to the Registrar a declaration, in the prescribed form, stating that it was a non-active entity in respect of that accounting period.
+
+2 For the purposes of this section, an entity is a *non-active entity* in respect of an accounting period if the entity is not an issuer and, during that period, the entity
+
+a has not derived, or been deemed to have derived, any income; and
+
+b has no expenses; and
+
+c has not disposed of, or been deemed to have disposed of, any assets; and
+
+d has not been a party to, perpetuated, or continued with, any transactions that, during the period, give rise to obligations under the Income Tax Act 2004 in relation to the entity or any other person (or both).
+
+3 In determining whether an entity is a non-active entity, no account may be taken of any
+
+a statutory company filing fees or associated accounting or other costs; or
+
+b bank charges or other minimal administration costs totalling not more than $50 in the accounting period; or
+
+c interest earned on any bank account during the accounting period, to the extent that the total interest does not exceed the total of any charges or costs incurred by the entity to which paragraph (b) applies.
+
+4 In this section, *specified period*, in relation to an accounting period, means the period within which the directors of the entity would, but for this section, be required to ensure that financial statements are completed under section 10.
+
+11 Content of financial statements of reporting entities
+
+1 The financial statements of a reporting entity must comply with generally accepted accounting practice.
+
+2 If, in complying with generally accepted accounting practice, the financial statements do not give a true and fair view of the matters to which they relate, the directors of the reporting entity must add such information and explanations as will give a true and fair view of those matters.
+
+3 Where the Registrar of Companies notifies a reporting entity that is incorporated or constituted outside New Zealand that the Registrar is satisfied that
+
+a The financial statements of the reporting entity comply with the requirements of the law in force in the country where the reporting entity is incorporated or constituted; and
+
+b Those requirements are substantially the same as those of this Act,those financial statements shall be taken to comply with this section and every applicable financial reporting standard.
+
+12 Content of financial statements of exempt companies
+
+1 The financial statements of an exempt company must either
+
+a be in the form and contain the particulars and comply with the directions as to the preparation of those statements prescribed by the Governor-General by Order in Council; or
+
+b comply with section 11 as if the exempt company were a reporting entity.
+
+2 For the purposes of subsection (1)(a), the Governor-General. may from time to time, on the recommendation of the Minister, by Order in Council, prescribe
+
+a The form of; and
+
+b The particulars to be contained in; and
+
+c Directions to be complied with in the preparation offinancial statements of exempt companies.
+
+3 Before making any recommendation for the purposes of subsection (2) of this section, the Minister shall do everything reasonably possible to advise such organisations as, in his or her opinion, have a professional interest in the terms of any order made under that subsection of the proposed terms of the order, and shall give those organisations a reasonable opportunity to make submissions to him or her.
+
+4 Failure to comply with subsection (3) of this section does not affect the validity of any order made under subsection (2) of this section.
+
+5 Every order made under subsection (2) of this section shall commence to apply in relation to accounting periods commencing on or after the date on which the order takes effect.
+
+13 Obligation to prepare group financial statements
+
+1 Subject to subsection (2) of this section, the directors of a reporting entity that has, on the balance date of the entity, one or more subsidiaries, must, in addition to complying with section 10 of this Act, ensure that, within 5 months after that balance date or, where the entity is required by any other Act to prepare group financial statements or group accounts within a shorter period after the end of its financial year or balance date, within that period, group financial statements that comply with section 14 of this Act are
+
+a Completed in relation to that group and that balance date; and
+
+b Dated and signed on behalf of the directors by 2 directors of the entity, or, if the entity has only 1 director, by that director.
+
+2 Group financial statements are not required in relation to a reporting entity that is a company if, on the balance date of the company, the company is not an issuer and the only shareholders of the company comprise a reporting entity that is
+
+a A body corporate that is incorporated in New Zealand or a nominee of such a body corporate; or
+
+b A body corporate that is incorporated in New Zealand or a nominee of such a body corporate and a subsidiary of such a body corporate or a nominee of such a subsidiary.
+
+14 Content of group financial statements
+
+1 The financial statements of a group must comply with generally accepted accounting practice.
+
+2 If, in complying with generally accepted accounting practice, the group financial statements do not give a true and fair view of the matters to which they relate, the directors of the reporting entity must add such information and explanations as will give a true and fair view of those matters.
+
+3 In any case where a subsidiary became a subsidiary of a reporting entity during the accounting period to which the group financial statements relate, the consolidated statement of financial performance or the consolidated income and expenditure statement for the group, must, unless any applicable financial reporting standard otherwise requires, relate to the profit or loss of the subsidiary for each part of that accounting period during which it was such a subsidiary, and not to any other part of that accounting period.
+
+4 Subject to subsection (3) of this section, where the balance date of a subsidiary of a reporting entity is not the same as that of the reporting entity, the group financial statements must
+
+a If the balance date of the subsidiary does not precede that of the reporting entity by more than 3 months, incorporate the financial statements of the subsidiary for the accounting period ending on that date, or incorporate interim financial statements of the subsidiary completed in respect of a period that is the same as the accounting period of the reporting entity; or
+
+b In any other case, incorporate interim financial statements of the subsidiary completed in respect of a period that is the same as the accounting period of the reporting entity.
+
+5 Where the Registrar of Companies notifies a reporting entity that is incorporated or constituted outside New Zealand that the Registrar is satisfied that
+
+a The group financial statements of the group that comprises the reporting entity and its subsidiaries comply with the law in force in the country where the reporting entity is incorporated or constituted; and
+
+b Those requirements are substantially the same as those of this Act,those financial statements shall be taken to comply with this section and every applicable financial reporting standard.
+
+6 Subject to subsection (3) of this section, group financial statements must, except where otherwise required by an applicable financial reporting standard, incorporate the financial statements of every subsidiary of the reporting entity.
+
+15 Financial statements of issuers and group financial statements of issuers to be audited
+
+1 The directors of an issuer must ensure that the financial statements of the issuer and, if the issuer is required to complete group financial statements, the group financial statements are audited.
+
+2 The financial statements and any group financial statements must be audited,
+
+a If the issuer is a company, other than an overseas company, by an auditor appointed in accordance with the Companies Act 1955 or the Companies Act 1993, as the case may be; or
+
+b If the issuer is an overseas company, by a person who is qualified for appointment as auditor in accordance with section 199 of the Companies Act 1993; or
+
+c If the issuer is incorporated or registered under any other Act that provides for the appointment of an auditor, by an auditor appointed under that Act; or
+
+d If the issuer is not incorporated or registered under an Act that provides for the appointment of an auditor, by an auditor appointed in accordance with the provisions of the Companies Act 1993 which shall, for that purpose, apply with such modifications as may be necessary.
+
+e if the issuer is a public entity under the Public Audit Act 2001, by the Auditor-General.
+
+3 This section shall not apply in respect of a superannuation scheme that is registered under the Superannuation Schemes Act 1989 if the annual accounts of that scheme are not required to be audited under section 13 of that Act.
+
+16 Auditor's report on reporting entities
+
+1 Where, pursuant to section 15 of this Act or the Companies Act 1955 or the Companies Act 1993, the financial statements of a reporting entity or group financial statements are required to be audited, the auditor's report on the financial statements or group financial statements must state
+
+a The work done by the auditor; and
+
+b The scope and limitations of the audit; and
+
+c The existence of any relationship (other than that of auditor) which the auditor has with, or any interests which the auditor has in, the reporting entity or any of its subsidiaries; and
+
+d Whether the auditor has obtained all information and explanations that he or she has required; and
+
+e Whether, in the auditor's opinion, as far as appears from an examination of them, proper accounting records have been kept by the reporting entity; and
+
+f Whether, in the auditor's opinion, the financial statements and any group financial statements comply with generally accepted accounting practice, and if they do not, the respects in which they fail to comply; and
+
+g Whether, in the auditor's opinion and having regard to any information or explanations that may have been added by the reporting entity pursuant to section 11(2) or section 14(2) of this Act, the financial statements and any group financial statements give a true and fair view of the matters to which they relate, and, if they do not, the respects in which they fail to give such a view.
+
+2 Where the auditor's report indicates that the requirements of this Act have not been complied with, the auditor must, within 7 working days after signing the report, send a copy of the report and a copy of the financial statements and any group financial statements to which it relates, to the Registrar who must, in turn, forthwith send copies of the report and statements to the Board and, if the reporting entity or group to which the report and statements relate is an issuer, to the Securities Commission.
+
+17 Auditor's report on exempt companies
+Where, pursuant to the Companies Act 1955 or the Companies Act 1993, the financial statements of an exempt company are required to be audited, the auditor's report on the financial statements must state
+
+a The work done by the auditor; and
+
+b The scope and limitations of the audit; and
+
+c The existence of any relationship (other than that of auditor) which the auditor has with, or any interests which the auditor has in, the exempt company; and
+
+d Whether the auditor has obtained all information and explanations that he or she has required; and
+
+e Whether, in the auditor's opinion, as far as appears from an examination of them, proper accounting records have been kept by the exempt company; and
+
+f Whether, in the auditor's opinion, the financial statements comply with section 12 of this Act, and if they do not, the respects in which they fail to comply.
+
+
+
+18 Registration of financial statements by issuers
+
+1 The directors of an issuer must ensure that, within 20 working days after the financial statements of the issuer and any group financial statements are required to be signed, copies of those statements together with a copy of the auditor's report on those statements are delivered to the Registrar for registration.
+
+1A Any financial statements to which subsection (1) of this section applies and that are required for the purposes of this Act may also contain or be accompanied by financial statements and any auditor's report on those statements, that are required for the purposes of a prospectus under the Securities Act 1978.
+
+2 The issuer must, at the same time, pay to the Registrar the prescribed registration fee.
+
+3 Any person may, on payment of the prescribed fee (if any), inspect the copies of an issuer's financial statements and auditor's report on those statements delivered to the Registrar under subsection (1).
+
+
+
+19 Overseas companies and certain other companies to register financial statements
+
+1 This section applies to
+
+a any company, other than an issuer, that is an overseas company; or
+
+b any company, other than an issuer,
+
+i that is large; and
+
+ii in which shares that in aggregate carry the right to exercise or control the exercise of 25% or more of the voting power at a meeting of the company are held by
+
+A a subsidiary of a company or body corporate incorporated outside New Zealand; or
+
+B a company or body corporate incorporated outside New Zealand; or
+
+C a person not ordinarily resident in New Zealand; or
+
+c any company, other than an issuer, that is a subsidiary of a company or body corporate incorporated outside New Zealand.
+
+2 However, this section does not apply to a company (*company A*) if the following requirements are satisfied:
+
+a company A is a subsidiary of a company that is incorporated in New Zealand (*company B*); and
+
+b financial statements in relation to company B that comply with section 11 are completed and signed within the time specified in section 10; and
+
+c group financial statements in relation to a group comprising company B, company A, and all other subsidiaries of company B that comply with section 14 are completed and signed within the time specified in section 13; and
+
+d a copy of the financial statements referred to in paragraph (b) and a copy of the group financial statements referred to in paragraph (c), together with the auditor's report on those statements, are delivered to the Registrar for registration.
+
+3 The directors of every company to which this section applies must
+
+a ensure that, within 20 working days after the financial statements of the company and any group financial statements in relation to a group comprising that company and its subsidiaries are required to be signed, copies of those statements, together with a copy of the auditor's report on those statements, are delivered to the Registrar for registration; and
+
+b ensure that the company pays to the Registrar the prescribed registration fee at the same time.
+
+19A Interpretation for section 19
+
+1 For the purposes of section 19,
+
+a a person is ordinarily resident in New Zealand if that person
+
+i is domiciled in New Zealand; or
+
+ii is living in New Zealand and the place where that person usually lives is, and has been for the immediately preceding 12 months, in New Zealand, whether or not that person has on occasions been away from New Zealand during that period:
+
+b a company is large if at least 2 of the following subparagraphs apply:
+
+i as at the balance date of the accounting period for which financial statements are required, the total assets (including intangible assets) of the company and its subsidiaries (if any) reported in the statement of financial position or consolidated statement of financial position (as the case may be) exceeds $10,000,000:
+
+ii in the accounting period for which financial statements are required, the total turnover of the company and its subsidiaries (if any) exceeds $20,000,000:
+
+iii as at the balance date of the accounting period for which financial statements are required, the company and its subsidiaries (if any) have 50 or more full-time equivalent employees:
+
+c *auditor's report*, in relation to an overseas company, means a report by a person qualified for appointment as auditor in accordance with section 199 of the Companies Act 1993:
+
+d a subsidiary does not include any company or body corporate or association of persons that is classified as a subsidiary in any applicable financial reporting standard.
+
+2 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+
+a amending the amount of assets that must be exceeded under subsection (1)(b)(i):
+
+b amending the amount of turnover that must be exceeded under subsection (1)(b)(ii):
+
+c amending the minimum number of full-time equivalent employees that applies under subsection (1)(b)(iii).
+
+3 In counting employees for the purposes of subsection (1), part-time employees must be taken into account as an appropriate fraction of a full-time equivalent.
+
+20 Fees
+The Governor-General may from time to time, by Order in Council,
+
+a Prescribe the fees payable to the Registrar under section 18(2) or section 18(3) or section 19(3) of this Act:
+
+b Prescribe the amounts payable to the Registrar by way of penalty for failure to deliver financial statements or group financial statements and the auditor's report on those statements within the time prescribed by section 18(1) or section 19(3) of this Act.
+
+21 Application of this Part to accounting periods ending before person becomes an issuer
+Nothing in this Part of this Act requires the directors of an issuer, not being a company, to ensure the completion of financial statements and any group financial statements and the registration of those financial statements in relation to an accounting period that ended before the accounting period in which that person became an issuer.
+
+3 Accounting Standards Review Board
+
+22 Establishment of Accounting Standards Review Board
+
+1 There is hereby established a Board to be called the Accounting Standards Review Board.
+
+2 The Accounting Standards Review Board is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+
+3 The Crown Entities Act 2004 applies to the Accounting Standards Review Board except to the extent that this Act expressly provides otherwise.
+
+4 Members of the Accounting Standards Review Board are the board for the purposes of the Crown Entities Act 2004.
+
+23 Membership of Board
+
+1 The Board shall consist of not less than 4 and not more than 7 members.
+
+2 
+
+3 The Minister shall not recommend a person for appointment as a member of the Board unless, in the opinion of the Minister, that person is qualified for appointment by reason of his or her knowledge of, or experience in, business, accounting, finance, economics, or law.
+
+4 Subsection (3) does not limit section 29 of the Crown Entities Act 2004.
+
+24 Functions of Board
+
+1 The Board has the following functions:
+
+a To review and, if it thinks fit, approve financial reporting standards submitted to it for approval for the purposes of
+
+i This Act; or
+
+ia the Crown Entities Act 2004; or
+
+ii The Public Finance Act 1989; or
+
+iia the Local Government Act 2002; or
+
+iii Any Act that requires a person to comply with this Act as if that person were a reporting entity:
+
+b To review, and, if it thinks fit, approve amendments to any approved financial reporting standards:
+
+c To make recommendations in relation to the submission to it for approval of financial reporting standards or amendments to approved financial reporting standards:
+
+d To give directions as to the accounting policies that have authoritative support within the accounting profession in New Zealand:
+
+e To encourage the development of financial reporting standards, including financial reporting standards for different classes of reporting entity:
+
+ea 
+
+f To liaise with the Accounting Standards Board established by the Securities Commission Act 1989 of Australia with a view to harmonising New Zealand and Australian financial reporting standards.
+
+2 For the avoidance of doubt, the function of the Board referred to in subsection (1)(a) includes the function of reviewing and, if the Board thinks fit, approving financial reporting standards submitted to it for approval that relate to prospective, summary, or interim financial information.
+
+3 Except as expressly provided otherwise in this or another Act, the Board must act independently in performing its statutory functions and duties, and exercising its statutory powers, under
+
+a this Act; and
+
+b any other Act that expressly provides for the functions, powers, or duties of the Board (other than the Crown Entities Act 2004).
+
+25 Financial reporting standards may be submitted to Board for approval
+The Institute of Chartered Accountants of New Zealand and any other organisation or person may, from time to time, submit
+
+a Financial reporting standards; and
+
+b Amendments to any approved financial reporting standardsto the Board for approval.
+
+26 Consultation
+
+1 The Board shall not approve a financial reporting standard or an amendment to an approved financial reporting standard unless
+
+a The standard or the amendment is based on a standard or an amendment adopted by the Institute of Chartered Accountants of New Zealand or the organisation or person by whom it was submitted to the Board and the Board is satisfied that, before it was so adopted, the Institute or organisation or person, as the case may be, took reasonable steps to consult with persons or organisations or representatives of persons or organisations who, in the opinion of the Institute or organisation or person, would be affected by the adoption of the standard or the amendment; or
+
+b The standard or the amendment is based on a standard or amendment that was not adopted by the Institute of Chartered Accountants of New Zealand or organisation or person by whom it was submitted to the Board and the Board is satisfied that, before the standard or amendment was submitted to the Board, the Institute or organisation or person, as the case may be, took reasonable steps to consult with persons or organisations who, in the opinion of the Institute or organisation or person, would be affected by the approval of the standard or the amendment by the Board.
+
+1A The Board must not approve a financial reporting standard, or an amendment to an approved financial reporting standard, that is likely to require the disclosure of personal information unless
+
+a the Board is satisfied that,
+
+i in the case of a standard or amendment based on a standard or amendment adopted by the Institute of Chartered Accountants of New Zealand or the organisation or person by whom it was submitted to the Board, the Institute or organisation or person, as the case may be, consulted with the Privacy Commissioner before the standard or amendment was adopted; or
+
+ii in the case of a standard or amendment based on a standard or amendment that was not adopted by the Institute of Chartered Accountants of New Zealand or organisation or person by whom it was submitted to the Board, the Institute or organisation or person, as the case may be, consulted with the Privacy Commissioner before the standard or amendment was submitted to the Board; or
+
+b the Board has consulted with the Privacy Commissioner.
+
+2 Any failure to comply with subsection (1) or subsection (1A) does not affect the validity of the approval by the Board of the standard or the amendment.
+
+3 In subsection (1A), *personal information* and *Privacy Commissioner* have the same meanings as in section 2 of the Privacy Act 1993.
+
+27 Approval of financial reporting standards
+
+1 Approved financial reporting standards may be expressed to apply in relation to
+
+a All reporting entities or groups; or
+
+b Specified reporting entities or groups; or
+
+c The Crown; or
+
+d All departments or Offices of Parliament or Crown entities; or
+
+e Specified departments or Offices of Parliament or Crown entities; or
+
+ea All local authorities; or
+
+eb Specified local authorities; or
+
+f Accounting periods or interim accounting periods.
+
+2 Approved financial reporting standards may
+
+a Have general or specific application:
+
+b Differ according to differences in time or circumstance.
+
+3 An approved financial reporting standard may classify a company as a subsidiary of another company where, although the company is not a subsidiary of that other company for the purposes of section 5 of the Companies Act 1993 or section 158 of the Companies Act 1955, the company is, in effect, controlled by that other company (irrespective of whether it is taken to be controlled by that other company for the purposes of section 5 of the Companies Act 1993 or section 158 of the Companies Act 1955), so as to render it, in substance, a subsidiary of that other company.
+
+3A The Board may from time to time determine that
+
+a An approved financial reporting standard which has not been approved for application to a particular person (including a department or Office of Parliament) or category of persons shall apply to that person or category of persons; or
+
+b An approved financial reporting standard which applies to a particular person (including a department or Office of Parliament) or category of persons shall cease to apply to that person or category of persons,in relation to such accounting periods or interim accounting periods as the Board may determine.
+
+4 In subsection (3) of this section, the expression *company* includes an association of persons whether incorporated or not.
+
+5 An approved financial reporting standard or an amendment to an approved financial reporting standard or a determination by the Board under subsection (3A) of this section, as the case may be, takes effect on the 28th day after the date of the notification of the approval or the amendment or the determination in the Gazette.
+
+6 Subject to subsection (7) of this section, an approved financial reporting standard or an amendment to an approved financial reporting standard or a determination made under subsection (3A) of this section shall commence to apply in relation to such accounting periods or interim accounting periods as the Board specifies in its approval or determination, which periods
+
+a May be accounting periods or interim accounting periods that have commenced or that commence before the date on which the financial reporting standard or the amendment to the approved financial reporting standard takes effect; but
+
+b Must not be accounting periods or interim accounting periods that have ended or that end before the approved financial reporting standard or the amendment to the approved financial reporting standard takes effect.
+
+7 Where
+
+a The directors of a reporting entity; or
+
+b The Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared pursuant to the Public Finance Act 1989; or
+
+c The Chief Executive of a department; or
+
+d The Chief Executive of an Office of Parliament; or
+
+e The Chairperson and the Chief Executive of a Crown entity or, where no Chairperson exists, the Chief Executive; or
+
+f the chief executive of a local authority,as the case may be, elect or elects in writing that an approved financial reporting standard, which would not otherwise apply to a particular accounting period or interim accounting period, shall apply to that accounting period or interim accounting period, the approved financial reporting standard shall apply accordingly.
+
+28 Revocation of approval
+
+1 The Board may revoke the approval of any approved financial reporting standard.
+
+2 Any such revocation shall take effect on the 28th day after the date of the notification of the revocation in the Gazette.
+
+3 Subject to subsection (4) of this section, the revocation of the approval of an approved financial reporting standard shall apply in relation to such accounting periods or interim accounting periods as the Board specifies, which periods
+
+a May be accounting periods or interim accounting periods that have commenced or that commence before the date on which the revocation takes effect; but
+
+b Must not be accounting periods or interim accounting periods that have ended or that end before the revocation takes effect.
+
+4 Where
+
+a The directors of a reporting entity; or
+
+b The Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared pursuant to the Public Finance Act 1989; or
+
+c The Chief Executive of a department; or
+
+d The Chief Executive of an Office of Parliament; or
+
+e The Chairperson and the Chief Executive of a Crown entity or, where no Chairperson exists, the Chief Executive; or
+
+f the chief executive of a local authority,as the case may be, elect or elects in writing that the revocation of an approved financial reporting standard, which does not apply to a particular accounting period or interim accounting period, shall apply in relation to that accounting period or interim accounting period, the revocation shall apply accordingly.
+
+29 Public notice
+
+1 The Board must give notice of
+
+a The approval of a financial reporting standard and of any amendment to an approved financial reporting standard; and
+
+b Any determination made under section 27(3A) of this Act; and
+
+c The revocation of any approval of a financial reporting standard and of any amendment to an approved financial reporting standardin the Gazette and in such publications as it considers appropriate for that purpose.
+
+2 A notice under this section must
+
+a Identify the financial reporting standard approved or the amendment to the approved financial reporting standard, as the case may be, but need not incorporate it in the notice:
+
+b Identify the financial reporting standard to which the determination relates, but need not incorporate it in the notice:
+
+c Identify the approved financial reporting standard revoked or the amendment to an approved financial reporting standard revoked, as the case may be, but need not incorporate it in the notice.
+
+29A Board may grant exemptions
+
+29B Exemption may apply to accounting period before exemption is granted
+
+29C Failure to comply with applicable financial reporting standard must be disregarded if directors of reporting entity are exempt
+
+29D Board must notify reasons for exemption
+
+30 Consultation
+
+1 The Board may consult any persons or organisations that the Board thinks fit to assist the Board in deciding whether or not to
+
+a approve a financial reporting standard; or
+
+b approve any amendment to an approved financial reporting standard; or
+
+c revoke the approval of any approved financial reporting standard.
+
+d 
+
+1A 
+
+2 This section does not limit section 26 of this Act or section 16 or section 17 of the Crown Entities Act 2004.
+
+31 Annual reports
+
+32 Further provisions applying to Board
+The provisions set out in Schedule 1 to this Act apply in respect of the Board.
+
+33 Disallowance of determinations by House of Representatives
+The Regulations (Disallowance) Act 1989 applies to the following determinations of the Board as if the determination were a regulation within the meaning of that Act:
+
+a any approval of a financial reporting standard and any amendment to an approved financial reporting standard:
+
+b any revocation of an approval of an approved financial reporting standard:
+
+c any determination made under section 27(3A).
+
+34 Certificates of Board
+
+1 A certificate signed by the Chairperson or Deputy Chairperson of the Board as to
+
+a The making of a determination approving a financial reporting standard or any amendment to an approved financial reporting standard; or
+
+ab The making of a determination under section 27(3A) of this Act and the accounting period or interim accounting period in relation to which it applies; or
+
+b The making of a determination revoking the approval of an approved financial reporting standard; or
+
+ba 
+
+c The accounting period or interim accounting period in relation to which an approved financial reporting standard shall commence to apply; or
+
+d The accounting period or interim accounting period in relation to which an approved financial reporting standard ceases to apply; or
+
+e The accounting period or interim accounting period in relation to which an approved financial reporting standard was in forceshall, in the absence of evidence to the contrary, be sufficient evidence of the matters stated in the certificate.
+
+2 All Courts and all persons acting judicially shall take judicial notice of the signature of the Chairperson or Deputy Chairperson appearing on a certificate given under subsection (1) of this section.
+
+35 Amendment to Official Information Act 1982
+
+4 Miscellaneous
+
+35A Securities Commission may grant exemptions to directors of issuers that are incorporated or constituted outside New Zealand
+
+1 The Securities Commission may, by notice in the Gazette, exempt any directors of an issuer that is incorporated or constituted outside New Zealand, or any directors of a class of those issuers, from compliance with any provision of sections 8 to 11, 13 to 16, 18, 36, 36A, or 38.
+
+2 The Securities Commission must not grant an exemption under this section unless it is satisfied that
+
+a the exemption would not cause significant detriment to subscribers for the securities of the issuer that are members of the public in New Zealand, having regard to the financial reporting requirements that must be complied with in relation to the issuer under the law in force in the country where the issuer is incorporated or constituted; and
+
+b the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption.
+
+3 The exemption may be granted on any terms and conditions that the Securities Commission thinks fit.
+
+4 The Securities Commission may vary or revoke an exemption in the same way as an exemption may be granted under this section.
+
+5 Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+
+35B Registrar of Companies may grant exemptions to directors of overseas companies
+
+1 The Registrar of Companies may, by notice in the Gazette, exempt any directors of an overseas company that is not an issuer, or any directors of a class of those overseas companies, from compliance with any provision of sections 8 to 11, 13, 14, 19, 36, 36A, or 39.
+
+2 The Registrar of Companies must not grant an exemption under this section unless he or she is satisfied that
+
+a compliance with the relevant provision would require the directors of the overseas company to comply with requirements that are unduly onerous or burdensome; and
+
+b the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption.
+
+3 The exemption may be granted on any terms and conditions that the Registrar of Companies thinks fit.
+
+4 The Registrar of Companies may give notice of the exemption in any publications he or she thinks fit (in addition to notifying the exemption in the Gazette).
+
+5 The Registrar of Companies may vary or revoke an exemption in the same way as an exemption may be granted under this section.
+
+6 Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+
+35C Consultation
+
+1 In deciding whether or not to grant, amend, or revoke an exemption under section 35A or 35B, the Securities Commission or the Registrar of Companies (as the case may be)
+
+a may consult any persons or organisations that the Commission or Registrar thinks fit; but
+
+b must consult with
+
+i the Commissioner of Inland Revenue if the exemption is under section 35B and involves any provision of section 10; and
+
+ii the Reserve Bank of New Zealand if the exemption concerns a registered bank (within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989).
+
+2 This section does not limit section 16 or 17 of the Crown Entities Act 2004.
+
+35D Exemption may apply to accounting period before exemption is granted
+An exemption under section 35A or 35B may, if the Securities Commission or the Registrar of Companies (as the case may be) thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if,
+
+a in the case of copies of financial statements or group financial statements for that period that are required to be delivered for registration under section 18 or 19, the exemption is granted before those documents are required to be delivered for registration under those sections; or
+
+b in any other case, the exemption is granted before the financial statements or group financial statements for that period are required to be completed.
+
+35E Reasons for exemption must be notified
+
+1 The Securities Commission's reasons for granting an exemption under section 35A (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
+
+2 The Registrar of Companies' reasons for granting an exemption under section 35B (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
+
+3 However, the Securities Commission or the Registrar of Companies (as the case may be) may defer notifying or not notify the reasons for granting an exemption if the Securities Commission or the Registrar of Companies is satisfied that it is proper to do so on the ground of commercial confidentiality.
+
+36 Offences by directors of reporting entities
+
+1 Where
+
+a Financial statements in relation to a reporting entity are not completed and signed within the time specified in section 10 of this Act; or
+
+b Group financial statements in relation to a group comprising a reporting entity and its subsidiaries are not completed and signed within the time specified in section 13 of this Act,every director of the reporting entity commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+
+2 Where the financial statements of a reporting entity or group financial statements in relation to a group comprising a reporting entity and its subsidiaries fail to comply with an applicable financial reporting standard, every director of the reporting entity commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+
+36A Content of statements that contain prospective, summary, or interim financial information
+
+1 Any statement prepared by, or on behalf of, a reporting entity that contains prospective, summary, or interim financial information for the reporting entity must comply with any applicable financial reporting standard.
+
+2 Any statement prepared by, or on behalf of, a group comprising a reporting entity and its subsidiaries that contains prospective, summary, or interim financial information for the group must comply with any applicable financial reporting standard.
+
+3 Every director of a reporting entity commits an offence and is liable on summary conviction to a fine not exceeding $100,000 if
+
+a any statement prepared by, or on behalf of, the reporting entity that contains prospective, summary, or interim financial information for the reporting entity does not comply with this section; or
+
+b any statement prepared by, or on behalf of, a group comprising the reporting entity and its subsidiaries that contains prospective, summary, or interim financial information for the group does not comply with this section.
+
+4 This section does not apply to the extent that it is inconsistent with, or modified by, the provisions of another enactment.
+
+37 Offences by directors of exempt companies
+Where
+
+a Financial statements in relation to an exempt company are not completed and signed within the time specified in section 10 of this Act; or
+
+b Financial statements in relation to an exempt company do not comply with section 12 of this Act,every director of the exempt company commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+
+38 Offences by directors of issuers
+Where
+
+a The financial statements of an issuer and any group financial statements in relation to a group comprising an issuer and its subsidiaries are not audited in accordance with section 15 of this Act; or
+
+b A copy of the financial statements of an issuer or group financial statements together with the auditor's report on those statements are not delivered to the Registrar in accordance with section 18(1),
+
+c every director of the issuer commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+
+39 Offences by directors of overseas companies and other companies to which section 19 applies
+Where a copy of the financial statements of a company to which section 19 of this Act applies and any group financial statements relating to a group comprising that company and its subsidiaries, and a copy of the auditor's report on those statements are not delivered to the Registrar in accordance with subsection (3) of that section, every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+
+40 Defences
+It is a defence to a director of an entity charged with an offence under any of sections 36 to 39 of this Act if the director proves that
+
+a The directors of the entity took all reasonable and proper steps to ensure that the applicable requirement of this Act would be complied with; or
+
+b He or she took all reasonable and proper steps to ensure that the directors of the entity complied with the applicable requirement; or
+
+c In the circumstances he or she could not reasonably have been expected to take steps to ensure that the directors of the entity complied with the applicable requirement.
+
+41 False statements
+
+1 Every person who, with respect to a document required by this Act,
+
+a Makes, or authorises the making of, a statement in the document that is false or misleading in a material particular knowing the statement to be false or misleading; or
+
+b Omits, or authorises the omission, from the document of any matter knowing that the omission makes the document false or misleading in a material particularcommits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000.
+
+2 For the purposes of this section, a person who voted in favour of the making of a statement at a meeting of directors or members or shareholders of an entity is deemed to have authorised the making of the statement.
+
+41A Infringement offences
+
+1 If a person is alleged to have committed an infringement offence, that person may either
+
+a be proceeded against summarily for the alleged offence under the Summary Proceedings Act 1957; or
+
+b be served with an infringement notice as provided in section 41B.
+
+2 Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or a Registrar of a Court to lay an information is not necessary where the Registrar proceeds with an infringement offence summarily.
+
+41B Infringement notices
+
+1 The Registrar may issue an infringement notice to a person if the Registrar believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+
+2 The Registrar may revoke an infringement notice before the infringement fee is paid, or an order for payment of a fine is made or deemed to be made by a Court under section 21 of the Summary Proceedings Act 1957.
+
+3 An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
+
+41C Procedural requirements for infringement notices
+
+1 An infringement notice may be served on a person
+
+a by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
+
+b by sending it, or a copy of it, by post, addressed to the person at the person's last known place of residence or business.
+
+2 For the purposes of the Summary Proceedings Act 1957, an infringement notice sent under subsection (1)(b) must be treated as having been served on the person on the date it was posted.
+
+3 An infringement notice must be in the prescribed form and must contain
+
+a details of the alleged infringement offence that are sufficient to fairly inform a person of the time, place, and nature of the alleged infringement offence; and
+
+b the amount of the infringement fee; and
+
+c an address at which the infringement fee may be paid; and
+
+d the time within which the infringement fee must be paid; and
+
+e a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+
+f a statement that the person served with the notice has a right to request a hearing; and
+
+g a statement of what will happen if the person served with the notice does not pay the fee and does not request a hearing; and
+
+h any other prescribed matters.
+
+4 If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957 and, in that case,
+
+a reminder notices may be prescribed under regulations made under this Act; and
+
+b in all other respects, section 21 of the Summary Proceedings Act 1957 applies with all necessary modifications.
+
+5 Reminder notices must contain the prescribed information.
+
+41D Payment of infringement fee
+The Registrar must pay all infringement fees received into a Crown Bank Account
+
+42 Time in which information may be laid
+Notwithstanding anything to the contrary in the Summary Proceedings Act 1957, an information for an offence against any of sections 36 to 39 of this Act may be laid at any time within 3 years after the date of the offence.
+
+42A Privacy Act 1993
+The disclosure of personal information (as defined in section 2 of the Privacy Act 1993) is not a breach of principle 10 or principle 11 of that Act, if the disclosure is required for compliance with an applicable financial reporting standard that was approved after the commencement of the Financial Reporting Amendment Act 2001.
+
+42B Regulations
+
+1 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+
+a prescribing fees and charges that
+
+i the Securities Commission may require to be paid to it in connection with an application to the Securities Commission to grant or amend an exemption under section 4B or 35A:
+
+ii the Board may require to be paid to it in connection with an application to the Board to grant or amend an exemption under section 29A:
+
+iii the Registrar of Companies may require to be paid to him or her in connection with an application to him or her to grant or amend an exemption under section 35B:
+
+b prescribing the amounts of those fees or charges or the method by which they are to be calculated:
+
+c prescribing forms for the purposes of section 10A and forms of infringement notices and reminder notices:
+
+d prescribing the information that must be included in infringement notices or reminder notices.
+
+2 The amounts payable under regulations made under this section are recoverable by the Securities Commission or the Board or the Registrar of Companies (as the case may be) in any court of competent jurisdiction as a debt due to the Securities Commission or the Board or the Registrar of Companies.
+
+43 Administration of Act
+The Registrar is charged with the administration of this Act.
+
+44 Transitional provisions
+
+1 Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is an industrial and provident society that ended before the 1st day of July 1994 and, in relation to any such period, the Industrial and Provident Societies Act 1908, as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+
+2 Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is an incorporated society that ended before the 1st day of July 1994 and, in relation to any such period, the Incorporated Societies Act 1908, as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+
+3 Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is a company (within the meaning of section 2 of the Companies Act 1955) that ended before the 1st day of July 1994 and, in relation to any such period, the Companies Act 1955, as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+
+4 Nothing in this Act shall apply in relation to an accounting period or interim accounting period of an entity that is a unit trust (within the meaning of section 2 of the Unit Trusts Act 1960) that ended before the 1st day of July 1994 and, in relation to any such period, the Unit Trusts Act 1960, as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+
+5 Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is a building society (within the meaning of section 2 of the Building Societies Act 1965) that ended before the 1st day of July 1994 and, in relation to any such period, the Building Societies Act 1965, as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+
+6 Nothing in this Act shall apply in relation to an accounting period or interim accounting period of an entity that is a credit union or a society registered under Part 2 of the Friendly Societies and Credit Unions Act 1982 that ended before the 1st day of July 1994 and, in relation to any such period, the Friendly Societies and Credit Unions Act 1982, as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+
+45 Repeals and revocations
+
+1 The Companies Amendment Act 1969 is hereby repealed.
+
+2 The following enactments are hereby consequentially repealed:
+
+a Section 4 of the Companies Amendment Act 1971:
+
+b Section 23(2) of the Companies Amendment Act 1975:
+
+c Section 19(3) of the Companies Amendment Act 1982.
+
+3 The following orders are hereby revoked
+
+a The Companies Accounts (Non-Exempt Private Companies) Exemption Order 1971 (SR 1971/20):
+
+b The Companies (Overseas Companies' Accounts) Order 1971 (SR 1971/21).
+
+46 Amendment to Summary Proceedings Act 1957
+Part 2 of Schedule 1 to the Summary Proceedings Act 1957 is hereby amended by inserting, in its appropriate alphabetical order, the following item:The Financial Reporting Act 199341False statements
+
+47 Amendment to Securities Act 1978
+
+1 Schedule 1 to the Securities Act 1978 is hereby amended by inserting, in its appropriate alphabetical order, the following item:The Financial Reporting Act 1993.
+
+2 Section 67 of the Securities Act 1978 (as applied in relation to this Act by subsection (1) of this section) shall so apply as if for paragraphs (a) and (b) of subsection (1) of that section there were substituted the following paragraphs:
+
+a Require any issuer (within the meaning of section 4 of the Financial Reporting Act 1993) or any director, officer, employee, trustee, supervisor, or auditor of the issuer to produce for inspection any book or paper or document kept by the issuer or in the possession or under the control of any such person and relating to the issuer;
+
+b Require any person to produce for inspection any book or paper or other document that contains information relating to any money or other property that is managed, supervised, controlled, or held in trust by any such issuer;.
+
+48 Amendments to Public Finance Act 1989
+
+1 
+
+2 
+
+3 
+
+49 Amendments to other Acts
+The enactments specified in Schedule 2 to this Act are hereby amended in the manner indicated in that Schedule.
