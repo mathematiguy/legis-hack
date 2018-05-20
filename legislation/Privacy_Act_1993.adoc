@@ -447,9 +447,8 @@ of that first-mentioned agency.
 4 For the purposes
 of this Act, where an agency holds information
 
+a solely as agent; or
 
-a solely as
-agent; or
 
 b 
 for the sole purpose of safe custody;
@@ -932,7 +931,6 @@ An agency that
 holds personal information shall not disclose the information to a
 person or body or agency unless the agency believes, on reasonable
 grounds,
-
 
 a 
 that the disclosure of the information
@@ -1784,8 +1782,8 @@ individual.
 may refuse to disclose any information requested pursuant to principle 6 if the disclosure
 of the information would be likely
 
-a to prejudice the security or
-defence
+a 
+to prejudice the security or defence
 of
 
 i 
@@ -2096,23 +2094,11 @@ made pursuant to subclause (1) of principle
 of personal information.
 
 
-34 Who may make requests
+34 Individuals may make information privacy requests
 
-An information
-privacy request may be made only by an individual who is
-
-
-a a New Zealand
-citizen; or
-
-b 
-a permanent resident of New Zealand;
-or
-
-
-c 
-an individual who is in New Zealand.
-
+An information privacy request
+may be made only by an
+individual.
 
 35 Charges
 
@@ -2253,18 +2239,34 @@ imposing a charge in respect of any of the matters referred to in paragraph (e) 
 respect of either or both of those matters.
 
 
+1A 
+The Commissioner may authorise a public sector agency
+to impose a charge in respect of the matter referred to in section 35(1)(e) if the information
+privacy request is received from, or on behalf of, an individual who
+
+
+a is residing outside New Zealand; and
+
+
+b is not a New Zealand citizen
+or a permanent resident of
+New Zealand.
+
 2 The Commissioner
-may impose in respect of any authority granted pursuant to subsection (1) of this section such conditions
-as the Commissioner thinks fit.
+may impose in respect of any authority granted pursuant to subsection (1) or (1A) of this section such conditions as the Commissioner thinks
+fit.
 
-3 The Commissioner
+
+3 
+The Commissioner
 may, at any time, revoke any authority granted to an agency pursuant
-to subsection (1) of this section, but shall not revoke any such authority without giving the agency
-an opportunity to be heard.
+to subsection (1) or (1A) of this section, but shall not revoke any such authority
+without giving the agency an opportunity to be heard.
 
 
-37 
-Urgency
+37 Urgency
+
+
 If an individual
 making an information privacy request asks that his or her request
 be treated as urgent, that individual shall give his or her reasons
@@ -2315,8 +2317,7 @@ or
 ii is believed by the person dealing with
 the request to be more closely connected with the functions or activities
 of another agency,
-the agency to which the request is made shall promptly,
-and
+the agency to which the request is made shall promptly, and
 in any case not later than 10 working days after the day on which
 the request is received, transfer the request to the other agency
 and inform the individual making the request accordingly.
@@ -2373,6 +2374,7 @@ the Department in accordance with this Act.
 privacy request is made or transferred to an agency, the agency may
 extend the time limit set out in section 39 or section 40(1) of this Act in respect
 of the request if
+
 
 a 
 the request is for a large quantity of
@@ -2516,6 +2518,7 @@ of a document is made available under subsection (1) of this section, the agency
 to section 32 of this Act, give
 to the individual
 
+
 a 
 the reason for withholding the information;
 and
@@ -2538,12 +2541,13 @@ privacy request made by an individual is refused, the agency shall,
 a subject to section 32 of this Act, give
 to the individual
 
+
 i 
 the reason for its refusal; and
 
 
-ii 
-if the individual so requests, the grounds
+ii if the individual
+so requests, the grounds
 in support of that reason, unless the giving of those grounds would
 itself prejudice the interests protected by section 27 or section 28 or section 29 of this Act and
 (in the case of the interests protected by section 28 of this Act) there is no countervailing public
@@ -2654,6 +2658,7 @@ calling or class or classes of industries, professions, or callings.
 4 
 a code of
 practice may also
+
 
 a 
 impose, in relation to any agency that
@@ -3081,8 +3086,7 @@ by an agency that is an individual; or
 
 b personal information
 that is held by
-an agency that is an individual,
-where that personal information is collected or held by that
+an agency that is an individual,where that personal information is collected or held by that
 individual solely or principally for the purposes of, or in connection
 with, that individual's personal, family, or household affairs.
 
@@ -3576,7 +3580,6 @@ may in his or her discretion decide to take no action or, as the case
 may require, no further action, on any complaint if, in the Commissioner's
 opinion,
 
-
 a 
 the length of time that has elapsed between
 the date when the subject-matter of the complaint arose and the date
@@ -3726,6 +3729,39 @@ shall forthwith refer the complaint or, as the case requires, the
 appropriate part of the complaint to the Inspector-General of Intelligence
 and Security to be dealt with accordingly, and shall notify the complainant
 of the action that has been taken.
+
+
+72C Referral of
+complaint to overseas privacy enforcement authority
+
+
+1 
+Where, on receiving a complaint under this Part, the Commissioner
+considers that the complaint relates, in whole or in part, to a matter
+that is more properly within the jurisdiction of an overseas privacy
+enforcement authority, the Commissioner may consult with that authority
+in order to determine the appropriate means of dealing with the complaint.
+
+
+2 As soon as practicable after
+consulting with the overseas
+privacy enforcement authority under subsection
+(1), the Commissioner must determine whether the complaint
+should be dealt with, in whole or in part, under this Act.
+
+
+3 If the Commissioner determines
+that the complaint should
+be dealt with, in whole or in part, by the overseas privacy enforcement
+authority, and both the authority and the complainant agree, the Commissioner
+may refer the complaint or, as the case requires, the appropriate
+part of the complaint, to the authority to be dealt with.
+
+
+4 In this section, *overseas privacy
+enforcement authority*  or *authority*  means any overseas public body that is responsible for enforcing
+legislation that protects personal information, and that has the power
+to conduct investigations and pursue enforcement proceedings.
 
 
 
@@ -4209,8 +4245,8 @@ evidence in rebuttal) that should be taken into account in the proceedings:
 
 b 
 to examine, cross-examine, and re-examine
-witnesses,but shall have
-no greater rights than parties to the proceedings
+witnesses,but shall have no
+greater rights than parties to the proceedings
 in respect of the calling of evidence or evidence in rebuttal, or
 in respect of the examination, cross-examination, and re-examination
 of witnesses.
@@ -4414,7 +4450,6 @@ attendance of any person is required by the Commissioner under this
 section, the person shall be entitled to the same fees, allowances,
 and expenses as if the person were a witness in a court and, for the
 purpose,
-
 
 a 
 the provisions of any regulations in
@@ -4737,7 +4772,6 @@ of this Act, unless the context otherwise requires,
 privileges, obligations, or interests of any specific individual;
 and, without limiting the generality of the foregoing, includes any
 decision
-
 
 a 
 to cancel or suspend any monetary payment:
@@ -5147,8 +5181,8 @@ b
 stating that the individual has 5 working
 days from the receipt of the notice to show cause why the benefit
 ought not to have been suspended or why the adverse action should
-not be taken, or bothand
-the adverse action shall not be taken until the expiration
+not be taken, or bothand the
+adverse action shall not be taken until the expiration
 of those 5 working days.
 
 1B 
@@ -5388,7 +5422,8 @@ b
 an assessment of the extent of the programme's
 compliance, during that year, with
 
-i sections 99 to 103 of this Act; and
+i 
+sections 99 to 103 of this Act; and
 
 
 ii 
@@ -5447,7 +5482,6 @@ under this paragraph (in the case of every subsequent review); and
 b 
 consider whether or not, in the Commissioner's
 opinion,
-
 
 i 
 the authority conferred by the information
@@ -5615,6 +5649,337 @@ the expiration of that section shall not affect the validity of any
 Order in Council that has been made under that section and that is
 in force immediately before that date.
 
+
+
+ 11A Transfer of
+personal information outside New Zealand
+
+114A Interpretation
+
+In this Part, unless the context
+otherwise requires,
+
+*OECD
+Guidelines*  means the Organisation for Economic Co-operation
+and Development Guidelines Governing the Protection of Privacy and
+Transborder Flows of Personal Data
+
+*State*  includes any State, territory, province, or other part of a country
+
+
+*transfer
+prohibition notice*  means a notice given under section 114B prohibiting the
+transfer of personal information from New Zealand to another State.
+
+
+114B Prohibition
+on transfer of personal information outside New Zealand
+
+
+1 The Commissioner may prohibit
+a transfer of personal information
+from New Zealand to another State if the Commissioner is satisfied,
+on reasonable grounds, that
+
+
+a the
+information has been, or will be, received in New
+Zealand from another State and is likely to be transferred to a third
+State where it will not be subject to a law providing comparable safeguards
+to this Act; and
+
+
+b the
+transfer would be likely to lead to a contravention
+of  the basic principles of national application set out in Part Two
+of the OECD Guidelines and set out in Schedule 5A.
+
+
+2 In determining
+whether to prohibit a transfer of personal
+information, the Commissioner must also consider, in addition to the
+matters set out in subsection (1) and section 14, the following:
+
+
+a whether the transfer affects, or would be likely
+to affect,
+any individual; and
+
+
+b the
+general desirability of facilitating the free flow
+of information between New Zealand and other States; and
+
+
+c any existing or developing
+international guidelines relevant
+to transborder data flows, including (but not limited to)
+
+
+i the OECD Guidelines:
+
+
+ii the European Union Directive 95/46/EC on the
+Protection
+of Individuals with Regard to the Processing of Personal Data and
+on the Free Movement of Such Data.
+
+
+3 Subsection (1) does
+not apply if the transfer of the information, or the information itself,
+is
+
+a required or authorised by or
+under any enactment; or
+
+b 
+required by any convention or other instrument imposing
+international obligations on New Zealand.
+
+
+114C Commissioner's
+power to obtain information
+
+
+1 To
+enable the Commissioner to determine whether to prohibit
+a transfer of personal information, the Commissioner may hear or obtain
+information from such persons as the Commissioner considers necessary,
+and for this purpose Part 9 applies as if the
+Commissioner were carrying out an inquiry under section 13(1)(m).
+
+
+2 In exercising his or her powers
+under subsection (1), the Commissioner
+may
+regulate his or her procedure in such manner as the Commissioner thinks
+fit.
+
+114D Transfer prohibition
+notice
+
+1 A prohibition under section 114B(1) is to be effected
+by the service of a transfer prohibition notice on the agency proposing
+to transfer the personal information concerned.
+
+
+2 
+A transfer prohibition notice must
+
+a 
+state the name of the agency to whom it relates; and
+
+
+b describe the personal information
+concerned; and
+
+
+c state
+that the transfer of the personal information concerned
+from New Zealand to a specified State is prohibited either
+
+
+i absolutely; or
+
+
+ii until the agency has taken the steps stated
+in the notice
+to protect the interests of any individual or individuals affected
+by the transfer; and
+
+
+d state the time when the notice takes effect;
+and
+
+e state the
+ground for the prohibition; and
+
+f 
+state that the agency on whom the notice is served may
+lodge an appeal against the notice to the Human Rights Review Tribunal,
+and the time within which the appeal must be lodged.
+
+
+3 The time when
+the notice takes effect under subsection
+(2)(d) must not be before
+the end of the period within which an appeal against the notice can
+be lodged.
+
+4 If an appeal
+is brought, the notice does not take effect
+pending the determination or withdrawal of the appeal.
+
+
+5 If the Commissioner, by reason
+of special circumstances,
+considers that the prohibition should take effect as a matter of urgency
+in relation to all or any part of the notice,
+
+a 
+subsections (3) and (4) do not apply; and
+
+
+b the
+notice takes effect on the sixth working day after
+the date on which the notice is served; and
+
+
+c the notice must include
+
+i 
+a statement that the Commissioner considers that the prohibition
+must take effect as a matter of urgency; and
+
+
+ii a statement of the reasons why the Commissioner
+has reached
+that conclusion.
+
+
+
+114E Commissioner
+may vary or cancel notice
+
+
+1 If,
+at any time, the Commissioner considers that all or
+any of the provisions of a transfer prohibition notice served on an
+agency need not be complied with in order to avoid a contravention
+of basic principles of privacy or data protection, the Commissioner
+may vary or cancel the transfer prohibition notice by serving notice
+to that effect on the agency concerned.
+
+2 
+An agency on whom a transfer prohibition notice has been
+served may, at any time after the end of the period during which an
+appeal under section 114G(1)(a) can be lodged, apply
+in writing to the Commissioner for the notice to be varied or cancelled
+under subsection (1).
+
+
+3 The Commissioner must, within
+20 working days after the
+date on which an application under subsection
+(2) is received, notify the agency of
+
+
+a his or her decision; and
+
+
+b his or her reasons, if the
+application is refused.
+
+
+4 
+If the Commissioner exercises his or her discretion under subsection (1), the variation or cancellation
+of the transfer prohibition notice takes effect on the day after the
+date on which notice of the Commissioners decision to vary
+or cancel the transfer prohibition notice is served.
+
+
+114F Offence in
+relation to transfer prohibition notice
+
+Every person who, without reasonable excuse, fails or
+refuses to comply with a transfer prohibition notice commits an offence
+and is liable on summary conviction to a fine not exceeding $10,000.
+
+
+114G Appeals against
+transfer prohibition notice
+
+
+1 An
+agency on whom a transfer prohibition notice is served
+may appeal to the Human Rights Review Tribunal
+
+a 
+against the whole or any part of the notice; or
+
+
+b if the notice contains a statement
+by the Commissioner
+in accordance with section 114D(5)(c), against the decision
+to include that statement in respect of all or any part of the notice;
+or
+
+c against the
+decision of the Commissioner to vary the notice
+in accordance with section 114E(1); or
+
+
+d against the refusal of an application
+under section 114E(2) to vary or cancel
+the notice.
+
+2 
+An appeal under subsection
+(1) must be lodged,
+
+
+a in
+the case of an appeal under subsection
+(1)(a) or (b), within 15 working days from
+the date on which the transfer prohibition notice was served on the
+agency concerned:
+
+
+b in
+the case of an appeal under subsection
+(1)(c) or (d), within 15 working days from
+the date on which notice of the decision or refusal was served on
+the agency concerned.
+
+
+3 
+The Tribunal must allow an appeal or substitute any other
+decision or notice that could have been made or served by the Commissioner
+if it considers that
+
+a the decision
+or notice against which the appeal is brought
+is not in accordance with the law; or
+
+
+b to the extent that the decision or notice involved
+an
+exercise of discretion by the Commissioner, the Commissioner ought
+to have exercised his or her discretion differently.
+
+
+4 The Tribunal
+may review any determination of fact on which
+the decision or notice in question was based.
+
+
+5 
+On any appeal under subsection
+(1)(b), the Tribunal may
+
+a 
+direct
+
+i that the notice
+in question must have effect as if it
+did not contain the statement that is mentioned in the notice; or
+
+
+ii that the inclusion of the
+statement must not have effect
+in relation to any part of the notice; and
+
+
+b make any modifications required
+to give effect to that
+direction.
+
+114H Application
+of Human Rights Act 1993
+
+Section 87 and Part 4 of the Human Rights Act 1993 apply, with all necessary modifications (if any), in relation to
+proceedings under section 114G as if they were
+proceedings under that Act.
 
 
 
@@ -6046,6 +6411,23 @@ b providing
 for such matters as are contemplated
 by or necessary for giving full effect to this Act and for its due
 administration.
+
+
+
+128A Power
+to amend
+Schedule 5A
+The Governor-General
+may, by Order in Council,
+
+a amend Schedule 5A by making such amendments
+to the text of the basic principles of national application set out
+in that schedule as are required to bring that text up to date:
+
+
+b repeal Schedule 5A, and substitute
+a new schedule setting out, in an up-to-date form, the text of the
+basic principles of national application.
 
 
 
