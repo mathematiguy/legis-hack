@@ -1033,7 +1033,7 @@ b the extent of the exemption is not broader than is reasonably necessary to add
 
 4 The FMA may vary or revoke an exemption in the same way as an exemption may be granted under this section.
 
-5 The FMA must not grant an exemption under this section in respect of an issuer that is a licensed insurer.
+5 
 
 35AB Transitional provision for exemptions granted by Securities Commission
 Every exemption granted under section 35A (as in force before the commencement of this section) by the Securities Commission that is in force immediately before this section comes into force
