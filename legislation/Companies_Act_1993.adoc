@@ -6676,6 +6676,8 @@ g the constitution of the company must not be altered.
 
 2 Subsection (1) does not affect the right of a secured creditor, subject to section 305, to take possession of, and realise or otherwise deal with, property of the company over which that creditor has a charge.
 
+3 This section is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
+
 249 Completion of liquidation
 The liquidation of a company is completed when the liquidator
 
@@ -7162,6 +7164,8 @@ a a company that is, or has been, related to the company in liquidation must pay
 b where 2 or more related companies are in liquidation, the liquidations in respect of each company must proceed together as if they were 1 company to the extent that the court so orders and subject to such terms and conditions as the court may impose.
 
 2 The court may make such other order or give such directions to facilitate giving effect to an order under subsection (1) as it thinks fit.
+
+3 This section is subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
 
 271A Notice that application filed must be given to administrators and creditors
 
