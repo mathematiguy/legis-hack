@@ -44,7 +44,9 @@ xi a commission of inquiry appointed by an Order in Council made under the Commi
 
 xii a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, and not by, any provision of an Act, to inquire into a specified matter; or
 
-xiii in relation to its news activities, any news medium
+xiii in relation to its news activities, any news medium; or
+
+xiv an inquiry to which section 6 of the Inquiries Act 2013 applies
 
 *collect*  does not include receipt of unsolicited information
 
@@ -1005,7 +1007,9 @@ b evidence given or submissions made to
 
 i a Royal Commission; or
 
-ii a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908,at any time before the report of the Royal Commission or commission of inquiry has been published or, in the case of evidence or submissions given or made in the course of a sitting open to the public, at any time before the Royal Commission or commission of inquiry has reported to the Governor-General; or
+ii a commission of inquiry appointed by Order in Council under the Commissions of Inquiry Act 1908; or
+
+iii an inquiry to which section 6 of the Inquiries Act 2013 applies,at any time before the report of the Royal Commission, commission of inquiry, or inquiry, as the case may be, has been published or, in the case of evidence given or submissions made in the course of a public hearing, at any time before the report has been presented to the Governor-General or appointing Minister, as the case may be; or
 
 c evidence given or submissions made to a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, and not by, any provision of an Act, to inquire into a specified matter; or
 
