@@ -2946,6 +2946,8 @@ eaa a person who is prohibited from being a general partner or promoter of, or b
 
 ea a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Financial Markets Conduct Act 2013 or the Takeovers Act 1993:
 
+eab in the case of a company that is an employer, a person who is prohibited from being an officer of an employer under sections 142M and 142N(1)(b) of the Employment Relations Act 2000:
+
 eb a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a prescribed country, State, or territory outside New Zealand:
 
 i being a director of an overseas company:
