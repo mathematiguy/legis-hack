@@ -84,6 +84,8 @@ b an interest in or right to participate in any distribution of profits or surpl
 
 *issuer* has the meaning given to it by section 4
 
+*licensed insurer* has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
+
 *local authority* means a local authority within the meaning of the Local Government Act 2002
 
 *Minister* means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -170,6 +172,8 @@ ba every recipient of money from a conduit issuer (within the meaning of section
 c every person who is a party to a listing agreement with a stock exchange in New Zealand and who has issued securities which are quoted on such an exchange:
 
 d every insurer to whom Part 10 of the Accident Compensation Act 2001 applies:
+
+da every licensed insurer (other than a Lloyd's underwriter within the meaning of the Insurance (Prudential Supervision) Act 2010 or an insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)(b) of that Act):
 
 e every operator within the meaning of the Retirement Villages Act 2003 (other than a receiver or liquidator, or a person who has no financial interest in the village).
 
@@ -539,6 +543,8 @@ f whether, in the auditor's opinion, the financial statements and any group fina
 
 g whether, in the auditor's opinion and having regard to any information or explanations that may have been added by the reporting entity pursuant to section 11(2) or section 14(2), the financial statements and any group financial statements give a true and fair view of the matters to which they relate, and, if they do not, the respects in which they fail to give such a view.
 
+1A Section 79 of the Insurance (Prudential Supervision) Act 2010 applies in respect of a reporting entity that is a licensed insurer.
+
 2 Where the auditor's report indicates that the requirements of this Act have not been complied with, the auditor must, within 7 working days after signing the report, send a copy of the report and a copy of the financial statements and any group financial statements to which it relates, to the Registrar who must, in turn, forthwith send copies of the report and statements to the Board and, if the reporting entity or group to which the report and statements relate is an issuer, to the Securities Commission.
 
 17 Auditor's report on exempt companies
@@ -898,6 +904,8 @@ b the extent of the exemption is not broader than what is reasonably necessary t
 4 The Securities Commission may vary or revoke an exemption in the same way as an exemption may be granted under this section.
 
 5 Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+
+6 The Securities Commission must not grant an exemption under this section in respect of an issuer that is a licensed insurer.
 
 35B Registrar of Companies may grant exemptions to directors of overseas companies
 
