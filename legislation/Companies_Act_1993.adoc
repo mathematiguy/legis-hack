@@ -1499,9 +1499,9 @@ b the terms and conditions under which the assistance is proposed are fair and r
 
 6 In applying the solvency test for the purposes of this section,
 
-*assets*  excludes amounts of financial assistance given by the company at any time under section 76or section 107(1)(e) in the form of loans; and
+*assets*  excludes amounts of financial assistance given by the company at any time under section 76 or section 107(1)(e) in the form of loans; and
 
-*liabilities*  includes the face value of all outstanding liabilities, whether contingent or otherwise, incurred by the company at any time in connection with the giving of financial assistance under section 76or 107(1)(e).
+*liabilities*  includes the face value of all outstanding liabilities, whether contingent or otherwise, incurred by the company at any time in connection with the giving of financial assistance under section 76 or 107(1)(e).
 
 7 Nothing in subsection (6) limits or affects the application of section 4(4).
 
@@ -3487,7 +3487,7 @@ b that the company will ratify the contract within such period as may be specifi
 
 2 The amount of damages recoverable in an action for breach of a warranty implied by subsection (1) is the same as the amount of damages that would be recoverable in an action against the company for damages for breach by the company of the unperformed obligations under the contract if the contract had been ratified and cancelled.
 
-3 If, after its incorporation, a company enters into a contract in the same terms as, or in substitution for, a pre-incorporation contract (not being a contract ratified by the company under section 182), the liability of a person under subsection (1) (including any liability under an order made by the court for the payment of damages) is discharged.
+3 If, after its incorporation, a company enters into a contract in the same terms as, or in substitution for, a pre-incorporation contract (not being a contract ratified by the company under section 182 ), the liability of a person under subsection (1) (including any liability under an order made by the court for the payment of damages) is discharged.
 
 184 Failure to ratify
 
@@ -3528,7 +3528,7 @@ c the parties agree, in accordance with section 37 of the District Courts Act 19
 
 a state the address of the registered office; and
 
-b if the registered office is at the offices of any firm of chartered accountants, barristers and solicitors, or any other person, state
+b if the registered office is at the offices of any firm of accountants, barristers and solicitors, or any other person, state
 
 i that the registered office of the company is at the offices of that firm or person; and
 
@@ -3654,7 +3654,7 @@ b the proposed inspection is for a purpose that is not properly connected with t
 
 a state the address of that place; and
 
-b if the address for service is at the offices of any firm of chartered accountants, barristers and solicitors, or any other person, state
+b if the address for service is at the offices of any firm of accountants, barristers and solicitors, or any other person, state
 
 i that the address for service of the company is at the offices of that firm or person; and
 
@@ -4449,7 +4449,7 @@ Subject to the constitution of a company, the failure to send an annual report, 
 
 2 The annual return must be dated as at a day within the month during which the return is required to be delivered to the Registrar and the information required to be contained in it must be compiled as at that date.
 
-3 The annual return must be signed by a director of the company or by a solicitor or chartered accountant authorised for that purpose.
+3 The annual return must be signed by a director of the company or by a solicitor or qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013) authorised for that purpose.
 
 4 On registration of a company under Part 2, the Registrar must allocate a month to the company for the purposes of this section.
 
@@ -7935,7 +7935,7 @@ d a creditor, shareholder, other entitled person, or a director of the company i
 
 e a receiver appointed in relation to property of the company in liquidation:
 
-f if the liquidator is a chartered accountant, the President of the New Zealand Institute of Chartered Accountants:
+f if the liquidator is a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013), a member of the governing body of the association of accountants of which the qualified statutory accountant is a member:
 
 g if the liquidator is a barrister and solicitor or a solicitor, the President of the New Zealand Law Society:
 
@@ -9003,7 +9003,7 @@ ii if an objection to the removal has been received, has complied with section 3
 
 319 Notice of intention to remove company under paragraph (aaa), (b), (ba), (bb), (bc), (bd), or (f) of section 318(1)
 
-1 Before a company can be removed from the New Zealand register under section 318(1)(aaa), (b), (ba), (bb), (bc), (bd), or (f), the Registrar must
+1 Before a company can be removed from the New Zealand register under section 318(1)(aaa), (b), (ba), (bb), (bc), (bd),  or (f), the Registrar must
 
 a give notice to the company in accordance with subsection (2); and
 
@@ -9714,7 +9714,7 @@ a a Registrar of Companies; and
 
 b as many Deputy Registrars of Companies as may be necessary for the purposes of this Act and the Limited Partnerships Act 2008,each of whom must be appointed under the State Sector Act 1988.
 
-2 Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act and the Limited Partnerships Act 2008.
+2 Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act, the Financial Reporting Act 2013, and the Limited Partnerships Act 2008.
 
 3 The fact that a Deputy Registrar exercises those powers, duties, or functions is conclusive evidence of the authority to do so.
 
