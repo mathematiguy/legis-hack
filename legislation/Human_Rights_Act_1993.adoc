@@ -1849,7 +1849,7 @@ e a declaration that any contract entered into or performed in contravention of 
 
 f an order that the defendant undertake any specified training or any other programme, or implement any specified policy or programme, in order to assist or enable the defendant to comply with the provisions of this Act:
 
-g relief in accordance with the Illegal Contracts Act 1970 in respect of any such contract to which the defendant and the complainant or, as the case may be, the aggrieved person are parties:
+g relief in accordance with subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 in respect of any such contract to which the defendant and the complainant or, as the case may be, the aggrieved person are parties:
 
 h any other relief the Tribunal thinks fit.
 
@@ -1921,7 +1921,7 @@ b if damages do not fall within the terms of the property order, the Tribunal ma
 
 4 If money is paid to Public Trust under any of subsections (1) to (3),
 
-a section 12 of the Minors' Contracts Act 1969 applies in the case of a minor who is not married or in a civil union; and
+a sections 103 to 110 of the Contract and Commercial Law Act 2017 applies in the case of a minor who is not married or in a civil union; and
 
 b sections 108D, 108F, and 108G of the Protection of Personal and Property Rights Act 1988 apply, with any necessary modifications, in the case of a person referred to in subsection (2) or subsection (3)(b); and
 
@@ -2917,7 +2917,7 @@ b to any act done in order to comply with any provision described in paragraph (
 
 1 Nothing in this Act affects the right to bring any proceedings, whether civil or criminal, that may be brought other than under this Act, but, in assessing any damages to be awarded to or on behalf of any person under this Act or otherwise, a court must take account of any damages already awarded to or on behalf of that person in respect of the same cause of action.
 
-2 Subject to the Illegal Contracts Act 1970, no proceedings, civil or criminal, shall lie against any person, except as provided by this Act, in respect of any act or omission which is unlawful by virtue only of any of the provisions of Part 2.
+2 Subject to subpart 5 of Part 2 of the Contract and Commercial Law Act 2017, no proceedings, civil or criminal, shall lie against any person, except as provided by this Act, in respect of any act or omission which is unlawful by virtue only of any of the provisions of Part 2.
 
 3 Nothing in this Act shall affect any enactment or rule of law, or any policy or administrative practice of the Government of New Zealand, that
 
