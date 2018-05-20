@@ -112,17 +112,17 @@ ii a structure or installation that is imported by being towed through the sea
 
 a include the following, regardless of scale, intensity, duration, or frequency:
 
-i a positive or adverse effect; and 
+i a positive or adverse effect; and
 
-ii a temporary or permanent effect; and 
+ii a temporary or permanent effect; and
 
-iii a past, present, or future effect; and 
+iii a past, present, or future effect; and
 
 iv a cumulative effect that arises over time or in combination with other effects; and
 
 b also include the following:
 
-i a potential effect of high probability; and 
+i a potential effect of high probability; and
 
 ii a potential effect of low probability that has a high potential impact
 
@@ -202,7 +202,7 @@ f systems of interacting living organisms and their environment
 
 *new organism* has the same meaning as in section 2 of the Hazardous Substances and New Organisms Act 1996
 
-*New Zealand territory* means the land and the waters enclosed by the outer limits of the territorial sea 
+*New Zealand territory* means the land and the waters enclosed by the outer limits of the territorial sea
 
 *occupier*,
 
@@ -246,7 +246,7 @@ i may or may not contain material derived from a human being; and
 
 ii may or may not contain the secretions of a human being; and
 
-c it 
+c it
 
 i is not cardboard, coal, paper, petroleum oil, a substance derived from coal, or a substance derived from petroleum oil; and
 
@@ -270,7 +270,7 @@ f includes any particle that is a prion
 
 *other Minister* means a Minister other than the responsible Minister
 
-*pathway* means movement that 
+*pathway* means movement that
 
 a is of goods or craft out of, into, or through
 
@@ -475,7 +475,7 @@ ii arranges the importation of goods for the person; and
 e includes the New Zealand-based consignee of imported goods.
 
 2B Interpretation of specified in relation to organisms
-For the purposes of this Act,  an organism may be specified by 1 or both of the following:
+For the purposes of this Act, an organism may be specified by 1 or both of the following:
 
 a its scientific name:
 
@@ -636,7 +636,7 @@ b continuing the exemption under section 7B of an action from Part 2 of the Excl
 
 2 The responsible Minister must not make a recommendation for the purposes of subsection (1) unless he or she considers that it is necessary to continue the action to attempt to eradicate or manage the organism beyond the duration of the exemption.
 
-3 Regulations made under this section come into force on the date of notification in the Gazette, or at the time specified in the regulations, whichever is the later. 
+3 Regulations made under this section come into force on the date of notification in the Gazette, or at the time specified in the regulations, whichever is the later.
 
 4 The regulations expire on the day that is 2years after the date on which the regulations come into force unless they are revoked earlier.
 
@@ -740,7 +740,7 @@ b capable of being obtained by the council or agency without unreasonable diffic
 
 
 
-12A Director-General provides overall leadership 
+12A Director-General provides overall leadership
 
 1 The Director-General provides overall leadership in activities that prevent, reduce, or eliminate adverse effects from harmful organisms that are present in New Zealand (*pest management*).
 
@@ -851,7 +851,7 @@ d it agrees with the transferee that the transfer is desirable on the grounds of
 
 i efficiency; and
 
-ii technical or special capability or expertise on the part of the transferee, by (and subject to any terms and conditions contained in) a written agreement with the transferee.
+ii technical or special capability or expertise on the part of the transferee,by (and subject to any terms and conditions contained in) a written agreement with the transferee.
 
 2 The transferor shall not transfer
 
@@ -942,7 +942,7 @@ d an agent of an operator of the craft.Form and manner of notices
 
 5 The person who is carrying out the duties must give notices under this section in the form and manner
 
-a approved by the Director-General; and 
+a approved by the Director-General; and
 
 b available on an Internet site maintained by or on behalf of the Ministry.First notice
 
@@ -962,7 +962,7 @@ ii if it is impossible or impracticable to go to an approved port, the destinati
 
 a the person has given the notice; and
 
-b the craft has not subsequently arrived in New Zealand; and 
+b the craft has not subsequently arrived in New Zealand; and
 
 c the person learns that it is now impossible or impracticable to go to the port or destination stated in the notice.
 
@@ -1004,7 +1004,7 @@ e provide for the Director-General to require the giving of the information earl
 
 i an emergency or an urgent situation has arisen; and
 
-ii the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and 
+ii the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and
 
 iii the earlier giving of the information is necessary to avoid or mitigate the risk.
 
@@ -1108,7 +1108,7 @@ d the duration of the requirements:
 
 e any other matters reasonably necessary for the effective implementation of the requirements.
 
-22A Process for independent review panel to be established 
+22A Process for independent review panel to be established
 
 23 From draft to recommendation
 
@@ -1128,7 +1128,7 @@ a must have regard to the matters raised by the persons consulted; and
 
 b  must have regard to the following matters in relation to goods of the class or description proposed for coverage by the standard:
 
-i the likelihood that the goods will import organisms: 
+i the likelihood that the goods will import organisms:
 
 ii the nature of the organisms that the goods may import:
 
@@ -1320,7 +1320,7 @@ a must have regard to the matters raised by the persons consulted; and
 
 b must have regard to the following matters in relation to craft of the class or description proposed for coverage by the standard:
 
-i the likelihood that the craft will import organisms into New Zealand territory: 
+i the likelihood that the craft will import organisms into New Zealand territory:
 
 ii the nature of the organisms that the craft may import into New Zealand territory:
 
@@ -1382,7 +1382,7 @@ b a proposal to revoke a craft risk management standard.
 
 24I Publication
 
-1 The Director-General must maintain a register of current craft risk management standards. 
+1 The Director-General must maintain a register of current craft risk management standards.
 
 2 The register must be available for the public to read free of charge
 
@@ -1481,7 +1481,7 @@ d a person in possession of the goods at a particular time:
 
 e another person in possession of the goods at the same or a later time.
 
-8 A person to whom an inspector gives an authorisation must 
+8 A person to whom an inspector gives an authorisation must
 
 a act within its terms; and
 
@@ -1676,7 +1676,7 @@ a open any bag, box, parcel, container, or other thing containing the goods:
 
 b inspect the goods.
 
-2 An inspector may  enter a transitional facility or biosecurity control area for the purposes of subsection (1), but must do so
+2 An inspector may enter a transitional facility or biosecurity control area for the purposes of subsection (1), but must do so
 
 a at a reasonable time or times; and
 
@@ -1702,7 +1702,7 @@ c must be reasonable.
 
 5 A person to whom the directions are given must comply with them.
 
-6 A chief technical officer may offer the importer or owner of the goods the option of exporting the goods or returning them to their place of origin at the importer's or owner's expense. 
+6 A chief technical officer may offer the importer or owner of the goods the option of exporting the goods or returning them to their place of origin at the importer's or owner's expense.
 
 7 A chief technical officer may
 
@@ -1820,7 +1820,7 @@ ii had a reasonable time to ascertain the presence of any risk goods.
 
 35 Duties of persons in biosecurity control areas
 
-1 A person in a biosecurity control area must answer all questions asked by an inspector about 
+1 A person in a biosecurity control area must answer all questions asked by an inspector about
 
 a the person's identity:
 
@@ -1834,7 +1834,7 @@ d any other matter on which the inspector requires information.
 
 3 A person in a biosecurity control area must, if asked to do so by an inspector, provide the inspector with the person's passport or any evidence of identity that the person has that is not a passport.
 
-4 An inspector to whom a passport or evidence of identity is provided under subsection (3) 
+4 An inspector to whom a passport or evidence of identity is provided under subsection (3)
 
 a may take a copy; and
 
@@ -1860,7 +1860,7 @@ ii inspecting and copying it.
 
 a consideration by an officer authorised under the Act of the applicability to the person of powers or duties in the Act:
 
-b a request by an inspector that an officer not present at the area consider exercising a particular power, or carrying out a particular duty, in the Act that the inspector considers 
+b a request by an inspector that an officer not present at the area consider exercising a particular power, or carrying out a particular duty, in the Act that the inspector considers
 
 i may be applicable to the person; and
 
@@ -1874,7 +1874,7 @@ d the exercise of a particular power, or the carrying out of a particular duty, 
 
 e the exercise, as far as practicable, in the area of the powers under the Act that are required to be exercised in the area:
 
-f the carrying out, as far as practicable, in the area of the duties under the Act that are required to be carried out in the area: 
+f the carrying out, as far as practicable, in the area of the duties under the Act that are required to be carried out in the area:
 
 g compliance by the person with all obligations imposed on him or her under the Act relating to his or her arrival in New Zealand.
 
@@ -1883,7 +1883,7 @@ g compliance by the person with all obligations imposed on him or her under the 
 4 In this section, *Act* means the Customs and Excise Act 1996 or the Immigration Act 2009.
 
 36 Movement of risk goods
-Any person who moves  risk goods within a biosecurity control area shall comply with all reasonable directions given to that person by an inspector concerning the movement of those goods.
+Any person who moves risk goods within a biosecurity control area shall comply with all reasonable directions given to that person by an inspector concerning the movement of those goods.
 
 37 Approval of ports as places of first arrival
 
@@ -2122,7 +2122,7 @@ c all restrictions relating to the release of goods held at the facility communi
 
 3 The notice must specify
 
-a the reason for the suspension; and 
+a the reason for the suspension; and
 
 b the period of the suspension; and
 
@@ -2130,13 +2130,13 @@ c the date on which, or the date and time at which, the suspension starts; and
 
 d the steps to be taken to enable the suspension to be lifted.
 
-4 If the Director-General extends the period of suspension under section 40A(3), the Director-General must give written notice to the facility operator. 
+4 If the Director-General extends the period of suspension under section 40A(3), the Director-General must give written notice to the facility operator.
 
 5 The Director-General must give the notice before the expiry of the original suspension.
 
 6 The notice must specify
 
-a the reason for the extension; and 
+a the reason for the extension; and
 
 b the period of the extension; and
 
@@ -2180,7 +2180,7 @@ b the facility operator has committed an offence under section 154N(17).
 
 3 The notice must specify
 
-a the reason for the suspension; and 
+a the reason for the suspension; and
 
 b the period of the suspension; and
 
@@ -2188,13 +2188,13 @@ c the date on which, or the date and time at which, the suspension starts; and
 
 d the steps to be taken to enable the suspension to be lifted.
 
-4 If the Director-General extends the period of suspension under section 40D(3), the Director-General must give written notice to the facility operator. 
+4 If the Director-General extends the period of suspension under section 40D(3), the Director-General must give written notice to the facility operator.
 
 5 The Director-General must give the notice before the expiry of the original suspension.
 
 6 The notice must specify
 
-a the reason for the extension; and 
+a the reason for the extension; and
 
 b the period of the extension; and
 
@@ -2235,7 +2235,7 @@ a any function, duty, or power imposed or conferred on the Ministry by or under 
 
 b any other function, duty, or power imposed or conferred on the Ministry by or under this Act that is necessary
 
-i to achieve the purpose of this Part; or 
+i to achieve the purpose of this Part; or
 
 ii for the administration of this Part:
 
@@ -2340,7 +2340,7 @@ b store any border information.
 
 41D Requirement by or under this Act to supply border information is complied with if information is supplied to Customs or other agency
 
-1 A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Ministry if, instead of to the Ministry, the person supplies the border information to 
+1 A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Ministry if, instead of to the Ministry, the person supplies the border information to
 
 a the Customs, for the purposes of, and in accordance with, section 282F(1) of the Customs and Excise Act 1996:
 
@@ -2379,7 +2379,7 @@ b import or export transactions:
 c importers or exporters.
 
 41F Expiry of sections 41B to 41E and agreements made under section 41E
- Sections 41B to 41E and any agreement made under section 41E expire, or must be taken to have expired, on the date of expiry of sections 282E to 282H of the Customs and Excise Act 1996 (as provided for in section 282I of that Act).
+Sections 41B to 41E and any agreement made under section 41E expire, or must be taken to have expired, on the date of expiry of sections 282E to 282H of the Customs and Excise Act 1996 (as provided for in section 282I of that Act).
 
 
 
@@ -2585,11 +2585,11 @@ b the appropriate distribution of costs associated with the instruments and meas
 
 1 The responsible Minister may assign responsibility for a decision on the appropriate response to an issue relating to a harmful organism or pathway.
 
-2 The process for the Minister to assign responsibility must be set out in regulations. 
+2 The process for the Minister to assign responsibility must be set out in regulations.
 
 3 If the Minister assigns responsibility to a department or regional council,
 
-a the Minister may specify a time within which the decision must be made; and 
+a the Minister may specify a time within which the decision must be made; and
 
 b the Minister may extend the time if the Minister considers that exceptional circumstances exist justifying the extension; and
 
@@ -2667,17 +2667,17 @@ ii the rest of the public; and
 
 b requires a report and recommendations to be made to the Minister on the submissions and the subject matter of the proposal.
 
-3 When the Minister receives the report and recommendations, the Minister must consider them. 
+3 When the Minister receives the report and recommendations, the Minister must consider them.
 
 4 If the Minister does not accept a recommendation, the Minister must publish the Minister's reasons on an Internet site maintained by or on behalf of the Ministry.
 
 5 The Minister may then
 
-a make changes that the Minister considers appropriate to the proposal or decide to make no changes to it; or 
+a make changes that the Minister considers appropriate to the proposal or decide to make no changes to it; or
 
 b withdraw all or part of the proposal and publish the withdrawal, and the reasons for it, on an Internet site maintained by or on behalf of the Ministry.
 
-6 When the Minister has made appropriate changes to the proposal or decided to make no changes to it, the Minister must recommend the approval of the national policy direction to the Governor-General in Council. 
+6 When the Minister has made appropriate changes to the proposal or decided to make no changes to it, the Minister must recommend the approval of the national policy direction to the Governor-General in Council.
 
 7 The Governor-General in Council may approve the national policy direction.
 
@@ -2699,9 +2699,9 @@ b is not a regulation for the purposes of the Acts and Regulations Publication A
 
 1 If the national policy direction is to be amended in a way that the Minister considers would materially alter the direction, the Minister must
 
-a prepare the proposed amendment; and 
+a prepare the proposed amendment; and
 
-b apply the process in section 57(2) to (8)  to the proposed amendment.
+b apply the process in section 57(2) to (8) to the proposed amendment.
 
 2 If the national policy direction is to be amended in a way that the Minister does not consider would materially alter the direction, the Minister must
 
@@ -2748,7 +2748,7 @@ a a Minister; or
 
 b a person who submits the proposal to a Minister.
 
-2 The proposal must set out the following matters: 
+2 The proposal must set out the following matters:
 
 a the name of the person making the proposal:
 
@@ -2756,7 +2756,7 @@ b the subject of the proposal, which means
 
 i the organism proposed to be specified as a pest under the plan or the organisms proposed to be specified as pests under the plan; or
 
-ii the class or description of organism proposed to be specified as a pest under the plan or the classes or descriptions of organisms proposed to be specified as pests under the plan: 
+ii the class or description of organism proposed to be specified as a pest under the plan or the classes or descriptions of organisms proposed to be specified as pests under the plan:
 
 c for each subject,
 
@@ -2798,11 +2798,11 @@ g the powers in Part 6 that it is proposed to use to implement the plan:
 
 h each proposed rule and an explanation of its purpose:
 
-i the rules whose contravention is proposed to be an offence under this Act: 
+i the rules whose contravention is proposed to be an offence under this Act:
 
-j the management agency: 
+j the management agency:
 
-k the means by which it is proposed to monitor or measure the achievement of the plan's objectives: 
+k the means by which it is proposed to monitor or measure the achievement of the plan's objectives:
 
 l the actions that it is proposed local authorities, local authorities of a specified class or description, or specified local authorities may take to implement the plan, including contributing towards the costs of implementation:
 
@@ -2812,13 +2812,13 @@ n information on the disposal of the proceeds of any receipts arising in the cou
 
 o whether or not the plan would apply to the EEZ and, if it would, whether it would apply to all of it or parts of it and, if it would apply to parts, which parts:
 
-p whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included: 
+p whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included:
 
 q the anticipated costs of implementing the plan:
 
 r how it is proposed that the costs be funded:
 
-s the period for which it is proposed the plan be in force:  
+s the period for which it is proposed the plan be in force:
 
 t the consultation, if any, that has occurred on the proposal and the outcome of it:
 
@@ -2841,7 +2841,7 @@ ii the class or description of organism proposed to be specified as a pest under
 
 d that each subject is capable of causing at some time an adverse effect on 1 or more of the following in New Zealand:
 
-i economic wellbeing: 
+i economic wellbeing:
 
 ii the viability of threatened species of organisms:
 
@@ -2929,7 +2929,7 @@ c public notification of the proposal and the receipt of submissions.
 
 a the pest or pests to be eradicated or managed:
 
-b the plan's objectives: 
+b the plan's objectives:
 
 c the principal measures to be taken to achieve the objectives:
 
@@ -2939,9 +2939,9 @@ e the sources of funding for the implementation of the plan:
 
 f the limitations, if any, on how the funds collected from those sources may be used to implement the plan:
 
-g the powers in Part 6 to be used to implement the plan: 
+g the powers in Part 6 to be used to implement the plan:
 
-h the rules, if any: 
+h the rules, if any:
 
 i the management agency:
 
@@ -2967,19 +2967,19 @@ ii loss suffered before an inspector or authorised person establishes the presen
 
 iii loss suffered by a person who fails to comply with the plan.Rules
 
-5 A plan may include rules for all or any of the following purposes: 
+5 A plan may include rules for all or any of the following purposes:
 
-a requiring a person to take specified actions to enable the management agency to determine or monitor the presence or distribution of the pest or a pest agent: 
+a requiring a person to take specified actions to enable the management agency to determine or monitor the presence or distribution of the pest or a pest agent:
 
-b requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records: 
+b requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records:
 
-c requiring the identification of specified goods: 
+c requiring the identification of specified goods:
 
-d prohibiting or regulating specified methods that may be used in managing the pest: 
+d prohibiting or regulating specified methods that may be used in managing the pest:
 
-e prohibiting or regulating activities that may affect measures taken to implement the plan: 
+e prohibiting or regulating activities that may affect measures taken to implement the plan:
 
-f requiring audits or inspections of specified actions: 
+f requiring audits or inspections of specified actions:
 
 g specifying, for the purposes of section 52(a), the circumstances in which the pest may be communicated, released, or otherwise spread:
 
@@ -2987,23 +2987,23 @@ h requiring the occupier of a place to take specified actions to eradicate or ma
 
 i requiring the occupier of a place to take specified actions to eradicate or manage the habitat of the pest or the habitat of a specified pest agent on the place:
 
-j prohibiting or regulating specified activities by the occupier of a place if the activities are of the kind that would promote the habitat of the pest on the place: 
+j prohibiting or regulating specified activities by the occupier of a place if the activities are of the kind that would promote the habitat of the pest on the place:
 
-k requiring the occupier of a place to carry out specified activities to promote the presence of organisms that assist in the control of the pest on the place: 
+k requiring the occupier of a place to carry out specified activities to promote the presence of organisms that assist in the control of the pest on the place:
 
-l prohibiting or regulating specified activities by the occupier of a place, which deter the presence on that place of organisms that assist in the control of the pest: 
+l prohibiting or regulating specified activities by the occupier of a place, which deter the presence on that place of organisms that assist in the control of the pest:
 
-m requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of the pest: 
+m requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of the pest:
 
-n requiring the owner or person in charge of goods to carry out specified treatments or procedures to assist in preventing the spread of the pest: 
+n requiring the owner or person in charge of goods to carry out specified treatments or procedures to assist in preventing the spread of the pest:
 
-o requiring the destruction of goods if the goods may contain or harbour the pest or otherwise pose a risk of spreading the pest: 
+o requiring the destruction of goods if the goods may contain or harbour the pest or otherwise pose a risk of spreading the pest:
 
-p prohibiting or regulating specified uses of goods that may promote the spread or survival of the pest: 
+p prohibiting or regulating specified uses of goods that may promote the spread or survival of the pest:
 
-q prohibiting or regulating the use or disposal of organic material: 
+q prohibiting or regulating the use or disposal of organic material:
 
-r prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread or survival of the pest: 
+r prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread or survival of the pest:
 
 s prohibiting or regulating the movement of goods that may contain or harbour the pest or otherwise pose a risk of spreading the pest.
 
@@ -3042,7 +3042,7 @@ f that the implementation of the plan is not contrary to New Zealand's internati
 
 66 Making of plan
 
-1 If the Minister is satisfied of the matters in section 65, the Minister may recommend to the Governor-General that an Order in Council be made making the plan. 
+1 If the Minister is satisfied of the matters in section 65, the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
 
 2 The order
 
@@ -3137,7 +3137,7 @@ a the council; or
 
 b a person who submits the proposal to the council.
 
-2 The proposal must set out the following matters: 
+2 The proposal must set out the following matters:
 
 a the name of the person making the proposal:
 
@@ -3145,7 +3145,7 @@ b the subject of the proposal, which means
 
 i the organism proposed to be specified as a pest under the plan or the organisms proposed to be specified as pests under the plan; or
 
-ii the class or description of organism proposed to be specified as a pest under the plan or the classes or descriptions of organisms proposed to be specified as pests under the plan: 
+ii the class or description of organism proposed to be specified as a pest under the plan or the classes or descriptions of organisms proposed to be specified as pests under the plan:
 
 c for each subject,
 
@@ -3189,11 +3189,11 @@ h each proposed rule and an explanation of its purpose:
 
 i the rules, if any, that are intended to be good neighbour rules:
 
-j the rules whose contravention is proposed to be an offence under this Act: 
+j the rules whose contravention is proposed to be an offence under this Act:
 
-k the management agency: 
+k the management agency:
 
-l the means by which it is proposed to monitor or measure the achievement of the plan's objectives: 
+l the means by which it is proposed to monitor or measure the achievement of the plan's objectives:
 
 m the actions that it is proposed local authorities, local authorities of a specified class or description, or specified local authorities may take to implement the plan, including contributing towards the costs of implementation:
 
@@ -3201,13 +3201,13 @@ n the basis, if any, on which the management agency is to pay compensation for l
 
 o information on the disposal of the proceeds of any receipts arising in the course of implementing the plan:
 
-p whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included: 
+p whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included:
 
 q the anticipated costs of implementing the plan:
 
 r how it is proposed that the costs be funded:
 
-s the period for which it is proposed the plan be in force:  
+s the period for which it is proposed the plan be in force:
 
 t the consultation, if any, that has occurred on the proposal and the outcome of it:
 
@@ -3240,7 +3240,7 @@ ii the class or description of organism proposed to be specified as a pest under
 
 d that each subject is capable of causing at some time an adverse effect on 1 or more of the following in the region:
 
-i economic wellbeing: 
+i economic wellbeing:
 
 ii the viability of threatened species of organisms:
 
@@ -3328,7 +3328,7 @@ c public notification of the proposal and the receipt of submissions.
 
 a the pest or pests to be eradicated or managed:
 
-b the plan's objectives: 
+b the plan's objectives:
 
 c the principal measures to be taken to achieve the objectives:
 
@@ -3338,9 +3338,9 @@ e the sources of funding for the implementation of the plan:
 
 f the limitations, if any, on how the funds collected from those sources may be used to implement the plan:
 
-g the powers in Part 6 to be used to implement the plan: 
+g the powers in Part 6 to be used to implement the plan:
 
-h the rules, if any: 
+h the rules, if any:
 
 i the rules, if any, that are good neighbour rules:
 
@@ -3366,19 +3366,19 @@ ii loss suffered before an inspector or authorised person establishes the presen
 
 iii loss suffered by a person who fails to comply with the plan.Rules
 
-5 A plan may include rules for all or any of the following purposes: 
+5 A plan may include rules for all or any of the following purposes:
 
-a requiring a person to take specified actions to enable the management agency to determine or monitor the presence or distribution of the pest or a pest agent: 
+a requiring a person to take specified actions to enable the management agency to determine or monitor the presence or distribution of the pest or a pest agent:
 
-b requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records: 
+b requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records:
 
-c requiring the identification of specified goods: 
+c requiring the identification of specified goods:
 
-d prohibiting or regulating specified methods that may be used in managing the pest: 
+d prohibiting or regulating specified methods that may be used in managing the pest:
 
-e prohibiting or regulating activities that may affect measures taken to implement the plan: 
+e prohibiting or regulating activities that may affect measures taken to implement the plan:
 
-f requiring audits or inspections of specified actions: 
+f requiring audits or inspections of specified actions:
 
 g specifying, for the purposes of section 52(a), the circumstances in which the pest may be communicated, released, or otherwise spread:
 
@@ -3386,23 +3386,23 @@ h requiring the occupier of a place to take specified actions to eradicate or ma
 
 i requiring the occupier of a place to take specified actions to eradicate or manage the habitat of the pest or the habitat of a specified pest agent on the place:
 
-j prohibiting or regulating specified activities by the occupier of a place if the activities are of the kind that would promote the habitat of the pest on the place: 
+j prohibiting or regulating specified activities by the occupier of a place if the activities are of the kind that would promote the habitat of the pest on the place:
 
-k requiring the occupier of a place to carry out specified activities to promote the presence of organisms that assist in the control of the pest on the place: 
+k requiring the occupier of a place to carry out specified activities to promote the presence of organisms that assist in the control of the pest on the place:
 
-l prohibiting or regulating specified activities by the occupier of a place, which deter the presence on that place of organisms that assist in the control of the pest: 
+l prohibiting or regulating specified activities by the occupier of a place, which deter the presence on that place of organisms that assist in the control of the pest:
 
-m requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of the pest: 
+m requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of the pest:
 
-n requiring the owner or person in charge of goods to carry out specified treatments or procedures to assist in preventing the spread of the pest: 
+n requiring the owner or person in charge of goods to carry out specified treatments or procedures to assist in preventing the spread of the pest:
 
-o requiring the destruction of goods if the goods may contain or harbour the pest or otherwise pose a risk of spreading the pest: 
+o requiring the destruction of goods if the goods may contain or harbour the pest or otherwise pose a risk of spreading the pest:
 
-p prohibiting or regulating specified uses of goods that may promote the spread or survival of the pest: 
+p prohibiting or regulating specified uses of goods that may promote the spread or survival of the pest:
 
-q prohibiting or regulating the use or disposal of organic material: 
+q prohibiting or regulating the use or disposal of organic material:
 
-r prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread or survival of the pest: 
+r prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread or survival of the pest:
 
 s prohibiting or regulating the movement of goods that may contain or harbour the pest or otherwise pose a risk of spreading the pest.
 
@@ -3491,7 +3491,7 @@ c a person who is likely to be affected by the plan and did not participate in c
 
 6 The application is made under section 291 of the Resource Management Act 1991 and regulations made under the Resource Management Act 1991.
 
-7 The court must hold a public hearing on the application. 
+7 The court must hold a public hearing on the application.
 
 8 The court must
 
@@ -3612,7 +3612,7 @@ a a Minister; or
 
 b a person who submits the proposal to a Minister.
 
-2 The proposal must set out the following matters: 
+2 The proposal must set out the following matters:
 
 a the name of the person making the proposal:
 
@@ -3660,11 +3660,11 @@ f the powers in Part 6 that it is proposed to use to implement the plan:
 
 g each proposed rule and an explanation of its purpose:
 
-h the rules whose contravention is proposed to be an offence under this Act: 
+h the rules whose contravention is proposed to be an offence under this Act:
 
-i the management agency: 
+i the management agency:
 
-j the means by which it is proposed to monitor or measure the achievement of the plan's objectives: 
+j the means by which it is proposed to monitor or measure the achievement of the plan's objectives:
 
 k the actions that it is proposed local authorities, local authorities of a specified class or description, or specified local authorities may take to implement the plan, including contributing towards the costs of implementation:
 
@@ -3674,9 +3674,9 @@ m information on the disposal of the proceeds of any receipts arising in the cou
 
 n whether or not the plan would apply to the EEZ and, if it would, whether it would apply to all of it or parts of it and, if it would apply to parts, which parts:
 
-o whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included: 
+o whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included:
 
-p the period for which it is proposed the plan be in force:  
+p the period for which it is proposed the plan be in force:
 
 q the consultation, if any, that has occurred on the proposal and the outcome of it:
 
@@ -3695,7 +3695,7 @@ c that the proposal has merit as a means of managing the subject of the proposal
 
 d that each subject could spread an organism that is capable of causing at some time an adverse effect on 1 or more of the following in New Zealand:
 
-i economic wellbeing: 
+i economic wellbeing:
 
 ii the viability of threatened species of organisms:
 
@@ -3783,7 +3783,7 @@ c public notification of the proposal and the receipt of submissions.
 
 a the pathway or pathways to be managed:
 
-b the plan's objectives: 
+b the plan's objectives:
 
 c the principal measures to be taken to achieve the objectives:
 
@@ -3793,9 +3793,9 @@ e the sources of funding for the implementation of the plan:
 
 f the limitations, if any, on how the funds collected from those sources may be used to implement the plan:
 
-g the powers in Part 6 to be used to implement the plan: 
+g the powers in Part 6 to be used to implement the plan:
 
-h the rules, if any: 
+h the rules, if any:
 
 i the management agency:
 
@@ -3819,27 +3819,27 @@ i loss suffered because a person's income derived from feral or wild organisms i
 
 ii loss suffered by a person who fails to comply with the plan.Rules
 
-5 A plan may include rules for all or any of the following purposes: 
+5 A plan may include rules for all or any of the following purposes:
 
-a requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records: 
+a requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records:
 
-b requiring the identification of specified goods: 
+b requiring the identification of specified goods:
 
-c prohibiting or regulating specified methods that may be used in managing the pathway: 
+c prohibiting or regulating specified methods that may be used in managing the pathway:
 
-d prohibiting or regulating activities that may affect measures taken to implement the plan: 
+d prohibiting or regulating activities that may affect measures taken to implement the plan:
 
-e requiring audits or inspections of specified actions: 
+e requiring audits or inspections of specified actions:
 
-f requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway: 
+f requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway:
 
-g requiring the owner or person in charge of goods or craft to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway: 
+g requiring the owner or person in charge of goods or craft to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway:
 
-h requiring the destruction of goods in circumstances in which the goods pose a risk of spreading organisms that could be spread through the pathway: 
+h requiring the destruction of goods in circumstances in which the goods pose a risk of spreading organisms that could be spread through the pathway:
 
-i prohibiting or regulating specified uses or movement of goods that may promote the spread of organisms through the pathway: 
+i prohibiting or regulating specified uses or movement of goods that may promote the spread of organisms through the pathway:
 
-j prohibiting or regulating the use or disposal of organic material on the pathway: 
+j prohibiting or regulating the use or disposal of organic material on the pathway:
 
 k prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread of organisms through the pathway.
 
@@ -3878,7 +3878,7 @@ f that the implementation of the plan is not contrary to New Zealand's internati
 
 86 Making of plan
 
-1 If the Minister is satisfied of the matters in section 85, the Minister may recommend to the Governor-General that an Order in Council be made making the plan. 
+1 If the Minister is satisfied of the matters in section 85, the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
 
 2 The order
 
@@ -4005,7 +4005,7 @@ a the council; or
 
 b a person who submits the proposal to the council.
 
-2 The proposal must set out the following matters: 
+2 The proposal must set out the following matters:
 
 a the name of the person making the proposal:
 
@@ -4047,11 +4047,11 @@ f the powers in Part 6 that it is proposed to use to implement the plan:
 
 g each proposed rule and an explanation of its purpose:
 
-h the rules whose contravention is proposed to be an offence under this Act: 
+h the rules whose contravention is proposed to be an offence under this Act:
 
-i the management agency: 
+i the management agency:
 
-j the means by which it is proposed to monitor or measure the achievement of the plan's objectives: 
+j the means by which it is proposed to monitor or measure the achievement of the plan's objectives:
 
 k the actions that it is proposed local authorities, local authorities of a specified class or description, or specified local authorities may take to implement the plan, including contributing towards the costs of implementation:
 
@@ -4059,13 +4059,13 @@ l the basis, if any, on which the management agency is to pay compensation for l
 
 m information on the disposal of the proceeds of any receipts arising in the course of implementing the plan:
 
-n whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included: 
+n whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included:
 
 o the anticipated costs of implementing the plan:
 
 p how it is proposed that the costs be funded:
 
-q the period for which it is proposed the plan be in force:  
+q the period for which it is proposed the plan be in force:
 
 r the consultation, if any, that has occurred on the proposal and the outcome of it:
 
@@ -4092,7 +4092,7 @@ c that the proposal has merit as a means of managing the subject of the proposal
 
 d that each subject could spread an organism that is capable of causing at some time an adverse effect on 1 or more of the following in the region:
 
-i economic wellbeing: 
+i economic wellbeing:
 
 ii the viability of threatened species of organisms:
 
@@ -4180,7 +4180,7 @@ c public notification of the proposal and the receipt of submissions.
 
 a the pathway or pathways to be managed:
 
-b the plan's objectives: 
+b the plan's objectives:
 
 c the principal measures to be taken to achieve the objectives:
 
@@ -4190,9 +4190,9 @@ e the sources of funding for the implementation of the plan:
 
 f the limitations, if any, on how the funds collected from those sources may be used to implement the plan:
 
-g the powers in Part 6 to be used to implement the plan: 
+g the powers in Part 6 to be used to implement the plan:
 
-h the rules, if any: 
+h the rules, if any:
 
 i the management agency:
 
@@ -4214,27 +4214,27 @@ i loss suffered because a person's income derived from feral or wild organisms i
 
 ii loss suffered by a person who fails to comply with the plan.Rules
 
-5 A plan may include rules for all or any of the following purposes: 
+5 A plan may include rules for all or any of the following purposes:
 
-a requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records: 
+a requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records:
 
-b requiring the identification of specified goods: 
+b requiring the identification of specified goods:
 
-c prohibiting or regulating specified methods that may be used in managing the pathway: 
+c prohibiting or regulating specified methods that may be used in managing the pathway:
 
-d prohibiting or regulating activities that may affect measures taken to implement the plan: 
+d prohibiting or regulating activities that may affect measures taken to implement the plan:
 
-e requiring audits or inspections of specified actions: 
+e requiring audits or inspections of specified actions:
 
-f requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway: 
+f requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway:
 
-g requiring the owner or person in charge of goods or craft to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway: 
+g requiring the owner or person in charge of goods or craft to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway:
 
-h requiring the destruction of goods in circumstances in which the goods pose a risk of spreading organisms that could be spread through the pathway: 
+h requiring the destruction of goods in circumstances in which the goods pose a risk of spreading organisms that could be spread through the pathway:
 
-i prohibiting or regulating specified uses or movement of goods that may promote the spread of organisms through the pathway: 
+i prohibiting or regulating specified uses or movement of goods that may promote the spread of organisms through the pathway:
 
-j prohibiting or regulating the use or disposal of organic material on the pathway: 
+j prohibiting or regulating the use or disposal of organic material on the pathway:
 
 k prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread of organisms through the pathway.
 
@@ -4450,7 +4450,7 @@ d the council may exercise the power in paragraph (a) more than once.Implementat
 99 Definitions for sections 100 to 100G
 For the purposes of sections 100 to 100G,
 
-*Minister or council* means the Minister who recommended the making of the plan, in relation to a national pest management plan and a national pathway management plan, or the regional council that made the plan, in relation to a regional pest management plan or a regional pathway management plan 
+*Minister or council* means the Minister who recommended the making of the plan, in relation to a national pest management plan and a national pathway management plan, or the regional council that made the plan, in relation to a regional pest management plan or a regional pathway management plan
 
 *operational plan* means a plan for the implementation of
 
@@ -4474,7 +4474,7 @@ d a regional pathway management plan.
 
 100 Management agencies
 
-1 The management agency specified in a plan must be 1 of the following bodies:  
+1 The management agency specified in a plan must be 1 of the following bodies:
 
 a a department:
 
@@ -4484,9 +4484,9 @@ c a territorial authority:
 
 d a body corporate.
 
-2 In deciding which body is to be the management agency, the Minister or council must take the following into consideration: 
+2 In deciding which body is to be the management agency, the Minister or council must take the following into consideration:
 
-a the need for accountability to those providing the funds to implement the plan; and  
+a the need for accountability to those providing the funds to implement the plan; and
 
 b the acceptability of the body to
 
@@ -4494,7 +4494,7 @@ i those providing the funds to implement the plan; and
 
 ii those subject to management provisions under the plan; and
 
-c the capacity of the body to manage the plan, including the competence and expertise of the body's employees and contractors. 
+c the capacity of the body to manage the plan, including the competence and expertise of the body's employees and contractors.
 
 3 Subsection (4) applies if a management agency
 
@@ -4651,7 +4651,7 @@ c revoked and replaced under section 58(3).
 
 5 If the plan is inconsistent with the direction and the changes to the plan necessary to resolve the inconsistency would have a significant effect on any person's rights and obligations,
 
-a the Minister or council must initiate a review to address the inconsistency under section 100D(4) within the timing requirements in the direction, if there are any; and 
+a the Minister or council must initiate a review to address the inconsistency under section 100D(4) within the timing requirements in the direction, if there are any; and
 
 b section 100D(5) to (9) apply.
 
@@ -4663,7 +4663,7 @@ b section 100D(5) to (9) apply.
 
 3 The application is made under section 291 of the Resource Management Act 1991 and regulations made under the Resource Management Act 1991.
 
-4 The court must hold a public hearing on the application. 
+4 The court must hold a public hearing on the application.
 
 5 The court must
 
@@ -4709,9 +4709,9 @@ b a regional pathway management plan.
 
 3 A council must not delegate
 
-a the power to determine the ways in which consultation must be undertaken; or  
+a the power to determine the ways in which consultation must be undertaken; or
 
-b the power to make, review, amend, or revoke a plan; or 
+b the power to make, review, amend, or revoke a plan; or
 
 c the power to declare a small-scale management programme.
 
@@ -4741,19 +4741,19 @@ d each council retains its power to amend or revoke the plan it has made.
 
 2 Subsection (3) applies when
 
-a a person owns 
+a a person owns
 
-i domesticated organisms infected by a pest to which a pest management plan applies; or   
+i domesticated organisms infected by a pest to which a pest management plan applies; or
 
 ii domesticated organisms that are pest agents for a pest to which a pest management plan applies; or
 
 iii domesticated organisms whose feral or wild population is a pest to which a pest management plan applies; and
 
-b some or all of the organisms are necessarily destroyed in the course of implementing the plan; and  
+b some or all of the organisms are necessarily destroyed in the course of implementing the plan; and
 
 c there are net proceeds available from the disposal of the organisms destroyed.
 
-3 The net proceeds 
+3 The net proceeds
 
 a must be paid to the owner if the plan does not provide for the payment of compensation to the owner of organisms destroyed:
 
@@ -4761,9 +4761,9 @@ b must be paid to the owner instead of compensation if the compensation payable 
 
 c must be retained by the management agency in any other case.
 
-4 If there is a dispute about eligibility for, or the amount of, compensation, 
+4 If there is a dispute about eligibility for, or the amount of, compensation,
 
-a the dispute must be submitted to arbitration; and 
+a the dispute must be submitted to arbitration; and
 
 b the arbitration must be conducted under the Arbitration Act1996.
 
@@ -4795,21 +4795,21 @@ A management agency must not spend funds to meet the costs of implementing a pla
 
 4 A levy order may be made only on the recommendation of a Minister.
 
-5 The Minister may make a recommendation only if satisfied, on the basis of information and evidence that the Minister regards as satisfactory, that 
+5 The Minister may make a recommendation only if satisfied, on the basis of information and evidence that the Minister regards as satisfactory, that
 
-a persons likely to be affected by the payment or collection of the levy have been consulted; and 
+a persons likely to be affected by the payment or collection of the levy have been consulted; and
 
-b persons opposing the levy's imposition have had a reasonable opportunity to put their views to the Minister; and 
+b persons opposing the levy's imposition have had a reasonable opportunity to put their views to the Minister; and
 
-c all views put to the Minister about the proposed imposition of the levy have been given due regard; and 
+c all views put to the Minister about the proposed imposition of the levy have been given due regard; and
 
 d the imposition of the levy is the most appropriate means of funding the plan or the part of the plan, having regard to the extent to which the levy would target
 
-i persons likely to benefit from the implementation of the plan or the part of the plan; and 
+i persons likely to benefit from the implementation of the plan or the part of the plan; and
 
-ii persons who by their activities or inaction contribute to the creation, continuance, or exacerbation of the problems proposed to be resolved by the plan or the part of the plan; and 
+ii persons who by their activities or inaction contribute to the creation, continuance, or exacerbation of the problems proposed to be resolved by the plan or the part of the plan; and
 
-e if the levy is imposed on quantities of a commodity imported, its imposition will not constitute a non-tariff barrier and will not be contrary to New Zealand's international legal obligations; and 
+e if the levy is imposed on quantities of a commodity imported, its imposition will not constitute a non-tariff barrier and will not be contrary to New Zealand's international legal obligations; and
 
 f the management agency will have in place adequate systems of accounting to persons who will be responsible for paying the levy; and
 
@@ -4863,9 +4863,9 @@ i whether or not the persons responsible for collecting the levy are entitled to
 
 ii if so, the amount of the fee or a means by which its amount may be calculated or ascertained; and
 
-i for the purpose of ascertaining whether or not the order is being complied with, 
+i for the purpose of ascertaining whether or not the order is being complied with,
 
-i the keeping of accounts, statements, and records of a specified class or description by all or any of the persons responsible for collecting the levy, the persons responsible for paying it, and the management agency; and 
+i the keeping of accounts, statements, and records of a specified class or description by all or any of the persons responsible for collecting the levy, the persons responsible for paying it, and the management agency; and
 
 ii the retention of the accounts, statements, or records for a specified period; and
 
@@ -4907,7 +4907,7 @@ b provide for a rate or rates to be set at zero.
 
 100O Trust accounts for levy money
 
-1 This section applies if a levy order specifies a requirement that the funds from which levy payments must be made to the management agency must be held on trust in a separate account.  
+1 This section applies if a levy order specifies a requirement that the funds from which levy payments must be made to the management agency must be held on trust in a separate account.
 
 2 For the purposes of this section, the amount outstanding to the management agency on a day by a person responsible for collecting the levy is calculated by subtracting the total of the levy payments that the person makes before that day to the management agency from the total of the amounts that subsection (4) requires the person to deposit in the account not later than a day before that day.
 
@@ -4945,7 +4945,7 @@ b is not liable to be attached or taken in execution at the instance of any othe
 
 100P Compliance audits for levy
 
-1 This section applies while a levy order is in force. 
+1 This section applies while a levy order is in force.
 
 2 If the management agency requests the Minister who recommended the making of the levy order to do so, the Minister may appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
 
@@ -4953,17 +4953,17 @@ a 1 or more of the persons responsible for collecting the levy:
 
 b 1 or more of the persons responsible for paying the levy.
 
-3 The purpose of the audit is to ascertain the following matters, to the extent to which they are relevant to the affairs being audited and to which it is practicable to ascertain them, and to report to the Minister on them: 
+3 The purpose of the audit is to ascertain the following matters, to the extent to which they are relevant to the affairs being audited and to which it is practicable to ascertain them, and to report to the Minister on them:
 
-a the extent to which persons responsible for paying the levy are doing and have done so:  
+a the extent to which persons responsible for paying the levy are doing and have done so:
 
 b the extent to which appropriate amounts of levy are being and have been paid:
 
-c the extent to which appropriate amounts of levy are being and have been collected: 
+c the extent to which appropriate amounts of levy are being and have been collected:
 
-d the extent to which appropriate amounts of levy are being and have been paid to the management agency by the persons collecting the levy: 
+d the extent to which appropriate amounts of levy are being and have been paid to the management agency by the persons collecting the levy:
 
-e the extent to which accounts, statements, and records are being and have been kept:  
+e the extent to which accounts, statements, and records are being and have been kept:
 
 f the extent to which the accounts, statements, and records kept are properly kept.
 
@@ -4973,7 +4973,7 @@ f the extent to which the accounts, statements, and records kept are properly ke
 
 6 A person is qualified for appointment as an auditor only if the person is
 
-a a chartered accountant within the meaning of the New Zealand Institute of Chartered Accountants Act 1996; or 
+a a chartered accountant within the meaning of the New Zealand Institute of Chartered Accountants Act 1996; or
 
 b a member, fellow, or associate of an association of accountants that is
 
@@ -4983,7 +4983,7 @@ ii approved to audit company financial statements by the Minister of the Crown r
 
 iii named as approved under subparagraph (ii) in a notice published in the Gazette and current at the time of the appointment.
 
-7 No officer or employee of any of the following may be appointed an auditor:  
+7 No officer or employee of any of the following may be appointed an auditor:
 
 a the management agency:
 
@@ -5051,13 +5051,13 @@ d all other statements necessary to show fully
 
 i the agency's financial position as a result of money paid as levy in the year; and
 
-ii the financial results of all of the agency's activities involving the use of money paid as levy in the year or the use of assets  the agency has at the end of the year as a result of money paid as levy in the year. 
+ii the financial results of all of the agency's activities involving the use of money paid as levy in the year or the use of assets the agency has at the end of the year as a result of money paid as levy in the year.
 
 2 The management agency must ensure that the statements are audited within 5 months after the end of the year.
 
 100S Orders to be confirmed
 
-1 Subsection (2) applies to a levy order that 
+1 Subsection (2) applies to a levy order that
 
 a is made on or after 1 January and before 1 July in the same year; and
 
@@ -5069,7 +5069,7 @@ d will not be stopped from having effect before or on 1July in the next year by 
 
 2 The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
 
-3 Subsection (4) applies to a levy order that 
+3 Subsection (4) applies to a levy order that
 
 a is made on or after 1 July and before or on 31 December in the same year; and
 
@@ -5089,20 +5089,20 @@ d will not be stopped from having effect before or on 1 January in the year afte
 
 2 In making the decision, the council must have regard to
 
-a the extent to which the plan relates to the interests of the occupiers of the properties on which the rate would be levied:  
+a the extent to which the plan relates to the interests of the occupiers of the properties on which the rate would be levied:
 
-b the extent to which the occupiers of the properties on which the rate would be levied will obtain direct or indirect benefits from the implementation of the plan:  
+b the extent to which the occupiers of the properties on which the rate would be levied will obtain direct or indirect benefits from the implementation of the plan:
 
-c the collective benefits of the implementation of the plan to the occupiers of the properties on which the rate would be levied compared with the collective costs to them of the rate: 
+c the collective benefits of the implementation of the plan to the occupiers of the properties on which the rate would be levied compared with the collective costs to them of the rate:
 
 d for the regional pest management plan, the extent to which the characteristics of the properties on which the rate would be levied and the uses to which they are put contribute to the presence or prevalence of the pest or pests covered by it:
 
 e for the regional pathway management plan, the extent to which the characteristics of the properties on which the rate would be levied and the uses to which they are put contribute to the actual or potential risks associated with the pathway.
 
 100U National pest management plan or national pathway management plan
-Section 100T does not limit or affect the powers of a council under the Local Government (Rating) Act 2002 to set and assess rates for the purpose of exercising a power that this Act confers on the council in relation to 
+Section 100T does not limit or affect the powers of a council under the Local Government (Rating) Act 2002 to set and assess rates for the purpose of exercising a power that this Act confers on the council in relation to
 
-a national pest management plans; or 
+a national pest management plans; or
 
 b national pathway management plans; or
 
@@ -5120,7 +5120,7 @@ b provisions for compensation for losses caused by the programme.
 
 a an unwanted organism present in the region could cause serious adverse and unintended effects unless early action is taken to control it; and
 
-b the organism can be eradicated or controlled effectively by small-scale measures within 3 years of the measures starting, because  
+b the organism can be eradicated or controlled effectively by small-scale measures within 3 years of the measures starting, because
 
 i its distribution is limited; and
 
@@ -5130,7 +5130,7 @@ c the programme is not inconsistent with the national policy direction; and
 
 d the process requirements in the national policy direction for declaring the programme, if there were any, were complied with; and
 
-e the taking of the measures and, if necessary,  payment of compensation is likely to cost less than an amount prescribed for the purposes of this section by the Governor-General by Order in Council; and
+e the taking of the measures and, if necessary, payment of compensation is likely to cost less than an amount prescribed for the purposes of this section by the Governor-General by Order in Council; and
 
 f the taking of the measures is unlikely to result in significant monetary loss to any person, other than a person who has contributed to the presence or spread of the organism by failing to comply with biosecurity law.
 
@@ -5142,13 +5142,13 @@ b meet all or some of the costs to the person of taking the steps.
 
 4 The council declares the programme by giving public notice in a manner appropriate to the distribution of the organism and the persons likely to be affected by the programme.
 
-5 The public notice must specify 
+5 The public notice must specify
 
-a the unwanted organism that is the subject of the programme; and 
+a the unwanted organism that is the subject of the programme; and
 
-b the objectives of the programme; and 
+b the objectives of the programme; and
 
-c the powers to be exercised under Part 6 to implement the programme. 
+c the powers to be exercised under Part 6 to implement the programme.
 
 6 A programme ceases to have effect on the occurrence of the earliest of the following:
 
@@ -5178,7 +5178,7 @@ b the notice must specify the work to be done:
 
 c the notice must be received not less than 5 working days before the work is due to start.
 
-4 Subsection (3) does not apply if the regional council is satisfied that there are reasonable grounds to believe that the unwanted organism may spread beyond the place before the end of 5 working days. 
+4 Subsection (3) does not apply if the regional council is satisfied that there are reasonable grounds to believe that the unwanted organism may spread beyond the place before the end of 5 working days.
 
 5A Government/industry agreement for readiness or response
 
@@ -5195,9 +5195,9 @@ b jointly funding the costs of the activities in shares that take into account t
 
 *agreement* means the government/industry agreement for readiness or response
 
-*government/industry agreement for readiness or response* means the agreement described in section 100Z 
+*government/industry agreement for readiness or response* means the agreement described in section 100Z
 
-*industry organisation* means an organisation described in section 100ZA 
+*industry organisation* means an organisation described in section 100ZA
 
 *payee* means the person to whom the levy is payable under section 100ZC(2)
 
@@ -5231,7 +5231,7 @@ b that, although engaged in a different activity from any of those described in 
 
 2 A *readiness activity* means an activity undertaken to prepare to prevent or reduce the impact that an unwanted organism that is not present in New Zealand would have if it were to enter New Zealand.
 
-3 A *response activity* means an activity undertaken 
+3 A *response activity* means an activity undertaken
 
 a after an event described in subsection (4); and
 
@@ -5243,7 +5243,7 @@ a the detection of an unwanted organism not previously known to be present in Ne
 
 b the appearance of different effects of an unwanted organism known to be present in New Zealand and capable of being eradicated:
 
-c the development of new control methods that could make it possible to eradicate an unwanted organism known to be present in New Zealand. 
+c the development of new control methods that could make it possible to eradicate an unwanted organism known to be present in New Zealand.
 
 5 The purposes are
 
@@ -5327,11 +5327,11 @@ c how accountable the executive of the organisation is to members of the organis
 
 6 The organisation must have consulted the sector that would be affected by the organisation becoming a party to the agreement about the following matters:
 
-a the proposal that the organisation  become a party to the agreement; and
+a the proposal that the organisation become a party to the agreement; and
 
 b the way in which it is proposed that the sector's views will be represented by the organisation during joint decision-making under the agreement; and
 
-c the arrangements proposed to fund the organisations commitments under the agreement. 
+c the arrangements proposed to fund the organisations commitments under the agreement.
 
 7 The organisation must have had due regard to the views expressed during the consultation.
 
@@ -5435,9 +5435,9 @@ i whether or not the persons responsible for collecting the levy are entitled to
 
 ii if so, the amount of the fee or a means by which its amount may be calculated or ascertained; and
 
-i for the purpose of ascertaining whether or not the order is being complied with, 
+i for the purpose of ascertaining whether or not the order is being complied with,
 
-i the keeping of accounts, statements, and records of a specified class or description by all or any of the persons responsible for collecting the levy, the persons responsible for paying it, and the payee; and 
+i the keeping of accounts, statements, and records of a specified class or description by all or any of the persons responsible for collecting the levy, the persons responsible for paying it, and the payee; and
 
 ii the retention of the accounts, statements, or records for a specified period; and
 
@@ -5445,7 +5445,7 @@ j for the purpose of resolving disputes about whether or not a person is require
 
 i the appointment of arbitrators; and
 
-ii the procedures to be followed by arbitrators; and  
+ii the procedures to be followed by arbitrators; and
 
 iii the remuneration of arbitrators; and
 
@@ -5517,7 +5517,7 @@ b is not liable to be attached or taken in execution at the instance of any othe
 
 100ZF Compliance audits for levy
 
-1 This section applies while a readiness or response levy order is in force. 
+1 This section applies while a readiness or response levy order is in force.
 
 2 If the payee requests the Minister to do so, the Minister may appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
 
@@ -5525,17 +5525,17 @@ a 1 or more of the persons responsible for collecting the levy:
 
 b 1 or more of the persons responsible for paying the levy.
 
-3 The purpose of the audit is to ascertain the following matters, to the extent to which they are relevant to the affairs being audited and to which it is practicable to ascertain them, and to report to the Minister on them: 
+3 The purpose of the audit is to ascertain the following matters, to the extent to which they are relevant to the affairs being audited and to which it is practicable to ascertain them, and to report to the Minister on them:
 
-a the extent to which persons responsible for paying the levy are doing and have done so:  
+a the extent to which persons responsible for paying the levy are doing and have done so:
 
 b the extent to which appropriate amounts of the levy are being and have been paid:
 
-c the extent to which appropriate amounts of the levy are being and have been collected: 
+c the extent to which appropriate amounts of the levy are being and have been collected:
 
-d the extent to which appropriate amounts of the levy are being and have been paid over to the payee by the person collecting it: 
+d the extent to which appropriate amounts of the levy are being and have been paid over to the payee by the person collecting it:
 
-e the extent to which accounts, statements, and records are being and have been kept:  
+e the extent to which accounts, statements, and records are being and have been kept:
 
 f the extent to which the accounts, statements, and records kept are properly kept.
 
@@ -5545,7 +5545,7 @@ f the extent to which the accounts, statements, and records kept are properly ke
 
 6 A person is qualified for appointment as an auditor only if the person is
 
-a a chartered accountant within the meaning of the New Zealand Institute of Chartered Accountants Act 1996; or 
+a a chartered accountant within the meaning of the New Zealand Institute of Chartered Accountants Act 1996; or
 
 b a member, fellow, or associate of an association of accountants that is
 
@@ -5555,7 +5555,7 @@ ii approved to audit company financial statements by the Minister of the Crown r
 
 iii named as approved under subparagraph (ii) in a notice published in the Gazette and current at the time of the appointment.
 
-7 No officer or employee of any of the following may be appointed an auditor:  
+7 No officer or employee of any of the following may be appointed an auditor:
 
 a the payee:
 
@@ -5609,7 +5609,7 @@ e for the purposes of an action for the recovery of an amount due under this Act
 
 100ZH Orders to be confirmed
 
-1 Subsection (2) applies to a readiness or response levy order that 
+1 Subsection (2) applies to a readiness or response levy order that
 
 a is made on or after 1 January and before 1 July in the same year; and
 
@@ -5621,7 +5621,7 @@ d will not be stopped from having effect before or on 1 July in the next year by
 
 2 The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
 
-3 Subsection (4) applies to a readiness or response levy order that 
+3 Subsection (4) applies to a readiness or response levy order that
 
 a is made on or after 1 July and before or on 31 December in the same year; and
 
@@ -5785,7 +5785,7 @@ b audits of compliance with standards issued under this Act:
 
 c audits of the effectiveness and appropriateness of the Ministrys internal systems and procedures for the administration of this Act:
 
-d audits of compliance with the Ministrys internal systems and procedures for the administration of this Act: 
+d audits of compliance with the Ministrys internal systems and procedures for the administration of this Act:
 
 e audits of the exercise of powers or carrying out of functions or duties of statutory officers appointed under this Act:
 
@@ -5811,7 +5811,7 @@ i any other class or description of audit specified in regulations.
 
 2 The Director-General may give the subject of the audit a written notice to appear before an auditor at a time and place specified in the notice.
 
-3 If the Director-General acts under subsection (2), the auditor may require the subject of the audit to answer all questions relating to the audit put to the subject. 
+3 If the Director-General acts under subsection (2), the auditor may require the subject of the audit to answer all questions relating to the audit put to the subject.
 
 4 An auditor may examine the systems, processes, and records of the subject of the audit.
 
@@ -5843,7 +5843,7 @@ f require a person who has control of or knowledge of the documents or records t
 
 1 An auditor may enter a place of business under section 105E(5) within or outside business hours but only at a reasonable time.
 
-2 If an occupier of the place is present when the auditor enters the place, the auditor must 
+2 If an occupier of the place is present when the auditor enters the place, the auditor must
 
 a identify himself or herself to an occupier of the place; and
 
@@ -5865,7 +5865,7 @@ ii the place where each document, article, or thing is to be held; and
 
 b ensure that an occupier of the place gets the schedule under subsection (5) or (6).
 
-5 If it is practicable for the auditor to prepare at the place a schedule of what the auditor takes, the auditor must prepare and leave the schedule at the place. 
+5 If it is practicable for the auditor to prepare at the place a schedule of what the auditor takes, the auditor must prepare and leave the schedule at the place.
 
 6 If it is practicable for the auditor to prepare and leave a schedule of what the auditor takes but the occupier of the place consents to the auditor not doing so, or if it is not practicable for the auditor to do so, the auditor must
 
@@ -5926,7 +5926,7 @@ b an inspector has reasonable cause to suspect that the person
 
 i is, under an enactment, liable to be detained because of an infectious disease; or
 
-ii is liable to be arrested under a warrant issued by a court or a registrar; or 
+ii is liable to be arrested under a warrant issued by a court or a registrar; or
 
 iii is liable to be prosecuted for an offence punishable by imprisonment; or
 
@@ -5948,7 +5948,7 @@ xi has contravened the Trade in Endangered Species Act1989; or
 
 xii has contravened regulations under the United Nations Act1946; or
 
-xiii has contravened an enactment that contains an offence involving the unlawful entry into New Zealand of a person, matter, or thing and that is specified for the purposes of this section by the Governor-General in Council; or 
+xiii has contravened an enactment that contains an offence involving the unlawful entry into New Zealand of a person, matter, or thing and that is specified for the purposes of this section by the Governor-General in Council; or
 
 xiv is endangering, or threatening to endanger, the life, health, or safety of a person or group of persons.
 
@@ -5962,7 +5962,7 @@ i question the person:
 
 ii ascertain or determine the status of the person:
 
-iii detain the person: 
+iii detain the person:
 
 iv arrest the person.
 
@@ -6221,9 +6221,9 @@ ii pests or unwanted organisms could have been transmitted from the unauthorised
 
 2 The circumstances are that the inspector must have reasonable grounds to suspect that the goods or documents are evidence of the commission of 1 or more offences under 1 or more of the following enactments:Constable to deal with
 
-a section 98C of the Crimes Act1961: 
+a section 98C of the Crimes Act1961:
 
-b section 342 of the Immigration Act2009: 
+b section 342 of the Immigration Act2009:
 
 c section 29A, 30, or 31 of the Passports Act1992:Officer to deal with
 
@@ -6231,9 +6231,9 @@ d the Customs and Excise Act 1996:
 
 e sections 123 and 124 of the Films, Videos, and Publications Classification Act 1993:
 
-f section 232 or 233 of the Fisheries Act1996: 
+f section 232 or 233 of the Fisheries Act1996:
 
-g section 37 or 43 of the Medicines Act1981: 
+g section 37 or 43 of the Medicines Act1981:
 
 h the Trade in Endangered Species Act 1989:
 
@@ -6678,7 +6678,7 @@ b for every complete period of 6months after the expiration of that period durin
 
 2 Every levy order shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
 
-3 The fact that Part 5A provides for levies to be made to fund readiness or response activities does not prevent this section imposing a levy to which both the following apply: 
+3 The fact that Part 5A provides for levies to be made to fund readiness or response activities does not prevent this section imposing a levy to which both the following apply:
 
 a it is imposed to wholly or partly fund a readiness or response activity; and
 
@@ -6922,7 +6922,7 @@ a it comes from the database that is required to be kept by a local authority un
 
 b it is of a kind described in section 142A(3).
 
-2 Local authorities must provide the information, or make it available, 
+2 Local authorities must provide the information, or make it available,
 
 a to the Director-General; and
 
@@ -7021,7 +7021,7 @@ b the Director-General using the information for any lawful purpose.
 
 142F Arrangement for system
 
-1 The Director-General may arrange for the use of an automated electronic system to do the actions described in subsection (2) that this Act or another enactment allows or requires the persons described in subsection (3) to do. 
+1 The Director-General may arrange for the use of an automated electronic system to do the actions described in subsection (2) that this Act or another enactment allows or requires the persons described in subsection (3) to do.
 
 2 The actions are
 
@@ -7117,7 +7117,7 @@ c held by the Director-General after coming to the Director-General from another
 
 2 The Director-General may disclose the information to agencies in New Zealand to facilitate the carrying out by the agencies of
 
-a the prevention, detection, investigation, prosecution, and punishment of offences: 
+a the prevention, detection, investigation, prosecution, and punishment of offences:
 
 b the enforcement of a law imposing a pecuniary penalty:
 
@@ -7169,7 +7169,7 @@ c held by the Director-General after coming to the Director-General from another
 
 2 The Director-General may disclose the information to agencies overseas to facilitate the carrying out by the agencies of
 
-a the prevention, detection, investigation, prosecution, and punishment of offences: 
+a the prevention, detection, investigation, prosecution, and punishment of offences:
 
 b the enforcement of a law imposing a pecuniary penalty:
 
@@ -7241,7 +7241,7 @@ a helping to investigate, prevent, identify, or respond to non-compliance with t
 
 b responding to difficulties arising in the course of trade between New Zealand and the overseas country.
 
-3 The second requirement is that the information is disclosed subject to conditions that 
+3 The second requirement is that the information is disclosed subject to conditions that
 
 a state the use that the overseas person may make of the information disclosed; and
 
@@ -7249,9 +7249,9 @@ b state whether or not the overseas person may disclose the information disclose
 
 c if the overseas person may disclose any of the information disclosed to any other person, state
 
-i the persons to whom the overseas person may disclose it; and  
+i the persons to whom the overseas person may disclose it; and
 
-ii the extent to which the overseas person may disclose it; and  
+ii the extent to which the overseas person may disclose it; and
 
 iii the conditions subject to which the overseas person may disclose it.
 
@@ -7292,7 +7292,7 @@ a the head office of the responsible body:
 
 b any other place determined by the responsible body
 
-*material* means, except in section 142O, 
+*material* means, except in section 142O,
 
 a all of the original material:
 
@@ -7372,9 +7372,9 @@ c consider any comments made.
 
 5 If the material is material as described in section 142M(1)(e), the latest edition of the work available at the time of reading, together with any changes made to it up to that time, must be used.
 
-6 If the material is material as described in  section 142M(1)(f), the specific edition must be used.
+6 If the material is material as described in section 142M(1)(f), the specific edition must be used.
 
-7 If the material is material as described in  section 142M(1)(g), the version of the register available at the time of reading must be used.
+7 If the material is material as described in section 142M(1)(g), the version of the register available at the time of reading must be used.
 
 8 Failure to comply with this section does not invalidate a biosecurity document that incorporates material.
 
@@ -7400,7 +7400,7 @@ a certified as a correct copy of the material by the responsible body; and
 
 b retained by the responsible body.
 
-2 The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation  in the biosecurity document of the material.
+2 The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the biosecurity document of the material.
 
 142Q Effect of expiry of material incorporated
 
@@ -7618,13 +7618,13 @@ f require the person to do something that, in the opinion of the inspector or au
 154A Content
 A compliance order must state
 
-a the name of the person against whom it is made; and  
+a the name of the person against whom it is made; and
 
-b the reasons why the inspector or authorised person made it; and 
+b the reasons why the inspector or authorised person made it; and
 
-c the requirement or prohibition in section 154(2) ordered by the inspector or authorised person; and 
+c the requirement or prohibition in section 154(2) ordered by the inspector or authorised person; and
 
-d either, 
+d either,
 
 i for a requirement, the period, if any, within which the requirement must be achieved, which must start on the day on which the order is served and end after a time that is reasonable for the achievement of the requirement; or
 
@@ -7634,7 +7634,7 @@ e the conditions, if any, imposed by the inspector or authorised person; and
 
 f the consequences of not complying with the order; and
 
-g the rights of appeal in section 154E; and 
+g the rights of appeal in section 154E; and
 
 h the name and address of the agency whose inspector or authorised person made the order.
 
@@ -7642,7 +7642,7 @@ h the name and address of the agency whose inspector or authorised person made t
 
 1 An inspector or authorised person who makes a compliance order must ensure that it is served on the person against whom it is made.
 
-2 A compliance order may be served by 
+2 A compliance order may be served by
 
 a delivering it personally to the person:
 
@@ -7661,7 +7661,7 @@ b service on any of the partners in a partnership is deemed to be service on the
 c service by post is deemed to occur at the time at which the order would have been delivered in the ordinary course of the post.
 
 154C Compliance
-The person against whom a compliance order is made must 
+The person against whom a compliance order is made must
 
 a comply with the order; and
 
@@ -7756,7 +7756,7 @@ b the person who appeals must comply with the order if compliance is required as
 
 154H Pecuniary penalty order
 
-1 The Director-General may apply to the High Court for an order that a person pay the Crown a pecuniary penalty under this Act. 
+1 The Director-General may apply to the High Court for an order that a person pay the Crown a pecuniary penalty under this Act.
 
 2 The Court may make the order if it is satisfied that the person failed to comply with
 
@@ -7800,7 +7800,7 @@ i a requirement in regulations:
 
 ii a requirement in a rule.
 
-3 The Court must not make the order if the person satisfies the Court 
+3 The Court must not make the order if the person satisfies the Court
 
 a that the failure was necessary for the purpose of
 
@@ -7814,7 +7814,7 @@ b that the following apply:
 
 i the failure was due to an event beyond the person's control, including natural disaster, mechanical failure, or sabotage; and
 
-ii the person could not reasonably have foreseen the event; and 
+ii the person could not reasonably have foreseen the event; and
 
 iii the person could not reasonably have taken steps to prevent the event occurring; and
 
@@ -7830,9 +7830,9 @@ c that the person did not know, and could not reasonably have known, of the fail
 
 1 Subsections (2) and (3) apply if the person who is liable under section 154H(2) was acting as the agent or employee of another person at the time of the non-compliance.
 
-2 The other person is liable under section 154H  in the same manner and to the same extent as if he or she had personally failed to comply, if it is proved
+2 The other person is liable under section 154H in the same manner and to the same extent as if he or she had personally failed to comply, if it is proved
 
-a that the act or omission that constituted the non-compliance took place with his or her authority, permission, or consent; or 
+a that the act or omission that constituted the non-compliance took place with his or her authority, permission, or consent; or
 
 b that he or she knew that the non-compliance was occurring or was to occur and failed to take all reasonable steps to prevent or stop it.
 
@@ -7840,7 +7840,7 @@ b that he or she knew that the non-compliance was occurring or was to occur and 
 
 4 A court that makes an order under section 154H against a body corporate may also make an order against every director or person concerned in the management of the body corporate if it is proved
 
-a that the act or omission that constituted the non-compliance took place with the director or person's authority, permission, or consent; or 
+a that the act or omission that constituted the non-compliance took place with the director or person's authority, permission, or consent; or
 
 b that the director or person knew that the non-compliance was occurring or was to occur and failed to take all reasonable steps to prevent or stop it.
 
@@ -7848,15 +7848,15 @@ b that the director or person knew that the non-compliance was occurring or was 
 
 1 In determining the appropriate amount of a pecuniary penalty under section 154H, the Court must have regard to all relevant matters, including
 
-a the nature and extent of the contravention: 
+a the nature and extent of the contravention:
 
-b the nature and extent of loss or damage caused to a person, human health, or a natural and physical resource as a result of the contravention: 
+b the nature and extent of loss or damage caused to a person, human health, or a natural and physical resource as a result of the contravention:
 
-c the circumstances in which the contravention took place:  
+c the circumstances in which the contravention took place:
 
-d whether or not the person has been found in previous proceedings under this Act to have engaged in similar conduct:  
+d whether or not the person has been found in previous proceedings under this Act to have engaged in similar conduct:
 
-e the steps taken by the person to bring the contravention to the attention of the appropriate authority: 
+e the steps taken by the person to bring the contravention to the attention of the appropriate authority:
 
 f the steps taken by the person to avoid, remedy, or mitigate the effects of the contravention.
 
@@ -7897,11 +7897,11 @@ b 10% of the turnover of the body corporate and all of its interconnected bodies
 154K Other orders instead of or in addition to pecuniary penalty order
 In proceedings under section 154H, the Court may, instead of or in addition to making a pecuniary penalty order, make
 
-a an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that are caused by or on behalf of the person: 
+a an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that are caused by or on behalf of the person:
 
-b an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that relate to land owned or occupied by the person: 
+b an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that relate to land owned or occupied by the person:
 
-c an order that the person pay the costs of mitigating or remedying the adverse effects referred to in paragraph (a) or (b). 
+c an order that the person pay the costs of mitigating or remedying the adverse effects referred to in paragraph (a) or (b).
 
 154L Concurrent criminal proceedings and pecuniary penalty proceedings
 
@@ -7939,7 +7939,7 @@ iii some other cause or circumstance outside the defendant's control; and
 
 b the defendant took all reasonable precautions and exercised due diligence to avoid
 
-i the commission of the particular offence; or 
+i the commission of the particular offence; or
 
 ii the commission of offences of the same kind.
 
@@ -7977,7 +7977,7 @@ iii some other cause or circumstance outside the defendant's control; and
 
 b the defendant took all reasonable precautions and exercised due diligence to avoid
 
-i the commission of the particular offence; or 
+i the commission of the particular offence; or
 
 ii the commission of offences of the same kind.
 
@@ -7987,7 +7987,7 @@ a the defendant's action was necessary for the purpose of
 
 i saving or protecting life or health; or
 
-ii preventing serious damage to property; or 
+ii preventing serious damage to property; or
 
 iii avoiding an actual or likely adverse effect on a natural and physical resource or human health; and
 
@@ -8101,11 +8101,11 @@ b an automated electronic system.
 
 6 A person commits an offence against this Act who wilfully withholds relevant information that the person is required by law to provide in connection with the purposes of this Act from
 
-a an official; or 
+a an official; or
 
 b an automated electronic system.
 
-7 A person commits an offence against this Act who, in connection with the purposes of this Act, 
+7 A person commits an offence against this Act who, in connection with the purposes of this Act,
 
 a knowingly makes a return that the person is required by law to make that is false or misleading in a material particular; or
 
@@ -8119,13 +8119,13 @@ a an official; or
 
 b any other person authorised to exercise a power or carry out a function or duty under law.
 
-9 A person commits an offence against this Act who buys, sells, exchanges, or otherwise acquires or disposes of unauthorised goods 
+9 A person commits an offence against this Act who buys, sells, exchanges, or otherwise acquires or disposes of unauthorised goods
 
 a knowing that they are unauthorised goods; or
 
 b knowing that they may be unauthorised goods and reckless as to whether they are or not.
 
-10 A person commits an offence against this Act who, knowing that goods are risk goods that have been seized by, or are otherwise under the control of, an inspector, an authorised person, or an automated electronic system, 
+10 A person commits an offence against this Act who, knowing that goods are risk goods that have been seized by, or are otherwise under the control of, an inspector, an authorised person, or an automated electronic system,
 
 a alters the condition of the goods without the permission of an inspector, an authorised person, or an automated electronic system; or
 
@@ -8135,13 +8135,13 @@ c unpacks or repacks the goods without the permission of an inspector, an author
 
 d unpacks or repacks the goods with the permission of an inspector, an authorised person, or an automated electronic system but not in the manner required by the permission.
 
-11 A person commits an offence against this Act in the following circumstances: 
+11 A person commits an offence against this Act in the following circumstances:
 
 a risk goods have been seized by, or are otherwise under the control of, an inspector, an authorised person, or an automated electronic system; and
 
 b the goods are stored in a place where the inspector, authorised person, or automated electronic system has directed that they should be stored; and	
 
-c the person knows the facts in paragraphs (a) and (b); and 
+c the person knows the facts in paragraphs (a) and (b); and
 
 d the person removes the goods from the place
 
@@ -8153,7 +8153,7 @@ ii with the permission of an inspector, an authorised person, or an automated el
 
 a risk goods have been seized under this Act; and
 
-b the person knows the fact in paragraph (a); and 
+b the person knows the fact in paragraph (a); and
 
 c the person takes or carries away the goods or otherwise converts them to his or her own use without the permission of an inspector, an authorised person, or an automated electronic system.
 
@@ -8163,7 +8163,7 @@ a a direction has been given under this Act that the carcass of an organism or r
 
 b the direction has been complied with; and
 
-c the person knows the facts in paragraphs (a) and (b); and 
+c the person knows the facts in paragraphs (a) and (b); and
 
 d the person exhumes the carcass of the organism or risk goods without the permission of an inspector, an authorised person, or an automated electronic system.
 
@@ -8171,7 +8171,7 @@ d the person exhumes the carcass of the organism or risk goods without the permi
 
 a a notice about a place is in force under section 130(1); and
 
-b the person knows the fact in paragraph (a); and 
+b the person knows the fact in paragraph (a); and
 
 c the person
 
@@ -8216,7 +8216,7 @@ Where it is proved in any proceeding under this Act or the regulations that a pe
 
 157 Penalties
 
-1 Every person who commits an offence against any of section 154O(1) to (15) is liable on conviction on indictment,
+1 Every person who commits an offence against any of section 154O(1) to (15) is liable on conviction,
 
 a in the case of an individual person, to imprisonment for a term not exceeding 5 years, a fine not exceeding $100,000, or both:
 
@@ -8228,31 +8228,31 @@ a in the case of an individual person, to imprisonment for a term not exceeding 
 
 b in the case of a corporation, to a fine not exceeding $200,000.
 
-3 Every person who commits an offence against any of section 154N(6) or (7) or 154O(16) to (18) is liable on summary conviction,
+3 Every person who commits an offence against any of section 154N(6) or (7) or 154O(16) to (18) is liable on conviction,
 
 a in the case of an individual person, to imprisonment for a term not exceeding 12 months, a fine not exceeding $50,000, or both:
 
 b in the case of a corporation, to a fine not exceeding $100,000.
 
-4 Every person who commits an offence against section 154N(8) to (11) is liable on summary conviction,
+4 Every person who commits an offence against section 154N(8) to (11) is liable on conviction,
 
 a in the case of an individual person, to imprisonment for a term not exceeding 3 months, a fine not exceeding $50,000, or both:
 
 b in the case of a corporation, to a fine not exceeding $100,000.
 
-5 Every person who commits an offence against any of section 154M, 154N(12) to (20), or 154O(19) to (21) is liable on summary conviction,
+5 Every person who commits an offence against any of section 154M, 154N(12) to (20), or 154O(19) to (21) is liable on conviction,
 
 a in the case of an individual person, to a fine not exceeding $5,000:
 
 b in the case of a corporation, to a fine not exceeding $15,000.
 
-6 Every person who commits an offence against any regulations made under this Act is liable on summary conviction,
+6 Every person who commits an offence against any regulations made under this Act is liable on conviction,
 
 a in the case of an individual person, to a fine not exceeding $5,000:
 
 b in the case of a corporation, to a fine not exceeding $15,000.
 
-7 Every person who commits an offence against section 154N(21) is liable on summary conviction to a fine not exceeding $1,000.
+7 Every person who commits an offence against section 154N(21) is liable on conviction to a fine not exceeding $1,000.
 
 158 Fines to be paid to management agency instituting prosecution
 
@@ -8260,13 +8260,13 @@ b in the case of a corporation, to a fine not exceeding $15,000.
 
 1 This section does not apply to border infringement offences.
 
-1A This section applies when 
+1A This section applies when
 
 a an inspector has reason to believe that a defendant has committed an infringement offence:
 
 b an authorised person has reason to believe that a defendant has committed an infringement offence that the authorised person may deal with within his or her terms of appointment under section 103(1)(b), (2), or (3).
 
-1B Proceedings may be taken against the defendant under the Summary Proceedings Act 1957.
+1B Proceedings may be taken against the defendant by filing a charging document under section 14 of the Criminal Procedure Act 2011.
 
 1C Alternatively, the inspector or the authorised person may issue an infringement notice to the defendant. In that case,
 
@@ -8278,7 +8278,7 @@ b section 21 of that Act applies with all necessary modifications.
 
 a may deliver it (or a copy of it) to the defendant personally; or
 
-b may send it (or a copy of it) to the defendant by post addressed to the defendant's last known place of residence or business; and in that case, for the purposes of the Summary Proceedings Act 1957, it (or the copy) shall be deemed to have been served on the defendant when it was posted.
+b may send it (or a copy of it) to the defendant by post addressed to the defendant's last known place of residence or business; and in that case it (or the copy) shall be deemed to have been served on the defendant when it was posted.
 
 3 Every infringement notice shall be in a form prescribed by regulations made under this Act; and shall specify
 
@@ -8302,7 +8302,7 @@ h any other matters prescribed in that behalf.
 
 1 This section applies when an inspector has reason to believe that a defendant has committed a border infringement offence.
 
-1A Proceedings may be taken against the defendant under the Summary Proceedings Act 1957.
+1A Proceedings may be taken against the defendant by filing a charging document under section 14 of the Criminal Procedure Act 2011.
 
 1B Alternatively, the inspector may issue an infringement notice to the defendant. In that case,
 
@@ -8374,7 +8374,7 @@ k the references to reminder notices in the definition of defendant in section 2
 
 9 Despite section 203(1) of the Summary Proceedings Act 1957, an infringement notice under this section may be issued and served on a Sunday.
 
-160 Who gets payments of fines, fees, and pecuniary penalties Fine: prosecution by Ministry
+160 Who gets payments of fines, fees, and pecuniary penaltiesFine: prosecution by Ministry
 
 1 Subsection (2) applies when
 
@@ -8382,7 +8382,7 @@ a a person is convicted of an offence under this Act; and
 
 b the court imposes a fine; and
 
-c the information for the offence was laid on behalf of the Ministry.
+c the charging document for the offence was filed on behalf of the Ministry.
 
 2 If the court considers that the act or omission that constituted the offence was a material cause of a need to undertake a response activity, the court must order that all or part of the fine be paid to the departmental bank account of the Ministry.Fine: prosecution by management agency
 
@@ -8390,9 +8390,9 @@ c the information for the offence was laid on behalf of the Ministry.
 
 a a person is convicted of an offence under this Act; and
 
-b the court imposes a fine; and 
+b the court imposes a fine; and
 
-c the information for the offence was laid on behalf of a management agency.
+c the charging document for the offence was filed on behalf of a management agency.
 
 4 The court must
 
@@ -8400,7 +8400,7 @@ a order that the fine be paid to the management agency; and
 
 b state in the order the amount of the fine that is compensation for loss or damage, if any of it is.
 
-5 The registrar receiving the fine must credit 10% of the part of it that is not compensation for loss or damage to the Crown Bank Account. Infringement fee
+5 The registrar receiving the fine must credit 10% of the part of it that is not compensation for loss or damage to the Crown Bank Account.Infringement fee
 
 6 Infringement fees received under section 159 must be paid as follows:
 
@@ -8416,7 +8416,7 @@ c if the infringement notice was issued by an authorised person on behalf of a r
 
 9 If the court considers that the failure to comply for which the court imposed the order was a material cause of a need to undertake a response activity, the court must order that all or part of the pecuniary penalty be paid to the departmental bank account of the Ministry.Registrar's authority
 
-10 This section provides sufficient authority for a registrar receiving a fine, fee, or pecuniary penalty to which this section applies to deal with it in the manner required by this section. Ministry's use of amount paid to it
+10 This section provides sufficient authority for a registrar receiving a fine, fee, or pecuniary penalty to which this section applies to deal with it in the manner required by this section.Ministry's use of amount paid to it
 
 11 The Ministry must use the amount paid to its bank account under subsection (2) or (9) in meeting the costs of undertaking the response activity.Definition for this section
 
@@ -8500,14 +8500,23 @@ b the court has not, on the application of the defendant made not less than 7 da
 
 5 The court must not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity of a certificate.
 
-162 Time for laying informations
-Notwithstanding section 14 of the Summary Proceedings Act 1957, an information in respect of an offence against this Act or any regulations made under it may be laid at any time within 2 years of the time when the matter of the information arose.
+162 Time for filing charging document for certain offences
+
+1 This section applies to
+
+a an offence against any of sections 154M, 154N(8) to (21), and 154O(19) to (21):
+
+b an offence against any regulations made under this Act.
+
+2 The limitation period for the offence ends on the date that is 2 years after the date on which the offence was committed.
+
+3 Section 25 of the Criminal Procedure Act 2011 does not apply to the offence.
 
 8A Exclusive economic zone
 
 162AA Definitions for this Part
 
-1 In this Part, *exclusive economic zone*  or *EEZ* means the zone described in section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 as the exclusive economic zone.
+1 In this Part, *exclusive economic zone* or *EEZ* means the zone described in section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 as the exclusive economic zone.
 
 2 In this Part, and in provisions modified by this Part, *arrive in the EEZ* means to anchor in, berth in, or operate in the EEZ for the purpose of exploring or exploiting resources in the EEZ, or in preparation or support for such a purpose, after a voyage originating beyond the outer limits of the EEZ.
 
@@ -8515,7 +8524,7 @@ Notwithstanding section 14 of the Summary Proceedings Act 1957, an information i
 
 1 The provisions of this Act apply in the EEZ
 
-a to the extent to which they are relevant; and 
+a to the extent to which they are relevant; and
 
 b to the extent to which their language permits; and
 
@@ -8635,13 +8644,13 @@ Section 166(1) applies as if or the EEZ appeared after New Zealand.
 
 1 This section applies when
 
-a powers under this Act are exercised for the purpose of eradicating or managing an organism; and 
+a powers under this Act are exercised for the purpose of eradicating or managing an organism; and
 
 b the powers are not exercised to implement a pest management plan or pathway management plan; and
 
 c the exercise of the powers causes loss to a person as a result of
 
-i damage to or destruction of the person's property; or 
+i damage to or destruction of the person's property; or
 
 ii restrictions imposed under Part 6 or 7 on the movement or disposal of the person's goods; and
 
@@ -8653,7 +8662,7 @@ a is verifiable; and
 
 b is loss that the person has been unable to mitigate by taking every step that is reasonable in the circumstances.
 
-3 Compensation must not be paid if 
+3 Compensation must not be paid if
 
 a the person's loss relates to unauthorised goods or uncleared goods; or
 
@@ -8661,13 +8670,13 @@ b the person suffered the loss before the time at which the exercise of the powe
 
 c the person failed to comply with biosecurity law
 
-i in a serious or significant way; or 
+i in a serious or significant way; or
 
 ii in a way that contributed to the presence of the organism; or
 
 iii in a way that contributed to the spread of the organism.
 
-4 The amount of compensation paid must put the person to whom it is paid in no better or worse position than a person whose property or goods are not directly affected by the exercise of the powers. 
+4 The amount of compensation paid must put the person to whom it is paid in no better or worse position than a person whose property or goods are not directly affected by the exercise of the powers.
 
 5 The period for making a claim for compensation after the date on which the loss suffered by the person ought reasonably to have been verifiable is
 
@@ -8675,9 +8684,9 @@ a within 1 year from the date; or
 
 b after 1 year from the date, if the person was unable to make a claim within 1 year because of circumstances beyond the person's control.
 
-6 If there is a dispute about eligibility for, or the amount of, compensation, 
+6 If there is a dispute about eligibility for, or the amount of, compensation,
 
-a the dispute must be submitted to arbitration; and 
+a the dispute must be submitted to arbitration; and
 
 b the arbitration must be conducted under the Arbitration Act1996.
 
@@ -8778,7 +8787,7 @@ c does not require any direction to be given or requirement to be made in accord
 
 1 The Governor-General may from time to time, by Order in Council, make regulations for the purposes of section 17(11).
 
-2 The Governor-General may from time to time, by Order in Council, make regulations on any or all of the following matters relating to the giving of notice of goods' intended arrival in New Zealand: 
+2 The Governor-General may from time to time, by Order in Council, make regulations on any or all of the following matters relating to the giving of notice of goods' intended arrival in New Zealand:
 
 a requiring that the notice be given to the Director-General:
 
@@ -8810,7 +8819,7 @@ g providing for the Director-General to require the giving of the notice earlier
 
 i an emergency or an urgent situation has arisen; and
 
-ii the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and 
+ii the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and
 
 iii the earlier giving of the notice is necessary to avoid or mitigate the risk:
 
@@ -8940,7 +8949,7 @@ f prescribing an infringement fee no greater than $1,000 payable for each infrin
 
 g specifying that an infringement offence is a border infringement offence if it is committed
 
-i in a biosecurity control area at a port approved under section 37; or 
+i in a biosecurity control area at a port approved under section 37; or
 
 ii at a port approved under section 37A:
 
@@ -8974,7 +8983,7 @@ b prescribing technical standards for their construction, equipping, maintenance
 
 c prescribing standards for their operators.Standards, permits, registrations, approvals, and exemptions
 
-20 The Governor-General may from time to time, by Order in Council, make regulations	prescribing standards for places that are required to be designated, registered, or approved 
+20 The Governor-General may from time to time, by Order in Council, make regulations	prescribing standards for places that are required to be designated, registered, or approved
 
 a under this Act; or
 
@@ -8990,7 +8999,7 @@ c prescribing conditions that must or may be attached to them:
 
 d regulating their issue, transfer, amendment, suspension, revocation, cancellation, or withdrawal:
 
-e requiring their holders to 
+e requiring their holders to
 
 i keep records; and
 
@@ -9068,7 +9077,7 @@ f persons of any kind or description,from any requirement of those regulations, 
 169 Savings of Animals Act 1967 for limited administrative purposes
 
 170 Savings of Plants Act 1970 for limited administrative purposes
-Notwithstanding section 167(1) of this Act, the Plants Act 1970 shall continue in full effect to the extent necessary for the proper administration of  sections 15, and 16 of that Act in relation to the export of plants.
+Notwithstanding section 167(1) of this Act, the Plants Act 1970 shall continue in full effect to the extent necessary for the proper administration of sections 15, and 16 of that Act in relation to the export of plants.
 
 171 Savings of Apiaries Act 1969 for limited administrative purposes
 
