@@ -96,7 +96,7 @@ a the New Zealand Security Intelligence Service; and
 
 b the Government Communications Security Bureau
 
-*international organisation*  means any organisation of states or governments of states or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
+*international organisation*  means any organisation of States or Governments of States or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
 
 *local authority* 
 
@@ -521,7 +521,7 @@ a to prejudice the security or defence of New Zealand or the international relat
 
 b to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by
 
-i the government of any other country or any agency of such a government; or
+i the Government of any other country or any agency of such a Government; or
 
 ii any international organisation; or
 
@@ -533,9 +533,9 @@ d to endanger the safety of any individual.
 
 a to prejudice the security or defence of
 
-i the self-governing state of the Cook Islands; or
+i the self-governing State of the Cook Islands; or
 
-ii the self-governing state of Niue; or
+ii the self-governing State of Niue; or
 
 iii Tokelau; or
 
@@ -545,15 +545,15 @@ b to prejudice relations between any of the Governments of
 
 i New Zealand:
 
-ii the self-governing state of the Cook Islands:
+ii the self-governing State of the Cook Islands:
 
-iii the self-governing state of Niue; or
+iii the self-governing State of Niue; or
 
 c to prejudice the international relations of the Governments of
 
-i the self-governing state of the Cook Islands; or
+i the self-governing State of the Cook Islands; or
 
-ii the self-governing state of Niue.
+ii the self-governing State of Niue.
 
 28 Trade secrets
 
@@ -2391,7 +2391,7 @@ c a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 app
 
 d 
 
-e any amount payable under section 138A(1) of the Sentencing Act 2002
+e any amount payable under section 138A(1) of the Sentencing Act 2002.
 
 104 Reporting requirements
 
@@ -2471,7 +2471,7 @@ c report the Commissioner's findings to the responsible Minister.
 
 1 For the purposes of this Part, the Governor-General may from time to time, by Order in Council, make such amendments to Schedule 4 as the Governor-General thinks fit.
 
-2 The power conferred by subsection (1) includes the power to revoke Schedule 4 and substitute a new schedule.
+2 The power conferred by subsection (1) includes the power to repeal Schedule 4 and substitute a new schedule.
 
 3 No order that amends Schedule 4 shall be made otherwise than in accordance with the recommendations of the Commissioner.
 
@@ -2683,7 +2683,7 @@ b no proceedings, civil or criminal, in respect of any publication involved in, 
 
 a any matter that might prejudice
 
-i the security, defence, or international relations of New Zealand (including New Zealand's relations with the government of any other country or with any international organisation); or
+i the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation); or
 
 ii any interest protected by section 7 of the Official Information Act 1982; or
 
@@ -2830,7 +2830,7 @@ b repeal Schedule 5A, and substitute a new schedule setting out, in an up-to-dat
 Section 129B takes effect on the repeal of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
 
 129B New section 96M substituted
-Amendment incorporated in this Act.
+Amendment(s) incorporated in the Act(s).
 
 
 
