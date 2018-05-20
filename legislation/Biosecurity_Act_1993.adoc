@@ -88,6 +88,8 @@ d The aesthetic, cultural, economic, and social conditions that affect or are af
 
 *Import health standard* means a document issued under section 22
 
+*incidentally imported new organism* has the same meaning as in section 2(1) of the Hazardous Substances and New Organisms Act 1996
+
 *Inspector* means a person who is appointed an inspector under section 103 of this Act
 
 *Local authority* means a regional council or territorial authority
@@ -688,6 +690,8 @@ c Answer all questions relating to the craft or its cargo, crew, passengers, sto
 
 1 The Director-General may, following the recommendation of a chief technical officer, issue an import health standard specifying the requirements to be met for the effective management of risks associated with the importation of risk goods before those goods may be imported, moved from a biosecurity control area or a transitional facility, or given a biosecurity clearance; and may, in a like manner, amend or revoke any import health standard so issued.
 
+1A An import health standard issued under this section applies to goods the importation of which involves, or might involve, an incidentally imported new organism.
+
 2 If an import health standard requires a permit to be obtained from the Director-General before the goods can be imported, moved from a biosecurity control area or a transitional facility, or given a biosecurity clearance, the Director-General may, if he or she thinks fit, issue the permit.
 
 3 Nothing in this Act obliges the Director-General to have an import health standard in force for goods of any kind or description if, in the Director-General's opinion, the requirements that could be imposed on the importation of those goods would not be sufficient to enable the purpose of this Part to be met if the importation of those goods were permitted.
@@ -721,6 +725,28 @@ d Such other matters as the chief technical officer considers relevant to the pu
 9 The Director-General must maintain a register of the import health standards (as amended from time to time) issued under this section.
 
 10 The register must be available for public information and inspection at the office of the Director-General during normal office hours.
+
+22A Process for independent review panel to be established 
+
+1 The Director-General must, by notice in the Gazette, set out the process by which an independent review panel is to be established to review whether, in developing an import health standard, there has been sufficient regard to the scientific evidence about which a person consulted under section 22(6) has raised a significant concern.
+
+2 The notice required by subsection (1) must cover the following matters:
+
+a the criteria for setting up an independent review panel; and
+
+b how the Director-General will appoint an independent review panel, including the knowledge and experience required for appointees; and
+
+c the procedures to be followed by
+
+i a person eligible to seek a review under subsection (1); and
+
+ii an independent review panel, in undertaking its review; and
+
+d the reporting requirements for an independent review panel.
+
+3 The Director-General must receive any report from an independent review panel and, as soon as is reasonably practicable, determine the issue in dispute after taking into account the findings and recommendations of the independent review panel, giving reasons for that determination.
+
+4 The Director-General must issue a notice under subsection (1) not later than 1 July 2008.
 
 23 Revocation and variation of import health permits
 
@@ -761,6 +787,8 @@ e There has been no recent change in circumstances, or in the state of knowledge
 28 Restrictions on giving clearances
 
 1 An inspector must not give a biosecurity clearance for goods that are or contain an organism specified in Schedule 2 of the Hazardous Substances and New Organisms Act 1996 or for a new organism.
+
+1A However, subsection (1) does not prohibit an inspector from giving a biosecurity clearance for goods the importation of which involves, or might involve, an incidentally imported new organism.
 
 2 Where any new organism is an organism for which
 
