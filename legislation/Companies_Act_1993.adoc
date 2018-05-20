@@ -164,6 +164,8 @@ c a nominee or trustee for any of those persons
 
 a Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
 
+ab if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+
 b a day in the period commencing with 25December in any year and ending with 2January in the following year; and
 
 c if 1January in any year falls on a Friday, the following Monday; and
