@@ -538,15 +538,15 @@ The court may exercise with respect to Maori freehold land all of the powers con
 24 Power of court to grant relief if building is on wrong land or encroachment exists
 The court may exercise with respect to Mori freehold land all of the powers conferred on a court by subpart 2 of Part 6 of the Property Law Act 2007.
 
-24A Powers of court under Contracts (Privity) Act 1982 and Contractual Remedies Act 1979
+24A Powers of court relating to contracts privity and contractual remedies
 
-1 Subject to subsection (2), the court may exercise any power conferred on the High Court
+1 The court may exercise any power conferred on the High Court
 
-a by the Contracts (Privity) Act 1982; or
+a by subpart 1 of Part 2 of the Contract and Commercial Law Act 2017; or
 
-b by any of the provisions of sections 4, 7(6), 7(7), and 9 of the Contractual Remedies Act 1979.
+b by any of the provisions of sections 39, 43 to 48, and 50 to 52 of that Act.
 
-2 A power conferred on the court by subsection (1) may be exercised only if the occasion for the exercise of that power arises in the course of proceedings (other than an application made for the purposes of section 7(1) of the Contracts (Privity) Act 1982 or section 7(6) or section 9 of the Contractual Remedies Act 1979) properly before the court under section 18(1)(d) of this Act.
+2 However, a power conferred on the court by subsection (1) may be exercised only if the occasion for the exercise of that power arises in the course of proceedings (other than an application made for the purposes of section 16(2), 39, or any of sections 43 to 48 of the Contract and Commercial Law Act 2017) properly before the court under section 18(1)(d) of this Act.
 
 24B Power to award interest on debt or damages
 The court, in its proceedings, has the same powers to award interest on any debt or damages as the District Court has under section 62B of the District Courts Act 1947 in its own proceedings.
