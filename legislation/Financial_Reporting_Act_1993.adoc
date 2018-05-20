@@ -1103,9 +1103,9 @@ b in any other case, the exemption is granted before the financial statements or
 
 a financial statements in relation to a reporting entity are not completed and signed within the time specified in section 10; or
 
-b group financial statements in relation to a group comprising a reporting entity and its subsidiaries are not completed and signed within the time specified in section 13,every director of the reporting entity commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+b group financial statements in relation to a group comprising a reporting entity and its subsidiaries are not completed and signed within the time specified in section 13,every director of the reporting entity commits an offence and is liable on conviction to a fine not exceeding $100,000.
 
-2 Where the financial statements of a reporting entity or group financial statements in relation to a group comprising a reporting entity and its subsidiaries fail to comply with an applicable financial reporting standard, every director of the reporting entity commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+2 Where the financial statements of a reporting entity or group financial statements in relation to a group comprising a reporting entity and its subsidiaries fail to comply with an applicable financial reporting standard, every director of the reporting entity commits an offence and is liable on conviction to a fine not exceeding $100,000.
 
 36A Content of statements that contain prospective, summary, or interim financial information
 
@@ -1113,7 +1113,7 @@ b group financial statements in relation to a group comprising a reporting entit
 
 2 Any statement prepared by, or on behalf of, a group comprising a reporting entity and its subsidiaries that contains prospective, summary, or interim financial information for the group must comply with any applicable financial reporting standard.
 
-3 Every director of a reporting entity commits an offence and is liable on summary conviction to a fine not exceeding $100,000 if
+3 Every director of a reporting entity commits an offence and is liable on conviction to a fine not exceeding $100,000 if
 
 a any statement prepared by, or on behalf of, the reporting entity that contains prospective, summary, or interim financial information for the reporting entity does not comply with this section; or
 
@@ -1126,7 +1126,7 @@ Where
 
 a financial statements in relation to an exempt company are not completed and signed within the time specified in section 10; or
 
-b financial statements in relation to an exempt company do not comply with section 12,every director of the exempt company commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+b financial statements in relation to an exempt company do not comply with section 12,every director of the exempt company commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 38 Offences by directors of issuers
 Where
@@ -1135,10 +1135,10 @@ a the financial statements of an issuer and any group financial statements in re
 
 b a copy of the financial statements of an issuer or group financial statements together with the auditor's report on those statements are not delivered to the Registrar in accordance with section 18(1),
 
-c every director of the issuer commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+c every director of the issuer commits an offence and is liable on conviction to a fine not exceeding $100,000.
 
 39 Offences by directors of overseas companies and other companies to which section 19 applies
-Where a copy of the financial statements of a company to which section 19 applies and any group financial statements relating to a group comprising that company and its subsidiaries, and a copy of the auditor's report on those statements are not delivered to the Registrar in accordance with subsection (3) of that section, every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+Where a copy of the financial statements of a company to which section 19 applies and any group financial statements relating to a group comprising that company and its subsidiaries, and a copy of the auditor's report on those statements are not delivered to the Registrar in accordance with subsection (3) of that section, every director of the company commits an offence and is liable on conviction to a fine not exceeding $100,000.
 
 40 Defences
 It is a defence to a director of an entity charged with an offence under any of sections 36 to 39 if the director proves that
@@ -1155,7 +1155,7 @@ c in the circumstances he or she could not reasonably have been expected to take
 
 a makes, or authorises the making of, a statement in the document that is false or misleading in a material particular knowing the statement to be false or misleading; or
 
-b omits, or authorises the omission, from the document of any matter knowing that the omission makes the document false or misleading in a material particularcommits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000.
+b omits, or authorises the omission, from the document of any matter knowing that the omission makes the document false or misleading in a material particularcommits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000.
 
 2 For the purposes of this section, a person who voted in favour of the making of a statement at a meeting of directors or members or shareholders of an entity is deemed to have authorised the making of the statement.
 
@@ -1163,11 +1163,11 @@ b omits, or authorises the omission, from the document of any matter knowing tha
 
 1 If a person is alleged to have committed an infringement offence, that person may either
 
-a be proceeded against summarily for the alleged offence under the Summary Proceedings Act 1957; or
+a be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
 
 b be served with an infringement notice as provided in section 41B.
 
-2 Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or a Registrar of a court to lay an information is not necessary where the Registrar proceeds with an infringement offence summarily.
+2 Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Registrar commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
 
 41B Infringement notices
 
@@ -1185,7 +1185,7 @@ a by delivering it, or a copy of it, personally to the person who appears to hav
 
 b by sending it, or a copy of it, by post, addressed to the person at the person's last known place of residence or business.
 
-2 For the purposes of the Summary Proceedings Act 1957, an infringement notice sent under subsection (1)(b) must be treated as having been served on the person on the date it was posted.
+2 An infringement notice sent under subsection (1)(b) must be treated as having been served on the person on the date it was posted.
 
 3 An infringement notice must be in the prescribed form and must contain
 
@@ -1216,8 +1216,11 @@ b in all other respects, section 21 of the Summary Proceedings Act 1957 applies 
 41D Payment of infringement fee
 The Registrar must pay all infringement fees received into a Crown Bank Account.
 
-42 Time in which information may be laid
-Notwithstanding anything to the contrary in the Summary Proceedings Act 1957, an information for an offence against any of sections 36 to 39 may be laid at any time within 3 years after the date of the offence.
+42 Time for filing charging document for offence against section 37
+
+1 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 37 of this Act ends on the date that is 3years after the date on which the offence was committed.
+
+2 Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 42A Privacy Act 1993
 The disclosure of personal information (as defined in section 2 of the Privacy Act 1993) is not a breach of principle 10 or principle 11 of that Act, if the disclosure is required for compliance with an applicable financial reporting standard that was approved or issued after the commencement of the Financial Reporting Amendment Act 2001.
