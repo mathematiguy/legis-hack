@@ -4,7 +4,7 @@
 
 1 This Act may be cited as the Privacy Act 1993.
 
-2 Except as provided by section 31(2), this Act shall come into force on 1 July 1993.
+2 Except as provided by section 31(2), this Act shall come into force on 1July 1993.
 
 1 Preliminary provisions
 
@@ -188,7 +188,7 @@ b that uniquely identifies that individual in relation to that agency;but, for t
 
 a Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
 
-b a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
+b a day in the period commencing with 25December in any year and ending with 15January in the following year.
 
 2 For the avoidance of doubt, it is hereby declared that the fact that any body (being a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, by any provision of an Act, to inquire into a specified matter) is not excluded from the definition of the term agency in subsection (1) by virtue of subparagraph (xii) of paragraph (b) of that definition does not mean that such a body is not excluded from that definition by virtue of subparagraph (vii) or subparagraph (viii) of that paragraph.
 
@@ -217,7 +217,7 @@ This Act binds the Crown.
 2 Information privacy principles
 
 6 Information privacy principles
-The information privacy principles are as follows:Information privacy principlesPrinciple 1Purpose of collection of personal informationPersonal information shall not be collected by any agency unless(a)the information is collected for a lawful purpose connected with a function or activity of the agency; and(b)the collection of the information is necessary for that purpose.Principle 2Source of personal information(1)Where an agency collects personal information, the agency shall collect the information directly from the individual concerned.(2)It is not necessary for an agency to comply with subclause (1) if the agency believes, on reasonable grounds,(a)that the information is publicly available information; or(b)that the individual concerned authorises collection of the information from someone else; or(c)that non-compliance would not prejudice the interests of the individual concerned; or(d)that non-compliance is necessary(i)to avoid prejudice to the maintenance of the law by any public sector agency, including the prevention, detection, investigation, prosecution, and punishment of offences; or(ii)for the enforcement of a law imposing a pecuniary penalty; or(iii)for the protection of the public revenue; or(iv)for the conduct of proceedings before any court or tribunal (being proceedings that have been commenced or are reasonably in contemplation); or(e)that compliance would prejudice the purposes of the collection; or(f)that compliance is not reasonably practicable in the circumstances of the particular case; or(g)that the information(i)will not be used in a form in which the individual concerned is identified; or(ii)will be used for statistical or research purposes and will not be published in a form that could reasonably be expected to identify the individual concerned; or(h)that the collection of the information is in accordance with an authority granted under section54.Principle 3Collection of information from subject(1)Where an agency collects personal information directly from the individual concerned, the agency shall take such steps (if any) as are, in the circumstances, reasonable to ensure that the individual concerned is aware of(a)the fact that the information is being collected; and(b)the purpose for which the information is being collected; and(c)the intended recipients of the information; and(d)the name and address of(i)the agency that is collecting the information; and(ii)the agency that will hold the information; and(e)if the collection of the information is authorised or required by or under law,(i)the particular law by or under which the collection of the information is so authorised or required; and(ii)whether or not the supply of the information by that individual is voluntary or mandatory; and(f)the consequences (if any) for that individual if all or any part of the requested information is not provided; and(g)the rights of access to, and correction of, personal information provided by these principles.(2)The steps referred to in subclause (1) shall be taken before the information is collected or, if that is not practicable, as soon as practicable after the information is collected.(3)An agency is not required to take the steps referred to in subclause (1) in relation to the collection of information from an individual if that agency has taken those steps in relation to the collection, from that individual, of the same information or information of the same kind, on a recent previous occasion.(4)It is not necessary for an agency to comply with subclause (1) if the agency believes, on reasonable grounds,(a)that non-compliance is authorised by the individual concerned; or(b)that non-compliance would not prejudice the interests of the individual concerned; or(c)that non-compliance is necessary(i)to avoid prejudice to the maintenance of the law by any public sector agency, including the prevention, detection, investigation, prosecution, and punishment of offences; or(ii)for the enforcement of a law imposing a pecuniary penalty; or(iii)for the protection of the public revenue; or(iv)for the conduct of proceedings before any court or tribunal (being proceedings that have been commenced or are reasonably in contemplation); or(d)that compliance would prejudice the purposes of the collection; or(e)that compliance is not reasonably practicable in the circumstances of the particular case; or(f)that the information(i)will not be used in a form in which the individual concerned is identified; or(ii)will be used for statistical or research purposes and will not be published in a form that could reasonably be expected to identify the individual concerned.Principle 4Manner of collection of personal informationPersonal information shall not be collected by an agency(a)by unlawful means; or(b)by means that, in the circumstances of the case,(i)are unfair; or(ii)intrude to an unreasonable extent upon the personal affairs of the individual concerned.Principle 5Storage and security of personal informationAn agency that holds personal information shall ensure(a)that the information is protected, by such security safeguards as it is reasonable in the circumstances to take, against(i)loss; and(ii)access, use, modification, or disclosure, except with the authority of the agency that holds the information; and(iii)other misuse; and(b)that if it is necessary for the information to be given to a person in connection with the provision of a service to the agency, everything reasonably within the power of the agency is done to prevent unauthorised use or unauthorised disclosure of the information.Principle 6Access to personal information(1)Where an agency holds personal information in such a way that it can readily be retrieved, the individual concerned shall be entitled(a)to obtain from the agency confirmation of whether or not the agency holds such personal information; and(b)to have access to that information.(2)Where, in accordance with subclause (1)(b), an individual is given access to personal information, the individual shall be advised that, under principle 7, the individual may request the correction of that information.(3)The application of this principle is subject to the provisions of Parts 4 and 5.Principle 7Correction of personal information(1)Where an agency holds personal information, the individual concerned shall be entitled(a)to request correction of the information; and(b)to request that there be attached to the information a statement of the correction sought but not made.(2)An agency that holds personal information shall, if so requested by the individual concerned or on its own initiative, take such steps (if any) to correct that information as are, in the circumstances, reasonable to ensure that, having regard to the purposes for which the information may lawfully be used, the information is accurate, up to date, complete, and not misleading.(3)Where an agency that holds personal information is not willing to correct that information in accordance with a request by the individual concerned, the agency shall, if so requested by the individual concerned, take such steps (if any) as are reasonable in the circumstances to attach to the information, in such a manner that it will always be read with the information, any statement provided by that individual of the correction sought.(4)Where the agency has taken steps under subclause (2) or subclause (3), the agency shall, if reasonably practicable, inform each person or body or agency to whom the personal information has been disclosed of those steps.(5)Where an agency receives a request made pursuant to subclause (1), the agency shall inform the individual concerned of the action taken as a result of the request.Principle 8Accuracy, etc, of personal information to be checked before useAn agency that holds personal information shall not use that information without taking such steps (if any) as are, in the circumstances, reasonable to ensure that, having regard to the purpose for which the information is proposed to be used, the information is accurate, up to date, complete, relevant, and not misleading.Principle 9 Agency not to keep personal information for longer than necessaryAn agency that holds personal information shall not keep that information for longer than is required for the purposes for which the information may lawfully be used.Principle 10Limits on use of personal informationAn agency that holds personal information that was obtained in connection with one purpose shall not use the information for any other purpose unless the agency believes, on reasonable grounds,(a)that the source of the information is a publicly available publication; or(b)that the use of the information for that other purpose is authorised by the individual concerned; or(c)that non-compliance is necessary(i)to avoid prejudice to the maintenance of the law by any public sector agency, including the prevention, detection, investigation, prosecution, and punishment of offences; or(ii)for the enforcement of a law imposing a pecuniary penalty; or(iii)for the protection of the public revenue; or(iv)for the conduct of proceedings before any court or tribunal (being proceedings that have been commenced or are reasonably in contemplation); or(d)that the use of the information for that other purpose is necessary to prevent or lessen a serious and imminent threat to(i)public health or public safety; or(ii)the life or health of the individual concerned or another individual; or(e)that the purpose for which the information is used is directly related to the purpose in connection with which the information was obtained; or(f)that the information(i)is used in a form in which the individual concerned is not identified; or(ii)is used for statistical or research purposes and will not be published in a form that could reasonably be expected to identify the individual concerned; or(g)that the use of the information is in accordance with an authority granted under section 54.Principle 11Limits on disclosure of personal informationAn agency that holds personal information shall not disclose the information to a person or body or agency unless the agency believes, on reasonable grounds,(a)that the disclosure of the information is one of the purposes in connection with which the information was obtained or is directly related to the purposes in connection with which the information was obtained; or(b)that the source of the information is a publicly available publication; or(c)that the disclosure is to the individual concerned; or(d)that the disclosure is authorised by the individual concerned; or(e)that non-compliance is necessary(i)to avoid prejudice to the maintenance of the law by any public sector agency, including the prevention, detection, investigation, prosecution, and punishment of offences; or(ii)for the enforcement of a law imposing a pecuniary penalty; or(iii)for the protection of the public revenue; or(iv)for the conduct of proceedings before any court or tribunal (being proceedings that have been commenced or are reasonably in contemplation); or(f)that the disclosure of the information is necessary to prevent or lessen a serious and imminent threat to(i)public health or public safety; or(ii)the life or health of the individual concerned or another individual; or(g)that the disclosure of the information is necessary to facilitate the sale or other disposition of a business as a going concern; or(h)that the information(i)is to be used in a form in which the individual concerned is not identified; or(ii)is to be used for statistical or research purposes and will not be published in a form that could reasonably be expected to identify the individual concerned; or(i)that the disclosure of the information is in accordance with an authority granted under section 54.Principle 12Unique identifiers(1)An agency shall not assign a unique identifier to an individual unless the assignment of that identifier is necessary to enable the agency to carry out any 1or more of its functions efficiently.(2)An agency shall not assign to an individual a unique identifier that, to that agency's knowledge, has been assigned to that individual by another agency, unless those 2 agencies are associated persons within the meaning of subpart YB of the Income Tax Act 2007.(3)An agency that assigns unique identifiers to individuals shall take all reasonable steps to ensure that unique identifiers are assigned only to individuals whose identity is clearly established.(4)An agency shall not require an individual to disclose any unique identifier assigned to that individual unless the disclosure is for one of the purposes in connection with which that unique identifier was assigned or for a purpose that is directly related to one of those purposes.
+The information privacy principles are as follows:Information privacy principlesPrinciple 1Purpose of collection of personal informationPersonal information shall not be collected by any agency unless(a)the information is collected for a lawful purpose connected with a function or activity of the agency; and(b)the collection of the information is necessary for that purpose.Principle 2Source of personal information(1)Where an agency collects personal information, the agency shall collect the information directly from the individual concerned.(2)It is not necessary for an agency to comply with subclause (1) if the agency believes, on reasonable grounds,(a)that the information is publicly available information; or(b)that the individual concerned authorises collection of the information from someone else; or(c)that non-compliance would not prejudice the interests of the individual concerned; or(d)that non-compliance is necessary(i)to avoid prejudice to the maintenance of the law by any public sector agency, including the prevention, detection, investigation, prosecution, and punishment of offences; or(ii)for the enforcement of a law imposing a pecuniary penalty; or(iii)for the protection of the public revenue; or(iv)for the conduct of proceedings before any court or tribunal (being proceedings that have been commenced or are reasonably in contemplation); or(e)that compliance would prejudice the purposes of the collection; or(f)that compliance is not reasonably practicable in the circumstances of the particular case; or(g)that the information(i)will not be used in a form in which the individual concerned is identified; or(ii)will be used for statistical or research purposes and will not be published in a form that could reasonably be expected to identify the individual concerned; or(h)that the collection of the information is in accordance with an authority granted under section54.Principle 3Collection of information from subject(1)Where an agency collects personal information directly from the individual concerned, the agency shall take such steps (if any) as are, in the circumstances, reasonable to ensure that the individual concerned is aware of(a)the fact that the information is being collected; and(b)the purpose for which the information is being collected; and(c)the intended recipients of the information; and(d)the name and address of(i)the agency that is collecting the information; and(ii)the agency that will hold the information; and(e)if the collection of the information is authorised or required by or under law,(i)the particular law by or under which the collection of the information is so authorised or required; and(ii)whether or not the supply of the information by that individual is voluntary or mandatory; and(f)the consequences (if any) for that individual if all or any part of the requested information is not provided; and(g)the rights of access to, and correction of, personal information provided by these principles.(2)The steps referred to in subclause (1) shall be taken before the information is collected or, if that is not practicable, as soon as practicable after the information is collected.(3)An agency is not required to take the steps referred to in subclause (1) in relation to the collection of information from an individual if that agency has taken those steps in relation to the collection, from that individual, of the same information or information of the same kind, on a recent previous occasion.(4)It is not necessary for an agency to comply with subclause (1) if the agency believes, on reasonable grounds,(a)that non-compliance is authorised by the individual concerned; or(b)that non-compliance would not prejudice the interests of the individual concerned; or(c)that non-compliance is necessary(i)to avoid prejudice to the maintenance of the law by any public sector agency, including the prevention, detection, investigation, prosecution, and punishment of offences; or(ii)for the enforcement of a law imposing a pecuniary penalty; or(iii)for the protection of the public revenue; or(iv)for the conduct of proceedings before any court or tribunal (being proceedings that have been commenced or are reasonably in contemplation); or(d)that compliance would prejudice the purposes of the collection; or(e)that compliance is not reasonably practicable in the circumstances of the particular case; or(f)that the information(i)will not be used in a form in which the individual concerned is identified; or(ii)will be used for statistical or research purposes and will not be published in a form that could reasonably be expected to identify the individual concerned.Principle 4Manner of collection of personal informationPersonal information shall not be collected by an agency(a)by unlawful means; or(b)by means that, in the circumstances of the case,(i)are unfair; or(ii)intrude to an unreasonable extent upon the personal affairs of the individual concerned.Principle 5Storage and security of personal informationAn agency that holds personal information shall ensure(a)that the information is protected, by such security safeguards as it is reasonable in the circumstances to take, against(i)loss; and(ii)access, use, modification, or disclosure, except with the authority of the agency that holds the information; and(iii)other misuse; and(b)that if it is necessary for the information to be given to a person in connection with the provision of a service to the agency, everything reasonably within the power of the agency is done to prevent unauthorised use or unauthorised disclosure of the information.Principle 6Access to personal information(1)Where an agency holds personal information in such a way that it can readily be retrieved, the individual concerned shall be entitled(a)to obtain from the agency confirmation of whether or not the agency holds such personal information; and(b)to have access to that information.(2)Where, in accordance with subclause (1)(b), an individual is given access to personal information, the individual shall be advised that, under principle 7, the individual may request the correction of that information.(3)The application of this principle is subject to the provisions of Parts 4 and 5.Principle 7Correction of personal information(1)Where an agency holds personal information, the individual concerned shall be entitled(a)to request correction of the information; and(b)to request that there be attached to the information a statement of the correction sought but not made.(2)An agency that holds personal information shall, if so requested by the individual concerned or on its own initiative, take such steps (if any) to correct that information as are, in the circumstances, reasonable to ensure that, having regard to the purposes for which the information may lawfully be used, the information is accurate, up to date, complete, and not misleading.(3)Where an agency that holds personal information is not willing to correct that information in accordance with a request by the individual concerned, the agency shall, if so requested by the individual concerned, take such steps (if any) as are reasonable in the circumstances to attach to the information, in such a manner that it will always be read with the information, any statement provided by that individual of the correction sought.(4)Where the agency has taken steps under subclause (2) or subclause (3), the agency shall, if reasonably practicable, inform each person or body or agency to whom the personal information has been disclosed of those steps.(5)Where an agency receives a request made pursuant to subclause (1), the agency shall inform the individual concerned of the action taken as a result of the request.Principle 8Accuracy, etc, of personal information to be checked before useAn agency that holds personal information shall not use that information without taking such steps (if any) as are, in the circumstances, reasonable to ensure that, having regard to the purpose for which the information is proposed to be used, the information is accurate, up to date, complete, relevant, and not misleading.Principle 9Agency not to keep personal information for longer than necessaryAn agency that holds personal information shall not keep that information for longer than is required for the purposes for which the information may lawfully be used.Principle 10Limits on use of personal informationAn agency that holds personal information that was obtained in connection with one purpose shall not use the information for any other purpose unless the agency believes, on reasonable grounds,(a)that the source of the information is a publicly available publication; or(b)that the use of the information for that other purpose is authorised by the individual concerned; or(c)that non-compliance is necessary(i)to avoid prejudice to the maintenance of the law by any public sector agency, including the prevention, detection, investigation, prosecution, and punishment of offences; or(ii)for the enforcement of a law imposing a pecuniary penalty; or(iii)for the protection of the public revenue; or(iv)for the conduct of proceedings before any court or tribunal (being proceedings that have been commenced or are reasonably in contemplation); or(d)that the use of the information for that other purpose is necessary to prevent or lessen a serious and imminent threat to(i)public health or public safety; or(ii)the life or health of the individual concerned or another individual; or(e)that the purpose for which the information is used is directly related to the purpose in connection with which the information was obtained; or(f)that the information(i)is used in a form in which the individual concerned is not identified; or(ii)is used for statistical or research purposes and will not be published in a form that could reasonably be expected to identify the individual concerned; or(g)that the use of the information is in accordance with an authority granted under section 54.Principle 11Limits on disclosure of personal informationAn agency that holds personal information shall not disclose the information to a person or body or agency unless the agency believes, on reasonable grounds,(a)that the disclosure of the information is one of the purposes in connection with which the information was obtained or is directly related to the purposes in connection with which the information was obtained; or(b)that the source of the information is a publicly available publication; or(c)that the disclosure is to the individual concerned; or(d)that the disclosure is authorised by the individual concerned; or(e)that non-compliance is necessary(i)to avoid prejudice to the maintenance of the law by any public sector agency, including the prevention, detection, investigation, prosecution, and punishment of offences; or(ii)for the enforcement of a law imposing a pecuniary penalty; or(iii)for the protection of the public revenue; or(iv)for the conduct of proceedings before any court or tribunal (being proceedings that have been commenced or are reasonably in contemplation); or(f)that the disclosure of the information is necessary to prevent or lessen a serious and imminent threat to(i)public health or public safety; or(ii)the life or health of the individual concerned or another individual; or(g)that the disclosure of the information is necessary to facilitate the sale or other disposition of a business as a going concern; or(h)that the information(i)is to be used in a form in which the individual concerned is not identified; or(ii)is to be used for statistical or research purposes and will not be published in a form that could reasonably be expected to identify the individual concerned; or(i)that the disclosure of the information is in accordance with an authority granted under section 54.Principle 12Unique identifiers(1)An agency shall not assign a unique identifier to an individual unless the assignment of that identifier is necessary to enable the agency to carry out any 1or more of its functions efficiently.(2)An agency shall not assign to an individual a unique identifier that, to that agency's knowledge, has been assigned to that individual by another agency, unless those 2 agencies are associated persons within the meaning of subpart YB of the Income Tax Act 2007.(3)An agency that assigns unique identifiers to individuals shall take all reasonable steps to ensure that unique identifiers are assigned only to individuals whose identity is clearly established.(4)An agency shall not require an individual to disclose any unique identifier assigned to that individual unless the disclosure is for one of the purposes in connection with which that unique identifier was assigned or for a purpose that is directly related to one of those purposes.
 
 7 Savings
 
@@ -233,11 +233,11 @@ b regulates the manner in which personal information may be obtained or made ava
 
 a that is contained in any regulations within the meaning of the Regulations (Disallowance) Act 1989 made by Order in Council and in force
 
-i in so far as those principles apply to a department, a Minister, an organisation, or a public sector agency (as defined in paragraph (b) of the definition of that term in section 2(1)) that is established for the purposes of assisting or advising, or performing functions connected with, a department, a Minister, or an organisation, immediately before 1 July 1983; and
+i in so far as those principles apply to a department, a Minister, an organisation, or a public sector agency (as defined in paragraph (b) of the definition of that term in section 2(1)) that is established for the purposes of assisting or advising, or performing functions connected with, a department, a Minister, or an organisation, immediately before 1July 1983; and
 
 ii in so far as those principles apply to a local authority or a public sector agency (as so defined) that is established for the purposes of assisting or advising, or performing functions connected with, a local authority, immediately before 1March 1988; and
 
-iii in so far as those principles apply to any other agency, immediately before 1 July 1993; and
+iii in so far as those principles apply to any other agency, immediately before 1July 1993; and
 
 b that
 
@@ -259,7 +259,7 @@ ii regulates the manner in which personal information may be obtained or made av
 
 3 Principle 10 applies only in relation to information obtained after the commencement of this section.
 
-4 Nothing in principle 3 shall apply in relation to the collection, by means of any printed form, of any personal information, if the form was printed before the commencement of this section and is used, before 1 July 1995, for the purpose of collecting personal information.
+4 Nothing in principle 3 shall apply in relation to the collection, by means of any printed form, of any personal information, if the form was printed before the commencement of this section and is used, before 1July 1995, for the purpose of collecting personal information.
 
 5 Subclauses (1) to (3) of principle 12 apply only in relation to the assignment of unique identifiers after the commencement of this section.
 
@@ -267,7 +267,7 @@ ii regulates the manner in which personal information may be obtained or made av
 
 9 Postponement of application of principle 11 to lists used for direct marketing
 
-1 Nothing in principle 11 shall apply, before 1 July 1996, in relation to the disclosure, by any agency, of personal information collected before 1 July 1993 for direct marketing purposes, where that disclosure is made to another agency for the purpose of enabling that other agency to engage in direct marketing.
+1 Nothing in principle 11 shall apply, before 1July 1996, in relation to the disclosure, by any agency, of personal information collected before 1July 1993 for direct marketing purposes, where that disclosure is made to another agency for the purpose of enabling that other agency to engage in direct marketing.
 
 2 For the purposes of subsection (1), *direct marketing*  means
 
@@ -622,7 +622,7 @@ a a request made pursuant to subclause (1)(a) of principle6 to obtain confirmati
 
 b a request made pursuant to subclause (1)(b) of principle6 to be given access to personal information:
 
-c a request made pursuant to subclause (1) of principle 7 for correction of personal information.
+c a request made pursuant to subclause (1) of principle7 for correction of personal information.
 
 34 Individuals may make information privacy requests
 An information privacy request may be made only by an individual.
@@ -884,7 +884,7 @@ b any code of practice so issued shall have effect under section 53 as if princi
 
 3 An application may be made pursuant to subsection (2) only
 
-a by a body the purpose of which, or 1of the purposes of which, is to represent the interests of any class or classes of agency, or of any industry, profession, or calling; and
+a by a body the purpose of which, or one of the purposes of which, is to represent the interests of any class or classes of agency, or of any industry, profession, or calling; and
 
 b where the code of practice sought by the applicant is intended to apply in respect of the class or classes of agency, or the industry, profession, or calling, that the applicant represents, or any activity of any such class or classes of agency or of any such industry, profession, or calling.
 
@@ -1008,7 +1008,7 @@ b a document specified in Part 2 of Schedule 2
 
 *public register privacy principle*  means any of the principles set out in section 59
 
-*public register provision*  means a provision specified in the second column of Part 1 of Schedule 2 as a public register provision of an enactment specified in the first column of that part of that schedule.
+*public register provision*  means a provision specified in the second column of Part 1 of Schedule 2 as a public register provision of an enactment specified in the first column of that Part.
 
 59 Public register privacy principles
 The public register privacy principles are as follows:Public register privacy principlesPrinciple 1Search referencesPersonal information shall be made available from a public register only by search references that are consistent with the manner in which the register is indexed or organised.Principle 2Use of information from public registersPersonal information obtained from a public register shall not be re-sorted, or combined with personal information obtained from any other public register, for the purpose of making available for valuable consideration personal information assembled in a form in which that personal information could not be obtained directly from the register.Principle 3Electronic transmission of personal information from registerPersonal information in a public register shall not be made available by means of electronic transmission, unless the purpose of the transmission is to make the information available to a member of the public who wishes to search the register.Principle 4Charging for access to public registerPersonal information shall be made available from a public register for no charge or for no more than a reasonable charge.
@@ -1288,9 +1288,9 @@ c in any case to which section 74 or subsection (1) applies, it appears that the
 
 2 A determination of the Commissioner under subsection (1) shall be final and binding on the person who made the request and on the agency concerned, and, notwithstanding anything in section 82 or section 83, no proceedings may be brought before the Tribunal under either of those sections in respect of any action of any agency in so far as that action is the subject of a determination made by the Commissioner under subsection (1).
 
-79 Breaches of certain principles occurring before 1 July 1996
+79 Breaches of certain principles occurring before 1July 1996
 
-1 This section applies to any interference with the privacy of an individual involving a breach of any of principles 1, 2, 3, 4, 8, 9, 10, and 11, in any case where the action that constitutes the breach occurs before 1 July 1996.
+1 This section applies to any interference with the privacy of an individual involving a breach of any of principles 1, 2, 3, 4, 8, 9, 10, and 11, in any case where the action that constitutes the breach occurs before 1July 1996.
 
 2 Notwithstanding anything in this Part, but subject to subsection (3), where
 
@@ -1377,7 +1377,7 @@ e such other relief as the Tribunal thinks fit.
 
 4 It shall not be a defence to proceedings under section 82 or section 83 that the interference was unintentional or without negligence on the part of the defendant, but the Tribunal shall take the conduct of the defendant into account in deciding what, if any, remedy to grant.
 
-86 Right of Proceedings Commissioner to appear in proceedings
+86 Right of Director of Human Rights Proceedings to appear in proceedings
 
 1 Whether or not the Director of Human Rights Proceedings is or was a party to the proceedings before the Human Rights Review Tribunal, the Director may appear and be heard, in person or by counsel,
 
@@ -1600,7 +1600,7 @@ g to make a deportation order in relation to the individual, to serve the indivi
 
 *information matching provision*  means any provision specified in the second column of Schedule 3 as an information matching provision of an enactment specified in the first column of that schedule
 
-*information matching rules*  means the rules for the time being set out in Schedule 4 
+*information matching rules*  means the rules for the time being set out in Schedule 4
 
 *monetary payment*  includes
 
@@ -1608,15 +1608,15 @@ a a benefit within the meaning of section 3(1) of the Social Security Act 1964:
 
 b a lump sum payable under section 61DB or section61DC or section 61DD of that Act:
 
-c any special assistance granted out of the Crown Bank Account from money appropriated by Parliament under section 124(1)(d) or (da) of that Act:
+c any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)(d) or (da) of that Act:
 
-d any monetary entitlement payable under Part 4, Part 10, or Part 11 of the Injury Prevention, Rehabilitation, and Compensation Act 2001
+d any monetary entitlement payable under Part 4, Part 10, or Part 11 of the Accident Compensation Act 2001
 
 *specified agency*  means any of the following agencies:
 
 a the Accident Compensation Corporation:
 
-aa the Regulator, as defined by Part 10 of the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+aa the Regulator, as defined by Part 10 of the Accident Compensation Act 2001:
 
 b the Chief Registrar of Electors:
 
@@ -1726,7 +1726,7 @@ c for any other reason,the agency cannot reasonably be required to meet the time
 
 103 Notice of adverse action proposed
 
-1 Subject to subsections (1A) to (2A) of this section and to section180C(1) of the Corrections Act 2004, a specified agency shall not take adverse action against any individual on the basis (whether wholly or in part) of a discrepancy produced by an authorised information matching programme
+1 Subject to subsections (1A) to (2A) and to section180C(1) of the Corrections Act 2004, a specified agency shall not take adverse action against any individual on the basis (whether wholly or in part) of a discrepancy produced by an authorised information matching programme
 
 a unless that agency has given that individual written notice
 
@@ -1734,7 +1734,7 @@ i specifying particulars of the discrepancy and of the adverse action that it pr
 
 ii stating that the individual has 5 working days from the receipt of the notice in which to show cause why the action should not be taken; and
 
-b Until the expiration of those 5 working days.
+b until the expiration of those 5 working days.
 
 1A Nothing in subsection (1) shall prevent the department for the time being responsible for the administration of the Social Security Act 1964 from immediately suspending a sickness, training, unemployment, independent youth, or emergency benefit, or a job search allowance, paid to an individual where the discrepancy arises in respect of departure information supplied to that department pursuant to section 280 of the Customs and Excise Act 1996, and where, before or immediately after the decision to suspend, the department gives the individual written notice
 
@@ -1850,11 +1850,11 @@ d the details of each approval given, during that year, under clause 3 of Schedu
 
 106 Review of statutory authorities for information matching
 
-1 As soon as practicable after 1 January 1994, and then at intervals of not more than 5 years, the Commissioner shall
+1 As soon as practicable after 1January 1994, and then at intervals of not more than 5 years, the Commissioner shall
 
 a review the operation of every information matching provision since
 
-i 19 December 1991 (in the case of the first review carried out under this paragraph); or
+i 19December 1991 (in the case of the first review carried out under this paragraph); or
 
 ii the date of the last review carried out under this paragraph (in the case of every subsequent review); and
 
@@ -1872,7 +1872,7 @@ c report the Commissioner's findings to the responsible Minister.
 
 1 For the purposes of this Part, the Governor-General may from time to time, by Order in Council, make such amendments to Schedule 4 as the Governor-General thinks fit.
 
-2 The power conferred by subsection (1) includes the power to revoke Schedule 4  and substitute a new schedule.
+2 The power conferred by subsection (1) includes the power to revoke Schedule 4 and substitute a new schedule.
 
 3 No order that amends Schedule 4 shall be made otherwise than in accordance with the recommendations of the Commissioner.
 
@@ -1893,9 +1893,9 @@ Notwithstanding anything in the Official Information Act 1982 or the Local Gover
 110 Interpretation
 In this Part, unless the context otherwise requires,
 
-*accessing agency*  means any public sector agency for the time being specified in Schedule 5  as an agency to which law enforcement information held by a holder agency is available
+*accessing agency*  means any public sector agency for the time being specified in Schedule 5 as an agency to which law enforcement information held by a holder agency is available
 
-*holder agency*  means any public sector agency for the time being specified in Schedule 5  as an agency the records of which are available to an accessing agency or agencies
+*holder agency*  means any public sector agency for the time being specified in Schedule 5 as an agency the records of which are available to an accessing agency or agencies
 
 *law enforcement information*  means any information that
 
@@ -1921,9 +1921,9 @@ An accessing agency may have access to law enforcement information held by a hol
 113 Amendment of Schedule 5
 
 114 Expiry of power to amend Schedule 5 by Order in Council
-Section 113 shall expire on 1 July 1997, but the expiration of that section shall not affect the validity of any Order in Council that has been made under that section and that is in force immediately before that date.
+Section 113 shall expire on 1July 1997, but the expiration of that section shall not affect the validity of any Order in Council that has been made under that section and that is in force immediately before that date.
 
- 11A Transfer of personal information outside New Zealand
+11A Transfer of personal information outside New Zealand
 
 114A Interpretation
 In this Part, unless the context otherwise requires,
@@ -1940,7 +1940,7 @@ In this Part, unless the context otherwise requires,
 
 a the information has been, or will be, received in New Zealand from another State and is likely to be transferred to a third State where it will not be subject to a law providing comparable safeguards to this Act; and
 
-b the transfer would be likely to lead to a contravention of  the basic principles of national application set out in Part Two of the OECD Guidelines and set out in Schedule 5A.
+b the transfer would be likely to lead to a contravention of the basic principles of national application set out in Part Two of the OECD Guidelines and set out in Schedule 5A.
 
 2 In determining whether to prohibit a transfer of personal information, the Commissioner must also consider, in addition to the matters set out in subsection (1) and section 14, the following:
 
@@ -2080,7 +2080,7 @@ b no proceedings, civil or criminal, in respect of any publication involved in, 
 
 2 Notwithstanding anything in subsection (1), the Commissioner may disclose such matters as in the Commissioner's opinion ought to be disclosed for the purposes of giving effect to this Act.
 
-3 Except where it is necessary to do so for the purposes of referring a matter to the Director of Human Rights Proceedings pursuant to section 77(2) of this section, the power conferred by subsection (2) of this section shall not extend to
+3 Except where it is necessary to do so for the purposes of referring a matter to the Director of Human Rights Proceedings pursuant to section 77(2), the power conferred by subsection (2) of this section shall not extend to
 
 a any matter that might prejudice
 
@@ -2229,7 +2229,7 @@ b repeal Schedule 5A, and substitute a new schedule setting out, in an up-to-dat
 
 130 Final report of Wanganui Computer Centre Privacy Commissioner
 
-1 As soon as reasonably practicable after 1 July 1993, the State Services Commissioner shall arrange for a final report of the Wanganui Computer Centre Privacy Commissioner to be sent to the Minister of State Services showing the Wanganui Computer Centre Privacy Commissioner's operations for the financial period ending with the close of 30 June 1993, and shall attach to the report a copy of the Wanganui Computer Centre Privacy Commissioner's accounts for that period certified by the Auditor-General.
+1 As soon as reasonably practicable after 1July 1993, the State Services Commissioner shall arrange for a final report of the Wanganui Computer Centre Privacy Commissioner to be sent to the Minister of State Services showing the Wanganui Computer Centre Privacy Commissioner's operations for the financial period ending with the close of 30June 1993, and shall attach to the report a copy of the Wanganui Computer Centre Privacy Commissioner's accounts for that period certified by the Auditor-General.
 
 2 A copy of the report and accounts shall be laid before the House of Representatives as soon as practicable after their receipt by the Minister of State Services.
 
