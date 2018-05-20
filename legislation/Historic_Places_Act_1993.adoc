@@ -4,78 +4,74 @@
 
 1 This Act may be cited as the Historic Places Act 1993.
 
-2 This Act shall come into force on the 1st day of July 1993.
+2 This Act shall come into force on 1July 1993.
 
 2 Interpretation
 In this Act, unless the context otherwise requires,
 
-*Archaeological site* means any place in New Zealand that
+*archaeological site* means any place in New Zealand that
 
-a Either
+a either
 
-i Was associated with human activity that occurred before 1900; or
+i was associated with human activity that occurred before 1900; or
 
-ii Is the site of the wreck of any vessel where that wreck occurred before 1900; and
+ii is the site of the wreck of any vessel where that wreck occurred before 1900; and
 
-b Is or may be able through investigation by archaeological methods to provide evidence relating to the history of New Zealand:
+b is or may be able through investigation by archaeological methods to provide evidence relating to the history of New Zealand
 
-*Board* means the New Zealand Historic Places Board of Trustees continued by section 40 of this Act
+*Board* means the New Zealand Historic Places Board of Trustees continued by section 40
 
 *chief executive* means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
 
-*Conservation* includes the processes of preserving, maintaining, and restoring historic places and historic areas so as to safeguard their historical and cultural values
+*conservation* includes the processes of preserving, maintaining, and restoring historic places and historic areas so as to safeguard their historical and cultural values
 
-*Council* means the Maori Heritage Council established by section 84(1) of this Act
-
-*Director-General*
+*Council* means the Maori Heritage Council established by section 84(1)
 
 *Environment Court* means the Environment Court continued by section 247 of the Resource Management Act 1991
 
-*financial year* means the 12 months ending on the close of 30 June or any other date determined for the Trust by the Minister of Finance.
+*financial year* means the 12months ending on the close of 30June or any other date determined for the Trust by the Minister of Finance
 
-*Heritage order* has the same meaning as in the Resource Management Act 1991
+*heritage order* has the same meaning as in the Resource Management Act 1991
 
-*Historic area* means an area of land that
+*historic area* means an area of land that
 
-a Contains an inter-related group of historic places; and
+a contains an interrelated group of historic places; and
 
-b Forms part of the historical and cultural heritage of New Zealand; and
+b forms part of the historical and cultural heritage of New Zealand; and
 
-c Lies within the territorial limits of New Zealand:
+c lies within the territorial limits of New Zealand
 
-*Historic place*
+*historic place*
 
-a Means
+a means
 
-i Any land (including an archaeological site); or
+i any land (including an archaeological site); or
 
-ii Any building or structure (including part of a building or structure); or
+ii any building or structure (including part of a building or structure); or
 
-iii Any combination of land and a building or structure; or
+iii any combination of land and a building or structure; or
 
 iv any combination of land, buildings or structures, and associated buildings or structures (including any part of those buildings or structures, or associated buildings or structures)that forms a place that is part of the historical and cultural heritage of New Zealand and lies within the territorial limits of New Zealand; and
 
-b Includes anything that is in or fixed to such land:
+b includes anything that is in or fixed to such land
 
-*Holder of an authority* means the person to whom an authority is granted under section 14 of this Act; and *holder* has a corresponding meaning
+*holder of an authority* means the person to whom an authority is granted under section 14; and *holder* has a corresponding meaning
 
-*Land* includes land covered by water and the air space above land
+*land* includes land covered by water and the air space above land
 
-*Local authority* means a regional council or territorial authority
+*local authority* means a regional council or territorial authority
 
-*Maori Heritage Council* means the Maori Heritage Council established by section 84 of this Act
+*Maori Heritage Council* means the Maori Heritage Council established by section 84
 
 *Minister* means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
 
 *occupier* means the inhabitant occupier of any property
 
-*Planning tribunal*
+*public notice* means a notice published in
 
-*Public notice* means a notice published in
+a 1 or more daily newspapers circulating in the region or district in which the historic place, historic area, wahi tapu, or wahi tapu area concerned is situated; or
 
-a One or more daily newspapers circulating in the region or district in which the historic place, historic area, wahi tapu, or wahi tapu area concerned is situated; or
-
-b One or more other newspapers that have at least an equivalent circulation in that region or district to the daily newspapers circulating in that region or district,together with such other public notice (if any) as the Trust thinks desirable in the circumstances; and *publicly notify* and *public notification* have corresponding meanings
+b 1 or more other newspapers that have at least an equivalent circulation in that region or district to the daily newspapers circulating in that region or district,together with such other public notice (if any) as the Trust thinks desirable in the circumstances; and *publicly notify* and *public notification* have corresponding meanings
 
 *regional council*
 
@@ -83,27 +79,27 @@ a means a regional council within the meaning of the Local Government Act 2002; 
 
 b 
 
-*Register* means the register established under section 22 of this Act
+*register* means the register established under section 22
 
-*Registered interest* means any registered estate or interest in land under the Land Transfer Act 1952; and includes any mortgage or charge registered under that Act
+*registered interest* means any registered estate or interest in land under the Land Transfer Act 1952; and includes any mortgage or charge registered under that Act
 
-*Registered place* means a place registered under Part 2 of this Act
+*registered place* means a place registered under Part 2
 
-*Statutory acknowledgement* means a statutory acknowledgement within the meaning of an Act specified in Schedule 11 of the Resource Management Act 1991
+*statutory acknowledgement* means a statutory acknowledgement within the meaning of an Act specified in Schedule 11 of the Resource Management Act 1991
 
 *territorial authority* means a territorial authority within the meaning of the Local Government Act 2002
 
-*Trust* means the New Zealand Historic Places Trust continued by section 38 of this Act
+*Trust* means the New Zealand Historic Places Trust continued by section 38
 
-*Wahi tapu* means a place sacred to Maori in the traditional, spiritual, religious, ritual, or mythological sense
+*wahi tapu* means a place sacred to Maori in the traditional, spiritual, religious, ritual, or mythological sense
 
-*Wahi tapu area* means an area of land that contains one or more wahi tapu
+*wahi tapu area* means an area of land that contains 1 or more wahi tapu
 
-*Working day* means any day except
+*working day* means any day except
 
-a A Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+a a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
 
-b A day in the period commencing with the 20th day of December in any year and ending with the 10th day of January in the following year.
+b a day in the period commencing with 20December in any year and ending with 10January in the following year.
 
 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -114,19 +110,19 @@ This Act shall bind the Crown.
 
 2 In achieving the purpose of this Act, all persons exercising functions and powers under it shall recognise
 
-a The principle that historic places have lasting value in their own right and provide evidence of the origins of New Zealand's distinct society; and
+a the principle that historic places have lasting value in their own right and provide evidence of the origins of New Zealand's distinct society; and
 
-b The principle that the identification, protection, preservation, and conservation of New Zealand's historical and cultural heritage should
+b the principle that the identification, protection, preservation, and conservation of New Zealand's historical and cultural heritage should
 
-i Take account of all relevant cultural values, knowledge, and disciplines; and
+i take account of all relevant cultural values, knowledge, and disciplines; and
 
-ii Take account of material of cultural heritage value and involve the least possible alteration or loss of it; and
+ii take account of material of cultural heritage value and involve the least possible alteration or loss of it; and
 
-iii Safeguard the options of present and future generations; and
+iii safeguard the options of present and future generations; and
 
-iv Be fully researched, documented, and recorded, where culturally appropriate; and
+iv be fully researched, documented, and recorded, where culturally appropriate; and
 
-c The relationship of Maori and their culture and traditions with their ancestral lands, water, sites, wahi tapu, and other taonga.
+c the relationship of Maori and their culture and traditions with their ancestral lands, water, sites, wahi tapu, and other taonga.
 
 1 Protection of historic places
 
@@ -135,35 +131,35 @@ c The relationship of Maori and their culture and traditions with their ancestra
 5 Heritage orders
 Without limiting any of the provisions of the Resource Management Act 1991, the Trust or the Minister may give notice to the relevant territorial authority of a requirement for a heritage order in accordance with that Act to protect
 
-a The whole or part of any historic place, historic area, wahi tapu, or wahi tapu area; and
+a the whole or part of any historic place, historic area, wahi tapu, or wahi tapu area; and
 
-b Such area of land (if any) surrounding that historic place, historic area, wahi tapu, or wahi tapu area as is reasonably necessary for the purpose of ensuring the protection and reasonable enjoyment of it.
+b such area of land (if any) surrounding that historic place, historic area, wahi tapu, or wahi tapu area as is reasonably necessary for the purpose of ensuring the protection and reasonable enjoyment of it.
 
 
 
 6 Heritage covenants
 
-1 Subject to subsection (5) of this section, the Trust may negotiate and agree with the owner or lessee or licensee of any historic place, historic area, wahi tapu, or wahi tapu area for the execution of a heritage covenant to provide for the protection, conservation, and maintenance of that place, area, or wahi tapu.
+1 Subject to subsection (5), the Trust may negotiate and agree with the owner or lessee or licensee of any historic place, historic area, wahi tapu, or wahi tapu area for the execution of a heritage covenant to provide for the protection, conservation, and maintenance of that place, area, or wahi tapu.
 
-2 Subject to subsection (5) of this section, a heritage covenant may include such terms and conditions as the parties think fit, including provision for public access.
+2 Subject to subsection (5), a heritage covenant may include such terms and conditions as the parties think fit, including provision for public access.
 
-3 Without limiting subsection (2) of this section, a heritage covenant may be expressed to have effect in perpetuity or for any specified term, or may be expressed to terminate upon the happening of a specific event or events.
+3 Without limiting subsection (2), a heritage covenant may be expressed to have effect in perpetuity or for any specified term, or may be expressed to terminate upon the happening of a specific event or events.
 
-4 Subject to subsection (5) of this section, any heritage covenant may be varied or cancelled by agreement between the owner, lessee, or licensee (as the case may be) of the land for the time being and the Trust.
+4 Subject to subsection (5), any heritage covenant may be varied or cancelled by agreement between the owner, lessee, or licensee (as the case may be) of the land for the time being and the Trust.
 
 5 The consent of the owner of the land shall be required where
 
-a Any lessee or licensee of any land proposes to enter into a heritage covenant with the Trust; or
+a any lessee or licensee of any land proposes to enter into a heritage covenant with the Trust; or
 
-b Any lessee or licensee of any land and the Trust propose to vary or cancel a heritage covenant under subsection (4) of this section.
+b any lessee or licensee of any land and the Trust propose to vary or cancel a heritage covenant under subsection(4).
 
-6 In the case of the proposed execution of a heritage covenant or a variation of such a covenant, any consent given under subsection (5) of this section may be given subject to the inclusion in the heritage covenant or variation of the heritage covenant of any additional provisions or modified provisions, or to the deletion of such provisions, as the owner giving the consent considers necessary.
+6 In the case of the proposed execution of a heritage covenant or a variation of such a covenant, any consent given under subsection (5) may be given subject to the inclusion in the heritage covenant or variation of the heritage covenant of any additional provisions or modified provisions, or to the deletion of such provisions, as the owner giving the consent considers necessary.
 
-7 For the purposes of this section and section 8 of this Act,
+7 For the purposes of this section and section 8,
 
-a The term *owner* includes the owner of the fee simple and any lessee or licensee from whom a lessee or licensee derives title; and
+a the term *owner* includes the owner of the fee simple and any lessee or licensee from whom a lessee or licensee derives title; and
 
-b The term *land* means the land to which the heritage covenant relates; and includes, in the case of a building or structure that is the subject or intended subject of a heritage covenant, the land on which that building or structure is located.
+b the term *land* means the land to which the heritage covenant relates; and includes, in the case of a building or structure that is the subject or intended subject of a heritage covenant, the land on which that building or structure is located.
 
 8 Nothing in this Act shall require the Trust to negotiate or agree with any person to enter into or execute any heritage covenant.
 
@@ -175,19 +171,19 @@ b The term *land* means the land to which the heritage covenant relates; and inc
 
 2 For the avoidance of doubt, it is hereby declared that
 
-a The execution of a heritage covenant in respect of a historic place, historic area, wahi tapu, or wahi tapu area shall not prevent the Trust from exercising any powers in the Resource Management Act 1991 or in this Act, in relation to that place, area, or wahi tapu; and
+a the execution of a heritage covenant in respect of a historic place, historic area, wahi tapu, or wahi tapu area shall not prevent the Trust from exercising any powers in the Resource Management Act 1991 or in this Act, in relation to that place, area, or wahi tapu; and
 
-b Nothing in any heritage covenant shall permit or allow any person to carry out any act contrary to the provisions of this Act.
+b nothing in any heritage covenant shall permit or allow any person to carry out any act contrary to the provisions of this Act.
 
 8 District Land Registrar to register heritage covenants
 
 1 Every heritage covenant
 
-a Shall be deemed to be an instrument creating an interest in the land within the meaning of section 62 of the Land Transfer Act 1952 and may be registered accordingly; and
+a shall be deemed to be an instrument creating an interest in the land within the meaning of section 62 of the Land Transfer Act 1952 and may be registered accordingly; and
 
-b Shall be deemed to be a covenant running with the land when registered under the Land Transfer Act 1952 and shall bind all subsequent owners of the land.
+b shall be deemed to be a covenant running with the land when registered under the Land Transfer Act 1952 and shall bind all subsequent owners of the land.
 
-2 Where a heritage covenant has been registered under the Land Transfer Act 1952 and any provision in that covenant has been varied or cancelled by any agreement under section 6(4) of this Act or has expired, the District Land Registrar shall, if he or she is satisfied that any provision in that covenant has been so varied or cancelled or has expired, make an entry in the register and on any relevant instrument of title noting that the heritage covenant has been varied or cancelled or has expired, and the provisions of the heritage covenant shall take effect as so varied or cease to have any effect, as the case may be.
+2 Where a heritage covenant has been registered under the Land Transfer Act 1952 and any provision in that covenant has been varied or cancelled by any agreement under section 6(4) or has expired, the District Land Registrar shall, if he or she is satisfied that any provision in that covenant has been so varied or cancelled or has expired, make an entry in the register and on any relevant instrument of title noting that the heritage covenant has been varied or cancelled or has expired, and the provisions of the heritage covenant shall take effect as so varied or cease to have any effect, as the case may be.
 
 3 Where the burden of a heritage covenant applies to land comprising part of the land in a certificate of title, the District Land Registrar may require the deposit of a plan in accordance with section 167 of the Land Transfer Act 1952.
 
@@ -195,17 +191,17 @@ b Shall be deemed to be a covenant running with the land when registered under t
 
 9 Application of sections 10 to 20
 
-1 Sections 10 to 20 of this Act shall apply to every archaeological site, whether or not the site is entered on the Register.
+1 Sections 10 to 20 shall apply to every archaeological site, whether or not the site is entered on the register.
 
-2 Sections 10 to 20 of this Act shall also apply to any site that is not referred to in paragraph (a) of the definition of the term archaeological site in section 2 of this Act but is declared by the Trust on reasonable grounds, by notice in the Gazette and by public notice, to be a site that is or may be able, through investigation by archaeological methods, to provide significant evidence relating to the historical and cultural heritage of New Zealand.
+2 Sections 10 to 20 shall also apply to any site that is not referred to in paragraph (a) of the definition of the term archaeological site in section 2 but is declared by the Trust on reasonable grounds, by notice in the Gazette and by public notice, to be a site that is or may be able, through investigation by archaeological methods, to provide significant evidence relating to the historical and cultural heritage of New Zealand.
 
-3 As soon as practicable after a declaration is notified in the Gazette under subsection (2) of this section, the Trust shall serve on the owner or occupier affected a notice in writing setting out the terms of the declaration.
+3 As soon as practicable after a declaration is notified in the Gazette under subsection (2), the Trust shall serve on the owner or occupier affected a notice in writing setting out the terms of the declaration.
 
 10 Archaeological sites not to be destroyed, damaged, or modified
 
-1 Except pursuant to an authority granted under section 14 of this Act, it shall not be lawful for any person to destroy, damage, or modify, or cause to be destroyed, damaged, or modified, the whole or any part of any archaeological site, knowing or having reasonable cause to suspect that it is an archaeological site.
+1 Except pursuant to an authority granted under section 14, it shall not be lawful for any person to destroy, damage, or modify, or cause to be destroyed, damaged, or modified, the whole or any part of any archaeological site, knowing or having reasonable cause to suspect that it is an archaeological site.
 
-2 Except as provided in section 15 or in section 18 of this Act, it shall not be lawful for any person to carry out any archaeological investigation that may destroy, damage, or modify any archaeological site.
+2 Except as provided in section 15 or in section 18, it shall not be lawful for any person to carry out any archaeological investigation that may destroy, damage, or modify any archaeological site.
 
 11 Application to destroy, damage, or modify archaeological site
 
@@ -213,19 +209,19 @@ b Shall be deemed to be a covenant running with the land when registered under t
 
 2 An application for an authority to destroy, damage, or modify an archaeological site shall include the following information:
 
-a A description of the activity for which the authority is sought and its location:
+a a description of the activity for which the authority is sought and its location:
 
-b A description of the archaeological site over which authority is sought to modify:
+b a description of the archaeological site over which authority is sought to modify:
 
-c An assessment of any archaeological, Maori, or other relevant values and the effect of the proposal on those values:
+c an assessment of any archaeological, Maori, or other relevant values and the effect of the proposal on those values:
 
-d A statement as to whether consultation with tangata whenua and any other person likely to be affected
+d a statement as to whether consultation with tangata whenua and any other person likely to be affected
 
-i Has taken place, in which case details of such consultation shall be provided, including the identity of the parties involved and the nature of the views expressed; or
+i has taken place, in which case details of such consultation shall be provided, including the identity of the parties involved and the nature of the views expressed; or
 
-ii Has not taken place, in which case reasons as to why such consultation has not taken place shall be provided:
+ii has not taken place, in which case reasons as to why such consultation has not taken place shall be provided:
 
-e The consent of the owner if the owner is not the applicant.
+e the consent of the owner if the owner is not the applicant.
 
 3 The Trust may, by written notice to the applicant, require the applicant to provide further information relating to the application.
 
@@ -233,143 +229,143 @@ e The consent of the owner if the owner is not the applicant.
 
 1 Any person wanting to destroy, damage, or modify the whole or any part of
 
-a All archaeological sites within a specified area of land; or
+a all archaeological sites within a specified area of land; or
 
-b Any class of archaeological site within a specified area of land,may, instead of making an application under section 11 of this Act, make an application under this section for the grant of a general authority under section 14 of this Act.
+b any class of archaeological site within a specified area of land,may, instead of making an application under section 11, make an application under this section for the grant of a general authority under section 14.
 
-2 Subsection (1) of this section applies notwithstanding that some or all of the sites or possible sites within the specified area of land have not been recorded or otherwise previously identified.
+2 Subsection (1) applies notwithstanding that some or all of the sites or possible sites within the specified area of land have not been recorded or otherwise previously identified.
 
-3 Sections 11(2), 11(3), and 14 of this Act shall apply with the necessary modifications to an application for a general authority made under subsection (1) of this section.
+3 Sections 11(2), 11(3), and 14 shall apply with the necessary modifications to an application for a general authority made under subsection (1).
 
 13 Investigation where no authority application lodged
-Where the Trust has reasonable cause to believe that work that will destroy, damage, or modify any archaeological site will proceed and where no application for an authority has been made under section 11 or section 12 of this Act, the Trust may
+Where the Trust has reasonable cause to believe that work that will destroy, damage, or modify any archaeological site will proceed and where no application for an authority has been made under section 11 or section 12, the Trust may
 
-a Carry out an investigation for the purpose of obtaining information on whether or not an archaeological site exists and whether an authority is necessary; and
+a carry out an investigation for the purpose of obtaining information on whether or not an archaeological site exists and whether an authority is necessary; and
 
-b Recover an amount not exceeding the cost of such investigation from the owner or occupier of the land on which there is believed to be an archaeological site or from any person carrying out the work.
+b recover an amount not exceeding the cost of such investigation from the owner or occupier of the land on which there is believed to be an archaeological site or from any person carrying out the work.
 
 14 Powers of Trust in relation to authority application
 
-1 On receipt of an application for an authority to destroy, damage, or modify any archaeological site or sites under section 11 or section 12 of this Act, the Trust may, subject to subsection (3) of this section, exercise one or more of the following powers:
+1 On receipt of an application for an authority to destroy, damage, or modify any archaeological site or sites under section 11 or section 12, the Trust may, subject to subsection (3), exercise 1 or more of the following powers:
 
-a Grant an authority in whole or in part, subject to such conditions as it sees fit:
+a grant an authority in whole or in part, subject to such conditions as it sees fit:
 
-b Decline to grant an authority in whole or in part:
+b decline to grant an authority in whole or in part:
 
-c Exercise all or any of the powers specified in any of sections 5, 16, 17, 18, and 21 of this Act.
+c exercise all or any of the powers specified in any of sections 5, 16, 17, 18, and 21.
 
-2 Where an application is made for a general authority, under section 12 of this Act, the Trust shall grant that application only if it is satisfied on reasonable grounds that there is no particular benefit to justify the likely cost of locating and identifying
+2 Where an application is made for a general authority, under section 12, the Trust shall grant that application only if it is satisfied on reasonable grounds that there is no particular benefit to justify the likely cost of locating and identifying
 
-a Every individual site present within the specified area of land; or
+a every individual site present within the specified area of land; or
 
-b Every individual site of the class to which the application relates that is present within that area.
+b every individual site of the class to which the application relates that is present within that area.
 
-3 Where an application made under subsection (2) of this section relates to a site or sites that the Trust considers to be a site of Maori interest, the Trust shall refer that application to the Maori Heritage Council to make such recommendations as the Council may consider appropriate, following such consultation as the Council considers appropriate.
+3 Where an application made under subsection (2) relates to a site or sites that the Trust considers to be a site of Maori interest, the Trust shall refer that application to the Maori Heritage Council to make such recommendations as the Council may consider appropriate, following such consultation as the Council considers appropriate.
 
 3A In exercising a power under any of subsections (1) to (3), the Trust must have regard (in accordance with the provisions of the relevant Act) to a statutory acknowledgement that relates to the site or sites concerned.
 
-4 The Trust shall make its decision within 3 months after an application in respect of a site is lodged with the Trust under section 11 or section 12 of this Act, unless the Trust, by written notice to the applicant, requires the applicant to provide further information relating to the application.
+4 The Trust shall make its decision within 3 months after an application in respect of a site is lodged with the Trust under section 11 or section 12, unless the Trust, by written notice to the applicant, requires the applicant to provide further information relating to the application.
 
-5 Subject to subsections (6) and (7) of this section or where the Trust requires further information under subsection (4) of this section, the Trust may extend the time period specified in subsection (4) of this section.
+5 Subject to subsections (6) and (7) or where the Trust requires further information under subsection (4), the Trust may extend the time period specified in subsection (4).
 
-6 When exercising its power under subsection (5) of this section, the Trust shall have regard to
+6 When exercising its power under subsection (5), the Trust shall have regard to
 
-a The interests of any person who, in its opinion, may be directly affected by the extension; and
+a the interests of any person who, in its opinion, may be directly affected by the extension; and
 
-b The necessity to achieve adequate assessment of the application.
+b the necessity to achieve adequate assessment of the application.
 
-7 The extension of a time period under subsection (5) of this section shall not have the effect of more than doubling the maximum time period specified in subsection (4) of this section.
+7 The extension of a time period under subsection (5) shall not have the effect of more than doubling the maximum time period specified in subsection (4).
 
-8 If the Trust extends the time period specified under subsection (4) of this section, it shall without delay notify every person who, in its opinion, is directly affected by the extension of the time period of
+8 If the Trust extends the time period specified under subsection (4), it shall without delay notify every person who, in its opinion, is directly affected by the extension of the time period of
 
-a The reasons for the decision; and
+a the reasons for the decision; and
 
-b The new time limit within which any action must be completed.
+b the new time limit within which any action must be completed.
 
-9 The Trust shall advise the appropriate local authority of any decision made under subsection (1) of this section.
+9 The Trust shall advise the appropriate local authority of any decision made under subsection (1).
 
 10 An authority granted under subsection (1) lapses on the date specified in the authority, or if no date is specified, 5 years after the date of the granting of the authority.
 
 15 Conditions of authority
 
-1 Without limiting the powers of the Trust to impose conditions when granting an authority under section 14(1) of this Act, the Trust, if satisfied on reasonable grounds that an archaeological investigation in that case is likely to provide significant information as to the historical and cultural heritage of New Zealand, may grant an authority to destroy, damage, or modify a site or sites subject to a condition requiring that an archaeological investigation of the site be carried out by or on behalf of the Trust.
+1 Without limiting the powers of the Trust to impose conditions when granting an authority under section 14(1), the Trust, if satisfied on reasonable grounds that an archaeological investigation in that case is likely to provide significant information as to the historical and cultural heritage of New Zealand, may grant an authority to destroy, damage, or modify a site or sites subject to a condition requiring that an archaeological investigation of the site be carried out by or on behalf of the Trust.
 
-2 Where the Trust has imposed a condition of a kind referred to in subsection (1) of this section, then, unless the Trust determines otherwise in any particular case, the authority shall not be exercised by the holder until the Trust has been advised in writing by that holder of the completion of the on-site archaeological investigation, and either
+2 Where the Trust has imposed a condition of a kind referred to in subsection (1), then, unless the Trust determines otherwise in any particular case, the authority shall not be exercised by the holder until the Trust has been advised in writing by that holder of the completion of the on-site archaeological investigation, and either
 
-a Twenty working days have elapsed after receipt of that advice; or
+a 20 working days have elapsed after receipt of that advice; or
 
-b A decision made by the Trust under section 16 of this Act in respect of a review of the conditions of an authority is notified to the holder of that authority within 20 working days of the receipt of that advice,whichever is the later.
+b a decision made by the Trust under section 16 in respect of a review of the conditions of an authority is notified to the holder of that authority within 20 working days of the receipt of that advice,whichever is the later.
 
-3 Notwithstanding subsection (2) of this section, where the Trust imposes a condition of a kind referred to in subsection (1) of this section, no person shall exercise any authority to destroy, damage, or modify the site unless the person has paid to the Trust an amount equal to the cost of carrying out the investigation, although in the case of hardship or other special circumstances, the Trust may, at its discretion, require this amount to be paid in instalments, reduce the amount payable, or waive payment.
+3 Notwithstanding subsection (2), where the Trust imposes a condition of a kind referred to in subsection (1), no person shall exercise any authority to destroy, damage, or modify the site unless the person has paid to the Trust an amount equal to the cost of carrying out the investigation, although in the case of hardship or other special circumstances, the Trust may, at its discretion, require this amount to be paid in instalments, reduce the amount payable, or waive payment.
 
-4 Nothing in subsection (3) of this section applies where the Trust has given its consent under section 17 of this Act to enable the holder of an authority to engage an approved person to carry out the work required for the purposes of the investigation.
+4 Nothing in subsection (3) applies where the Trust has given its consent under section 17 to enable the holder of an authority to engage an approved person to carry out the work required for the purposes of the investigation.
 
 16 Review of conditions of authority
 
-1 At any time while an authority granted under section 14 of this Act is in force,
+1 At any time while an authority granted under section 14 is in force,
 
-a The holder of an authority may apply to the Trust for the change or cancellation of any condition of the authority; or
+a the holder of an authority may apply to the Trust for the change or cancellation of any condition of the authority; or
 
-b The Trust may initiate a review of all or any of the conditions of the authority and, following that review, may change or cancel any of those conditions.
+b the Trust may initiate a review of all or any of the conditions of the authority and, following that review, may change or cancel any of those conditions.
 
-2 An application made under subsection (1)(a) of this section shall specify
+2 An application made under subsection (1)(a) shall specify
 
-a Details of the authority; and
+a details of the authority; and
 
-b The area of land involved; and
+b the area of land involved; and
 
-c The condition or conditions in respect of which a variation is sought; and
+c the condition or conditions in respect of which a variation is sought; and
 
-d The reasons for the application.
+d the reasons for the application.
 
-3 The Trust may decline to consider an application under subsection (1)(a) of this section if the application does not comply with subsection (2) of this section, in which event it shall advise the applicant.
+3 The Trust may decline to consider an application under subsection (1)(a) if the application does not comply with subsection (2), in which event it shall advise the applicant.
 
-4 On receipt of an application for review under subsection (1)(a) of this section, the Trust shall consider the application in the same manner as if it were an application for an authority and shall make a decision on the application; and the provisions of subsection (1) and subsections (6) to (10) of section 14 of this Act shall apply with the necessary modifications.
+4 On receipt of an application for review under subsection (1)(a), the Trust shall consider the application in the same manner as if it were an application for an authority and shall make a decision on the application; and the provisions of subsection (1) and subsections (6) to (10) of section 14 shall apply with the necessary modifications.
 
-5 Where the Trust initiates a review of the conditions of an authority under subsection (1)(b) of this section, the following provisions shall apply:
+5 Where the Trust initiates a review of the conditions of an authority under subsection (1)(b), the following provisions shall apply:
 
-a The Trust shall serve a notice on the holder of the authority of its intention to review all or specified conditions of the authority:
+a the Trust shall serve a notice on the holder of the authority of its intention to review all or specified conditions of the authority:
 
-b The holder of the authority may, within 20 working days after the date of service of a notice under paragraph (a) of this subsection or within such further time as may be allowed by the Trust, make written submissions concerning the review of the conditions specified in the notice:
+b the holder of the authority may, within 20 working days after the date of service of a notice under paragraph (a) or within such further time as may be allowed by the Trust, make written submissions concerning the review of the conditions specified in the notice:
 
-c The Trust shall consider any written submissions before making a decision upon the review:
+c the Trust shall consider any written submissions before making a decision upon the review:
 
-d The Trust shall make a decision on the review within 20 working days after the last date for receiving submissions.
+d the Trust shall make a decision on the review within 20 working days after the last date for receiving submissions.
 
 17 Rights and duties under authority applications
 
-1 With the prior consent in writing of the Trust, the holder of an authority granted under section 14 of this Act may engage any person approved by the Trust to carry out any work required as a condition of the authority and nothing in section 15(3) of this Act shall thereafter apply.
+1 With the prior consent in writing of the Trust, the holder of an authority granted under section 14 may engage any person approved by the Trust to carry out any work required as a condition of the authority and nothing in section 15(3) shall thereafter apply.
 
-2 The Trust may refuse consent under subsection (1) of this section if not satisfied that the person proposed by the holder of the authority to carry out the work
+2 The Trust may refuse consent under subsection (1) if not satisfied that the person proposed by the holder of the authority to carry out the work
 
-a Has sufficient access to appropriate institutional and professional resources; or
+a has sufficient access to appropriate institutional and professional resources; or
 
-b Is sufficiently skilled and competent and is in every other way capable of ensuring the proposed work is carried out satisfactorily.
+b is sufficiently skilled and competent and is in every other way capable of ensuring the proposed work is carried out satisfactorily.
 
 3 In every case, the Trust or a person approved by the Trust for the purpose shall, to the satisfaction of the Trust, compile a report on the work done and furnish a copy of it as soon as practicable to
 
-a The holder of the authority and to the owner, if that person is not the holder; and
+a the holder of the authority and to the owner, if that person is not the holder; and
 
-b The Trust, if it has not carried out the work.
+b the Trust, if it has not carried out the work.
 
 18 Investigation of archaeological sites
 
-1 For any purpose consistent with this Act, but subject to subsections (2) and (4) of this section, the Trust may
+1 For any purpose consistent with this Act, but subject to subsections (2) and (4), the Trust may
 
-a Carry out an archaeological investigation of any archaeological site:
+a carry out an archaeological investigation of any archaeological site:
 
-b Authorise in writing any person to carry out an archaeological investigation of any such site subject to such conditions as it thinks fit to impose.
+b authorise in writing any person to carry out an archaeological investigation of any such site subject to such conditions as it thinks fit to impose.
 
-2 Any person may apply to the Trust for an authority under subsection (1)(b) of this section and the Trust, in considering the application, shall take into account the purposes of the investigation, the competency of the person, and the adequacy of the institutional and professional resources available to that person to enable the investigation to be satisfactorily carried out.
+2 Any person may apply to the Trust for an authority under subsection (1)(b) and the Trust, in considering the application, shall take into account the purposes of the investigation, the competency of the person, and the adequacy of the institutional and professional resources available to that person to enable the investigation to be satisfactorily carried out.
 
 3 No archaeological investigation shall be carried out under this section except with the consent of the owner and occupier of the land on which the site is situated and, where the Maori Heritage Council considers it appropriate, with the consent of such iwi authority or other body as the Maori Heritage Council considers appropriate.
 
-4 All archaeological work done under subsection (1) of this section shall conform to accepted archaeological practice and the land shall be returned to its former state as near as possible, unless otherwise agreed with the owner.
+4 All archaeological work done under subsection (1) shall conform to accepted archaeological practice and the land shall be returned to its former state as near as possible, unless otherwise agreed with the owner.
 
-5 Nothing in this section applies to an investigation required as a condition of an authority imposed under section 15 of this Act.
+5 Nothing in this section applies to an investigation required as a condition of an authority imposed under section 15.
 
 19 Advice to chief executive
-The Trust shall, within 20 working days after granting an authority under section 14 or section 18 of this Act, give notice in writing of the authority either to the chief executive or to the nearest public museum (within the meaning of the Protected Objects Act 1975).
+The Trust shall, within 20 working days after granting an authority under section 14 or section 18, give notice in writing of the authority either to the chief executive or to the nearest public museum (within the meaning of the Protected Objects Act 1975).
 
 
 
@@ -377,49 +373,49 @@ The Trust shall, within 20 working days after granting an authority under sectio
 
 1 Any person who is directly affected by any declaration, decision, condition, or review of any decision made or imposed by the Trust under
 
-a Section 9 of this Act (which relates to the Trust's power to declare that a site is or may be able to provide significant evidence relating to the history of New Zealand); or
+a section 9 (which relates to the Trust's power to declare that a site is or may be able to provide significant evidence relating to the history of New Zealand); or
 
-b Section 13 of this Act (which relates to the Trust's power to carry out an investigation where no authority application has been lodged); or
+b section 13 (which relates to the Trust's power to carry out an investigation where no authority application has been lodged); or
 
 c section 14(1)(a), or (b), or (10) (which relates to the Trust's powers in respect of an authority application); or
 
-d Section 15 of this Act (which relates to the Trust's power to grant an authority subject to the condition that an archaeological investigation be carried out); or
+d section 15 (which relates to the Trust's power to grant an authority subject to the condition that an archaeological investigation be carried out); or
 
-e Section 16 of this Act (which relates to the Trust's power to review the conditions of an authority); or
+e section 16 (which relates to the Trust's power to review the conditions of an authority); or
 
-f Section 17 of this Act (which relates to the Trust's power to consent to the holder of an authority engaging a person to carry out work under the authority); or
+f section 17 (which relates to the Trust's power to consent to the holder of an authority engaging a person to carry out work under the authority); or
 
-g Section 18 of this Act (which relates to the Trust's powers to investigate archaeological sites)may appeal against that declaration, decision, condition, or review to the Environment Court.
+g section 18 (which relates to the Trust's powers to investigate archaeological sites)may appeal against that declaration, decision, condition, or review to the Environment Court.
 
 2 Notice of appeal under this section shall
 
-a State the reasons for the appeal and the relief sought; and
+a state the reasons for the appeal and the relief sought; and
 
-b State any matters that regulations made under the Resource Management Act 1991 require to be stated in the case of an appeal under section 120 of that Act; and
+b state any matters that regulations made under the Resource Management Act 1991 require to be stated in the case of an appeal under section 120 of that Act; and
 
-c Be lodged with the Environment Court and served on the Trust within 15 working days of receiving any decision of the Trust to which subsection (1) of this section relates.
+c be lodged with the Environment Court and served on the Trust within 15 working days of receiving any decision of the Trust to which subsection (1) relates.
 
 3 The appellant shall ensure that a copy of the notice of appeal is served on the applicant or owner concerned (where that person is not the appellant) within 5 working days of the notice being lodged with the Environment Court.
 
-4 Without limiting the powers of the Environment Court under the Resource Management Act 1991, but subject to subsection (6) of this section, in considering an appeal under this section the Environment Court may confirm or reverse a decision appealed against or modify the decision in such manner as the Environment Court thinks fit.
+4 Without limiting the powers of the court under the Resource Management Act 1991, but subject to subsection (6), in considering an appeal under this section the court may confirm or reverse a decision appealed against or modify the decision in such manner as the court thinks fit.
 
-5 Subject to subsections (2), (3), and (6) of this section, every appeal shall be made, heard, and determined by the Environment Court in the manner prescribed by the Resource Management Act 1991 and the regulations made under that Act.
+5 Subject to subsections (2), (3), and (6), every appeal shall be made, heard, and determined by the Environment Court in the manner prescribed by the Resource Management Act 1991 and the regulations made under that Act.
 
-6 In determining an appeal under this section in respect of a decision made under paragraph (a) or paragraph (b) of section 14(1) of this Act, the Environment Court shall have regard to any matter it considers appropriate, including (but not limited to)
+6 In determining an appeal under this section in respect of a decision made under paragraph (a) or paragraph (b) of section 14(1), the court shall have regard to any matter it considers appropriate, including (but not limited to)
 
-a The historical and cultural heritage value of the site and any other factors justifying the protection of the site:
+a the historical and cultural heritage value of the site and any other factors justifying the protection of the site:
 
-b The purpose and principles of this Act:
+b the purpose and principles of this Act:
 
-c The extent to which protection of the site prevents or restricts the existing or reasonable future use of the site for any lawful purpose:
+c the extent to which protection of the site prevents or restricts the existing or reasonable future use of the site for any lawful purpose:
 
-d The interests of any person directly affected by the decision of the Trust:
+d the interests of any person directly affected by the decision of the Trust:
 
-e A statutory acknowledgement that relates to the site or sites concerned.
+e a statutory acknowledgement that relates to the site or sites concerned:
 
 f the relationship of Maori and their culture and traditions with their ancestral lands, water, sites, wahi tapu, and other taonga.
 
-6A For the purposes of subsection (6)(e), if the Court has regard to a statutory acknowledgement, the Court must have regard to the statutory acknowledgement in accordance with the provisions of the relevant Act.
+6A For the purposes of subsection (6)(e), if the court has regard to a statutory acknowledgement, the court must have regard to the statutory acknowledgement in accordance with the provisions of the relevant Act.
 
 7 Nothing in this section limits or affects the powers of the Trust to issue a requirement for a heritage order.
 
@@ -441,27 +437,27 @@ c all appellants withdraw their appeals lodged under section 20(1)(c), (d), (e),
 
 1 Any employee of the Trust or any person authorised by the Trust, with such assistants as that employee or person thinks fit, may enter upon any land for the purposes of
 
-a Carrying out an investigation under section 13 of this Act to determine whether or not there is an archaeological site upon the land and whether or not an authority is necessary:
+a carrying out an investigation under section 13 to determine whether or not there is an archaeological site upon the land and whether or not an authority is necessary:
 
-b Obtaining information as to the significance of an archaeological site in order to decide whether or not to impose a condition on an authority under section 15(1) of this Act:
+b obtaining information as to the significance of an archaeological site in order to decide whether or not to impose a condition on an authority under section 15(1):
 
-c Locating, recording, or inspecting any historic place;and the owner or applicant or occupier shall not obstruct the carrying out of any investigation, locating, recording, or inspection.
+c locating, recording, or inspecting any historic place;and the owner or applicant or occupier shall not obstruct the carrying out of any investigation, locating, recording, or inspection.
 
-2 When an application is granted under section 14(1) of this Act subject to conditions of the kind referred to in section 15(1) of this Act, any employee of the Trust or any person authorised by the Trust, with such assistants as that employee or person thinks fit, may enter upon any land for the purposes of carrying out an archaeological investigation of the site, and the owner or applicant shall not obstruct the carrying out of that archaeological investigation.
+2 When an application is granted under section 14(1) subject to conditions of the kind referred to in section 15(1), any employee of the Trust or any person authorised by the Trust, with such assistants as that employee or person thinks fit, may enter upon any land for the purposes of carrying out an archaeological investigation of the site, and the owner or applicant shall not obstruct the carrying out of that archaeological investigation.
 
-3 The power conferred by subsections (1) and (2) of this section shall include a power to locate, record, or inspect any historic place and to do all things as may be reasonably necessary for such locating, recording, or inspecting, including affixing any pegs, marks, or poles.
+3 The power conferred by subsections (1) and (2) shall include a power to locate, record, or inspect any historic place and to do all things as may be reasonably necessary for such locating, recording, or inspecting, including affixing any pegs, marks, or poles.
 
-4 The power to enter upon land conferred by subsections (1) and (2) of this section shall be subject to the following conditions:
+4 The power to enter upon land conferred by subsections (1) and (2) shall be subject to the following conditions:
 
-a Entry to the land shall be made only by an employee of the Trust or person authorised by it in writing:
+a entry to the land shall be made only by an employee of the Trust or person authorised by it in writing:
 
-b Reasonable notice of the intention to enter shall be given:
+b reasonable notice of the intention to enter shall be given:
 
-c Entry shall be made at reasonable times:
+c entry shall be made at reasonable times:
 
-d The person entering shall carry with him or her, and shall produce on initial entry and subsequently if required to do so, evidence of his or her authority and identity:
+d the person entering shall carry with him or her, and shall produce on initial entry and subsequently if required to do so, evidence of his or her authority and identity:
 
-e If the owner or occupier is not present at the time of entry, the person exercising the power of entry shall leave a notice of the entry in a place where it can easily be seen by the occupier.
+e if the owner or occupier is not present at the time of entry, the person exercising the power of entry shall leave a notice of the entry in a place where it can easily be seen by the occupier.
 
 5 Nothing in this section shall authorise any employee of the Trust or person authorised by it to enter any dwellinghouse unless a District Court Judge who is satisfied on oath that it is reasonably necessary for an employee of the Trust, or a person authorised by it, to enter a dwellinghouse empowers by warrant any employee of the Trust, or any person authorised by it, to enter that place, but no such warrant shall continue in force for more than 14 days from the date thereof.
 
@@ -471,69 +467,69 @@ e If the owner or occupier is not present at the time of entry, the person exerc
 
 1 The Trust shall establish and maintain a register of historic places, historic areas, wahi tapu, and wahi tapu areas.
 
-2 The purposes of the Register shall be as follows:
+2 The purposes of the register shall be as follows:
 
-a To inform members of the public about historic places, historic areas, wahi tapu, and wahi tapu areas:
+a to inform members of the public about historic places, historic areas, wahi tapu, and wahi tapu areas:
 
-b To notify owners of historic places, historic areas, wahi tapu, and wahi tapu areas where necessary for the purposes of this Act:
+b to notify owners of historic places, historic areas, wahi tapu, and wahi tapu areas where necessary for the purposes of this Act:
 
-c To assist historic places, historic areas, wahi tapu, and wahi tapu areas to be protected under the Resource Management Act 1991.
+c to assist historic places, historic areas, wahi tapu, and wahi tapu areas to be protected under the Resource Management Act 1991.
 
-3 The Register shall consist of the following:
+3 The register shall consist of the following:
 
-a A part relating to historic places, comprising the following categories:
+a a part relating to historic places, comprising the following categories:
 
-i Category I: Places of special or outstanding historical or cultural heritage significance or value:
+i Category I: places of special or outstanding historical or cultural heritage significance or value:
 
-ii Category II: Places of historical or cultural heritage significance or value:
+ii Category II: places of historical or cultural heritage significance or value:
 
-b A part relating to historic areas:
+b a part relating to historic areas:
 
-c A part relating to wahi tapu:
+c a part relating to wahi tapu:
 
-d A part relating to wahi tapu areas.
+d a part relating to wahi tapu areas.
 
-4 The entry in and removal from the Register of details of historic places, historic areas, wahi tapu, and wahi tapu areas shall be in accordance with this Part of this Act.
+4 The entry in and removal from the register of details of historic places, historic areas, wahi tapu, and wahi tapu areas shall be in accordance with this Part.
 
-5 An entry in the Register in respect of any historic place may include any chattel or object or class of chattels or objects
+5 An entry in the register in respect of any historic place may include any chattel or object or class of chattels or objects
 
-a Situated in or on that place; and
+a situated in or on that place; and
 
-b Considered by the Trust to contribute to the significance of that place; and
+b considered by the Trust to contribute to the significance of that place; and
 
-c Nominated by the Trust.
+c nominated by the Trust.
 
 23 Criteria for registration of historic places and historic areas
 
-1 The Trust may enter any historic place or historic area in the Register if the place or area possesses aesthetic, archaeological, architectural, cultural, historical, scientific, social, spiritual, technological, or traditional significance or value.
+1 The Trust may enter any historic place or historic area in the register if the place or area possesses aesthetic, archaeological, architectural, cultural, historical, scientific, social, spiritual, technological, or traditional significance or value.
 
 2 The Trust may assign Category I status or Category II status to any historic place, having regard to any of the following criteria:
 
-a The extent to which the place reflects important or representative aspects of New Zealand history:
+a the extent to which the place reflects important or representative aspects of New Zealand history:
 
-b The association of the place with events, persons, or ideas of importance in New Zealand history:
+b the association of the place with events, persons, or ideas of importance in New Zealand history:
 
-c The potential of the place to provide knowledge of New Zealand history:
+c the potential of the place to provide knowledge of New Zealand history:
 
-d The importance of the place to the tangata whenua:
+d the importance of the place to the tangata whenua:
 
-e The community association with, or public esteem for, the place:
+e the community association with, or public esteem for, the place:
 
-f The potential of the place for public education:
+f the potential of the place for public education:
 
-g The technical accomplishment or value, or design of the place:
+g the technical accomplishment or value, or design of the place:
 
-h The symbolic or commemorative value of the place:
+h the symbolic or commemorative value of the place:
 
-i The importance of identifying historic places known to date from early periods of New Zealand settlement:
+i the importance of identifying historic places known to date from early periods of New Zealand settlement:
 
-j The importance of identifying rare types of historic places:
+j the importance of identifying rare types of historic places:
 
-k The extent to which the place forms part of a wider historical and cultural complex or historical and cultural landscape:
+k the extent to which the place forms part of a wider historical and cultural complex or historical and cultural landscape:
 
-l Such additional criteria for registration of wahi tapu, wahi tapu areas, historic places, and historic areas of Maori interest as may be prescribed in regulations made under this Act:
+l such additional criteria for registration of wahi tapu, wahi tapu areas, historic places, and historic areas of Maori interest as may be prescribed in regulations made under this Act:
 
-m Such additional criteria not inconsistent with those in paragraphs (a) to (k) of this subsection for the purpose of assigning Category I or Category II status to any historic place, and for the purpose of registration of any historic area, as may be prescribed in regulations made under this Act.
+m such additional criteria not inconsistent with those in paragraphs (a) to (k) for the purpose of assigning Category I or Category II status to any historic place, and for the purpose of registration of any historic area, as may be prescribed in regulations made under this Act.
 
 24 Provisions relating to historic places
 
@@ -541,53 +537,53 @@ m Such additional criteria not inconsistent with those in paragraphs (a) to (k) 
 
 2 Every proposal for registration
 
-a Shall describe the historic place to which it relates in such a way as to sufficiently identify it; and
+a shall describe the historic place to which it relates in such a way as to sufficiently identify it; and
 
-b May state the proposed category of registration.
+b may state the proposed category of registration.
 
 3 If satisfied that the proposal is supported by sufficient evidence, the Trust shall
 
-a Publicly notify the proposal for registration in such manner and in such category as the Trust considers appropriate; and
+a publicly notify the proposal for registration in such manner and in such category as the Trust considers appropriate; and
 
-b Give notice in writing of the proposal to
+b give notice in writing of the proposal to
 
-i The owner of the historic place concerned; and
+i the owner of the historic place concerned; and
 
-ii Every person having a registered interest in the place; and
+ii every person having a registered interest in the place; and
 
-iii The relevant territorial authority and regional council.
+iii the relevant territorial authority and regional council.
 
-4 Every owner of an historic place who receives a notice under subsection (3)(b) of this section shall give notice in writing of the proposal to the occupiers of the place.
+4 Every owner of an historic place who receives a notice under subsection (3)(b) shall give notice in writing of the proposal to the occupiers of the place.
 
-5 In the case of an application affecting Maori land, the Trust shall give notice of the application to the Registrar of the appropriate Maori Land Court, who shall record the effect of the notice in the Court records.
+5 In the case of an application affecting Maori land, the Trust shall give notice of the application to the Registrar of the appropriate Maori Land Court, who shall record the effect of the notice in the court records.
 
-6 No failure of an owner to notify an occupier pursuant to subsection (4) of this section shall invalidate the registration process.
+6 No failure of an owner to notify an occupier pursuant to subsection (4) shall invalidate the registration process.
 
 25 Provisions relating to wahi tapu
 
-1 Any person may apply to the Maori Heritage Council to have any wahi tapu entered on the Register.
+1 Any person may apply to the Maori Heritage Council to have any wahi tapu entered on the register.
 
 2 An application under this section shall contain a legal description of the land affected and specify the general location and nature of the wahi tapu.
 
 3 If satisfied that the proposal is supported by sufficient evidence, the Council shall
 
-a Publicly notify the proposal for registration in such manner as the Council considers appropriate; and
+a publicly notify the proposal for registration in such manner as the Council considers appropriate; and
 
-b Give notice in writing of the proposal to
+b give notice in writing of the proposal to
 
-i The owner of the wahi tapu concerned; and
+i the owner of the wahi tapu concerned; and
 
-ii The relevant territorial authority and regional council; and
+ii the relevant territorial authority and regional council; and
 
-iii Every person having a registered interest in the wahi tapu; and
+iii every person having a registered interest in the wahi tapu; and
 
-iv The appropriate iwi.
+iv the appropriate iwi.
 
-4 Every owner of a wahi tapu who receives a notice under subsection (3)(b) of this section shall give notice in writing of the proposal to the occupiers of the place.
+4 Every owner of a wahi tapu who receives a notice under subsection (3)(b) shall give notice in writing of the proposal to the occupiers of the place.
 
-5 In the case of an application affecting Maori land, the Trust shall give notice of the application to the Registrar of the appropriate Maori Land Court, who shall record the effect of the notice in the Court records.
+5 In the case of an application affecting Maori land, the Trust shall give notice of the application to the Registrar of the appropriate Maori Land Court, who shall record the effect of the notice in the court records.
 
-6 No failure of an owner to notify an occupier pursuant to subsection (4) of this section shall invalidate the registration process in that case.
+6 No failure of an owner to notify an occupier pursuant to subsection (4) shall invalidate the registration process in that case.
 
 26 Interim registration
 
@@ -595,26 +591,26 @@ iv The appropriate iwi.
 
 2 The Maori Heritage Council may grant interim registration of any wahi tapu, if satisfied that the proposal is supported by sufficient evidence.
 
-3 Interim registration of any historic place or wahi tapu shall be effective on and from the day on which the notice given under section 24(3)(b) or section 25(3)(b) of this Act is received by the owner of that place or wahi tapu, and shall lapse
+3 Interim registration of any historic place or wahi tapu shall be effective on and from the day on which the notice given under section 24(3)(b) or section 25(3)(b) is received by the owner of that place or wahi tapu, and shall lapse
 
-a When registration is confirmed under section 32B or section 32C of this Act; or
+a when registration is confirmed under section 32B or section 32C; or
 
-b Six months after the date of such interim registration, if registration is not confirmed or interim registration is not cancelled within that period.
+b 6 months after the date of such interim registration, if registration is not confirmed or interim registration is not cancelled within that period.
 
-4 Notwithstanding subsection (3)(b) of this section, the Trust or the Council, as the case may be, may extend the period of 6 months referred to in that subsection by a further period not exceeding 2 months, and the interim registration of the historic place or wahi tapu concerned shall continue in force for that further period and shall then lapse in accordance with subsection (3) of this section.
+4 Notwithstanding subsection (3)(b), the Trust or the Council, as the case may be, may extend the period of 6 months referred to in that subsection by a further period not exceeding 2 months, and the interim registration of the historic place or wahi tapu concerned shall continue in force for that further period and shall then lapse in accordance with subsection (3).
 
-5 Where the Trust or the Council proposes to extend the interim registration of any historic place or wahi tapu under subsection (4) of this section, it shall, at least 1 month before that interim registration expires, notify the owner concerned of the proposal.
+5 Where the Trust or the Council proposes to extend the interim registration of any historic place or wahi tapu under subsection (4), it shall, at least 1 month before that interim registration expires, notify the owner concerned of the proposal.
 
-6 The owner may, within 5 working days after receiving notice under subsection (5) of this section, object in writing to the proposed extension of interim registration and the Trust or the Council, as the case may be, shall determine the objection within 5 working days after receiving the objection.
+6 The owner may, within 5 working days after receiving notice under subsection (5), object in writing to the proposed extension of interim registration and the Trust or the Council, as the case may be, shall determine the objection within 5 working days after receiving the objection.
 
-7 The Trust or the Council, as the case may be, shall, as soon as practicable after the date of its decision to grant an extension under subsection (4) of this section, notify the owner concerned of its decision.
+7 The Trust or the Council, as the case may be, shall, as soon as practicable after the date of its decision to grant an extension under subsection (4), notify the owner concerned of its decision.
 
 27 Interim protection of places proposed for registration
 While any historic place or wahi tapu has interim registration under section 26 of this Act, sections 194 and 195 of the Resource Management Act 1991 shall apply to that place or wahi tapu as if interim registration were notice of a requirement for a heritage order.
 
 28 Procedure if registration of historic place or wahi tapu proposed
 
-1 The following persons may make written submissions on a proposal under section 24 to register an historic place or on an application under section 25 to enter a wahi tapu on the Register:
+1 The following persons may make written submissions on a proposal under section 24 to register an historic place or on an application under section 25 to enter a wahi tapu on the register:
 
 a the owner of the historic place or wahi tapu:
 
@@ -630,7 +626,7 @@ f the appropriate iwi.
 
 2 Submissions may be made on a proposal or application whether or not interim registration of the historic place that the proposal relates to or of the wahi tapu that the application relates to has been granted.
 
-3 In the case of an interim registration, submissions must be made to the Trust or Council, as the case may require, within 20 working days after the date of the public notification of the grant of interim registration
+3 In the case of an interim registration, submissions must be made to the Trust or Council, as the case may require, within 20 working days after the date of the public notification of the grant of interim registration.
 
 4 In all other cases, submissions must be made to the Trust or Council, as the case may require, within
 
@@ -686,7 +682,7 @@ ii unidentifiable by the Trust from publicly available records.
 
 6 Failure to give notice under subsection (5) does not invalidate the registration process.
 
-7 In the case of an application affecting Maori land, the Trust must give notice of the application to the appropriate Registrar of the Maori Land Court, who must record the notice in the Court records.
+7 In the case of an application affecting Maori land, the Trust must give notice of the application to the appropriate Registrar of the Maori Land Court, who must record the notice in the court records.
 
 8 For the purposes of this section, *address* means usual or last known place of
 
@@ -696,7 +692,7 @@ b business.
 
 32 Provisions relating to wahi tapu areas
 
-1 Any person may propose to the Maori Heritage Council that any wahi tapu area be entered on the Register.
+1 Any person may propose to the Maori Heritage Council that any wahi tapu area be entered on the register.
 
 2 Every proposal for registration shall contain a legal description of the general area of land affected and specify the general nature of the wahi tapu included in the area.
 
@@ -714,7 +710,7 @@ B has a registered interest in the wahi tapu area or part of the wahi tapu area;
 
 ii the relevant territorial authority and regional council; and
 
-iii the appropriate iwi
+iii the appropriate iwi.
 
 4 Despite subsection (3)(b), the Council is not required to give notice under subsection (3)(b)(i) if
 
@@ -734,7 +730,7 @@ ii unidentifiable by the Council from publicly available records.
 
 6 Failure to give notice under subsection (5) does not invalidate the registration process.
 
-7 In the case of an application affecting Maori land, the Trust must give notice of the application to the appropriate Registrar of the Maori Land Court, who must record the notice in the Court records.
+7 In the case of an application affecting Maori land, the Trust must give notice of the application to the appropriate Registrar of the Maori Land Court, who must record the notice in the court records.
 
 8 For the purposes of this section, *address* means usual or last known place of
 
@@ -744,7 +740,7 @@ b business.
 
 32A Procedure if registration of historic area or wahi tapu area proposed
 
-1 The following persons may make written submissions on a proposal under section 31 to register an historic area or on a proposal under section 32 to enter a wahi tapu area on the Register:
+1 The following persons may make written submissions on a proposal under section 31 to register an historic area or on a proposal under section 32 to enter a wahi tapu area on the register:
 
 a every owner of the historic area or wahi tapu area, or part of the historic area or wahi tapu area:
 
@@ -805,15 +801,15 @@ b give written notice of the registration to any person that has been given noti
 
 1 Where the Trust
 
-a Is advised by a local authority that the authority has received an application for a resource consent in respect of any wahi tapu area; or
+a is advised by a local authority that the authority has received an application for a resource consent in respect of any wahi tapu area; or
 
-b Is considering an application or proposal under section 14 or section 18(2) of this Act that affects any wahi tapu area; or
+b is considering an application or proposal under section 14 or section 18(2) that affects any wahi tapu area; or
 
-c Proposes to take any action in respect of any wahi tapu area,the Trust shall refer the application or proposal to the Maori Heritage Council before taking any action in respect of the application or proposal.
+c proposes to take any action in respect of any wahi tapu area,the Trust shall refer the application or proposal to the Maori Heritage Council before taking any action in respect of the application or proposal.
 
 2 The Council shall consult the local territorial authority, the relevant regional council, the applicant for the resource consent, the relevant iwi or other Maori groups, and the proposers of the wahi tapu area, as the case may require, before taking any action in respect of the application or proposal.
 
-3 The Council shall, within 3 months of the date of receipt of that application or proposal by the Council, advise the Trust of any comment or recommendation it wishes to make on any application or proposal referred to it under subsection (1) of this section.
+3 The Council shall, within 3 months of the date of receipt of that application or proposal by the Council, advise the Trust of any comment or recommendation it wishes to make on any application or proposal referred to it under subsection (1).
 
 34 Records to be supplied to territorial authorities
 
@@ -821,19 +817,19 @@ c Proposes to take any action in respect of any wahi tapu area,the Trust shall r
 
 2 Notification to a territorial authority
 
-a Pursuant to section 24(3)(b) of this Act of a proposal for interim registration or removal from the register; and
+a pursuant to section 24(3)(b) of a proposal for interim registration or removal from the register; and
 
-b Pursuant to section 32C(2)(b) or section 37(7) or section 37A(b) of registration or removal from the registerof any historic place, historic area, wahi tapu, or wahi tapu area (but no other notification) shall, for the purposes of section 34(1)(b) of the Building Act 2004 and section 44A(2)(g) of the Local Government Official Information and Meetings Act 1987, constitute information which has in terms of this Act been notified to the territorial authority by a statutory organisation having the power to classify land or buildings for any purpose.
+b pursuant to section 32C(2)(b) or section 37(7) or section 37A(b) of registration or removal from the registerof any historic place, historic area, wahi tapu, or wahi tapu area (but no other notification) shall, for the purposes of section 34(1)(b) of the Building Act 2004 and section 44A(2)(g) of the Local Government Official Information and Meetings Act 1987, constitute information which has in terms of this Act been notified to the territorial authority by a statutory organisation having the power to classify land or buildings for any purpose.
 
 35 Notification to territorial authorities for land information memorandum and project information memorandum purposes
 The Trust may, in its discretion, notify any territorial authority of the particulars of any registered historic place, historic area, wahi tapu, or wahi tapu area in that territorial authority's district with sufficient detail to enable those particulars to be included in
 
-a Any land information memorandum issued by the territorial authority under section 44A of the Local Government Official Information and Meetings Act 1987; and
+a any land information memorandum issued by the territorial authority under section 44A of the Local Government Official Information and Meetings Act 1987; and
 
-b Any project information memorandum issued by the territorial authority under section 34 of the Building Act 2004.
+b any project information memorandum issued by the territorial authority under section 34 of the Building Act 2004.
 
-36 Availability of Register
-The Register shall be open for public inspection during usual business hours at the principal office of the Trust in Wellington and at regional offices of the Trust.
+36 Availability of register
+The register shall be open for public inspection during usual business hours at the principal office of the Trust in Wellington and at regional offices of the Trust.
 
 37 Review, variation, or removal of registration
 
@@ -861,7 +857,7 @@ a may decline to consider any application that does not state any grounds for re
 
 b must notify the applicant of its decision in writing.
 
-7 If the Trust or the Council decides to review a registration (whether on its own initiative or as a result of an application), the Trust or the Council (as the case may be) must conduct the review in the same manner as if it were a proposal for registration or an application to enter on the Register (as appropriate) under this Act.
+7 If the Trust or the Council decides to review a registration (whether on its own initiative or as a result of an application), the Trust or the Council (as the case may be) must conduct the review in the same manner as if it were a proposal for registration or an application to enter on the register (as appropriate) under this Act.
 
 8 When its review is completed, the Trust or the Council (as the case may be) may
 
@@ -892,7 +888,7 @@ b must, as soon as practicable after removing a registration, notify in writing 
 
 38 New Zealand Historic Places Trust (Pouhere Taonga)
 
-1 There shall continue to be a Trust called the New Zealand Historic Places Trust (Pouhere Taonga).
+1 There shall continue to be a trust called the New Zealand Historic Places Trust (Pouhere Taonga).
 
 2 The Trust is the same body corporate as the New Zealand Historic Places Trust continued under section 4 of the Historic Places Act 1980.
 
@@ -904,20 +900,20 @@ b must, as soon as practicable after removing a registration, notify in writing 
 
 1 The general functions of the Trust shall be as follows:
 
-a To identify, record, investigate, assess, register, protect, and conserve wahi tapu, wahi tapu areas, historic places, and historic areas or to assist in doing any of those things, and to keep permanent records of such work:
+a to identify, record, investigate, assess, register, protect, and conserve wahi tapu, wahi tapu areas, historic places, and historic areas or to assist in doing any of those things, and to keep permanent records of such work:
 
-b To advocate the conservation and protection of wahi tapu, wahi tapu areas, historic places, and historic areas:
+b to advocate the conservation and protection of wahi tapu, wahi tapu areas, historic places, and historic areas:
 
-c To foster public interest and involvement in historic places and historic areas and in the identification, recording, investigation, assessment, registration, protection, and conservation of them:
+c to foster public interest and involvement in historic places and historic areas and in the identification, recording, investigation, assessment, registration, protection, and conservation of them:
 
-d To furnish information, advice, and assistance in relation to the identification, recording, investigation, assessment, registration, protection, and conservation of wahi tapu, wahi tapu areas, historic places, and historic areas:
+d to furnish information, advice, and assistance in relation to the identification, recording, investigation, assessment, registration, protection, and conservation of wahi tapu, wahi tapu areas, historic places, and historic areas:
 
-e To manage, administer, and control all historic places, buildings, and other property owned or controlled by the Trust or vested in it, to ensure the protection, preservation, and conservation of such historic places, buildings, and other property.
+e to manage, administer, and control all historic places, buildings, and other property owned or controlled by the Trust or vested in it, to ensure the protection, preservation, and conservation of such historic places, buildings, and other property.
 
 2 The Minister may not give a direction to the Trust in relation to heritage matters.
 
 40 New Zealand Historic Places Board of Trustees
-There shall continue to be a Board of Trustees called the New Zealand Historic Places Board of Trustees.
+There shall continue to be a board of trustees called the New Zealand Historic Places Board of Trustees.
 
 41 Board has functions and powers of Trust
 
@@ -944,6 +940,22 @@ b 6 are appointed by the Minister.
 2 Every member of the Board elected under section 42(1)(a) holds office for 3 years from the date of the certificate declaring the result of the election given in accordance with regulations made under section 113 and may be re-elected.
 
 3 Unless an elected member vacates or is removed from office under the Crown Entities Act 2004, he or she continues in office until his or her successor comes into office.
+
+43A Extraordinary vacancies
+
+1 An extraordinary vacancy occurs if an elected member of the Board
+
+a dies while in office; or
+
+b resigns his or her office; or
+
+c is removed from office.
+
+2 If an extraordinary vacancy occurs, it must be filled in the same manner as that of the person whose office has become vacant.
+
+3 A person who is elected to fill an extraordinary vacancy may hold office for the remainder of the term for which the vacating member of the Board was to hold office.
+
+4 This section does not apply if the extraordinary vacancy occurs within 12 months of the expiry of the term of office for the vacating member of the Board.
 
 44 Deputy Chairperson of Board
 
@@ -976,29 +988,29 @@ Clauses 6 to 13 of Schedule 5 of the Crown Entities Act 2004 apply except that, 
 
 2 The Trust may do all or any of the following:
 
-a Advocate its interests at any public forum or in any statutory planning process:
+a advocate its interests at any public forum or in any statutory planning process:
 
-b Identify, record, investigate, assess, register, protect, and conserve wahi tapu, wahi tapu areas, historic places, and historic areas, or assist any person or organisation to do any of those things:
+b identify, record, investigate, assess, register, protect, and conserve wahi tapu, wahi tapu areas, historic places, and historic areas, or assist any person or organisation to do any of those things:
 
-c Acquire, restore, conserve, and manage historic places and historic areas, or assist any person or organisation to acquire, restore, conserve, and manage any such area or place:
+c acquire, restore, conserve, and manage historic places and historic areas, or assist any person or organisation to acquire, restore, conserve, and manage any such area or place:
 
-d Assist any person or organisation to acquire, restore, conserve, or manage any wahi tapu or wahi tapu area:
+d assist any person or organisation to acquire, restore, conserve, or manage any wahi tapu or wahi tapu area:
 
 e 
 
-f Erect suitable signs and notices on historic places and historic areas, subject, in the case of any historic place or historic area not owned by or under the control of the Trust, to the consent of the owner first being obtained:
+f erect suitable signs and notices on historic places and historic areas, subject, in the case of any historic place or historic area not owned by or under the control of the Trust, to the consent of the owner first being obtained:
 
-g Enter into agreements with local authorities, corporations, societies, individuals, or other controlling bodies for the management, maintenance, and preservation of any historic place or historic area:
+g enter into agreements with local authorities, corporations, societies, individuals, or other controlling bodies for the management, maintenance, and preservation of any historic place or historic area:
 
 h 
 
 i 
 
-j Make accessible to the public, charge fees for admission, lease or let, or use for any suitable purpose, any lands or buildings vested in the Trust or under its control:
+j make accessible to the public, charge fees for admission, lease or let, or use for any suitable purpose, any lands or buildings vested in the Trust or under its control:
 
-k Promote or supervise the investigation of any historic place or historic area:
+k promote or supervise the investigation of any historic place or historic area:
 
-l appoint and remove Board committees and their members, and establish and disestablish Branch committees:
+l appoint and remove Board committees and their members, and establish and disestablish branch committees:
 
 m 
 
@@ -1012,17 +1024,17 @@ q
 
 r 
 
-s Provide information relating to historic places and historic areas and, where appropriate, wahi tapu and wahi tapu areas:
+s provide information relating to historic places and historic areas and, where appropriate, wahi tapu and wahi tapu areas:
 
-t Charge for the provision of services by the Trust under this Act, including (but not limited to)
+t charge for the provision of services by the Trust under this Act, including (but not limited to)
 
-i The processing of applications received by the Trust:
+i the processing of applications received by the Trust:
 
-ii The carrying out of investigations:
+ii the carrying out of investigations:
 
-iii The production, acquisition, and marketing of products:
+iii the production, acquisition, and marketing of products:
 
-iv The provision of information.
+iv the provision of information.
 
 3 Nothing in this Act shall require the Trust to negotiate or agree with any person to acquire any land or interest in land.
 
@@ -1054,7 +1066,7 @@ i adopt any statement of general policy under section 57:
 
 j adopt any conservation plan under section 58.
 
-3 Also, the Board must not delegate the power to give notice of requirement for a heritage order, or to grant interim registration under section 26, unless the delegation is one that must be jointly exercised by any 2 of the following persons, namely, the Chairperson, 1 of the members appointed by the Minister, or the chief executive officer.
+3 Also, the Board must not delegate the power to give notice of requirement for a heritage order, or to grant interim registration under section 26, unless the delegation is one that must be jointly exercised by any 2 of the following persons, namely, the Chairperson, one of the members appointed by the Minister, or the chief executive officer.
 
 55A Additional powers of delegation in respect of Maori Heritage Council and branch committees
 
@@ -1088,37 +1100,37 @@ b must, if reasonably requested to do so, produce evidence of its authority to a
 
 1 The Trust
 
-a Shall, within 5 years after the commencement of this Act, adopt in accordance with this section one or more statements of general policy for the management, administration, control, and use of all historic places owned or controlled by the Trust or vested in it; and
+a shall, within 5 years after the commencement of this Act, adopt in accordance with this section 1 or more statements of general policy for the management, administration, control, and use of all historic places owned or controlled by the Trust or vested in it; and
 
-b May amend such statements so that they are adapted to changing circumstances or in accordance with increased knowledge; and
+b may amend such statements so that they are adapted to changing circumstances or in accordance with increased knowledge; and
 
-c Shall review any such statement within 10 years after its adoption by the Trust.
+c shall review any such statement within 10 years after its adoption by the Trust.
 
 2 Every statement of general policy shall be prepared in draft form by the Trust and shall
 
-a Identify the historic place or historic places to which the policy applies; and
+a identify the historic place or historic places to which the policy applies; and
 
-b State policies and objectives for the management and use of such historic places.
+b state policies and objectives for the management and use of such historic places.
 
 3 In the case of every statement of general policy and every review of such a statement, the Trust shall
 
-a Give notice by advertisement published in daily newspapers circulating in Auckland, Hamilton, Wellington, Christchurch, and Dunedin of the availability of the draft statement of general policy for public inspection; and
+a give notice by advertisement published in daily newspapers circulating in Auckland, Hamilton, Wellington, Christchurch, and Dunedin of the availability of the draft statement of general policy for public inspection; and
 
-b Invite persons and organisations to lodge with the Trust written comments on the draft statement of general policy before a date specified in the notice, being not less than 40 working days after the date of publication of the notice; and
+b invite persons and organisations to lodge with the Trust written comments on the draft statement of general policy before a date specified in the notice, being not less than 40 working days after the date of publication of the notice; and
 
-c Make the draft statement available for public inspection free of charge during usual business hours at the principal office of the Trust in Wellington and at regional offices of the Trust; and
+c make the draft statement available for public inspection free of charge during usual business hours at the principal office of the Trust in Wellington and at regional offices of the Trust; and
 
-d Submit the draft statement to the Minister.
+d submit the draft statement to the Minister.
 
 4 The Trust shall consider any comments received and shall review the draft statement of general policy before adopting the policy.
 
-5 The provisions of subsections (3) and (4) of this section shall apply to every amendment of any statement of general policy, except where the Trust resolves on reasonable grounds that those provisions need not be followed.
+5 The provisions of subsections (3) and (4) shall apply to every amendment of any statement of general policy, except where the Trust resolves on reasonable grounds that those provisions need not be followed.
 
 6 The Trust shall not act in any manner inconsistent with any statement of general policy.
 
 7 Every current statement of general policy adopted in accordance with this section shall be available for public inspection free of charge during usual business hours at the principal office of the Trust in Wellington and at regional offices of the Trust.
 
-8 For the purposes of this section and section 58 of this Act, *historic place* includes any chattel or object or class of chattel or objects entered in the Register in respect of that place.
+8 For the purposes of this section and section 58, *historic place* includes any chattel or object or class of chattel or objects entered in the register in respect of that place.
 
 58 Conservation plans
 
@@ -1126,15 +1138,15 @@ d Submit the draft statement to the Minister.
 
 2 The Trust shall prepare each conservation plan in draft form and shall
 
-a Publicly notify the availability of the draft conservation plan for public inspection; and
+a publicly notify the availability of the draft conservation plan for public inspection; and
 
-b Invite persons or organisations to lodge with the Trust written comments on the draft conservation plan before a date specified in the public notice, being not less than 40 working days after the date of publication of the notice; and
+b invite persons or organisations to lodge with the Trust written comments on the draft conservation plan before a date specified in the public notice, being not less than 40 working days after the date of publication of the notice; and
 
-c Make the draft conservation plan available for public inspection free of charge during usual business hours at the principal office of the Trust in Wellington and at regional offices of the Trust.
+c make the draft conservation plan available for public inspection free of charge during usual business hours at the principal office of the Trust in Wellington and at regional offices of the Trust.
 
 3 The Trust shall consider any comments received and shall review the draft conservation plan before adopting that plan.
 
-4 The Trust may from time to time amend or review any conservation plan adopted by it, and the provisions of subsections (2) and (3) of this section shall apply to every such amendment or review of a conservation plan, except (in the case of an amendment) where the Trust resolves on reasonable grounds that those provisions need not be followed.
+4 The Trust may from time to time amend or review any conservation plan adopted by it, and the provisions of subsections (2) and (3) shall apply to every such amendment or review of a conservation plan, except (in the case of an amendment) where the Trust resolves on reasonable grounds that those provisions need not be followed.
 
 5 The Trust shall not act in any manner inconsistent with any conservation plan.
 
@@ -1146,19 +1158,19 @@ c Make the draft conservation plan available for public inspection free of charg
 
 1 The Board may, by resolution, make rules that are not inconsistent with this Act or the Crown Entities Act 2004 for all or any of the following purposes:
 
-a Regulating the proceedings of the Board and the conduct of its meetings:
+a regulating the proceedings of the Board and the conduct of its meetings:
 
-b Providing for the custody of the property of the Trust and the custody and use of the common seal of the Trust:
+b providing for the custody of the property of the Trust and the custody and use of the common seal of the Trust:
 
-c Providing for members, prescribing different classes of members and the subscriptions (if any) payable by members of different classes, and prescribing the manner of keeping a register of members:
+c providing for members, prescribing different classes of members and the subscriptions (if any) payable by members of different classes, and prescribing the manner of keeping a register of members:
 
-d Providing for the establishment, disestablishment, functions, and powers of local branches for the furthering of the work of the Trust; and prescribing such other matters as may be necessary for the efficient functioning of the local branches:
+d providing for the establishment, disestablishment, functions, and powers of local branches for the furthering of the work of the Trust; and prescribing such other matters as may be necessary for the efficient functioning of the local branches:
 
-e Providing for the appointment and removal of members of Board committees:
+e providing for the appointment and removal of members of Board committees:
 
 ea providing for the election and removal of members of branch committees:
 
-f Such other purposes as may be deemed necessary or expedient for duly carrying out the work of the Trust.
+f such other purposes as may be deemed necessary or expedient for duly carrying out the work of the Trust.
 
 2 
 
@@ -1167,13 +1179,13 @@ f Such other purposes as may be deemed necessary or expedient for duly carrying 
 61 Power to make bylaws
 The Trust may, in respect of any land or historic place vested in the Trust or under its control, make bylaws that are not inconsistent with this Act or any regulations made under this Act for all or any of the following purposes:
 
-a Prescribing rules to be observed by any person entering upon such land or place:
+a prescribing rules to be observed by any person entering upon such land or place:
 
-b Prohibiting or controlling the lighting of fires on such land or in such place:
+b prohibiting or controlling the lighting of fires on such land or in such place:
 
-c Prohibiting or controlling the taking of any animal or vehicle upon such land, and prescribing rules to be observed by any person taking any animal or vehicle upon such land:
+c prohibiting or controlling the taking of any animal or vehicle upon such land, and prescribing rules to be observed by any person taking any animal or vehicle upon such land:
 
-d Providing generally for control of the use, management, and better preservation of such land or historic place, and of any erection or thing thereon or therein.
+d providing generally for control of the use, management, and better preservation of such land or historic place, and of any erection or thing thereon or therein.
 
 62 Procedure for making bylaws
 
@@ -1212,27 +1224,27 @@ Every person commits an offence and is liable on summary conviction to a fine no
 
 1 Notwithstanding any other provision of this Act or any provision of the State Sector Act 1988,
 
-a Every employee of the Department of Conservation who was, immediately before the commencement of this Act, employed wholly on servicing the functions of the Trust, is hereby deemed to be an employee of the Trust (in this section referred to as a transferred employee); and
+a every employee of the Department of Conservation who was, immediately before the commencement of this Act, employed wholly on servicing the functions of the Trust, is hereby deemed to be an employee of the Trust (in this section referred to as a *transferred employee*); and
 
-b The terms and conditions of employment of every transferred employee shall, until varied or until a new contract of employment is entered into, be based on the employment contract that applied to that person immediately before the commencement of this Act in respect of that person's employment with the Department of Conservation.
+b the terms and conditions of employment of every transferred employee shall, until varied or until a new contract of employment is entered into, be based on the employment contract that applied to that person immediately before the commencement of this Act in respect of that person's employment with the Department of Conservation.
 
 2 For the purposes of every enactment, law, award, determination, contract, and agreement at any time relating to the employment of a transferred employee,
 
-a The contract of employment that applied immediately before the commencement of this Act in respect of that person's employment with the Department of Conservation shall be deemed not to have been broken by that person having so become a person employed by the Trust; and
+a the contract of employment that applied immediately before the commencement of this Act in respect of that person's employment with the Department of Conservation shall be deemed not to have been broken by that person having so become a person employed by the Trust; and
 
-b Any period recognised by the Department as continuous service with the Department shall be deemed to have been a period of continuous service with the Trust.
+b any period recognised by the Department as continuous service with the Department shall be deemed to have been a period of continuous service with the Trust.
 
 3 No transferred employee of the Trust shall be entitled to any payment, benefit, or compensation by reason only of that person having ceased to be a person employed with the Department.
 
-4 Nothing in subsection (1)(b) of this section applies to any transferred employee who receives a subsequent appointment within the Trust.
+4 Nothing in subsection (1)(b) applies to any transferred employee who receives a subsequent appointment within the Trust.
 
 72 Contributors to Government Superannuation Fund
 
 1 Any person who, immediately before becoming an officer or employee of the Trust, is an appointee under the State Sector Act 1988 and a contributor to the Government Superannuation Fund under the Government Superannuation Fund Act 1956 shall, on becoming an officer or employee of the Trust, be deemed for the purposes of the Government Superannuation Fund Act 1956 to be employed in the Government service so long as that person continues in the service of the Trust; and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the Trust were Government service.
 
-2 Subject to the Government Superannuation Fund Act 1956, nothing in subsection (1) of this section shall entitle any such transferred employee to become a contributor to the Government Superannuation Fund after that person has once ceased to become a contributor.
+2 Subject to the Government Superannuation Fund Act 1956, nothing in subsection (1) shall entitle any such transferred employee to become a contributor to the Government Superannuation Fund after that person has once ceased to become a contributor.
 
-3 For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (1) of this section, to a person who is in the service of the Trust and who is a contributor to the Government Superannuation Fund, the term *controlling authority*, in relation to that person, means the Trust.
+3 For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (1), to a person who is in the service of the Trust and who is a contributor to the Government Superannuation Fund, the term *controlling authority*, in relation to that person, means the Trust.
 
 4 The Trust may, for the purpose of providing superannuation or retirement allowances for its officers and employees, subsidise out of its funds any scheme under the National Provident Fund Act 1950 containing provision for employer subsidy or any other employer-subsidised scheme approved by the Minister of Finance.
 
@@ -1253,16 +1265,16 @@ b Any period recognised by the Department as continuous service with the Departm
 79 Accounts
 
 80 Exemption from income tax
-The Trust shall be exempt from the payment of and income tax.
+The Trust shall be exempt from the payment of income tax.
 
 81 Annual report
 
 82 Contributions by territorial authorities, etc
 For the purpose of providing funds for the exercise of the functions of the Trust
 
-a Any territorial authority or public body of any kind may from time to time out of its general fund or account make such contributions to the Trust as it thinks fit:
+a any territorial authority or public body of any kind may from time to time out of its general fund or account make such contributions to the Trust as it thinks fit:
 
-b Any University may from time to time, with the consent of the Minister of Education, make such contributions to the Trust as it thinks fit.
+b any university may from time to time, with the consent of the Minister of Education, make such contributions to the Trust as it thinks fit.
 
 83 Fees and travelling allowances
 
@@ -1270,7 +1282,7 @@ b Any University may from time to time, with the consent of the Minister of Educ
 
 84 Maori Heritage Council
 
-1 There is hereby established a Council to be called the Maori Heritage Council.
+1 There is hereby established a council to be called the Maori Heritage Council.
 
 2 The membership of the Council consists of
 
@@ -1290,58 +1302,58 @@ iii are appointed by the Minister after consultation with the Minister of Maori 
 
 4 Members of the Council shall hold office for a term of not more than 3 years and may from time to time be reappointed.
 
-5 Unless a member of the Council vacates or is removed from his or her office under section 88 of this Act, or (in the case of a member appointed under subsection (2)(a) of this section) who ceases to be a member of the Board, he or she shall continue in office until his or her successor comes into office.
+5 Unless a member of the Council vacates or is removed from his or her office under section 88, or (in the case of a member appointed under subsection (2)(a)) who ceases to be a member of the Board, he or she shall continue in office until his or her successor comes into office.
 
 85 Functions of Council
 The Maori Heritage Council shall have the following functions:
 
-a To ensure that, in the protection of wahi tapu, wahi tapu areas, and historic places and historic areas of Maori interest, the Trust meets the needs of Maori in a culturally sensitive manner:
+a to ensure that, in the protection of wahi tapu, wahi tapu areas, and historic places and historic areas of Maori interest, the Trust meets the needs of Maori in a culturally sensitive manner:
 
-b To develop Maori programmes for the identification and conservation of wahi tapu, wahi tapu areas, and historic places and historic areas of Maori interest, and to inform the Board of all activities, needs and developments relating to Maori interests in such areas and places:
+b to develop Maori programmes for the identification and conservation of wahi tapu, wahi tapu areas, and historic places and historic areas of Maori interest, and to inform the Board of all activities, needs and developments relating to Maori interests in such areas and places:
 
-c To assist the Trust to develop and reflect a bicultural view in the exercise of its powers and functions:
+c to assist the Trust to develop and reflect a bicultural view in the exercise of its powers and functions:
 
-d To develop its own iwi and other consultative and reporting processes and to recommend such processes for adoption by the Board, branches, and staff of the Trust when dealing with matters of Maori interest:
+d to develop its own iwi and other consultative and reporting processes and to recommend such processes for adoption by the Board, branches, and staff of the Trust when dealing with matters of Maori interest:
 
-e To make recommendations to the Trust on applications referred by the Trust under section 14(3) of this Act that relate to archaeological sites of Maori interest:
+e to make recommendations to the Trust on applications referred by the Trust under section 14(3) that relate to archaeological sites of Maori interest:
 
-f To consider and determine proposals for the registration of wahi tapu and wahi tapu areas:
+f to consider and determine proposals for the registration of wahi tapu and wahi tapu areas:
 
-g To propose the registration of historic places and historic areas of Maori interest:
+g to propose the registration of historic places and historic areas of Maori interest:
 
-h To make recommendations to the Trust on applications for resource consents referred by the Trust under section 33 of this Act:
+h to make recommendations to the Trust on applications for resource consents referred by the Trust under section 33:
 
-i To perform such functions as are delegated to the Council by the Board:
+i to perform such functions as are delegated to the Council by the Board:
 
-j To perform such other functions as are imposed on the Council by this Act or any other Act:
+j to perform such other functions as are imposed on the Council by this Act or any other Act:
 
-k To advocate the interests of the Trust and the Council so far as they relate to matters of Maori heritage at any public or Maori forum.
+k to advocate the interests of the Trust and the Council so far as they relate to matters of Maori heritage at any public or Maori forum.
 
 86 Powers of Council
 
 1 The Maori Heritage Council shall have all such powers as are reasonably necessary or expedient to enable it to carry out its functions.
 
-2 Without limiting the generality of subsection (1) of this section, the Council may
+2 Without limiting the generality of subsection (1), the Council may
 
-a Appoint committees consisting of such persons, whether or not members of the Council, as the Council considers appropriate:
+a appoint committees consisting of such persons, whether or not members of the Council, as the Council considers appropriate:
 
-b Subject to subsection (3) of this section, delegate any functions of the Council under this Act to the Chairperson, Deputy Chairperson, any committee of the Council, or the chief executive officer of the Trust.
+b subject to subsection (3), delegate any functions of the Council under this Act to the Chairperson, Deputy Chairperson, any committee of the Council, or the chief executive officer of the Trust.
 
-3 In the case of the Council's power to grant interim registration under section 26(2) of this Act, the Council may delegate the power to 2 of the following, namely, the Chairperson, Deputy Chairperson, or chief executive officer of the Trust, but shall not delegate such power to any other person.
+3 In the case of the Council's power to grant interim registration under section 26(2), the Council may delegate the power to 2 of the following, namely, the Chairperson, Deputy Chairperson, or chief executive officer of the Trust, but shall not delegate such power to any other person.
 
 87 Deputy Chairperson of Council
 
-1 At the first meeting of the Council after the commencement of this Act, and thereafter at the first meeting of the Council held after the 30th day of June in each year and at the first meeting of the Council held after the occurrence of a vacancy in the office of the Deputy Chairperson, the Council shall elect one of its members to be the Deputy Chairperson.
+1 At the first meeting of the Council after the commencement of this Act, and thereafter at the first meeting of the Council held after 30June in each year and at the first meeting of the Council held after the occurrence of a vacancy in the office of the Deputy Chairperson, the Council shall elect one of its members to be the Deputy Chairperson.
 
-2 The Deputy Chairperson shall hold office while he or she continues to be a member of the Council until the appointment of his or her successor in accordance with subsection (1) of this section, and may be reappointed.
+2 The Deputy Chairperson shall hold office while he or she continues to be a member of the Council until the appointment of his or her successor in accordance with subsection (1), and may be reappointed.
 
 3 The Deputy Chairperson shall perform all the functions and duties and exercise all the powers of the Chairperson,
 
-a With the consent of the Chairperson, at any time during the temporary absence of the Chairperson:
+a with the consent of the Chairperson, at any time during the temporary absence of the Chairperson:
 
-b Without that consent, at any time while the Chairperson is temporarily incapacitated or prevented by illness or other cause from performing the functions and duties of his or her office:
+b without that consent, at any time while the Chairperson is temporarily incapacitated or prevented by illness or other cause from performing the functions and duties of his or her office:
 
-c While there is any vacancy in the office of Chairperson.
+c while there is any vacancy in the office of Chairperson.
 
 88 Resignation or removal from office
 
@@ -1357,11 +1369,11 @@ c While there is any vacancy in the office of Chairperson.
 
 90 Co-opted members
 
-1 Subject to subsection (2) of this section, where leave of absence has been given to any member, the Council may co-opt a person to be a co-opted member of the Council.
+1 Subject to subsection (2), where leave of absence has been given to any member, the Council may co-opt a person to be a co-opted member of the Council.
 
-2 In the case of a Council member appointed pursuant to section 84(2)(a) of this Act, any co-opted Board member filling such leave of absence shall also become a co-opted member of the Council for the period of such absence.
+2 In the case of a Council member appointed pursuant to section 84(2)(a), any co-opted Board member filling such leave of absence shall also become a co-opted member of the Council for the period of such absence.
 
-3 The term of office of a member co-opted under subsections (1) and (2) of this section shall cease on the expiry of the leave of absence of the original member or the earlier vacation of or removal from office of that original member.
+3 The term of office of a member co-opted under subsections (1) and (2) shall cease on the expiry of the leave of absence of the original member or the earlier vacation of or removal from office of that original member.
 
 91 Extraordinary vacancies
 
@@ -1382,7 +1394,7 @@ The powers of the Council shall not be affected by any vacancy in the membership
 
 3 Meetings of the Council shall be held at such times and places as the Council or its Chairperson from time to time appoints.
 
-4 Subject to subsection (5) of this section, the Chairperson may at any time call a special meeting of the Council and the Chairperson shall call a special meeting of the Council whenever requested to do so in writing by 2 members of the Council.
+4 Subject to subsection (5), the Chairperson may at any time call a special meeting of the Council and the Chairperson shall call a special meeting of the Council whenever requested to do so in writing by 2 members of the Council.
 
 5 Not less than 5 working days' notice of every special meeting and of the business to be transacted at that meeting shall be given to each member for the time being in New Zealand, and no business other than that specified in the notice shall be transacted at that meeting.
 
@@ -1390,11 +1402,11 @@ The powers of the Council shall not be affected by any vacancy in the membership
 
 7 The decision of the Council on any matter shall be determined by a majority of the valid votes recorded on it.
 
-8 Notwithstanding subsection (7) of this section, a resolution signed or assented to in writing by 4 or more of the members of the Council for the time being in New Zealand, 2 of whom are members of the Board, shall have the same effect as a decision under that subsection.
+8 Notwithstanding subsection (7), a resolution signed or assented to in writing by 4 or more of the members of the Council for the time being in New Zealand, 2 of whom are members of the Board, shall have the same effect as a decision under that subsection.
 
 9 At any meeting of the Council the person for the time being acting as the Chairperson shall have a deliberative vote, and, in the case of an equality of votes, shall also have a casting vote.
 
-10 Subject to this Act and the rules of the Trust made under section 60 of this Act, the Council may regulate its own procedure.
+10 Subject to this Act and the rules of the Trust made under section 60, the Council may regulate its own procedure.
 
 94 Chairperson of Board entitled to attend meetings of Council
 Notice in writing of every meeting of the Council and of the business proposed to be transacted at that meeting shall be given to the Chairperson of the Board, and the Chairperson or, in his or her absence, the Deputy Chairperson of the Board (if any) shall be entitled to attend and speak at any such meeting, but shall not be entitled to vote on any question.
@@ -1402,9 +1414,9 @@ Notice in writing of every meeting of the Council and of the business proposed t
 95 Proceedings not affected by certain irregularities
 No act or proceeding of the Council, or of any person acting as a member of the Council, shall be invalidated
 
-a By reason of a vacancy in the membership of the Council at the time of the act or proceeding; or
+a by reason of a vacancy in the membership of the Council at the time of the act or proceeding; or
 
-b Because of the subsequent discovery that there was some defect in the appointment of any person so acting or that he or she was incapable of being a member or had ceased to be a member.
+b because of the subsequent discovery that there was some defect in the appointment of any person so acting or that he or she was incapable of being a member or had ceased to be a member.
 
 96 Members of Council not personally liable
 No member of the Council or of any committee of the Council shall be personally liable for any default made by the Council or any committee of the Council, or by any member of it, in good faith in the course of its operations.
@@ -1418,178 +1430,178 @@ The members of the Council are entitled to be paid, out of money appropriated by
 
 1 Every person commits an offence who intentionally
 
-a Destroys, damages, or modifies any historic place, historic area, property, or thing vested in or under the control of the Trust; or
+a destroys, damages, or modifies any historic place, historic area, property, or thing vested in or under the control of the Trust; or
 
-b Causes any such area, place, property, thing, or land to be destroyed, damaged, or modified,without the authority of the Trust or any person or body authorised by the Trust in that behalf.
+b causes any such area, place, property, thing, or land to be destroyed, damaged, or modified,without the authority of the Trust or any person or body authorised by the Trust in that behalf.
 
-2 Every person who commits an offence against subsection (1) of this section is liable on summary conviction,
+2 Every person who commits an offence against subsection (1) is liable on summary conviction,
 
-a In the case of destruction, to a fine not exceeding $100,000:
+a in the case of destruction, to a fine not exceeding $100,000:
 
-b In the case of damage or modification, to a fine not exceeding $40,000.
+b in the case of damage or modification, to a fine not exceeding $40,000.
 
 98 Offence of destruction, damage, or modification of land subject to heritage covenant
 
 1 Every person commits an offence in respect of an historic place, historic area, wahi tapu, or wahi tapu area protected by a heritage covenant who, knowing or having reasonable cause to suspect that the historic place, historic area, wahi tapu, or wahi tapu area is protected by a heritage covenant, intentionally
 
-a Destroys, damages, or modifies that historic place, historic area, wahi tapu, or wahi tapu area, or any feature or part of that historic place, historic area, wahi tapu, or wahi tapu area; or
+a destroys, damages, or modifies that historic place, historic area, wahi tapu, or wahi tapu area, or any feature or part of that historic place, historic area, wahi tapu, or wahi tapu area; or
 
-b Causes that historic place, historic area, wahi tapu, or wahi tapu area, or any feature or part of that historic place, historic area, wahi tapu, or wahi tapu area to be destroyed, damaged, or modified,otherwise than in accordance with the provisions of that heritage covenant.
+b causes that historic place, historic area, wahi tapu, or wahi tapu area, or any feature or part of that historic place, historic area, wahi tapu, or wahi tapu area to be destroyed, damaged, or modified,otherwise than in accordance with the provisions of that heritage covenant.
 
-2 Every person who commits an offence against subsection (1) of this section is liable on summary conviction,
+2 Every person who commits an offence against subsection (1) is liable on summary conviction,
 
-a In the case of destruction, to a fine not exceeding $100,000:
+a in the case of destruction, to a fine not exceeding $100,000:
 
-b In the case of damage or modification, to a fine not exceeding $40,000.
+b in the case of damage or modification, to a fine not exceeding $40,000.
 
 99 Offence of destruction, damage, or modification of archaeological site
 
 1 Every person commits an offence who, knowing or having reasonable cause to suspect that a site is an archaeological site,
 
-a Destroys, damages, or modifies that archaeological site; or
+a destroys, damages, or modifies that archaeological site; or
 
-b Causes that archaeological site to be destroyed, damaged, or modified,without the authority of the Trust or any person or body authorised by the Trust in that behalf.
+b causes that archaeological site to be destroyed, damaged, or modified,without the authority of the Trust or any person or body authorised by the Trust in that behalf.
 
-2 Every person who commits an offence against subsection (1) of this section is liable on summary conviction,
+2 Every person who commits an offence against subsection (1) is liable on summary conviction,
 
-a In the case of destruction, to a fine not exceeding $100,000:
+a in the case of destruction, to a fine not exceeding $100,000:
 
-b In the case of damage or modification, to a fine not exceeding $40,000.
+b in the case of damage or modification, to a fine not exceeding $40,000.
 
 100 Offence of breaching conditions of authority
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who contravenes or fails to comply with any condition imposed under section 14(1) or section 15 of this Act.
+Every person commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who contravenes or fails to comply with any condition imposed under section 14(1) or section 15.
 
 101 Offence of refusing access, etc
 Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,500 who
 
-a Refuses to let a person authorised by or under section 21 of this Act to have access to an archaeological site or historic place for a purpose referred to in that section; or
+a refuses to let a person authorised by or under section 21 to have access to an archaeological site or historic place for a purpose referred to in that section; or
 
-b Obstructs any person
+b obstructs any person
 
-i In the carrying out of any investigation under section 13 of this Act; or
+i in the carrying out of any investigation under section 13; or
 
-ii In the carrying out of any investigation pursuant to a condition imposed under section 15(1) of this Act; or
+ii in the carrying out of any investigation pursuant to a condition imposed under section 15(1); or
 
-iii In the exercise of any power referred to in section 21(3) of this Act.
+iii in the exercise of any power referred to in section 21(3).
 
 102 Offence of carrying out archaeological investigation in breach of conditions or without written permission
 
-1 Every person who carries out an archaeological investigation that is subject to any conditions imposed by the Trust under section 18(1) of this Act commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who contravenes, or fails to comply with, any of those conditions.
+1 Every person who carries out an archaeological investigation that is subject to any conditions imposed by the Trust under section 18(1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who contravenes, or fails to comply with, any of those conditions.
 
-2 Every person commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who carries out an archaeological investigation without the written permission of the Trust under section 18(1) of this Act.
+2 Every person commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who carries out an archaeological investigation without the written permission of the Trust under section 18(1).
 
 103 Offence of destruction, damage, or modification while historic place or wahi tapu has interim registration
 
 1 Every person commits an offence who
 
-a Demolishes, damages, modifies, or extends any historic place that has interim registration under section 26 of this Act, or causes any such place to be demolished, damaged, modified, or extended; or
+a demolishes, damages, modifies, or extends any historic place that has interim registration under section 26, or causes any such place to be demolished, damaged, modified, or extended; or
 
-b Destroys, damages, or modifies any wahi tapu that has interim registration under section 26 of this Act, or causes any such wahi tapu to be destroyed, damaged, or modified,without (in the case of an historic place) the authority of the Trust or any person or body authorised by the Trust for the purpose or (in the case of a wahi tapu) the authority of the Maori Heritage Council or any person or body authorised by the Council for the purpose.
+b destroys, damages, or modifies any wahi tapu that has interim registration under section 26, or causes any such wahi tapu to be destroyed, damaged, or modified,without (in the case of an historic place) the authority of the Trust or any person or body authorised by the Trust for the purpose or (in the case of a wahi tapu) the authority of the Maori Heritage Council or any person or body authorised by the Council for the purpose.
 
-2 Every person who commits an offence against subsection (1) of this section is liable on summary conviction,
+2 Every person who commits an offence against subsection (1) is liable on summary conviction,
 
-a In the case of demolition or destruction, to a fine not exceeding $100,000:
+a in the case of demolition or destruction, to a fine not exceeding $100,000:
 
-b In the case of alteration, extension, damage, or modification, to a fine not exceeding $40,000.
+b in the case of alteration, extension, damage, or modification, to a fine not exceeding $40,000.
 
 104 Other offences
 Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,500 who, without the authority of the Trust or any person or body authorised by the Trust in that behalf,
 
-a Intentionally enters upon any land or historic place vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
+a intentionally enters upon any land or historic place vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
 
-b Intentionally takes any animal or vehicle upon any land vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
+b intentionally takes any animal or vehicle upon any land vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
 
-c Intentionally lights any fire on any land vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
+c intentionally lights any fire on any land vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
 
-d Intentionally lights or causes or permits to be lit on any land, other than land vested in or under the control of the Trust, a fire which he or she knows or ought to have known to be likely to spread into, and which spreads into and damages and destroys, any property or thing vested in or under the control of the Trust; or
+d intentionally lights or causes or permits to be lit on any land, other than land vested in or under the control of the Trust, a fire which he or she knows or ought to have known to be likely to spread into, and which spreads into and damages or destroys, any property or thing vested in or under the control of the Trust; or
 
-e Unlawfully alters, obliterates, defaces, pulls up, removes, or destroys any boundary mark, plaque, sign, or poster on any land vested in or under the control of the Trust; or
+e unlawfully alters, obliterates, defaces, pulls up, removes, or destroys any boundary mark, plaque, sign, or poster on any land vested in or under the control of the Trust; or
 
-f Alters, obliterates, defaces, pulls up, removes, or destroys any plaque or sign supplied and erected by the Trust on any land or building, other than any land or building vested in or under the control of the Trust, and where the consent of the owner of the land or building has not first been obtained; or
+f alters, obliterates, defaces, pulls up, removes, or destroys any plaque or sign supplied and erected by the Trust on any land or building, other than any land or building vested in or under the control of the Trust, and where the consent of the owner of the land or building has not first been obtained; or
 
-g Intentionally takes or removes, or causes to be taken or removed, from any land or building vested in or under the control of the Trust, any property or thing vested in or under the control of the Trust; or
+g intentionally takes or removes, or causes to be taken or removed, from any land or building vested in or under the control of the Trust, any property or thing vested in or under the control of the Trust; or
 
-h Receives any property or thing vested in or under the control of the Trust knowing the same to have been removed unlawfully from any land or building vested in or under the control of the Trust; or
+h receives any property or thing vested in or under the control of the Trust knowing the same to have been removed unlawfully from any land or building vested in or under the control of the Trust; or
 
-i Fails to comply with an order made under section 105 of this Act; or
+i fails to comply with an order made under section 105; or
 
-j Fails to carry out pest and weed control, to maintain land in a clean and safe condition, or to take any necessary protective measures, as required by section 105(2)(c) of this Act.
+j fails to carry out pest and weed control, to maintain land in a clean and safe condition, or to take any necessary protective measures, as required by section 105(2)(c).
 
 105 Court may stay exercise of rights under resource consent
 
 1 Where the owner or occupier of any land or place subject to
 
-a A requirement for a heritage order made by the Trust; or
+a a requirement for a heritage order made by the Trust; or
 
-b A heritage order issued by the Trust; or
+b a heritage order issued by the Trust; or
 
-c Interim registration under this Actis convicted of an offence against section 338(1)(a) of the Resource Management Act 1991 (being an offence in respect of section 9(2) of that Act) or against section 103 of this Act, being an offence in respect of that land or place, then, in addition to any penalty it may impose under those sections, a Court may make an order suspending for such period not exceeding 5 years as the Court thinks fit
+c interim registration under this Actis convicted of an offence against section 338(1)(a) of the Resource Management Act 1991 (being an offence in respect of section 9(2) of that Act) or against section 103, being an offence in respect of that land or place, then, in addition to any penalty it may impose under those sections, a court may make an order suspending for such period not exceeding 5 years as the court thinks fit
 
-d The exercise of any rights under a resource consent granted to that person in respect of that land; or
+d the exercise of any rights under a resource consent granted to that person in respect of that land; or
 
-e The carrying out of any activity the person is permitted to carry out under a district plan; or
+e the carrying out of any activity the person is permitted to carry out under a district plan; or
 
-f All such rights and activities.
+f all such rights and activities.
 
 2 While a suspension remains in force under this section in respect of a resource consent, the following provisions apply to that consent and the land to which it applies:
 
-a No rights shall be exercisable under the suspended consent:
+a no rights shall be exercisable under the suspended consent:
 
-b All activities for which other resource consents could be sought in respect of the land shall be deemed to be prohibited activities:
+b all activities for which other resource consents could be sought in respect of the land shall be deemed to be prohibited activities:
 
-c The holder shall
+c the holder shall
 
-i Carry out pest and weed control measures on the land in accordance with the heritage order (if any) applying to the land; and
+i carry out pest and weed control measures on the land in accordance with the heritage order (if any) applying to the land; and
 
-ii Take such other measures as may be necessary to maintain the land in a clean and safe condition; and
+ii take such other measures as may be necessary to maintain the land in a clean and safe condition; and
 
-iii Take such other measures as may be necessary to protect either
+iii take such other measures as may be necessary to protect either
 
-A The place and surrounding area specified in the requirement for a heritage order or specified in the heritage order; or
+A the place and surrounding area specified in the requirement for a heritage order or specified in the heritage order; or
 
-B The place or wahi tapu for which interim registration is proposed.
+B the place or wahi tapu for which interim registration is proposed.
 
-3 Nothing in this section prevents an owner or occupier of any land subject to a Court order under this section agreeing with the local territorial authority to develop a public amenity on that land in accordance with the heritage order (if any) applying to the land.
+3 Nothing in this section prevents an owner or occupier of any land subject to a court order under this section agreeing with the local territorial authority to develop a public amenity on that land in accordance with the heritage order (if any) applying to the land.
 
-4 Before a local territorial authority enters into an agreement under subsection (3) of this section, it shall consult the Trust.
+4 Before a local territorial authority enters into an agreement under subsection (3), it shall consult the Trust.
 
 5 For the purposes of this section, a right exercisable under a resource consent includes (but is not limited to) the right to carry out all or any of the following:
 
-a Any work authorised on the land concerned, including
+a any work authorised on the land concerned, including
 
-i The construction of any new building, structure, or other fixture; and
+i the construction of any new building, structure, or other fixture; and
 
-ii Any alteration or extension to any existing building, structure, or other fixture on that land:
+ii any alteration or extension to any existing building, structure, or other fixture on that land:
 
-b Any subdivision of the land:
+b any subdivision of the land:
 
-c Any use of the land that is permissible under section 9 of the Resource Management Act 1991.
+c any use of the land that is permissible under section 9 of the Resource Management Act 1991.
 
 106 Strict liability and defences
 
-1 In any prosecution for an offence against section 99 or section 100 or section 103 of this Act, it is not necessary to prove that the defendant intended to commit the offence.
+1 In any prosecution for an offence against section 99 or section 100 or section 103, it is not necessary to prove that the defendant intended to commit the offence.
 
-2 Subject to subsection (3) of this section, it is a defence to a prosecution of the kind referred to in subsection (1) of this section if the defendant proves
+2 Subject to subsection (3), it is a defence to a prosecution of the kind referred to in subsection (1) if the defendant proves
 
-a That
+a that
 
-i The action or event was necessary for the purposes of saving or protecting life or preventing serious damage to property or any historic place or wahi tapu; and
+i the action or event was necessary for the purposes of saving or protecting life or preventing serious damage to property or any historic place or wahi tapu; and
 
-ii The conduct of the defendant was reasonable in the circumstances; and
+ii the conduct of the defendant was reasonable in the circumstances; and
 
-iii The effects of the action or event were adequately mitigated or remedied by the defendant after it occurred; or
+iii the effects of the action or event were adequately mitigated or remedied by the defendant after it occurred; or
 
-b That the action or event to which the prosecution relates was due to an event beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage, and in each case
+b that the action or event to which the prosecution relates was due to an event beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage, and in each case
 
-i The action or event could not reasonably have been foreseen or been provided against by the defendant; and
+i the action or event could not reasonably have been foreseen or been provided against by the defendant; and
 
-ii The effects of the action or event were adequately mitigated or remedied by the defendant after it occurred.
+ii the effects of the action or event were adequately mitigated or remedied by the defendant after it occurred.
 
-3 Except with the leave of the Court, subsection (2) of this section does not apply unless, within 7 days after the service of the summons or within such further time as the Court may allow, the defendant delivers to the prosecutor a written notice
+3 Except with the leave of the court, subsection (2) does not apply unless, within 7 days after the service of the summons or within such further time as the court may allow, the defendant delivers to the prosecutor a written notice
 
-a Stating that he or she intends to rely on subsection (2) of this section; and
+a stating that he or she intends to rely on subsection (2); and
 
-b Specifying the facts that support his or her reliance on that subsection.
+b specifying the facts that support his or her reliance on that subsection.
 
 107 Offender to give name and address
 
@@ -1599,7 +1611,7 @@ b Specifying the facts that support his or her reliance on that subsection.
 
 3 Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $2,000.
 
-4 The Trust may apply to the Court for a writ of injunction to restrain any person from breach of any duty or obligation imposed upon him or her by this Act, if he or she has threatened or already commenced to commit the breach or the Trust has reasonable cause to believe that such a breach is likely to occur.
+4 The Trust may apply to the court for a writ of injunction to restrain any person from breach of any duty or obligation imposed upon him or her by this Act, if he or she has threatened or already commenced to commit the breach or the Trust has reasonable cause to believe that such a breach is likely to occur.
 
 108 Time within which information may be laid
 Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 12 months from the time the offence was committed.
@@ -1617,72 +1629,72 @@ Notwithstanding anything in any enactment, any local authority (within the meani
 
 1 Where a notice or other document is to be served on a person for the purposes of this Act, it may be served
 
-a By delivering it personally to the person; or
+a by delivering it personally to the person; or
 
-b By delivering it at the usual or last known place of residence or business of the person, including by facsimile; or
+b by delivering it at the usual or last known place of residence or business of the person, including by facsimile; or
 
-c By sending it by pre-paid post addressed to the person at the usual or last known place of residence or business of the person.
+c by sending it by pre-paid post addressed to the person at the usual or last known place of residence or business of the person.
 
-2 Where a notice or other document is to be served on a body (whether incorporated or not) for the purposes of this Act, service on an officer of the body in accordance with subsection (1) of this section shall be deemed to be service on the body.
+2 Where a notice or other document is to be served on a body (whether incorporated or not) for the purposes of this Act, service on an officer of the body in accordance with subsection (1) shall be deemed to be service on the body.
 
-3 Where a notice or other document is to be served on a partnership for the purposes of this Act, service on any one of the partners in accordance with subsections (1) and (2) of this section shall be deemed to be service on the partnership.
+3 Where a notice or other document is to be served on a partnership for the purposes of this Act, service on any one of the partners in accordance with subsections (1) and (2) shall be deemed to be service on the partnership.
 
-4 Where a notice or other document is sent by post to a person in accordance with subsection (1)(c) of this section, it shall be deemed to be received by the person at the time at which the letter would have been delivered in the ordinary course of the post.
+4 Where a notice or other document is sent by post to a person in accordance with subsection (1)(c), it shall be deemed to be received by the person at the time at which the letter would have been delivered in the ordinary course of the post.
 
 113 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
 
-a Prescribing the procedure for the nomination and subsequent election of 3 members of the Trust Board from the members of the Trust:
+a prescribing the procedure for the nomination and subsequent election of 3 members of the Trust Board from the members of the Trust:
 
-b Prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and prescribing fines not exceeding $5,000 in respect of any such offence:
+b prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and prescribing fines not exceeding $5,000 in respect of any such offence:
 
-c Prescribing the form or content of applications, notices, or any other documentation or information as may be required under this Act and the manner in which such documentation is to be provided:
+c prescribing the form or content of applications, notices, or any other documentation or information as may be required under this Act and the manner in which such documentation is to be provided:
 
-d Providing for such other matters as may be contemplated by or necessary for giving full effect to this Act and its due administration.
+d providing for such other matters as may be contemplated by or necessary for giving full effect to this Act and its due administration.
 
 
 
 114 Registration or classification under former Act
 
-1 All buildings classified under paragraph (a) or paragraph (b) of section 35(1) of the Historic Places Act 1980, and all places recorded under section 51 of that Act, shall, notwithstanding subsection (8) of this section, be deemed to have final registration in Category I of the Register.
+1 All buildings classified under paragraph (a) or paragraph (b) of section 35(1) of the Historic Places Act 1980, and all places recorded under section 51 of that Act, shall, notwithstanding subsection (8), be deemed to have final registration in Category I of the register.
 
 2 Where a proposal for classification made under section 35 or section 49 of the Historic Places Act 1980, or an application made under section 50(1) of that Act, has not been finally dealt with before the commencement of this Act, those proposals or applications shall be dealt with and completed after that date in accordance with the provisions of that Act as if this Act had not been enacted.
 
-3 The following shall be deemed to have final registration in Category II of the Register:
+3 The following shall be deemed to have final registration in Category II of the register:
 
-a All buildings classified under paragraph (c) or paragraph (d) of section 35(1) of the Historic Places Act 1980:
+a all buildings classified under paragraph (c) or paragraph (d) of section 35(1) of the Historic Places Act 1980:
 
-b All archaeological sites registered under section 43(1) of that Act.
+b all archaeological sites registered under section 43(1) of that Act.
 
 4 All historic areas classified under section 49 of the Historic Places Act 1980 shall be deemed to have final registration under this Act as historic areas.
 
 5 In respect of traditional sites declared under section 50(1) of the Historic Places Act 1980, the following provisions shall apply:
 
-a Notwithstanding paragraph (b) of this subsection, traditional sites will be deemed to have final registration as wahi tapu:
+a notwithstanding paragraph (b), traditional sites will be deemed to have final registration as wahi tapu:
 
-b Within 12 months of the date of enactment of this Act, the Maori Heritage Council shall reassess every such site on an individual basis, and shall enter it in the part of the Register relating to
+b within 12 months of the date of enactment of this Act, the Maori Heritage Council shall reassess every such site on an individual basis, and shall enter it in the part of the register relating to
 
-i Historic places; or
+i historic places; or
 
-ii Historic areas; or
+ii historic areas; or
 
-iii Wahi tapu; or
+iii wahi tapu; or
 
-iv Wahi tapu areas.
+iv wahi tapu areas.
 
 6 Within 12 months after the commencement of this Act, the Trust shall notify each owner concerned of
 
-a The provisions of this section that affect the owner; and
+a the provisions of this section that affect the owner; and
 
-b The relevant provisions of Part 2 of this Act.
+b the relevant provisions of Part 2.
 
-7 Where the Trust fails to notify an owner in accordance with subsection (4) of this section, the registration conferred by this section shall be deemed to have been removed under section 31(6) or section 32(6) of this Act.
+7 Where the Trust fails to notify an owner in accordance with subsection (4), the registration conferred by this section shall be deemed to have been removed under section 31(6) or section 32(6).
 
 8 Every notification to a District Land Registrar made under section 51 of the Historic Places Act 1980 shall be deemed to lapse at the date of commencement of this Act; and the Trust shall, within 3 months after that date, notify the owner of the land or building concerned and the District Land Registrar of the district concerned accordingly; and the District Land Registrar shall thereupon cancel the notification on every relevant certificate of title.
 
 115 Savings
 
-1 Notwithstanding the repeal of the Historic Places Act 1980 by section 118(1) of this Act, all rules made by the Board under section 17 of that Act (other than rules relating to the election of members of the Board) shall continue to have effect as if that section had not been repealed, and may be amended or revoked under section 60 of this Act.
+1 Notwithstanding the repeal of the Historic Places Act 1980 by section 118(1), all rules made by the Board under section 17 of that Act (other than rules relating to the election of members of the Board) shall continue to have effect as if that section had not been repealed, and may be amended or revoked under section 60 of this Act.
 
 2 This Act must continue to be interpreted and administered to give effect to the principles of the Treaty of Waitangi, unless the context otherwise requires, even though this Act is no longer
 
@@ -1696,7 +1708,7 @@ b included in Schedule 1 of the Conservation Act 1987.
 
 2 Every right of appeal under section 48(1) of the Historic Places Act 1980 that was exercisable immediately before the date of commencement of this Act, but was not exercised before that date, shall be exercisable as if this Act had not been passed; and every such appeal shall be determined as if this Act had not been passed.
 
-3 Where an application to which subsection (1) of this section applies is determined in accordance with that subsection, every person who would have had a right of appeal against that determination under section 48 of the Historic Places Act 1980, if the determination had been made immediately before the commencement of this Act, may exercise that right of appeal as if this Act had not been passed; and every such appeal shall be determined as if this Act had not been passed.
+3 Where an application to which subsection (1) applies is determined in accordance with that subsection, every person who would have had a right of appeal against that determination under section 48 of the Historic Places Act 1980, if the determination had been made immediately before the commencement of this Act, may exercise that right of appeal as if this Act had not been passed; and every such appeal shall be determined as if this Act had not been passed.
 
 4 Every appeal lodged under section 48(1) of the Historic Places Act 1980 before the date of commencement of this Act, but not determined before that date, shall be determined as if this Act had not been passed.
 
