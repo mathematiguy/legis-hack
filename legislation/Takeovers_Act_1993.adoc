@@ -4,17 +4,25 @@
 
 1 This Act may be cited as the Takeovers Act 1993.
 
-2 Except as provided in subsection (3) of this section, this Act shall come into force on the 1st day of July 1994.
+2 Except as provided in subsection (3), this Act shall come into force on 1July1994.
 
-3 Section 17 and Part 3 come into force on 1 June 2001.
+3 Section 17 and Part 3 come into force on 1June 2001.
 
 2 Interpretation
 
 1 In this Act, unless the context otherwise requires,
 
+*code company* means a company that
+
+a is a party to a listing agreement with a registered exchange and that has securities that confer voting rights quoted on the registered exchange's securities market; or
+
+b was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12months before any date or the occurrence of any event referred to in the code); or
+
+c has 50or more shareholders
+
 *company* has the same meaning as in section 2(1) of the Companies Act 1993
 
-*Court* means, in relation to any matter, the Court before which the matter is to be determined
+*court* means, in relation to any matter, the court before which the matter is to be determined
 
 *director* means, in relation to a company or other body corporate, any person occupying the position of a director of the company or body by whatever name called
 
@@ -32,43 +40,31 @@ c material subsequently derived from information recorded by that means
 
 *Panel*
 
-a means the Takeovers Panel established under Part 1; or
+a means the Takeovers Panel established under Part1; or
 
-b for the purposes of determining any matter or class of matter specified in a determination under section 7A, means the division of the Panel specified in the determination in accordance with section 7C(1)(a).
-
-*public issuer*
+b for the purposes of determining any matter or class of matter specified in a determination under section7A, means the division of the Panel specified in the determination in accordance with section7C(1)(a)
 
 *quoted*, in relation to securities of a person, means securities of the person that are approved for trading on a registered exchange's securities market (and, for the avoidance of doubt, securities do not cease to be quoted merely because trading in those securities is suspended)
 
 *registered exchange* has the meaning set out in section 2(1) of the Securities Markets Act 1988
 
-*registered exchange's securities market* has the meaning set out in section 2(1) of the Securities Markets Act 1988.
+*registered exchange's securities market* has the meaning set out in section 2(1) of the Securities Markets Act 1988
 
-*Registrar* means a person who for the time being holds the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993
+*Registrar* means a person who for the time being holds the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act1993
 
-*Securities Commission* means the Securities Commission established by section 9 of the Securities Act 1978
+*Securities Commission* means the Securities Commission established by section9 of the Securities Act 1978
 
-*security*, in relation to a specified company, means
+*security*, in relation to a code company, means
 
 a an equity security within the meaning of section 2 of the Securities Act 1978, whether or not the security carries voting rights:
 
-b a debt security within the meaning of section 2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the specified company:
+b a debt security within the meaning of section 2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the code company:
 
-c a participatory security within the meaning of section 2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the specified company,and includes a security that is convertible, at the option of the security holder, into a security of the type referred to in paragraph (a) or paragraph (b) or paragraph (c) of this definition
+c a participatory security within the meaning of section2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the code company,and includes a security that is convertible, at the option of the security holder, into a security of the type referred to in paragraph(a) or paragraph(b) or paragraph(c)
 
-*specified company* means a company that
+*takeovers code* means the regulations made under section19
 
-a is a party to a listing agreement with a registered exchange and that has securities that confer voting rights quoted on the registered exchange's securities market; or
-
-b was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
-
-c has 50 or more shareholders
-
-*stock exchange*
-
-*takeovers code* means the regulations made under section 19
-
-*voting right* means a currently exercisable right to cast a vote at meetings of shareholders of a company, not being a right to vote that is exercisable only in 1 or more of the following circumstances
+*voting right* means a currently exercisable right to cast a vote at meetings of shareholders of a company, not being a right to vote that is exercisable only in 1or more of the following circumstances:
 
 a during a period in which a payment or distribution (or part of a payment or distribution) in respect of the security that confers the voting right is in arrears or some other default exists:
 
@@ -82,7 +78,7 @@ e during the liquidation of the company:
 
 f in respect of a special, immaterial, or remote matter that is inconsequential to control of the company.
 
-2 In sections 32, 33, and 33AA and in subpart 2 of Part 3 (which contain the enforcement powers of the Panel and the Court), unless the context otherwise requires, *contravene the takeovers code* or *not act in compliance with the takeovers code* includes
+2 In sections 32, 33, and 33AA and in subpart2 of Part3 (which contain the enforcement powers of the Panel and the court), unless the context otherwise requires, *contravene the takeovers code* or *not act in compliance with the takeovers code* includes
 
 a a contravention of the takeovers code or a term or condition of an exemption from the takeovers code; or
 
@@ -104,13 +100,13 @@ The object of this Act is to
 
 a establish a panel to be called the Takeovers Panel:
 
-b empower the Minister, in consultation with the Panel, to formulate and make recommendations concerning the takeovers code (which sets out the rules applying to takeovers of specified companies):
+b empower the Minister, in consultation with the Panel, to formulate and make recommendations concerning the takeovers code (which sets out the rules applying to takeovers of code companies):
 
 c provide for the administration and enforcement of the takeovers code:
 
-ca provide criminal liability for false or misleading statements or information in relation to takeovers of specified companies:
+ca provide criminal liability for false or misleading statements or information in relation to takeovers of code companies:
 
-d empower the Panel to keep under review, and promote public understanding of, the law relating to takeovers of specified companies:
+d empower the Panel to keep under review, and promote public understanding of, the law relating to takeovers of code companies:
 
 e empower the Panel to co-operate with overseas regulators.
 
@@ -128,13 +124,13 @@ e empower the Panel to co-operate with overseas regulators.
 
 6 Membership of Panel
 
-1 The Panel shall consist of not less than 5 and not more than 11 members.
+1 The Panel shall consist of not less than 5and not more than 11members.
 
-2 Despite clause 1(2) of Schedule 5 of the Crown Entities Act 2004, 1 member must be appointed by the Governor-General, on the recommendation of the Minister, as chairperson of the Panel, and another must be appointed by the Governor-General, on the recommendation of the Minister, as deputy chairperson of the Panel.
+2 Despite clause 1(2) of Schedule5 of the Crown Entities Act 2004, 1member must be appointed by the Governor-General, on the recommendation of the Minister, as chairperson of the Panel, and another must be appointed by the Governor-General, on the recommendation of the Minister, as deputy chairperson of the Panel.
 
 2A The chairperson and any deputy chairperson of the Panel may only be removed from office as chairperson or deputy chairperson for just cause.
 
-3 At least 1 member of the Panel must be a barrister, a solicitor, or a barrister and solicitor of the High Court of not less than 7 years' practice.
+3 At least 1member of the Panel must be a barrister, a solicitor, or a barrister and solicitor of the High Court of not less than 7years' practice.
 
 4 The Minister must not recommend a person for appointment as a member of the Panel unless, in the opinion of the Minister, that person is qualified or experienced in business, accounting, or law.
 
@@ -144,29 +140,29 @@ e empower the Panel to co-operate with overseas regulators.
 
 7A Panel may act by divisions
 
-1 The Panel or Chairperson may determine that the powers of the Panel in relation to any matter or class of matters may be exercised by separate divisions of the Panel.
+1 The Panel or chairperson may determine that the powers of the Panel in relation to any matter or class of matters may be exercised by separate divisions of the Panel.
 
-2 However, the Panel or Chairperson must not determine that a separate division of the Panel may exercise
+2 However, the Panel or chairperson must not determine that a separate division of the Panel may exercise
 
-a any power in connection with the performance of its functions under section 8(1)(a):
+a any power in connection with the performance of its functions under section8(1)(a):
 
-b the power of the Panel to grant an exemption under section 45(1)(b).
+b the power of the Panel to grant an exemption under section45(1)(b).
 
-3 The Panel or Chairperson may revoke or amend a determination made under subsection (1).
+3 The Panel or chairperson may revoke or amend a determination made under subsection(1).
 
-4 Every determination (or revocation or amendment of a determination) must be recorded in writing and signed by 3 members or the Chairperson.
+4 Every determination (or revocation or amendment of a determination) must be recorded in writing and signed by 3members or the chairperson.
 
-5 The powers in this section are an exception to clause 14 of Schedule 5 of the Crown Entities Act 2004.
+5 The powers in this section are an exception to clause 14 of Schedule5 of the Crown Entities Act 2004.
 
 6 Clause 7 of Schedule 5 of that Act applies to meetings of a special division of the Panel.
 
-7B Membership and Chairperson of division
+7B Membership and chairperson of division
 
-1 Each division consists of the members who are assigned to it for the time being by the Panel or the Chairperson.
+1 Each division consists of the members who are assigned to it for the time being by the Panel or the chairperson.
 
-1A Each division must have at least 3 members.
+1A Each division must have at least 3members.
 
-2 If the members appointed to a division do not include either the Chairperson or the Deputy Chairperson, the Panel or Chairperson must nominate 1 of those members as Chairperson of that division.
+2 If the members appointed to a division do not include either the chairperson or the deputy chairperson, the Panel or chairperson must nominate oneof those members as chairperson of that division.
 
 3 
 
@@ -174,7 +170,7 @@ b the power of the Panel to grant an exemption under section 45(1)(b).
 
 7C Powers of division
 
-1 For the purposes of determining any matter or class of matter specified in a determination under section 7A,
+1 For the purposes of determining any matter or class of matter specified in a determination under section7A,
 
 a the Panel consists of the division of the Panel specified in the determination; and
 
@@ -186,15 +182,15 @@ b the powers of any such division are not affected by any changes or vacancies i
 
 1 The Panel has the following functions:
 
-a to keep under review the law relating to takeovers of specified companies and to recommend to the Minister any changes to that law that it considers necessary:
+a to keep under review the law relating to takeovers of code companies and to recommend to the Minister any changes to that law that it considers necessary:
 
 b 
 
-c for the purposes of paragraph (a), to keep under review practices relating to takeovers of specified companies:
+c for the purposes of paragraph(a), to keep under review practices relating to takeovers of code companies:
 
-d to investigate any act or omission or practice for the purpose of exercising its powers and functions under Part 3 of this Act:
+d to investigate any act or omission or practice for the purpose of exercising its powers and functions under Parts3 and 4:
 
-e to make determinations and orders and make applications to the Court in accordance with Part 3 of this Act:
+e to make determinations and orders and make applications to the court in accordance with Part 3:
 
 ea to co-operate with any overseas regulator and, for that purpose (but without limiting this function), to communicate, or make arrangements for communicating, to that overseas regulator information obtained by the Panel in the performance of its functions and powers (whether or not confidential) that the Panel considers may assist that overseas regulator in the performance of its functions:
 
@@ -202,7 +198,7 @@ f to promote public understanding of the law and practice relating to takeovers:
 
 g to perform such other functions as are conferred on it by this Act.
 
-2 In the exercise of its functions and powers under Part 3 of this Act and the takeovers code, the Panel shall comply with the principles of natural justice.
+2 In the exercise of its functions and powers under Parts3 and 4 and the takeovers code, the Panel shall comply with the principles of natural justice.
 
 3 Except as expressly provided otherwise in this or any other Act, the Panel must act independently in performing its statutory functions and duties, and exercising its statutory powers, under
 
@@ -220,7 +216,7 @@ b any other Act that expressly provides for the functions, powers, or duties of 
 
 2 No proceedings, civil or criminal, lie against any member of the Panel, or any officer or employee of the Panel, or any member of a committee of the Panel, for anything that person may do or say or fail to do or say in the course of the operations of the Panel, unless it is shown by the Panel that the person acted in bad faith.
 
-3 Nothing in subsections (1) and (2) of this section applies in respect of proceedings for
+3 Nothing in subsections(1) and (2) applies in respect of proceedings for
 
 a an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
 
@@ -246,7 +242,7 @@ c the offence of attempting to commit an offence against section 78 or section 7
 
 9 
 
-10 For the purposes of clause 3 of Part 2 of Schedule 1 to the Defamation Act 1992, any statement, document, determination, order, or decision made by the Panel in the exercise or intended exercise of any of its functions or powers shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+10 For the purposes of clause 3 of Part2 of Schedule 1 of the Defamation Act 1992, any statement, document, determination, order, or decision made by the Panel in the exercise or intended exercise of any of its functions or powers shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
 11 
 
@@ -290,7 +286,7 @@ b considers may assist the Commerce Commission in the exercise of the Commerce C
 
 17 Annual fee in respect of funding of Panel
 
-1 Each specified company shall pay such annual fee in respect of the funding of the Panel as may be prescribed by regulations made under this Act.
+1 Each code company shall pay such annual fee in respect of the funding of the Panel as may be prescribed by regulations made under this Act.
 
 2 Any such fee shall be
 
@@ -305,13 +301,13 @@ c recoverable by the Registrar in any court of competent jurisdiction as a debt 
 17A Panel deemed to be public authority
 
 18 Further provisions applying to Panel
-The provisions set out in the Schedule to this Act apply in respect of the Panel.
+The provisions set out in the Schedule apply in respect of the Panel.
 
 2 Takeovers code
 
 19 Power to make takeovers code
 
-1 The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out the rules applying to takeovers of specified companies (a *takeovers code*).
+1 The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out the rules applying to takeovers of code companies (a *takeovers code*).
 
 2 The Minister must formulate and make his or her recommendations in accordance with this Part.
 
@@ -321,7 +317,7 @@ The provisions set out in the Schedule to this Act apply in respect of the Panel
 
 a encouraging the efficient allocation of resources:
 
-b encouraging competition for the control of specified companies:
+b encouraging competition for the control of code companies:
 
 c assisting in ensuring that the holders of securities in a takeover are treated fairly:
 
@@ -342,7 +338,7 @@ Without limiting the matters that the Minister may consider, the Minister must, 
 
 a that advance notice and publicity should be given of takeovers:
 
-b that in a takeover, the specified company and its security holders should be fully informed:
+b that in a takeover, the code company and its security holders should be fully informed:
 
 c that in a takeover, offers should be made to all security holders, that the consideration offered should be the same for all security holders, and that all security holders should have the same opportunity for acceptance:
 
@@ -350,7 +346,7 @@ d that incremental acquisitions and partial bids should be permitted:
 
 e that there should be rules to determine the price or prices payable for the acquisition of securities in a takeover:
 
-f for the compulsory acquisition of securities in a specified company at the option of offerors or security holders, or both:
+f for the compulsory acquisition of securities in a code company at the option of offerors or security holders, or both:
 
 g for the regulation of defensive tactics.
 
@@ -359,20 +355,20 @@ Without limiting section 19, but subject to section 23, regulations under that s
 
 a define the transactions or classes of transactions in relation to which the code applies and for that purpose define terms and expressions used in the code in such manner as it thinks fit:
 
-b prescribe the requirements in relation to offers and the making of offers to acquire securities in a specified company in a takeover including requirements as to the form and content of those offers, variations of those offers, the time during which those offers are to remain open for acceptance, the persons to whom those offers are to be made, and the manner of acceptance:
+b prescribe the requirements in relation to offers and the making of offers to acquire securities in a code company in a takeover including requirements as to the form and content of those offers, variations of those offers, the time during which those offers are to remain open for acceptance, the persons to whom those offers are to be made, and the manner of acceptance:
 
-c prescribe the information, statements, certificates, and documents or other matters that must be supplied to a specified company and the security holders of the specified company in a takeover:
+c prescribe the information, statements, certificates, and documents or other matters that must be supplied to a code company and the security holders of the code company in a takeover:
 
 d prescribe requirements for the registration by the Registrar of Companies of documents in connection with a takeover:
 
-e prescribe the duties and obligations of a specified company and the directors of the specified company and other persons in a takeover.
+e prescribe the duties and obligations of a code company and the directors of the code company and other persons in a takeover.
 
 23 Takeovers code not to apply in certain cases
 Nothing in the takeovers code shall require any person to comply with the code
 
-a by reason only of the fact that, on the coming into force of the code, a particular proportion of securities have been acquired in a specified company, whether by that person or any other person, before the code comes into force; or
+a by reason only of the fact that, on the coming into force of the code, a particular proportion of securities have been acquired in a code company, whether by that person or any other person, before the code comes into force; or
 
-b by reason of the acquisition of securities in a specified company, whether by that person or any other person, on or after the coming into force of the code, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the date on which an approved takeovers code comes into force.
+b by reason of the acquisition of securities in a code company, whether by that person or any other person, on or after the coming into force of the code, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the date on which an approved takeovers code comes into force.
 
 24 Co-ordination with Australia
 In formulating recommendations concerning a takeovers code, the Minister must have regard, as far as practicable, to any principles applying to the co-ordination of business law between Australia and New Zealand set out in any agreement or memorandum of understanding between the Governments of Australia and New Zealand.
@@ -416,7 +412,7 @@ d for the purpose of making records of that document, take possession of that do
 
 1 The Panel may, in accordance with sections 31BA and 31BB, request or approve the Registrar, or any other person authorised by the Panel or Registrar, to carry out an inspection by doing any of the things in section 31A(1).
 
-2 A request or approval under subsection (1) may relate to a particular case, or a class or classes of cases, specified by the Panel.
+2 A request or approval under subsection(1) may relate to a particular case, or a class or classes of cases, specified by the Panel.
 
 3 The fact that the Registrar, or any person authorised by the Panel or Registrar, does, or attempts to do, any of the things in section 31A(1) is sufficient evidence that that inspection has been requested or approved by the Panel unless there is evidence to the contrary.
 
@@ -443,17 +439,17 @@ b the Panel first considers, along with any other relevant matters, any matters 
 
 1 On the direction of the Panel or Registrar, a person who has made an inspection under section 31A must give all records and disclose all information acquired in the course of the inspection to any person specified by the Panel or Registrar for the purposes of
 
-a this Act, the Securities Act 1978, the Securities Markets Act 1988, or any of the Acts listed in the First Schedule of the Securities Act 1978:
+a this Act, the Securities Act 1978, the Securities Markets Act 1988, or any of the Acts listed in Schedule1 of the Securities Act 1978:
 
 b detecting and prosecuting offences against any other Act, but, in this case, those records and information are not admissible in any criminal proceedings against the person from whom the records or information were acquired or any person to whom the records or information relate:
 
 c assisting the Panel to comply with the request of an overseas regulator under section 31P or otherwise co-operate with an overseas regulator.
 
-2 The Minister may, by written notice, require the Panel or Registrar to give a direction under subsection (1), and the Panel or Registrar must comply with that requirement.
+2 The Minister may, by written notice, require the Panel or Registrar to give a direction under subsection(1), and the Panel or Registrar must comply with that requirement.
 
 2A Section 115 of the Crown Entities Act 2004 does not apply to that requirement.
 
-3 The Panel may, by written notice, require the Registrar to give a direction under subsection (1), and the Registrar must comply with that requirement.
+3 The Panel may, by written notice, require the Registrar to give a direction under subsection(1), and the Registrar must comply with that requirement.
 
 4 This section is subject to section 31X of this Act and to section 69N of the Securities Act 1978.
 
@@ -465,7 +461,7 @@ A person must not communicate to any other person any information acquired in th
 
 a in accordance with section 31C; or
 
-b for the purposes of this Act, the Securities Act 1978, the Securities Markets Act 1988, or any of the Acts listed in the Schedule 1of the Securities Act 1978; or
+b for the purposes of this Act, the Securities Act 1978, the Securities Markets Act 1988, or any of the Acts listed in Schedule 1 of the Securities Act 1978; or
 
 c in accordance with the Official Information Act 1982 or the Privacy Act 1993; or
 
@@ -475,7 +471,7 @@ d in the course of any criminal proceedings (but subject to the limitation in se
 Section 33B applies to information and documents provided under section 31A.
 
 31EB Protections from liability for persons exercising powers of inspection
-Without limiting any other statutory protection from liability, no person is liable for any act done or omitted to be done by the person in the performance or intended performance of the person's powers under section 31A, section 31C, or section 31E unless the person acts in bad faith.
+Without limiting any other statutory protection from liability, no person is liable for any act done or omitted to be done by the person in the performance or intended performance of the person's powers under section 31A, section 31C, or section31E unless the person acts in bad faith.
 
 
 
@@ -483,7 +479,7 @@ Without limiting any other statutory protection from liability, no person is lia
 
 1 Every person commits an offence who
 
-a refuses or fails, without reasonable excuse, to produce any document for inspection, or reproduce or assist in reproducing, in usable form, information recorded in that document, when required to do so under section 31A; or
+a refuses or fails, without reasonable excuse, to produce any document for inspection, or reproduce or assist in reproducing, in usable form, information recorded in that document, when required to do so under section31A; or
 
 b wilfully resists or obstructs, or deceives or attempts to deceive, the Panel or Registrar, or any person authorised by the Panel or Registrar, in carrying out an inspection under section 31A; or
 
@@ -491,19 +487,19 @@ c is not the Panel, the Registrar, or a person authorised by the Panel or Regist
 
 d wilfully contravenes section 31E.
 
-2 Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+2 Every person who commits an offence against subsection(1) is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 
 
 
 31G Rights of appeal
-A person who is aggrieved by an act or decision of the Panel or Registrar, or of any person authorised by the Panel or Registrar, under any of sections 31A to 31C may appeal against the act or decision to the Court.
+A person who is aggrieved by an act or decision of the Panel or Registrar, or of any person authorised by the Panel or Registrar, under any of sections31A to 31C may appeal against the act or decision to the court.
 
 31H Time for appeal
 An appeal under section 31G must be made
 
-a within 21 days of the date on which the person was notified of the act, decision, or refusal; or
+a within 21days of the date on which the person was notified of the act, decision, or refusal; or
 
-b within any longer time allowed by the Court.
+b within any longer time allowed by the court.
 
 31I Situation while appeal pending
 While any appeal made under section 31G is pending,
@@ -515,26 +511,26 @@ b no person is excused from fulfilling his or her obligations under any of those
 c information that is obtained as a result of an inspection to which the appeal relates is not admissible as evidence in any criminal proceedings against the person to whom the information relates.
 
 31J Determination of appeal
-The Court must determine the appeal by either dismissing the appeal or giving such directions or making such determination in the matter as it thinks fit.
+The court must determine the appeal by either dismissing the appeal or giving such directions or making such determination in the matter as it thinks fit.
 
 31K Requirements where appeal allowed
 To the extent that an appeal in respect of an act or decision of the Panel or Registrar, or any person authorised by the Panel or Registrar, under any of sections 31A to 31C is allowed or granted
 
-a the Panel or Registrar must ensure that, as soon as practicable after the decision on the appeal is given, all records made by the Panel or Registrar, or by a person authorised by the Panel or Registrar, under section 31A(1)(c) in respect of the act or decision are destroyed; and
+a the Panel or Registrar must ensure that, as soon as practicable after the decision on the appeal is given, all records made by the Panel or Registrar, or by a person authorised by the Panel or Registrar, under section31A(1)(c) in respect of the act or decision are destroyed; and
 
-b no information acquired under paragraph (a) or paragraph (b) of section 31A(1) in respect of the act or decision is admissible in evidence in any proceedings.
+b no information acquired under paragraph(a) or paragraph(b) of section 31A(1) in respect of the act or decision is admissible in evidence in any proceedings.
 
 
 
 31L Who may receive evidence
 
-1 The Panel may receive evidence through a member, officer, or employee of the Panel, or any 2 or more of them.
+1 The Panel may receive evidence through a member, officer, or employee of the Panel, or any 2or more of them.
 
 2 However, if a person who is summoned to give evidence under section 31N requests that the evidence be received at a meeting of the Panel, then
 
-a subsection (1) does not apply, and the evidence must be received at a meeting of the Panel; and
+a subsection(1) does not apply, and the evidence must be received at a meeting of the Panel; and
 
-b the meeting must not be held by a method under clause 8(b) of Schedule 5 of the Crown Entities Act 2004 except with the consent of the person summoned.
+b the meeting must not be held by a method under clause8(b) of Schedule 5 of the Crown Entities Act 2004 except with the consent of the person summoned.
 
 31M Admissibility of evidence
 The Panel may receive in evidence, whether admissible in a court of law or not, any statement, document, information, or matter that,
@@ -581,9 +577,9 @@ d the penalty for failing to attend under section 44.
 
 3 A summons may be served,
 
-a in the case of a natural person, by delivering it personally to the person summoned or by leaving it at his or her usual place of residence or business at least 24 hours before his or her attendance is required:
+a in the case of a natural person, by delivering it personally to the person summoned or by leaving it at his or her usual place of residence or business at least 24hours before his or her attendance is required:
 
-b in the case of a body corporate, by leaving it at the body corporate's usual place of business at least 24 hours before its attendance is required.
+b in the case of a body corporate, by leaving it at the body corporate's usual place of business at least 24hours before its attendance is required.
 
 31O Witnesses' expenses
 
@@ -617,7 +613,7 @@ c the Minister has given his or her approval for the Panel to comply with the re
 
 2 The Minister's approval may relate to a particular request, or a class or classes of requests, specified by the Minister.
 
-3 The matters the Panel may take into account under subsection (1) include, without limitation,
+3 The matters the Panel may take into account under subsection(1) include, without limitation,
 
 a whether the Panel is likely to be able to obtain the requested information, documents, or evidence:
 
@@ -662,17 +658,17 @@ b to the extent to which it is within the ability of the overseas regulator to e
 
 31U Enforcement of undertakings
 
-1 If the Panel considers that a person who has given an undertaking under section 31T has breached a term of that undertaking, the Panel may apply to the Court for an order under subsection (2).
+1 If the Panel considers that a person who has given an undertaking under section 31T has breached a term of that undertaking, the Panel may apply to the court for an order under subsection(2).
 
-2 The Court may make any of the following orders if it is satisfied that the person has breached a term of the undertaking:
+2 The court may make any of the following orders if it is satisfied that the person has breached a term of the undertaking:
 
 a an order directing the person to comply with that term:
 
 b an order directing the person to pay to the Crown an amount not exceeding the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach:
 
-c any order that the Court thinks appropriate directing the person to compensate any other person who has suffered loss, injury, or damage as a result of the breach:
+c any order that the court thinks appropriate directing the person to compensate any other person who has suffered loss, injury, or damage as a result of the breach:
 
-d an order for any consequential relief that the Court thinks appropriate.
+d an order for any consequential relief that the court thinks appropriate.
 
 
 
@@ -682,15 +678,15 @@ d an order for any consequential relief that the Court thinks appropriate.
 
 2 Subject to subsection (1), at any meeting of the Panel held for the purposes of this Act, the Panel must allow to be heard and represented any person who applies to the Panel for leave to be heard and represented and who, in the opinion of the Panel, is a person who ought to be heard or whose appearance or representation will assist the Panel in its consideration of the matter before it.
 
-3 Every meeting of the Panel or of a division of the Panel that is held for the purposes of section 31X or section 32 must be attended by at least 1 person
+3 Every meeting of the Panel or of a division of the Panel that is held for the purposes of section 31X or section 32 must be attended by at least 1person
 
-a who is a barrister, a solicitor, or a barrister and solicitor of the High Court of New Zealand of not less than 7 years' practice; or
+a who is a barrister, a solicitor, or a barrister and solicitor of the High Court of New Zealand of not less than 7years' practice; or
 
 b who
 
 i is enrolled as a barrister, as a solicitor, as a barrister and solicitor, or as a legal practitioner of the High Court of Australia, of any federal court of Australia, or of the Supreme Court of any State or Territory of Australia; and
 
-ii has not less than 7 years' practice.
+ii has not less than 7years' practice.
 
 31W Panel to hear proceedings in private
 The Panel may decide whether to hold any meeting or any part of a meeting in public or in private.
@@ -705,7 +701,7 @@ b the giving of evidence involving any such information, document, or evidence.
 
 2 The Panel may make the order on the terms and conditions (if any) that it thinks fit.
 
-3 An order under subsection (1) may be expressed to have effect from the commencement of any inquiry or other proceedings of the Panel to the end of that inquiry or proceedings.
+3 An order under subsection(1) may be expressed to have effect from the commencement of any inquiry or other proceedings of the Panel to the end of that inquiry or proceedings.
 
 4 At the end of the inquiry or proceedings, the Official Information Act 1982 applies to any information or document or evidence that was the subject of the order.
 
@@ -713,11 +709,11 @@ b the giving of evidence involving any such information, document, or evidence.
 
 32 Panel's powers in respect of compliance with takeovers code
 
-1 The Panel may at any time, if it considers that a person may not have acted or may not be acting or may intend not to act in compliance with the takeovers code, after giving that person such written notice of the meeting as the Panel considers appropriate in the circumstances, but in no case exceeding 7 days, hold a meeting for the purpose of determining whether to exercise its powers under this section.
+1 The Panel may at any time, if it considers that a person may not have acted or may not be acting or may intend not to act in compliance with the takeovers code, after giving that person such written notice of the meeting as the Panel considers appropriate in the circumstances, but in no case exceeding 7days, hold a meeting for the purpose of determining whether to exercise its powers under this section.
 
-2 Where the Panel gives a notice under subsection (1) of this section, it may make a temporary restraining order that is expressed to expire with the close of the second day after the date for which the meeting was convened.
+2 Where the Panel gives a notice under subsection (1), it may make a temporary restraining order that is expressed to expire with the close of the second day after the date for which the meeting was convened.
 
-3 Following the meeting specified in subsection (1) of this section, the Panel may make a determination
+3 Following the meeting specified in subsection (1), the Panel may make a determination
 
 a that it is satisfied that the person has acted or is acting or intends to act in compliance with the takeovers code; or
 
@@ -725,11 +721,11 @@ b that it is not satisfied that the person has acted or is acting or intends to 
 
 3A If the Panel makes a determination under subsection (3), the Panel must, as soon as reasonably practicable, give written notice of its reasons for the determination to the person the determination concerns.
 
-4 Where the Panel makes a determination on reasonable grounds under subsection (3)(b) of this section, the Panel may, at any time before the close of the second day after the date for which the meeting was convened,
+4 Where the Panel makes a determination on reasonable grounds under subsection (3)(b), the Panel may, at any time before the close of the second day after the date for which the meeting was convened,
 
-a make a temporary restraining order (relating to the non-compliance with the takeovers code) that is expressed to expire with the close of such day as shall be specified in the order, not being a day that is later than 21 days after the date on which the temporary restraining order is made:
+a make a temporary restraining order (relating to the non-compliance with the takeovers code) that is expressed to expire with the close of such day as shall be specified in the order, not being a day that is later than 21days after the date on which the temporary restraining order is made:
 
-b make an order continuing any temporary restraining order (relating to the non-compliance with the takeovers code) made under subsection (2) of this section until the close of such day as may be specified in the order, not being a day that is later than 21 days after the date on which the temporary restraining order is made:
+b make an order continuing any temporary restraining order (relating to the non-compliance with the takeovers code) made under subsection(2) until the close of such day as may be specified in the order, not being a day that is later than 21days after the date on which the temporary restraining order is made:
 
 c make a permanent compliance order (relating to the non-compliance with the takeovers code):
 
@@ -750,26 +746,26 @@ c may also give notice to any other person of those matters.
 7 The Panel may revoke the order or suspend the order on the terms and conditions it thinks fit.
 
 33 Temporary restraining orders
-For the purposes of section 32 of this Act, a temporary restraining order is an order for one or more of the following:
+For the purposes of section32, a temporary restraining order is an order for 1or more of the following:
 
-a restraining a person from acquiring securities in the specified company concerned or any interest in or rights relating to such securities:
+a restraining a person from acquiring securities in the code company concerned or any interest in or rights relating to such securities:
 
-b restraining a person from disposing of securities in the specified company concerned or any interest in or rights relating to such securities:
+b restraining a person from disposing of securities in the code company concerned or any interest in or rights relating to such securities:
 
-c restraining a person from exercising the right to vote attaching to securities in the specified company concerned or any other right relating to such securities:
+c restraining a person from exercising the right to vote attaching to securities in the code company concerned or any other right relating to such securities:
 
 d restraining a person from taking any action (including from making any statement or distributing any document) that is or that may reasonably be expected to constitute a contravention of the takeovers code (see section 2(2) for the definition of contravention of the takeovers code):
 
-e directing the specified company concerned not to make any payments in respect of any securities:
+e directing the code company concerned not to make any payments in respect of any securities:
 
-f directing the specified company concerned not to register the transfer or transmission of any securities:
+f directing the code company concerned not to register the transfer or transmission of any securities:
 
-g directing the specified company concerned not to issue or allot securities to any person:
+g directing the code company concerned not to issue or allot securities to any person:
 
 h for the purpose of securing compliance with any such order, an order directing a person to do or refrain from doing a specified act.
 
 33AA Permanent compliance orders
-For the purposes of section 32, a permanent compliance order is an order for one or more of the following:
+For the purposes of section 32, a permanent compliance order is an order for 1or more of the following:
 
 a prohibiting or restricting a person from making any statement or distributing any document that is or that may reasonably be expected to constitute a contravention of the takeovers code (see section 2(2) for the definition of contravention of the takeovers code):
 
@@ -781,7 +777,7 @@ d for the purpose of securing compliance with any of those orders, an order dire
 
 
 
-33A Witnesses and counsel to have privileges of witnesses and counsel in Court
+33A Witnesses and counsel to have privileges of witnesses and counsel in court
 
 1 Every person has the same privileges in relation to providing information and documents to, and answering questions before, the Panel, a member, officer, or employee of the Panel, or a person authorised by the Panel under section 31B, as witnesses have in proceedings before a court.
 
@@ -798,7 +794,7 @@ No person is excused from answering any question or providing any information or
 
 1 A self-incriminating statement made orally by a person summoned under section 31N (whether or not the statement is recorded in writing) in the course of answering any question before, or providing any information or document to, the Panel, or a member, officer, or employee of the Panel,
 
-a subject to paragraph (b), is not admissible in
+a subject to paragraph(b), is not admissible in
 
 i criminal proceedings against that person; or
 
@@ -832,11 +828,11 @@ i an offence against section 78 or section 78A(1) or section 105 or section 105A
 
 ii the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
 
-iii the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
+iii the offence of attempting to commit an offence against section 78 or section 78A(1) or section105 or section 105A or section 105B of the Crimes Act 1961.
 
 3 This section does not limit the application of the Official Information Act 1982.
 
-2 Enforcement by Court
+2 Enforcement by court
 
 
 
@@ -858,20 +854,20 @@ d a pecuniary penalty order and declaration of contravention (on application by 
 
 
 
-33F What Court may injunct
-The Court may, on application by any person in accordance with section 35, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of the takeovers code.
+33F What court may injunct
+The court may, on application by any person in accordance with section 35, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of the takeovers code.
 
-33G When Court may grant injunctions and interim injunctions
+33G When court may grant injunctions and interim injunctions
 
-1 The Court may grant an injunction restraining a person from engaging in conduct of a particular kind if
+1 The court may grant an injunction restraining a person from engaging in conduct of a particular kind if
 
 a it is satisfied that the person has engaged in conduct of that kind; or
 
-b it appears to the Court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
+b it appears to the court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
 
-2 The Court may grant an interim injunction restraining a person from engaging in conduct of a particular kind if in its opinion it is desirable to do so.
+2 The court may grant an interim injunction restraining a person from engaging in conduct of a particular kind if in its opinion it is desirable to do so.
 
-3 Subsections (1)(a) and (2) apply whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind.
+3 Subsections (1)(a) and (2) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
 
 4 Subsections (1)(b) and (2) apply whether or not
 
@@ -881,14 +877,14 @@ b there is an imminent danger of substantial damage to any other person if that 
 
 33H Undertaking as to damages not required by Panel
 
-1 If the Panel applies to the Court for the grant of an interim injunction under this subpart, the Court must not, as a condition of granting an interim injunction, require the Panel to give an undertaking as to damages.
+1 If the Panel applies to the court for the grant of an interim injunction under this subpart, the court must not, as a condition of granting an interim injunction, require the Panel to give an undertaking as to damages.
 
-2 However, in determining the Panel's application for the grant of an interim injunction, the Court must not take into account that the Panel is not required to give an undertaking as to damages.
+2 However, in determining the Panel's application for the grant of an interim injunction, the court must not take into account that the Panel is not required to give an undertaking as to damages.
 
 
 
-33I When Court may make various civil remedy orders
-The Court may, on application by any person in accordance with section 35, make 1 or more of the civil remedy orders described in section 33J if the Court is satisfied on reasonable grounds that a person has contravened or is contravening or intends to contravene the takeovers code.
+33I When court may make various civil remedy orders
+The court may, on application by any person in accordance with section 35, make 1 or more of the civil remedy orders described in section 33J if the court is satisfied on reasonable grounds that a person has contravened or is contravening or intends to contravene the takeovers code.
 
 33J Terms of various civil remedy orders
 A civil remedy order under section 33I may
@@ -905,13 +901,13 @@ e require securities to be forfeited and require the public issuer to cancel the
 
 f cancel an agreement for the acquisition or disposal of securities or interests in or rights relating to them:
 
-g vest securities or interests in or rights relating to them in a trustee for sale on the terms and conditions the Court thinks fit:
+g vest securities or interests in or rights relating to them in a trustee for sale on the terms and conditions the court thinks fit:
 
 h declare an agreement for the acquisition of securities or interests in or rights relating to them to be voidable at the option of the person from whom the securities or interests or rights were acquired:
 
 i if a contract is entered into in contravention of the takeovers code, or a contract contains a provision which, if given effect to, would contravene the takeovers code,
 
-i vary the contract, in such manner as the Court thinks fit:
+i vary the contract, in such manner as the court thinks fit:
 
 ii cancel the contract:
 
@@ -927,18 +923,18 @@ m require a person to comply with any provision of the takeovers code even thoug
 
 
 
-33K When Court may make compensatory orders
+33K When court may make compensatory orders
 
-1 The Court may make a compensatory order, on application by any person in accordance with section 35, if the Court is satisfied that
+1 The court may make a compensatory order, on application by any person in accordance with section 35, if the court is satisfied that
 
 a there is a contravention of the takeovers code; and
 
 b a person (the aggrieved person) has suffered, or is likely to suffer, loss or damage because of the contravention.
 
-2 The Court may make a compensatory order whether or not the aggrieved person is a party to the proceedings.
+2 The court may make a compensatory order whether or not the aggrieved person is a party to the proceedings.
 
 33L Terms of compensatory orders
-If section 33K applies, the Court may make any order it thinks just to compensate an aggrieved person in whole or in part for the loss or damage, or to prevent or reduce that loss or damage, including an order (without limitation) to
+If section 33K applies, the court may make any order it thinks just to compensate an aggrieved person in whole or in part for the loss or damage, or to prevent or reduce that loss or damage, including an order (without limitation) to
 
 a direct the person in contravention to pay to the aggrieved person the amount of the loss or damage:
 
@@ -946,24 +942,24 @@ b direct the person in contravention to refund money or return property to the a
 
 c if a contract has been entered into between the person in contravention and the aggrieved person,
 
-i vary the contract or any collateral arrangement as specified in the order and, if the Court thinks fit, declare the contract or arrangement to have had effect as so varied on and after a date before the order was made, as specified in the order:
+i vary the contract or any collateral arrangement as specified in the order and, if the court thinks fit, declare the contract or arrangement to have had effect as so varied on and after a date before the order was made, as specified in the order:
 
-ii cancel the contract and, if the Court thinks fit, declare the cancellation to have had effect on and after a date before the order was made, as specified in the order:
+ii cancel the contract and, if the court thinks fit, declare the cancellation to have had effect on and after a date before the order was made, as specified in the order:
 
-iii require the person in contravention to take any action the Court thinks fit to reinstate the parties as near as may be possible to their former positions.
+iii require the person in contravention to take any action the court thinks fit to reinstate the parties as near as may be possible to their former positions.
 
 
 
-33M When Court may make pecuniary penalty orders and declarations of contravention
-If the Panel applies for a pecuniary penalty order against a person under this Act in accordance with section 35, the Court
+33M When court may make pecuniary penalty orders and declarations of contravention
+If the Panel applies for a pecuniary penalty order against a person under this Act in accordance with section 35, the court
 
 a must determine whether the person has contravened the takeovers code; and
 
-b must make a declaration of contravention (see sections 33N and 33O) if satisfied that the person has contravened the takeovers code; and
+b must make a declaration of contravention (see sections33N and 33O) if satisfied that the person has contravened the takeovers code; and
 
-c may order the person to pay a pecuniary penalty that the Court considers appropriate to the Crown (see sections 33P and 33Q) if satisfied that the person has contravened the takeovers code, that the person knew or ought to have known of the conduct that constituted the contravention, and that the contravention
+c may order the person to pay a pecuniary penalty that the court considers appropriate to the Crown (see sections 33P and 33Q) if satisfied that the person has contravened the takeovers code, that the person knew or ought to have known of the conduct that constituted the contravention, and that the contravention
 
-i materially prejudices the interests of offerees, the specified company, the offeror or acquirer, competing offerors, or any other person involved in or affected by a transaction or event that is or will be regulated by the takeovers code, or that is incidental or preliminary to a transaction or event of that kind; or
+i materially prejudices the interests of offerees, the code company, the offeror or acquirer, competing offerors, or any other person involved in or affected by a transaction or event that is or will be regulated by the takeovers code, or that is incidental or preliminary to a transaction or event of that kind; or
 
 ii is likely to materially damage the integrity or reputation of any of New Zealand's securities markets; or
 
@@ -986,13 +982,13 @@ c the person in contravention; and
 
 d the conduct that constituted the contravention and, if a transaction constituted the contravention, the transaction; and
 
-e the specified company to which the conduct related.
+e the code company to which the conduct related.
 
 33P Maximum amount of pecuniary penalty
 The maximum amount of a pecuniary penalty is $500,000 for an individual and $5,000,000 for a body corporate, for each contravention.
 
-33Q Considerations for Court in determining pecuniary penalty
-In determining an appropriate pecuniary penalty, the Court must have regard to all relevant matters, including
+33Q Considerations for court in determining pecuniary penalty
+In determining an appropriate pecuniary penalty, the court must have regard to all relevant matters, including
 
 a the principles contained in the takeovers code; and
 
@@ -1004,10 +1000,10 @@ d the nature and extent of any loss or damage suffered by a person referred to i
 
 e the circumstances in which the contravention took place; and
 
-f whether or not the person in contravention has previously been found by the Court in proceedings under this Act to have engaged in any similar conduct.
+f whether or not the person in contravention has previously been found by the court in proceedings under this Act to have engaged in any similar conduct.
 
 33R Court must order that recovery from pecuniary penalty be applied to Panel's actual costs
-If the Court orders that a person pay a pecuniary penalty, and the proceedings were brought (in whole or in part) by the Panel, the Court must also order that the penalty must be applied first to pay the Panel's actual costs in bringing the proceedings.
+If the court orders that a person pay a pecuniary penalty, and the proceedings were brought (in whole or in part) by the Panel, the court must also order that the penalty must be applied first to pay the Panel's actual costs in bringing the proceedings.
 
 
 
@@ -1015,43 +1011,43 @@ If the Court orders that a person pay a pecuniary penalty, and the proceedings w
 
 35 Persons who may apply
 
-1 Where the Panel makes a determination under section 32(3)(b) of this Act (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code) the following persons may, subject to subsection (2) of this section, make an application to the Court under section 33F, 33I, or 33K:
+1 Where the Panel makes a determination under section 32(3)(b) (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code) the following persons may, subject to subsection (2), make an application to the court under section 33F, 33I, or 33K:
 
 a the Panel:
 
-b if the specified company's securities are, or were at any material time, quoted on a registered exchange's securities market, that registered exchange:
+b if the code company's securities are, or were at any material time, quoted on a registered exchange's securities market, that registered exchange:
 
-c the specified company concerned:
+c the code company concerned:
 
-d a member or security holder of the specified company concerned:
+d a member or security holder of the code company concerned:
 
-e a person who was a member or security holder of the specified company concerned at the time that the conduct to which the application relates occurred:
+e a person who was a member or security holder of the code company concerned at the time that the conduct to which the application relates occurred:
 
-f a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the specified company in accordance with the takeovers code:
+f a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the code company in accordance with the takeovers code:
 
-g with the leave of the Court, any other person.
+g with the leave of the court, any other person.
 
-2 A person referred to in any of paragraphs (b) to (f) of subsection (1) of this section is not entitled to make an application to the Court unless
+2 A person referred to in any of paragraphs(b) to (f) of subsection(1) is not entitled to make an application to the court unless
 
 a the Panel has consented to the making of the application; or
 
-b that person has requested the Panel in writing to make an application to the Court itself and the Panel has not made such an application before the expiration of 10 days after receiving the request.
+b that person has requested the Panel in writing to make an application to the court itself and the Panel has not made such an application before the expiration of 10days after receiving the request.
 
-3 Where a request is made to the Panel to hold a meeting under section 32(1) of this Act and the Panel does not, within 14 days after receiving the request, make a determination under section 32(3) of this Act, the following persons may make an application to the Court under section 33F, 33I, or 33K
+3 Where a request is made to the Panel to hold a meeting under section 32(1) and the Panel does not, within 14 days after receiving the request, make a determination under section 32(3), the following persons may make an application to the court under section 33F, 33I, or 33K
 
-a if the specified company's securities are, or were at any material time, quoted on a registered exchange's securities market, that registered exchange:
+a if the code company's securities are, or were at any material time, quoted on a registered exchange's securities market, that registered exchange:
 
-b the specified company concerned:
+b the code company concerned:
 
-c a member or security holder of the specified company concerned:
+c a member or security holder of the code company concerned:
 
-d a person who was a member or security holder of the specified company concerned at the time that the conduct to which the application relates occurred:
+d a person who was a member or security holder of the code company concerned at the time that the conduct to which the application relates occurred:
 
-e a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the specified company in accordance with the takeovers code:
+e a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the code company in accordance with the takeovers code:
 
-f with the leave of the Court, any other person.
+f with the leave of the court, any other person.
 
-4 If the Panel makes a determination under section 32(3)(b) (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code), the Panel may make an application to the Court under section 33M.
+4 If the Panel makes a determination under section 32(3)(b) (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code), the Panel may make an application to the court under section 33M.
 
 36 Orders
 
@@ -1059,9 +1055,9 @@ f with the leave of the Court, any other person.
 
 38 Court may have regard to determinations and recommendations by Panel
 
-1 The Court may, in determining any application under this subpart, have regard to any determination made by the Panel under section 32(3) of this Act relating to the matter concerned.
+1 The court may, in determining any application under this subpart, have regard to any determination made by the Panel under section 32(3) relating to the matter concerned.
 
-2 The Court may, in determining whether to make any order under section 33I or 33K and the type of any such order, have regard to any recommendation made by the Panel either at any meeting of the Panel held for the purposes of section 32 of this Act or at the request of the Court.
+2 The court may, in determining whether to make any order under section 33I or 33K and the type of any such order, have regard to any recommendation made by the Panel either at any meeting of the Panel held for the purposes of section 32 or at the request of the court.
 
 39 Orders directing disposal of securities
 
@@ -1069,9 +1065,9 @@ f with the leave of the Court, any other person.
 
 41 Court may excuse contravention
 
-1 If the Court is satisfied that a person has, by any act or omission, contravened the takeovers code, but that the contravention ought to be excused, the Court may (by order) declare that the act or omission was not a contravention of the code.
+1 If the court is satisfied that a person has, by any act or omission, contravened the takeovers code, but that the contravention ought to be excused, the court may (by order) declare that the act or omission was not a contravention of the code.
 
-2 In considering whether the contravention should be excused, the Court may have regard to
+2 In considering whether the contravention should be excused, the court may have regard to
 
 a inadvertence or mistake on the part of the person concerned:
 
@@ -1079,32 +1075,32 @@ b whether the person was aware of a relevant factor or circumstance:
 
 c circumstances beyond that person's control:
 
-d any other matters that the Court thinks fit.
+d any other matters that the court thinks fit.
 
 3 The order has effect according to its tenor.
 
 42 Court may require person to give evidence or produce documents relating to interests in securities
 
-1 The Court may, in any application under this subpart, for the purpose of ascertaining whether any person
+1 The court may, in any application under this subpart, for the purpose of ascertaining whether any person
 
-a has or had any direct or indirect interest in or right to any security in the specified company concerned; or
+a has or had any direct or indirect interest in or right to any security in the code company concerned; or
 
 b has or had any direct or indirect right to exercise any voting rights attaching to any such security,order any person to
 
-c attend before the Court and be examined on oath or affirmation; or
+c attend before the court and be examined on oath or affirmation; or
 
 d produce documents in that person's possession or under that person's control.
 
-2 An order under subsection (1) of this section may be made on the application of any person who is a party to the application under this subpart.
+2 An order under subsection (1) may be made on the application of any person who is a party to the application under this subpart.
 
-43 More than 1 civil remedy order may be made for same conduct
-The Court may make a civil remedy order of one kind against a person even though the Court has made another civil remedy order of a different kind against the person for the same conduct.ExamplesThe Court may make a compensatory order and a pecuniary penalty order for the same conduct.The Court may make a civil remedy order requiring forfeiture of securities and declaring a previous exercise of voting rights attaching to those securities to be void.
+43 More than 1civil remedy order may be made for same conduct
+The court may make a civil remedy order of one kind against a person even though the court has made another civil remedy order of a different kind against the person for the same conduct.ExamplesThe court may make a compensatory order and a pecuniary penalty order for the same conduct.The court may make a civil remedy order requiring forfeiture of securities and declaring a previous exercise of voting rights attaching to those securities to be void.
 
 43A Only 1 pecuniary penalty order may be made for same conduct
-If conduct by a person constitutes a contravention of 2 or more provisions of the takeovers code, proceedings may be brought against that person for the contravention of any one or more of the provisions, but no person is liable to more than one pecuniary penalty order for the same conduct.
+If conduct by a person constitutes a contravention of 2 or more provisions of the takeovers code, proceedings may be brought against that person for the contravention of any 1or more of the provisions, but no person is liable to more than 1 pecuniary penalty order for the same conduct.
 
 43B Standard of proof for civil remedies
-The proceedings under this subpart are civil proceedings and the usual rules of the Court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
+The proceedings under this subpart are civil proceedings and the usual rules of the court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
 
 43C Time limit for applying for civil remedies
 
@@ -1136,7 +1132,7 @@ c refuse to answer any question:
 
 d refuse or fail to provide any document or information that the person is required to provide.
 
-3 A body corporate contravenes subsection (2) if its representative refuses or fails to appear before the Panel to give evidence, refuses to take an oath or affirmation as a witness, refuses to answer any question, or refuses or fails to provide any document or information that the body corporate is required to provide.
+3 A body corporate contravenes subsection(2) if its representative refuses or fails to appear before the Panel to give evidence, refuses to take an oath or affirmation as a witness, refuses to answer any question, or refuses or fails to provide any document or information that the body corporate is required to provide.
 
 4 A person must not act in contravention of any order made by the Panel under section 31X or section 32.
 
@@ -1144,13 +1140,13 @@ d refuse or fail to provide any document or information that the person is requi
 
 44A Conviction of offence under section 44 excluded in certain cases
 
-1 A person must not be convicted of an offence under section 44 if, in the opinion of the Court dealing with the case,
+1 A person must not be convicted of an offence under section 44 if, in the opinion of the court dealing with the case,
 
 a the contravention related to matters that were immaterial to the relevant matter before the Panel; or
 
 b the contravention ought reasonably to be excused, having regard to all the circumstances of the case.
 
-2 A director of a body corporate must not be convicted of an offence under section 44 in relation to a contravention by the body corporate if, in the opinion of the Court dealing with the case, the contravention took place without the director's knowledge and consent.
+2 A director of a body corporate must not be convicted of an offence under section 44 in relation to a contravention by the body corporate if, in the opinion of the court dealing with the case, the contravention took place without the director's knowledge and consent.
 
 
 
@@ -1162,7 +1158,7 @@ a a material aspect of the statement or information is false or the statement or
 
 b the statement or information is likely to
 
-i induce a person to trade, or hold, the securities of a specified company; or
+i induce a person to trade, or hold, the securities of a code company; or
 
 ii have the effect of increasing, reducing, maintaining, or stabilising the price for trading in those securities; or
 
@@ -1186,12 +1182,12 @@ Section 44B does not apply to conduct in relation to a disclosure under Part 4 o
 44E Fair Trading Act 1986 excluded
 The Fair Trading Act 1986 does not apply to conduct in relation to any transaction or event regulated by the takeovers code or incidental or preliminary to a transaction or event that is or is likely to be regulated by the takeovers code.
 
-4 Other Court orders
+4 Other court orders
 
 
 
-44F When Court may make management banning orders
-The Court may, on application by any person referred to in section 35(1)(a) to (g), make a management banning order against a person (A) if
+44F When court may make management banning orders
+The court may, on application by any person referred to in section 35(1)(a) to (g), make a management banning order against a person (A) if
 
 a A has been convicted of an offence against either section 44 or section 44C or a pecuniary penalty order has been made against A under this Act for a contravention of the takeovers code; or
 
@@ -1201,40 +1197,40 @@ i persistently contravened this Act, the Companies Act 1993, the Securities Mark
 
 ii if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
 
-c A has been prohibited in an overseas jurisdiction from carrying on activities that the Court is satisfied are substantially similar to any of the activities referred to in section 44G in connection with a contravention of any law relating to takeovers.
+c A has been prohibited in an overseas jurisdiction from carrying on activities that the court is satisfied are substantially similar to any of the activities referred to in section 44G in connection with a contravention of any law relating to takeovers.
 
 44G Terms of management banning orders
-A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the Court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
 
 44H Offence of contravening management banning order
-An individual who acts in contravention of a management banning order under section 44F commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
+An individual who acts in contravention of a management banning order under section 44F commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3years or to a fine not exceeding $100,000, or to both.
 
-44I Only one management banning order may be made for same conduct
+44I Only 1 management banning order may be made for same conduct
 If conduct by a person constitutes grounds for making an order under any 1 or more of section 44F of this Act, section 60A of the Securities Act 1978, section 43F of the Securities Markets Act 1988, and section 383 of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
 
 44J Persons automatically banned from management
 
 1 This section applies to a person if the person has been convicted of an offence against either section 44 or section 44C or a pecuniary penalty order has been made against the person under this Act for a contravention of the takeovers code.
 
-2 The person must not, for the period of 5 years after the conviction or making of the order (without the leave of the Court) be a director or promoter of, or in any way (whether directly or indirectly) be concerned or take part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+2 The person must not, for the period of 5 years after the conviction or making of the order (without the leave of the court) be a director or promoter of, or in any way (whether directly or indirectly) be concerned or take part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
 
 3 An individual who acts in contravention of this section commits an offence and is liable, on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
 
 44K General provisions for bans and banning orders
 
-1 The Registrar of the Court must, as soon as practicable after the making of a management banning order under section 44F,
+1 The Registrar of the court must, as soon as practicable after the making of a management banning order under section 44F,
 
 a give notice to the Registrar of Companies and the Panel that the order has been made; and
 
 b give notice in the Gazette of the name of the person against whom the order is made and the period or dates for which the ban applies.
 
-2 A person intending to apply for the leave of the Court under section 44G or section 44J must give to the Panel not less than 10 days' written notice of that person's intention to apply.
+2 A person intending to apply for the leave of the court under section 44G or section 44J must give to the Panel not less than 10 days' written notice of that person's intention to apply.
 
-3 The Panel, and any other person that the Court thinks fit, may attend and be heard at the hearing of the application.
+3 The Panel, and any other person that the court thinks fit, may attend and be heard at the hearing of the application.
 
 
 
-44L When Court may prohibit payment or transfer of money, securities, or other property
+44L When court may prohibit payment or transfer of money, securities, or other property
 
 1 This section applies if
 
@@ -1244,7 +1240,7 @@ b a prosecution has begun against a person for a contravention of this Act; or
 
 c a civil proceeding has begun against a person under this Act.
 
-2 The Court may, on application by the Panel or by an aggrieved person, make 1 or more of the orders listed in section 44M if the Court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
+2 The court may, on application by the Panel or by an aggrieved person, make 1or more of the orders listed in section 44M if the court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
 
 3 In this section and section 44M,
 
@@ -1284,13 +1280,13 @@ f an order requiring the relevant person, or any person holding money, securitie
 
 g an order appointing,
 
-i if the relevant person is a natural person, a receiver or trustee, having any powers that the Court orders, of the property or of part of the property of that person; or
+i if the relevant person is a natural person, a receiver or trustee, having any powers that the court orders, of the property or of part of the property of that person; or
 
-ii if the relevant person is a body corporate, a receiver or receiver and manager, having any powers that the Court orders, of the property or of part of the property of that person:
+ii if the relevant person is a body corporate, a receiver or receiver and manager, having any powers that the court orders, of the property or of part of the property of that person:
 
-h if the relevant person is a natural person, an order requiring that person to deliver up to the Court his or her passport and any other documents that the Court thinks fit:
+h if the relevant person is a natural person, an order requiring that person to deliver up to the court his or her passport and any other documents that the court thinks fit:
 
-i if the relevant person is a natural person, an order prohibiting that person from leaving New Zealand, without the consent of the Court.
+i if the relevant person is a natural person, an order prohibiting that person from leaving New Zealand, without the consent of the court.
 
 2 A reference in subsection (1)(e) or (g) to property of a person includes a reference to property that the person holds otherwise than as sole beneficial owner, for example,
 
@@ -1302,20 +1298,20 @@ b in a fiduciary capacity.
 
 44N Interim orders
 
-1 If an application is made to the Court for an order under section 44L, the Court may, if in the opinion of the Court it is desirable to do so, before considering the application, grant an interim order, being an order of the kind applied for that is expressed to have effect pending the determination of the application.
+1 If an application is made to the court for an order under section44L, the court may, if in the opinion of the court it is desirable to do so, before considering the application, grant an interim order, being an order of the kind applied for that is expressed to have effect pending the determination of the application.
 
-2 The Court must not require the applicant or any other person, as a condition of granting an interim order under this section, to give an undertaking as to damages.
+2 The court must not require the applicant or any other person, as a condition of granting an interim order under this section, to give an undertaking as to damages.
 
-3 In determining an application for the grant of an interim order, the Court must not take into account that the applicant is not required to give an undertaking as to damages.
+3 In determining an application for the grant of an interim order, the court must not take into account that the applicant is not required to give an undertaking as to damages.
 
 44O Relationship with other law
 
-1 Nothing in sections 44L to 44N affects the powers that the Court has apart from those sections.
+1 Nothing in sections 44L to 44N affects the powers that the court has apart from those sections.
 
 2 This section has effect subject to the Insolvency Act 1967.
 
 44P Offence
-A person commits an offence who contravenes an order by the Court under section 44M or section 44N that is applicable to the person and is liable on conviction on indictment,
+A person commits an offence who contravenes an order by the court under section 44M or section 44N that is applicable to the person and is liable on conviction on indictment,
 
 a in the case of an individual, to imprisonment to a term not exceeding 3 years or to a fine not exceeding $100,000, or both:
 
@@ -1323,48 +1319,48 @@ b in the case of a body corporate, to a fine not exceeding $300,000.
 
 5 General
 
-44Q Jurisdiction of Courts in New Zealand
+44Q Jurisdiction of courts in New Zealand
 The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than proceedings for offences against this Act or appeals under section 31G.
 
 44R Court may order payment of Panel's costs
-If the Panel brings proceedings under this Part and the Court makes any order against a person under this Part, the Court may also order that person to pay the Panel's costs and expenses in bringing the proceedings.
+If the Panel brings proceedings under this Part and the court makes any order against a person under this Part, the court may also order that person to pay the Panel's costs and expenses in bringing the proceedings.
 
 44S Orders to secure compliance
-The Court may, for the purpose of securing compliance with any order it makes under this Part, direct a person to do or refrain from doing a specified act.
+The court may, for the purpose of securing compliance with any order it makes under this Part, direct a person to do or refrain from doing a specified act.
 
-44T Giving notice of applications for Court orders
-Before making an order under this Part, the Court may direct the person making the application for the order to
+44T Giving notice of applications for court orders
+Before making an order under this Part, the court may direct the person making the application for the order to
 
-a give notice of the application to those persons the Court thinks fit:
+a give notice of the application to those persons the court thinks fit:
 
-b publish notice of the application in the manner the Court thinks fit.
+b publish notice of the application in the manner the court thinks fit.
 
-44U General provisions as to Court's orders
+44U General provisions as to court's orders
 
-1 An order under this Part may be made on the terms and conditions the Court thinks fit.
+1 An order under this Part may be made on the terms and conditions the court thinks fit.
 
-2 The Court may revoke, vary, or suspend an order made under this Part on the terms and conditions the Court thinks fit.
+2 The court may revoke, vary, or suspend an order made under this Part on the terms and conditions the court thinks fit.
 
-44V Persons entitled to appear before Court
-The following persons are entitled to appear and be heard at the hearing of an application to the Court under this Part:
+44V Persons entitled to appear before court
+The following persons are entitled to appear and be heard at the hearing of an application to the court under this Part:
 
 a the applicant:
 
 b the Panel:
 
-c if the specified company's securities are, or were at the material time, quoted on a registered exchange's securities market, that registered exchange:
+c if the code company's securities are, or were at the material time, quoted on a registered exchange's securities market, that registered exchange:
 
-d the specified company:
+d the code company:
 
 e a person who is alleged to have suffered, or to be likely to suffer, loss or damage because of an alleged contravention of this Act or the takeovers code (whether that person or another person makes the allegation):
 
-f a person who was a security holder of the specified company at the time that the conduct to which the application relates occurred:
+f a person who was a security holder of the code company at the time that the conduct to which the application relates occurred:
 
-g a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the specified company in accordance with the takeovers code:
+g a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the code company in accordance with the takeovers code:
 
 h a person directed to be given notice of the application:
 
-i with the leave of the Court, any other person.
+i with the leave of the court, any other person.
 
 44W Knowledge of matters presumed if employee or agent knows matters
 In any proceedings under this Act, it is presumed, in the absence of proof to the contrary established on the balance of probabilities, that a person knew, at a material time, of any matter if, at that time, an employee or agent of that person knew of the matter in his or her capacity as employee or agent.
@@ -1388,9 +1384,9 @@ ii any class of transactions:
 
 iii any class of offers.
 
-2 An exemption under subsection (1)(a) may be granted in respect of past or proposed acts or omissions.
+2 An exemption under subsection(1)(a) may be granted in respect of past or proposed acts or omissions.
 
-2A An exemption under subsection (1)(b) may be granted in respect of proposed acts or omissions.
+2A An exemption under subsection(1)(b) may be granted in respect of proposed acts or omissions.
 
 3 An exemption shall have effect according to its tenor.
 
@@ -1415,7 +1411,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 a 
 
-b Prescribing an annual fee in respect of the funding of the Panel that is payable in accordance with section 17 of this Act:
+b prescribing an annual fee in respect of the funding of the Panel that is payable in accordance with section17:
 
 c prescribing the fees and charges payable, or the rate at which fees and charges are to be calculated, for the purposes of this Act:
 
@@ -1427,7 +1423,7 @@ ii on an application to the Panel to exercise any power or function conferred on
 
 cb authorising the Panel to require payment of any costs incurred by the Panel:
 
-d Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+d providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 47 Amendment to Official Information Act 1982
 
