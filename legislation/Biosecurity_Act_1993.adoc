@@ -438,6 +438,8 @@ a a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the S
 
 ab the day observed in the region of a regional council as the anniversary day of the province of which the region forms part; and
 
+ac if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+
 b a day in the period commencing on 20December in any year and ending with 15January in the following year
 
 *written* or *in writing* means printed, typewritten, or otherwise visibly represented, copied, or reproduced, including by fax, email, or other electronic means.
