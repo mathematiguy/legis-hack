@@ -605,7 +605,7 @@ i the registration was effective immediately before the receiver disposed of the
 
 ii the security interest relating to that registration was subordinate to the security interest of the person in whose interests the receiver was appointed:
 
-b to any other person (A), if the receiver has notice that A had an interest in the property when it was disposed of, and the receiver is satisfied that A's interest was legally enforceable:
+b to any other person (*A*), if the receiver has notice that A had an interest in the property when it was disposed of, and the receiver is satisfied that A's interest was legally enforceable:
 
 c to the grantor.
 
@@ -822,7 +822,7 @@ g a guarantor of an obligation of the grantor:
 
 h if the grantor is a company, a liquidator of the grantor:
 
-i if the receiver is a chartered accountant, the President of the New Zealand Institute of Chartered Accountants:
+i if the receiver is a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013), a member of the governing body of the association of accountants of which the qualified statutory accountant is a member:
 
 j if the receiver is a barrister and solicitor or a solicitor, the President of the New Zealand Law Society:
 
