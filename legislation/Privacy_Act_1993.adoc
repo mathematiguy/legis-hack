@@ -1962,7 +1962,7 @@ b may make any submissions under subsection (1)(a)(i) that he or she thinks fit.
 
 1 If an information sharing agreement is approved by Order in Council, the Commissioner may prepare a report to the relevant Minister on any matter relating to privacy that arises or is likely to arise in respect of the agreement.
 
-2 Without limiting subsection (1), the Commissioner may include in a report under that subsection 
+2 Without limiting subsection (1), the Commissioner may include in a report under that subsection
 
 a any comment that he or she wishes to make about the consultation that the agencies carried out under section 96O(1)(a); and
 
@@ -1986,7 +1986,7 @@ b must consult the relevant Minister before doing so.
 
 a give details of the adverse action that the party proposes to take and the personal information about the individual on which the action is based; and
 
-b state that the individual has 10 working days from the receipt of the notice in which to dispute the correctness of that personal information. 
+b state that the individual has 10 working days from the receipt of the notice in which to dispute the correctness of that personal information.
 
 3 To avoid doubt, an individual who is given the notice may take any steps that are available under any enactment to dispute any proposed adverse action against him or her, but he or she may show cause under this section as to why the proposed adverse action should not be taken only on the basis that it is based on incorrect personal information.
 
@@ -2115,7 +2115,7 @@ b consider any submissions made on the review.
 
 1 After completing a review under section 96W, the Commissioner may report to the relevant Minister if he or she has reasonable grounds to suspect that an approved information sharing agreement is
 
-a operating in an unusual or unexpected way (that is, in a way that was not foreseen by the Commissioner or the parties to the agreement at the time the agreement was entered into): 
+a operating in an unusual or unexpected way (that is, in a way that was not foreseen by the Commissioner or the parties to the agreement at the time the agreement was entered into):
 
 b failing to facilitate the provision of the public service or public services to which it relates:
 
@@ -2251,7 +2251,9 @@ j any tertiary institution, secondary school, or private training establishment 
 
 k the Ministry of Education:
 
-l the New Zealand Teachers Council established under Part 10A of the Education Act 1989.
+l the New Zealand Teachers Council established under Part 10A of the Education Act 1989:
+
+la the agency or agencies appointed under section 100 of the Housing Restructuring and Tenancy Matters Act 1992.
 
 
 
