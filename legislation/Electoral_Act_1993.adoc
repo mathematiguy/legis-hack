@@ -89,9 +89,9 @@ c who has paid to the party every membership fee that has for the time being bec
 
 *election expenses*,
 
-a in relation to a constituency candidate, has the meaning given to it by section 205A:
+a in relation to a constituency candidate, has the meaning given to it by section 205:
 
-b in relation to a party that is registered under Part 4, has the meaning given to it by section 206A
+b in relation to a party that is registered under Part 4, has the meaning given to it by section 206
 
 *elector*, in relation to any district, means a person registered, or qualified to be registered, as an elector of that district
 
@@ -620,7 +620,7 @@ e provide information and advice on any matter
 
 i to the Minister for the Minister's consideration:
 
-ii to the Minister for tabling in the House of Representatives:
+ii to the Minister for presentation to the House of Representatives:
 
 f request advice, assistance, and information from any government department or any State enterprise as defined in section 2 of the State-Owned Enterprises Act 1986.
 
@@ -660,7 +660,16 @@ f any other matter that the Electoral Commission considers relevant.
 3 The Electoral Commission must publish any report made under subsection (1) as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 10working days after the report is received by the Minister.
 
 9 Electoral Commission may delegate functions, duties, or powers to non-employees
-In addition to the persons listed in section 73(1) of the Crown Entities Act 2004, the Electoral Commission may delegate any of its functions, duties, or powers, either generally or specifically, to any electoral official who is engaged by (rather than employed by) the Electoral Commission.
+
+1 The Electoral Commission's board may under section 73 of the Crown Entities Act 2004 delegate any of the Commission's functions or powers, either generally or specifically, not only to any person or persons listed in section73(1) of the Crown Entities Act 2004, but also to any electoral official who is engaged by (rather than employed by) the Electoral Commission.
+
+2 The electoral official may (without limiting the definition of that term in section 3(1)) be a person of one of the following kinds that the Electoral Commission engages for the purpose of assisting with the performance of its functions:
+
+a a body corporate:
+
+b an individual who holds an office in, or is employed by, a body corporate.
+
+3 The provisions of the Crown Entities Act 2004, including in particular sections 74 (powers of delegate), 75 (effect of delegation), and 76 (revocations), apply in respect of a delegation by virtue of this section to any electoral official who is engaged (rather than employed) by the Electoral Commission as if it were a delegation under section73 of the Crown Entities Act 2004 to any person or persons listed in section 73(1) of the Crown Entities Act 2004.
 
 10 Term of office
 
@@ -774,6 +783,12 @@ a there is no suitable office occupied by New Zealand Post Limited in an elector
 b an officer more suitable for appointment is stationed at an office occupied by New Zealand Post Limited in an adjoining district; or
 
 c it appears to be in the public interest to do so,he or she may appoint as the Registrar for the district an employee of New Zealand Post Limited stationed at an office occupied by New Zealand Post Limited in an adjoining electoral district.
+
+3A A district is, for the purposes of subsection (3), an *adjoining district* for another district if the boundaries of both districts
+
+a are wholly or partly shared; or
+
+b are separated by no more than 2 intermediate districts.
 
 4 The Registrar shall, under the direction of the Chief Registrar,
 
@@ -1947,6 +1962,10 @@ c within 1 month after the date on which, following a change in his or her place
 
 4 Where a Maori is qualified to be registered as an elector of both a Maori electoral district and a General electoral district, this section shall apply with respect to only one of those districts, being the district in respect of which he or she has exercised his or her option under section 76.
 
+4A A person who is or has been a registered elector may, instead of using the prescribed form to make an application required by subsection (1)(c), make it by supplying to the Registrar using an electronic medium approved for the purpose by the Chief Registrar information necessary to complete the prescribed form and identified by the Registrar.
+
+4B Nothing in section 85(1) and (2) applies to an application required by subsection (1)(c) and that a person intends to make, or makes, in accordance with subsection (4A).
+
 5 Where it appears to the Registrar that an applicant is qualified to be registered as an elector of another electoral district, the Registrar shall forthwith send the application to the Registrar of that district.
 
 6 Every person commits an offence against this section who, being required by this section to apply for registration as an elector during any period, knowingly and wilfully fails to so apply.
@@ -1991,24 +2010,36 @@ b the particulars contained in the application to register are the particulars o
 
 83A Procedure following inquiry under section 83
 
-1 If, following an inquiry under section 83, the Registrar receives a form in which an elector notifies the Registrar that the elector has changed his or her place of residence and now resides in another electoral district,
+1 If, following an inquiry under section 83, the Registrar receives a form or information supplied electronically under subsection (3) in which an elector notifies the Registrar that the elector has changed his or her place of residence and now resides in another electoral district,
 
-a the Registrar must ensure that the form, or the information contained in the form, is transmitted to the Registrar for the new electoral district; and
+a the Registrar must ensure that the form or the information contained in the form, or the information supplied electronically, is transmitted to the Registrar for the new electoral district; and
 
-b the Registrar for the new electoral district must, as if the form were an application for registration, register that elector, in accordance with section 87, on the roll for the district in which the elector resides; and
+b the Registrar for the new electoral district must, as if the form or the information supplied electronically were an application for registration, register that elector, in accordance with section 87, on the roll for the district in which the elector resides; and
 
-c the form is deemed to be an application for registration for the purposes of section 82; and
+c the form or the information supplied electronically is deemed to be an application for registration for the purposes of section 82; and
 
-d the Registrar for the old electoral district must, in accordance with section 98(1)(a), remove from his or her roll the name of the elector.
+d the Registrar for the old electoral district must, in accordance with section 98(1)(a), remove from the roll for that district the name of the elector.
 
-2 If, following an inquiry under section 83, the Registrar receives a form from an elector that contains a change to any particulars other than a change of place of residence referred to in subsection (1), the Registrar must amend the roll in accordance with the information supplied.
+2 If, following an inquiry under section 83, the Registrar receives from an elector a form, or information supplied electronically under subsection(3), that contains a change to any particulars other than a change of place of residence referred to in subsection(1), the Registrar must amend the roll in accordance with the information supplied in the form or electronically.
 
-3 If the Registrar does not receive a form from an elector, or receives a form with no changes, that elector remains on the roll and his or her particulars on the roll remain unchanged.
+3 An elector may, instead of returning a form to the Registrar to notify the Registrar that the elector has changed his or her place of residence and now resides in another electoral district or to notify the Registrar of a change to any other of the elector's particulars, notify the Registrar of a change to any of the elector's particulars by supplying that information to the Registrar using an electronic medium approved for the purpose by the Chief Registrar.
 
-4 Subsections (1), (2), and (4) of section 85 apply, with all necessary modifications, to any form that is intended to be returned, or has been returned, in response to an inquiry under section83.
+4 An elector remains on the roll and his or her particulars on the roll remain unchanged if
+
+a the Registrar does not receive from the elector a form, or information supplied electronically under subsection(3); or
+
+b the Registrar receives from the elector a form, or information supplied electronically under subsection(3), with no changes.
+
+5 A form that a person intends to return, or returns, in response to an inquiry under section 83 must be signed or marked, and may be rejected for incompleteness, in accordance with subsections (1), (2), and (4) of section 85 (which apply with all necessary modifications) as if the form were an application or declaration in respect of registration as an elector.
+
+6 Information that an elector intends to supply, or supplies, electronically under subsection(3) in response to an inquiry under section 83
+
+a is not an application or declaration in respect of registration as an elector required by subsections (1) and (2) of section 85 to be signed or marked; but
+
+b may be rejected for incompleteness under section 85(4) (which applies with all necessary modifications) if it does not include all the particulars stated or referred to in section 85(3)(a), (b), (c), (f), and (i).
 
 83B No form of inquiry required if application for registration as elector received
-If the Registrar receives, during an inquiry under section 83(1), or within 28 days before the commencement of an inquiry under that section, a duly completed application for registration as an elector,
+If the Registrar receives, during an inquiry under section 83(1), or within 28 days before the commencement of an inquiry under that section, a duly completed application for registration as an elector, or information supplied electronically to make an application for registration as an elector under section 82(1)(c) and (4A),
 
 a that application is deemed to be a completed form for the purposes of section 83; and
 
@@ -2056,7 +2087,7 @@ c the form is deemed to be an application for registration for the purposes of s
 
 d the old Registrar must, in accordance with section98(1)(a), remove from his or her roll the name of the elector.
 
-7 Nothing in this section applies if a form is returned under section 83A(1).
+7 Nothing in this section applies if the Registrar under section 83A(1) receives a form or information supplied electronically under section 83A(3) in which an elector notifies the Registrar that the elector has changed his or her place of residence and now resides in another electoral district.
 
 84 Power to combine revisions of electoral rolls with exercise of Maori option
 
@@ -2144,6 +2175,44 @@ a to enter the name of the applicant on the electoral roll; or
 
 b to delete the name of the applicant from that main, supplementary, or composite roll.
 
+87A Procedure if immigration status means applicant apparently not qualified to be registered
+
+1 This section applies in accordance with section 263A(6)(a) if the Chief Registrar under section 263A(5) advises the Registrar of an electoral district that a comparison carried out pursuant to section263A(4) indicates that a person who has applied to be (but is not yet) registered as an elector of the electoral district is a person who the chief executive of the responsible department (as defined in section 263A(1)) believes is
+
+a unlawfully in New Zealand; or
+
+b a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type.
+
+2 When this section applies the Registrar must comply with subsections (3) to (5) before determining under section 87 whether the applicant for registration as an elector is qualified to be registered.
+
+3 The Registrar must within 5 working days of receiving that advice deliver to the applicant for registration personally, or send by post to that person, a written notice (in this section referred to as a or the *notice*) communicating
+
+a the advice that the Registrar received under section 263A(5) in respect of the applicant; and
+
+b that the Registrar may determine that the applicant's immigration status means that the applicant is not qualified to be registered as an elector if information to the contrary is not made available to the Registrar by or on behalf of the applicant within 5working days after the applicant receives the notice.
+
+4 If no response to the notice is made to the Registrar by or on behalf of the applicant within 10working days of the notice being delivered to the applicant personally, or sent by post to that person, the Registrar must promptly deliver to the applicant for registration personally, or send by post to that person, a written notice (in this section referred to as a or the *further notice*) communicating
+
+a the advice that the Registrar received under section 263A(5) in respect of the applicant; and
+
+b the fact that, and the date on which, a notice was delivered to the applicant personally, or sent by post to that person; and
+
+c that the Registrar may determine that the applicant's immigration status means that the applicant is not qualified to be registered as an elector if information to the contrary is not made available to the Registrar by or on behalf of the applicant within 5working days after the applicant receives the further notice.
+
+5 The Registrar may determine under section 87 whether the applicant for registration as an elector is qualified to be registered only
+
+a after considering any response to the notice or a further notice made to the Registrar by or on behalf of the applicant within 5 working days after the notice or a further notice was delivered to the applicant personally, or received by that person by post; or
+
+b if no response to a further notice is made to the Registrar by or on behalf of the applicant within 10 working days of the further notice being delivered personally to the applicant, or received by that person by post.
+
+6 A notice or further notice purportedly sent to the applicant by post
+
+a is, in the absence of proof to the contrary, treated as having been received by that person by post on the fourth working day after the day on which it is sent by post; and
+
+b is treated as sent by post to that person on a day if it is proved to have been properly addressed to that person and to have been submitted on that day to a person for the time being registered as a postal operator under the Postal Services Act 1998 for postage to that person.
+
+7 If, after complying with subsections (3) to (5), the Registrar determines under section 87 that the applicant for registration as an elector is not qualified to be registered, the Registrar must deliver to the applicant for registration personally, or send by post to that person, a written notice communicating the determination.
+
 88 Applications received after issue of writ
 
 1 Where a writ has been issued requiring the conduct of an election in a district, then, subject to subsections (2) and (3), the Registrar shall not, at any time in the period beginning on polling day and ending with the day of the return of the writ, register any application for registration as an elector that the Registrar receives on or after polling day.
@@ -2152,7 +2221,9 @@ b to delete the name of the applicant from that main, supplementary, or composit
 
 a the application or the envelope in which it is contained bears a postmark or date stamp impressed at any New Zealand Post outlet or agency before polling day; or
 
-b the applicant for registration produces a receipt which relates to the application and which was issued by any New Zealand Post outlet or agency before polling day.
+b the applicant for registration produces a receipt which relates to the application and which was issued by any New Zealand Post outlet or agency before polling day; or
+
+c in the case only of an application required by section 82(1)(c) and made by the applicant for registration supplying information using an electronic medium in accordance with section82(4A), the electronic medium records the information as having been received by or on behalf of the Registrar before polling day.
 
 3 Where any person applies for registration after a writ has been issued requiring the conduct of an election in a district and before polling day,
 
@@ -2180,6 +2251,8 @@ b the address of the new place of residence.
 a a person who lacks, wholly or partly, the capacity to understand the nature of the decision to register as an elector; and
 
 b a person in respect of whom a welfare guardian appointed for that person under section 12(1) of the Protection of Personal and Property Rights Act 1988 or an attorney appointed by that person under an enduring power of attorney holds office,the person holding office as that welfare guardian or the person holding office as that attorney shall, on behalf of the person to whom subsection (1) applies, comply with subsection (1), and the person to whom subsection (1) applies shall not be under any personal obligation to comply with that subsection.
+
+2A A person to whom subsection (1) applies (but not a person who is required by subsection (2) to comply with subsection (1)) may, instead of giving a written notice to the Registrar of the change of place of residence and the address of the new place of residence, notify the Registrar of them by supplying that information to the Registrar using an electronic medium approved for the purpose by the Chief Registrar.
 
 3 Every person commits an offence who knowingly and wilfully fails to comply with subsection (1) or subsection (2).
 
@@ -2753,7 +2826,7 @@ For the purposes of sections 111C to 111F,
 
 a the electors name, including first names, surname, and preferred honorific (if any):
 
-b the electors postal address:
+b the electors postal address, email address (if any), and contact telephone numbers (if any):
 
 c the electors date of birth:
 
@@ -2853,7 +2926,7 @@ b in any other case, to any iwi organisation or organisations or other Maori org
 
 a for the purposes of research conducted by that person on a topic that relates to a scientific matter,
 
-i a list of electors in a particular age group as defined in section 114(8); or
+i a list of electors in a particular age group as defined in section 114(9); or
 
 ii a list of electors of Maori descent; or
 
@@ -2977,7 +3050,7 @@ b any candidate or any person acting on behalf of a political party who wishes t
 
 c a member of Parliament or person acting on behalf of a member of Parliament who wishes to obtain the information for the purposes of the member of Parliament:
 
-d any Commissioner or officer of the Electoral Commission for the purposes of assisting the Electoral Commission to exercise its functions under section 5(d):
+d any Commissioner or officer of the Electoral Commission for the purposes of assisting the Electoral Commission to exercise its functions under section5(c):
 
 e any other person charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election.
 
@@ -3050,7 +3123,7 @@ a a protection order that is in force under the Domestic Violence Act 1995 in re
 
 aa a restraining order that is in force under the Harassment Act 1997 in respect of any person; or
 
-b a statutory declaration from a member of the police to the effect that he or she believes that the personal safety of a person or of a persons family could be prejudiced by the publication of that persons name,exercise in respect of that persons name, and without further evidence or inquiry, the power conferred on the Chief Registrar by that subsection.
+b a statutory declaration from a constable to the effect that he or she believes that the personal safety of a person or of a persons family could be prejudiced by the publication of that persons name,exercise in respect of that persons name, and without further evidence or inquiry, the power conferred on the Chief Registrar by that subsection.
 
 
 
@@ -3101,7 +3174,7 @@ a in the case of information supplied, received, or used for a commercial purpos
 b in any other case, to a fine not exceeding $10,000.
 
 118 False statements or declarations
-Every person who knowingly and wilfully makes a false statement in any application, certificate, or declaration for the purposes of this Part shall be liable on summary conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
+Every person who knowingly and wilfully makes a false statement in any application, certificate, declaration, or information supplied (by written notice or electronically) under section 82(4A), 83A(3), or 90 for the purposes of this Part shall be liable on summary conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
 
 119 Wilfully misleading Registrar
 Every person shall for each offence be liable on summary conviction to a fine not exceeding $2,000 who
@@ -3113,7 +3186,7 @@ b signs the name of any person, whether requested to do so or not, or any false 
 c signs his or her name as witness to any signature upon any such form of application or objection without either seeing the signature written or hearing the person signing declare that the signature is in his or her own handwriting and that the name so signed is his or her own proper name.
 
 120 Duty to report suspected offences
-Where the Registrar believes that any person has committed an offence against section 119, he or she shall report the facts on which that belief is based to the police.
+Where the Registrar believes that any person has committed an offence against section 119, he or she shall report the facts on which that belief is based to the New Zealand Police.
 
 121 Failure to deliver application
 Every person shall be liable on summary conviction to a fine not exceeding $2,000 who, having obtained possession of an application for registration signed by any other person for the purpose of being delivered to the Registrar for registration, wilfully fails so to deliver it so that the applicants name is not entered on the roll.
@@ -3122,13 +3195,13 @@ Every person shall be liable on summary conviction to a fine not exceeding $2,00
 
 122 Assistance to be given to Registrar
 
-1 All members of the police
+1 All constables
 
-a shall, at the request of the Registrar, assist the Registrar by informing him or her of the name of any person whom they have reason to believe is qualified to be registered as an elector but is not registered, or is registered but is not qualified to be registered; and
+a must, at the Registrar's request, assist the Registrar by informing him or her of the name of any person whom they have reason to believe is qualified to be registered as an elector but is not registered, or is registered but is not qualified to be registered; and
 
-b shall give the Registrar any information the Registrar requests relating to the qualifications of any person for registration as an elector.
+b must give the Registrar any information the Registrar requests relating to the qualifications of any person for registration as an elector.
 
-2 All members of the police shall also assist the Registrar by making such inquiries and obtaining such information as he or she requests.
+2 All constables must also assist the Registrar by making such inquiries and obtaining such information as he or she requests.
 
 123 Copies of rolls for Returning Officer
 
@@ -3157,6 +3230,10 @@ b forms returned following an inquiry under section 83; and
 c records forming part of the dormant roll maintained under section 109(1).
 
 3 Nothing in this section authorises any person to destroy any records if he or she has reason to believe that those records are relevant to an election petition or that the time for bringing an election petition to which those records may be relevant has not expired.
+
+4 Despite subsections (1) to (3), the Registrar may destroy paper copies of any of the records described in subsection (2) if satisfied that accurate electronic images of those records have been created by or on behalf of the Registrar and are being stored by or on behalf of the Registrar in a manner that ensures that those electronic images are and will be able to be used for the same purposes as the paper copies would, if not destroyed, have been required by the rest of this Act to be able to be used.
+
+5 A requirement in or under this Act that a paper copy of a record be used for a particular purpose is, after that paper copy is destroyed under subsection (4), satisfied by using for that purpose the accurate electronic image, created and stored under subsection (4), of that paper copy.
 
 6 Elections
 
@@ -3299,7 +3376,7 @@ Notwithstanding anything in section 129, no writ shall be issued for a by-electi
 
 a the vacancy arises in the period of 6 months ending with the date of the expiration of the Parliament and a resolution that a writ not be issued to supply the vacancy is passed by a majority of 75% of all the members of the House of Representatives; or
 
-b following the tabling in the House of Representatives by the Prime Minister of a document informing the House that a general election is to be held within 6 months of the occurrence of the vacancy, a resolution is passed by a majority of 75% of all the members of the House of Representatives to the effect that a writ is not to be issued to supply the vacancy.
+b following the presentation to the House of Representatives by the Prime Minister of a document informing the House that a general election is to be held within 6 months of the occurrence of the vacancy, a resolution is passed by a majority of 75% of all the members of the House of Representatives to the effect that a writ is not to be issued to supply the vacancy.
 
 132 Writ for by-election
 
@@ -3323,7 +3400,7 @@ Notwithstanding anything in section 134, no direction shall be issued under that
 
 a the vacancy arises in the period of 6 months ending with the date of the expiration of the Parliament and a resolution that a direction not be issued to supply the vacancy is passed by a majority of 75% of all the members of the House of Representatives; or
 
-b following the tabling in the House of Representatives by the Prime Minister of a document informing the House that a general election is to be held within 6months of the occurrence of the vacancy, a resolution is passed by a majority of 75% of all the members of the House of Representatives to the effect that a direction is not to be issued to supply the vacancy.
+b following the presentation to the House of Representatives by the Prime Minister of a document informing the House that a general election is to be held within 6months of the occurrence of the vacancy, a resolution is passed by a majority of 75% of all the members of the House of Representatives to the effect that a direction is not to be issued to supply the vacancy.
 
 137 Method of supplying vacancy
 
@@ -5638,7 +5715,7 @@ b the coverage provided by an election advertisement must be calculated in such 
 
 205F Offence to pay election expenses in excess of prescribed maximum
 
-1 This section applies to any candidate or other person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any election expenses any sum in excess of either of the maximum amounts prescribed by section 205B.
+1 This section applies to any candidate or other person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any election expenses any sum in excess of either of the maximum amounts prescribed by section 205C.
 
 2 The candidate or other person is guilty of
 
@@ -5867,7 +5944,7 @@ b the coverage provided by an election advertisement must be calculated in such 
 
 206D Offence to pay election expenses in excess of prescribed maximum
 
-1 This section applies to any person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any election expenses any sum in excess of either of the maximum amounts prescribed by section 206B.
+1 This section applies to any person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any election expenses any sum in excess of either of the maximum amounts prescribed by section 206C.
 
 2 The person is guilty of
 
@@ -5969,7 +6046,7 @@ g a Returning Officer.
 
 2 The auditor must state in the report
 
-a the position shown by the return in respect of the requirement that the partys total election expenses not exceed the maximum amount prescribed by section 206B and
+a the position shown by the return in respect of the requirement that the partys total election expenses not exceed the maximum amount prescribed by section 206C and
 
 b either
 
@@ -6506,7 +6583,7 @@ c if the donation made by the donor includes or comprises contributions from oth
 
 208B Limit on maximum amount of donations protected from disclosure
 
-1 The maximum amount that a party may be paid in donations made to the Electoral Commission for the benefit of that party during a specified period is 10% (excluding any interest paid under section 208E(2)) of the maximum amount of election expenses allowed under section 206B(1) to be incurred by a party that is listed in the part of the ballot paper that relates to the party vote and that has a candidate contesting every electoral district.
+1 The maximum amount that a party may be paid in donations made to the Electoral Commission for the benefit of that party during a specified period is 10% (excluding any interest paid under section 208E(2)) of the maximum amount of election expenses allowed under section 206C(1) to be incurred by a party that is listed in the part of the ballot paper that relates to the party vote and that has a candidate contesting every electoral district.
 
 2 The maximum amount that a party may be paid in donations made to the Electoral Commission for the benefit of the party from the same donor during any specified period is 15% (excluding any interest paid under section 208E(2)) of the amount that may be paid to that party under subsection (1).
 
@@ -6514,7 +6591,7 @@ c if the donation made by the donor includes or comprises contributions from oth
 
 a a *specified period* is
 
-i the period beginning on 9 November 2008 and ending with the close of the day before polling day for the next general election after that date; and
+i the period beginning on 9November 2008 and ending with the close of the day before polling day for the next general election after that date; and
 
 ii any subsequent period between polling day for one general election and polling day for the following general election:
 
@@ -6981,7 +7058,7 @@ c having voted at an election in any district at a general election, votes at an
 
 3 For the purposes of this section, a person shall be deemed to have voted if he or she has applied for a ballot paper for himself or herself, or has applied to vote as a special voter, or has marked a ballot paper for himself or herself, whether validly or not.
 
-4 Where the Returning Officer believes that any person has committed an offence against this section, the Returning Officer shall report the facts on which that belief is based to the police.
+4 Where the Returning Officer believes that any person has committed an offence against this section, the Returning Officer shall report the facts on which that belief is based to the New Zealand Police.
 
 216 Bribery
 
@@ -7510,9 +7587,9 @@ v the expiry date of any visa held by the person
 
 2 The purpose of this section is to facilitate the disclosure of information from the responsible department to the Chief Registrar for the purposes of
 
-a verifying, for the purposes of this Act, that any person registered as an elector of an electoral district is qualified to be registered as an elector of that electoral district:
+a verifying, for the purposes of this Act, that any person who is, or has applied to be, registered as an elector of an electoral district is qualified to be registered as an elector of that electoral district:
 
-b verifying that a person registered as an elector is a person who the chief executive of the responsible department believes to be either
+b verifying that a person who is, or has applied to be, registered as an elector is a person who the chief executive of the responsible department believes to be either
 
 i a person who is unlawfully in New Zealand; or
 
@@ -7522,13 +7599,17 @@ ii a person who is lawfully in New Zealand but only by virtue of being the holde
 
 4 If, in relation to any person, immigration information is supplied to the Chief Registrar pursuant to subsection (3), the Chief Registrar may cause a comparison of that information to be made with any information that is held by the Chief Registrar and that relates to that person.
 
-5 If the result of a comparison carried out pursuant to subsection (4) indicates that any person on the electoral roll is
+5 If the result of a comparison carried out pursuant to subsection (4) indicates that any person who has applied to be (but is not yet) registered as an elector, or who is on the electoral roll, is
 
 a a person who the chief executive of the responsible department believes is unlawfully in New Zealand; or
 
-b a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type,the Chief Registrar must advise the Registrar of the electoral district in which that person is registered as an elector accordingly.
+b a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type,the Chief Registrar must advise the Registrar of the electoral district in which that person is, or has applied to be, registered as an elector accordingly.
 
-6 Where any Registrar receives advice from the Chief Registrar under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar must, under section 96, object to the name of that person being on the roll for the district.
+6 After receiving advice from the Chief Registrar under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar must,
+
+a if the person has applied to be (but is not yet) registered as an elector for the district, follow the procedure specified in section 87A; or
+
+b if the person is registered as an elector for the district and the name of the person is on the roll for the district, object under section 96 to the name of that person being on the roll for the district.
 
 263B Disclosure of personal information for enrolment purposes
 
@@ -7578,7 +7659,11 @@ b in the case of the Ministry of Transport, in relation to motor vehicle registr
 
 c in the case of the New Zealand Transport Agency, in relation to driver licences:
 
-d in the case of the Department of Internal Affairs, in relation to persons who obtain New Zealand citizenship under the Citizenship Act 1977.
+d in the case of the Department of Internal Affairs, in relation to any persons
+
+i who obtain New Zealand citizenship under the Citizenship Act 1977; or
+
+ii by whom, or on whose behalf, an application is made under the Passports Act 1992 for the issue or renewal of a New Zealand passport.
 
 5 If, in relation to any person, information is supplied to the Chief Registrar under subsection (4), the Chief Registrar may cause a comparison of that information to be made with any information that is held by the Chief Registrar and that relates to that person.
 
@@ -7620,7 +7705,7 @@ d section 206V (which relates to the maximum amount of a registered promoter's e
 
 2 The first Order in Council must
 
-a come into force on 1 July 2011; and
+a come into force on 1July 2011; and
 
 b adjust the amount referred to in section 206C(1)(a) to reflect the movement between the CPI for the quarter ending 30September 2010 and the CPI for the quarter ending 31March 2011.
 
