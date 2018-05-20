@@ -4,7 +4,7 @@
 
 1 This Act may be cited as the Biosecurity Act 1993.
 
-2 This Act shall come into force on the 1st day of October 1993.
+2 This Act shall come into force on 1October 1993.
 
 1 Preliminary
 
@@ -14,7 +14,7 @@
 
 *approved* means approved by the Director-General
 
-*approved identification* means any method of identifying animals or animal products approved under section 50 of this Act or prescribed under this Act
+*approved identification* means any method of identifying animals or animal products approved under section 50 or prescribed under this Act
 
 *arrive in New Zealand*,
 
@@ -24,11 +24,11 @@ b in relation to any other craft, means to anchor, berth, or come ashore in New 
 
 c in relation to a person, means to reach land within New Zealand territory after a flight or voyage originating outside New Zealand territory
 
-*authorised person* means a person for the time being appointed an authorised person under section 103 of this Act
+*authorised person* means a person for the time being appointed an authorised person under section 103
 
 *Authority* means the Environmental Risk Management Authority established under the Hazardous Substances and New Organisms Act 1996
 
-*biosecurity clearance* means a clearance under section 26 of this Act for the entry of goods into New Zealand
+*biosecurity clearance* means a clearance under section 26 for the entry of goods into New Zealand
 
 *biosecurity control area* means a place that is
 
@@ -38,9 +38,9 @@ b by written agreement with the port's operator, under the control of the Direct
 
 *border infringement offence* means an infringement offence specified as a border infringement offence by regulations made under this Act
 
-*chief executive* means the head of a Department; and includes a chief executive appointed under the State Sector Act 1988
+*chief executive* means the head of a department; and includes a chief executive appointed under the State Sector Act 1988
 
-*chief technical officer* means a person appointed a chief technical officer under section 101 of this Act
+*chief technical officer* means a person appointed a chief technical officer under section 101
 
 *consultation* includes actions taken before the enactment of this Act in anticipation of its enactment; and *consult* has a corresponding meaning
 
@@ -54,7 +54,7 @@ c in the case of a condition requiring an organism to be held until the happenin
 
 *containment facility* means a place approved in accordance with section 39 for holding organisms that should not, whether for the time being or ever, become established in New Zealand
 
-*controlled area* means an area for the time being declared under subsection (2) of section 131 of this Act to be an area that is controlled for the purposes of that section
+*controlled area* means an area for the time being declared under subsection (2) of section 131 to be an area that is controlled for the purposes of that section
 
 *conveyance* includes any craft, truck, cargo container, horse-box, wagon, cart, dray, cage, kennel, or vehicle that is or has been used for the conveyance of, or has come into contact with, any organism or organic material
 
@@ -62,7 +62,7 @@ c in the case of a condition requiring an organism to be held until the happenin
 
 *craft* includes any aircraft, ship, boat, or other machine or vessel used or able to be used for the transportation of people or goods, or both, by air or sea
 
-*Department* has the same meaning as in the State Sector Act 1988
+*department* has the same meaning as in the State Sector Act 1988
 
 *Director-General* means the chief executive of the Ministry
 
@@ -74,13 +74,13 @@ b all natural and physical resources; and
 
 c amenity values; and
 
-d the aesthetic, cultural, economic, and social conditions that affect or are affected by any matter referred to in paragraphs (a) to (c) of this definition
+d the aesthetic, cultural, economic, and social conditions that affect or are affected by any matter referred to in paragraphs (a) to (c)
 
-*exclusive economic zone* means the zone of that name described in section 9 of the Territorial Sea and Exclusive Economic Zone Act 1977
+*exclusive economic zone* means the zone of that name described in section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
 
 *goods* means all kinds of moveable personal property
 
-*import*, subject to section 4 of this Act, means bring within New Zealand territory from outside that territory; and *imported* has a corresponding meaning
+*import*, subject to section 4, means bring within New Zealand territory from outside that territory; and *imported* has a corresponding meaning
 
 *import health standard* means a document issued under section 22
 
@@ -90,11 +90,11 @@ d the aesthetic, cultural, economic, and social conditions that affect or are af
 
 *infringement offence* means an offence prescribed by regulations made under this Act as an infringement offence
 
-*inspector* means a person who is appointed an inspector under section 103 of this Act
+*inspector* means a person who is appointed an inspector under section 103
 
 *local authority* means a regional council or territorial authority
 
-*management agency* means the Department, authority, or body corporate specified in a pest management strategy as the agency given the task of implementing the strategy
+*management agency* means the department, authority, or body corporate specified in a pest management strategy as the agency given the task of implementing the strategy
 
 *marae* includes the area of land on which all buildings such as the wharenui (meeting house), the wharekai (dining room), ablution blocks, and any other associated buildings are situated
 
@@ -122,7 +122,7 @@ f systems of interacting living organisms and their environment
 
 *new organism* has the same meaning as in section 2 of the Hazardous Substances and New Organisms Act 1996
 
-*New Zealand territory* means the land and the waters enclosed by the outer limits of the territorial sea (as described in section 3 of the Territorial Sea and Exclusive Economic Zone Act 1977)
+*New Zealand territory* means the land and the waters enclosed by the outer limits of the territorial sea (as described in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
 
 *occupier*,
 
@@ -132,7 +132,7 @@ b in relation to any other place, means the owner of the place; and
 
 c in relation to any place, includes any agent, employee, or other person, acting or apparently acting in the general management or control of the place
 
-*organic material*, subject to subsection (2) of this section, means any material that is or contains
+*organic material*, subject to subsection (2), means any material that is or contains
 
 a material derived from an organism; or
 
@@ -144,7 +144,7 @@ a does not include a human being or a genetic structure derived from a human bei
 
 b includes a micro-organism:
 
-c subject to paragraph (a) of this definition, includes a genetic structure that is capable of replicating itself (whether that structure comprises all or only part of an entity, and whether it comprises all or only part of the total genetic structure of an entity):
+c subject to paragraph (a), includes a genetic structure that is capable of replicating itself (whether that structure comprises all or only part of an entity, and whether it comprises all or only part of the total genetic structure of an entity):
 
 d includes an entity (other than a human being) declared by the Governor-General by Order in Council to be an organism for the purposes of this Act:
 
@@ -166,7 +166,7 @@ a helping the pest replicate, spread, or survive; or
 
 b interfering with the management of the pest
 
-*pest management strategy* and *strategy* mean a strategy, made under Part 5 of this Act, for the management or eradication of a particular pest or pests
+*pest management strategy* and *strategy* mean a strategy, made under Part 5, for the management or eradication of a particular pest or pests
 
 *place* includes any building, conveyance, craft, land, or structure, and the bed and waters of the sea and any canal, lake, pond, river, or stream
 
@@ -182,7 +182,7 @@ b in relation to a region, the chief executive of the region's regional council;
 
 *quarantine* means confinement of organisms or organic material that may be harbouring pests or unwanted organisms
 
-*quarantine area* means a place so designated under section 41 of this Act
+*quarantine area* means a place so designated under section 41
 
 *reasonable charge* means a charge calculated by the Director-General having regard to the direct and indirect costs of performing the activity concerned
 
@@ -196,7 +196,7 @@ b in relation to a region, the chief executive of the region's regional council;
 
 *restricted organism* means any organism for which a containment approval has been granted in accordance with the Hazardous Substances and New Organisms Act 1996 (including any approval deemed to have been granted under sections 254(1), 254(3), 254(8)(a), 255(1), 255(2), 256, 258(1), and 258(3))
 
-*restricted place* means any place that an inspector or an authorised person has declared to be a restricted place under section 130 of this Act
+*restricted place* means any place that an inspector or an authorised person has declared to be a restricted place under section 130
 
 *risk goods* means any organism, organic material, or other thing, or substance, that (by reason of its nature, origin, or other relevant factors) it is reasonable to suspect constitutes, harbours, or contains an organism that may
 
@@ -210,9 +210,9 @@ b interfere with the diagnosis, management, or treatment, in New Zealand, of pes
 
 *small-scale management programme* means a small-scale management programme declared under section 100
 
-*threatened species* includes any species within the meaning given to the terms extinct in the wild, critically endangered, endangered, and vulnerable by the International Union for Conservation of Nature and Natural Resources
-
 *territorial authority* means a territorial authority within the meaning of the Local Government Act 2002
+
+*threatened species* includes any species within the meaning given to the terms extinct in the wild, critically endangered, endangered, and vulnerable by the International Union for Conservation of Nature and Natural Resources
 
 *transitional facility* means:
 
@@ -266,7 +266,7 @@ a a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the S
 
 ab the day observed in the region of a regional council as the anniversary day of the province of which the region forms part; and
 
-b a day in the period commencing on the 20th day of December in any year and ending with the 15th day of January in the following year.
+b a day in the period commencing on 20December in any year and ending with 15January in the following year.
 
 2 No goods are an organic material by virtue only of being or containing cardboard, coal, paper, petroleum oil, or a substance derived from coal or petroleum oil.
 
@@ -296,7 +296,7 @@ i it is caused by an organism; but
 
 ii there is no satisfactory evidence available as to the identity or nature of the organism causing it.
 
-2 This Act shall have effect as if every syndrome to which subsection (1) of this section applies is in fact caused by an organism, which may be specified (in a pest management strategy or for any other purpose) by reference to the name generally accepted by the scientific community for that syndrome.
+2 This Act shall have effect as if every syndrome to which subsection (1) applies is in fact caused by an organism, which may be specified (in a pest management strategy or for any other purpose) by reference to the name generally accepted by the scientific community for that syndrome.
 
 3 In this section, *syndrome* means a group of characteristic symptoms, behaviours, or symptoms and behaviours, generally recognised by the scientific community as proceeding or being likely to proceed from a single cause.
 
@@ -308,7 +308,7 @@ a taken in the exclusive economic zone; and
 b carried on board a foreign licensed vessel, a vessel registered under the Fisheries Act 1983, or a vessel operated by the Crown,as if they are not imported goods.
 
 5 Act binds the Crown
-Except as is provided in section 87 of this Act, this Act binds the Crown.
+Except as is provided in section 87, this Act binds the Crown.
 
 6 Land may include parts of boundary roads
 
@@ -326,13 +326,13 @@ c the middle line of the road connecting those extended lines.
 
 7 Relationship with other enactments
 
-1 Nothing in any enactment specified in this section affects the performance or exercise of any power, function, or duty conferred by Part 7 of this Act.
+1 Nothing in any enactment specified in this section affects the performance or exercise of any power, function, or duty conferred by Part 7.
 
 2 Except
 
-a to the extent provided in subsections (1), (5), and (6) of this section and section 7A of this Act; and
+a to the extent provided in subsections (1), (5), and (6) and section 7A; and
 
-b to the extent that those enactments are expressly amended by section 168(1) of this Act,this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Conservation Act 1987, the Trade in Endangered Species Act 1989, or the Resource Management Act 1991.
+b to the extent that those enactments are expressly amended by section 168(1),this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Conservation Act 1987, the Trade in Endangered Species Act 1989, or the Resource Management Act 1991.
 
 3 This Act must not be construed so as to affect or derogate in any way from the provisions of the Customs and Excise Act 1996 and, in particular, the provisions of this Act do not affect the obligations of any person under the Customs and Excise Act 1996 in relation to goods.
 
@@ -352,7 +352,7 @@ b do not allow or authorise the contravention of any provision of this Act in re
 
 7A Relationship with Resource Management Act 1991
 
-1 Where any action taken in accordance with any provision in Part 6 of this Act in an attempt to eradicate any organism would be in breach of the provisions of Part 3 of the Resource Management Act 1991, the responsible Minister may exempt the actions taken in relation to that organism from the provisions of Part 3 of the Resource Management Act 1991 for up to 20 working days if that Minister is satisfied that it is likely that
+1 Where any action taken in accordance with any provision in Part 6 in an attempt to eradicate any organism would be in breach of the provisions of Part3 of the Resource Management Act 1991, the responsible Minister may exempt the actions taken in relation to that organism from the provisions of Part 3 of the Resource Management Act 1991 for up to 20 working days if that Minister is satisfied that it is likely that
 
 a the organism is not established in New Zealand, the organism is not known to be established in New Zealand, or the organism is established in New Zealand but is restricted to certain parts of New Zealand; and
 
@@ -376,11 +376,11 @@ c the areas affected by the action.
 
 6 Where any action has been exempted from Part 3 of the Resource Management Act 1991 under subsection (1) and the responsible Minister considers that it is necessary to continue action beyond the duration of the exemption to attempt to eradicate the organism, that Minister may recommend that regulations be made continuing the exemption and the Governor-General may from time to time, by Order in Council, make regulations for that purpose.
 
-7 Regulations made under this section come into force on the date of notification in the Gazette, or at the time specified in the regulations, whichever is the later, and continue in force until revoked or until a date not later than the day 2 years after the regulations came into force when the regulations expire and are deemed to have been revoked.
+7 Regulations made under this section come into force on the date of notification in the Gazette, or at the time specified in the regulations, whichever is the later, and continue in force until revoked or until a date not later than the day 2years after the regulations came into force when the regulations expire and are deemed to have been revoked.
 
 8 Where an exemption is granted under subsection (1) or by regulations made under subsection (6), the provisions of Part 3 of the Resource Management Act 1991 do not apply to the actions taken to eradicate the organism while the exemption is in force.
 
-9 Where an exemption from the provisions of the Resource Management Act 1991 has been granted under subsection (1) or by regulations made under subsection (6) and that exemption has ended (either by the expiry of the exemption under subsection (1) or by the revocation of the regulations, as the case may be), the provisions of the Resource Management Act 1991 then apply and the responsible Minister must remedy or mitigate the adverse effects of any actions taken under Part 6 and to which the provisions of the Resource Management Act 1991, but for the exemption under this section, would otherwise have applied.
+9 Where an exemption from the provisions of the Resource Management Act 1991 has been granted under subsection (1) or by regulations made under subsection (6) and that exemption has ended (either by the expiry of the exemption under subsection (1) or by the revocation of the regulations, as the case may be), the provisions of the Resource Management Act 1991 then apply and the responsible Minister must remedy or mitigate the adverse effects of any actions taken under Part6 and to which the provisions of the Resource Management Act 1991, but for the exemption under this section, would otherwise have applied.
 
 10 For the purposes of this section, *consent authority* has the same meaning as in section 2(1) of the Resource Management Act 1991.
 
@@ -398,7 +398,7 @@ b recording and co-ordinating reports of suspected new organisms:
 
 c managing appropriate responses to such reports.
 
-2 Section 9 of this Act does not limit or affect the generality of subsection (1) of this section.
+2 Section 9 does not limit or affect the generality of subsection(1).
 
 9 Powers of responsible Minister
 
@@ -414,7 +414,7 @@ ii where some other person has requested the responsible Minister to notify a pr
 
 c recommend to the Governor-General the making of Orders in Council under section 45(3):
 
-d recommend to the Governor-General under section 137(1) the making of Orders in Council imposing levies, and perform other functions in relation to levies:
+d recommend to the Governor-General under section137(1) the making of Orders in Council imposing levies, and perform other functions in relation to levies:
 
 e recommend to the Governor-General under section 165 the making of regulations.
 
@@ -438,9 +438,9 @@ iii causing public notice to be given under section 67(3) of where and how perso
 
 iv considering under section 69(1)(a)(i) the report made by the board under section 67(2) on the proposed strategy:
 
-d considering whether or not to recommend to the Governor-General under section 68, the making of an Order making the strategy concerned, and if so, doing so:
+d considering whether or not to recommend to the Governor-General under section 68, the making of an order making the strategy concerned, and if so, doing so:
 
-e if an Order under section 68 has been made that makes the proposed strategy,
+e if an order under section 68 has been made that makes the proposed strategy,
 
 i laying a copy before the House of Representatives under section 70; and
 
@@ -464,11 +464,11 @@ a direct the forfeiture of organisms and organic material under section 134(3):
 
 b take action under sections 144 and 147 in relation to biosecurity emergencies:
 
-c take action under section 145 in relation to biosecurity emergencies:
+c take action under section145 in relation to biosecurity emergencies:
 
-d recommend to the Governor-General under section 150(1) the making of biosecurity emergency regulations, and where such regulations are made, the Minister has the duty of laying them before the House of Representatives under section 150(5):
+d recommend to the Governor-General under section150(1) the making of biosecurity emergency regulations, and where such regulations are made, the Minister has the duty of laying them before the House of Representatives under section 150(5):
 
-e declare a provisional control programme under section 152(1):
+e declare a provisional control programme under section152(1):
 
 f extend under subsection (3) of section 152 a provisional control programme.
 
@@ -482,7 +482,7 @@ a in the possession of the council or agency; or
 
 b capable of being obtained by the council or agency without unreasonable difficulty or expense,that the responsible Minister reasonably requires.
 
-2 A regional council or management agency shall give the responsible Minister any information the responsible Minister has asked for under subsection (1) of this section as soon as is reasonably practicable after being asked to do so.
+2 A regional council or management agency shall give the responsible Minister any information the responsible Minister has asked for under subsection (1) as soon as is reasonably practicable after being asked to do so.
 
 
 
@@ -521,7 +521,7 @@ h take any action contemplated by or necessary for giving effect to any provisio
 14 Powers of territorial authorities
 Every territorial authority has power to
 
-a take any action any natural person could take under Part 5 of this Act:
+a take any action any natural person could take under Part5:
 
 b act as a management agency under a pest management strategy:
 
@@ -545,13 +545,13 @@ db to set and assess rates under the Local Government (Rating) Act 2002 for the 
 
 e gather information, keep records, undertake research, or do any other similar thing, if doing so is necessary or desirable to enable it to act effectively under this Act:
 
-f perform or exercise any function, power, or duty whose performance or exercise is for the time being transferred to it under section 15 of this Act:
+f perform or exercise any function, power, or duty whose performance or exercise is for the time being transferred to it under section 15:
 
 g perform or exercise any other function, power, or duty conferred on it by this Act.
 
 15 Transfer of powers, etc, by local authorities
 
-1 Subject to subsections (2) and (3) of this section, a local authority that has an operation under this Act (in this section referred to as the transferor) may transfer the performance of the operation to another local authority (in this section referred to as the transferee), if
+1 Subject to subsections (2) and (3), a local authority that has an operation under this Act (in this section referred to as the transferor) may transfer the performance of the operation to another local authority (in this section referred to as the transferee), if
 
 a it has used the special consultative procedure specified in section 83 of the Local Government Act 2002; and
 
@@ -571,9 +571,9 @@ ii technical or special capability or expertise on the part of the transferee, b
 
 2 The transferor shall not transfer
 
-a the performance of the function of notifying or making any regional pest management strategy under Part 5 of this Act; or
+a the performance of the function of notifying or making any regional pest management strategy under Part 5; or
 
-b the exercise of the power of transfer conferred by subsection (1) of this section.
+b the exercise of the power of transfer conferred by subsection (1).
 
 3 The agreement shall contain provisions dealing with the revocation and relinquishment of the transfer; and
 
@@ -596,7 +596,7 @@ b the transferor shall continue to be responsible for the operation.
 3 Importation of risk goods
 
 16 Purpose of Part 3
-The purpose of this Part of this Act is to provide for the effective management of risks associated with the importation of risk goods.
+The purpose of this Part is to provide for the effective management of risks associated with the importation of risk goods.
 
 
 
@@ -614,7 +614,7 @@ b proceed directly to, and arrive in New Zealand at, that port or destination.
 
 2 Where
 
-a any person in charge of any craft has given the Director-General notice under subsection (1) of this section or this subsection; and
+a any person in charge of any craft has given the Director-General notice under subsection (1) or this subsection; and
 
 b the craft has not arrived in New Zealand since the notice was given; and
 
@@ -644,13 +644,13 @@ b a port approved under section 37A for the arrival of the craft.
 
 a shall, if
 
-i the person has not notified the Director-General under section 17 of this Act; or
+i the person has not notified the Director-General under section 17; or
 
-ii the place is not the port or destination notified (or, as the case may be, last notified) under section 17 of this Act,give the Director-General notice of where and (approximately) when the craft arrived; and
+ii the place is not the port or destination notified (or, as the case may be, last notified) under section17,give the Director-General notice of where and (approximately) when the craft arrived; and
 
 b shall prevent risk goods from leaving the craft without the permission of an inspector.
 
-2 The person in charge of any such craft shall, if so required by an inspector, pay a bond for such amount not exceeding $10,000 as the inspector may require to secure due compliance with subsection (1)(b) of this section.
+2 The person in charge of any such craft shall, if so required by an inspector, pay a bond for such amount not exceeding $10,000 as the inspector may require to secure due compliance with subsection (1)(b).
 
 19 Persons in charge of certain craft to obey directions of inspector or authorised person
 
@@ -668,7 +668,7 @@ i the movement of the craft in the place; or
 
 ii the unloading or discharge of risk goods or the disembarkation of crew or passengers from the craft; or
 
-iii measures (including any bond required under section 18(2) of this Act) to ensure that any risk goods not intended to be unloaded or discharged from the craft are maintained in a secure place under the control of that person; and
+iii measures (including any bond required under section 18(2)) to ensure that any risk goods not intended to be unloaded or discharged from the craft are maintained in a secure place under the control of that person; and
 
 b within the required time or times, deliver to an inspector a report, in such manner and form, and containing such particulars verified by declaration, and with such supporting documents, as may be required; and
 
@@ -740,7 +740,7 @@ d the reporting requirements for an independent review panel.
 
 3 The Director-General must receive any report from an independent review panel and, as soon as is reasonably practicable, determine the issue in dispute after taking into account the findings and recommendations of the independent review panel, giving reasons for that determination.
 
-4 The Director-General must issue a notice under subsection (1) not later than 1 July 2008.
+4 The Director-General must issue a notice under subsection (1) not later than 1July 2008.
 
 23 Revocation and variation of import health permits
 
@@ -763,7 +763,7 @@ b in accordance with the authority of an inspector, to be exported from New Zeal
 25A Organisms illegally present in New Zealand
 
 26 Clearances
-Subject to sections 27 and 28 of this Act, any inspector may give a clearance for the entry into New Zealand of any goods.
+Subject to sections 27 and 28, any inspector may give a clearance for the entry into New Zealand of any goods.
 
 27 Inspector to be satisfied of certain matters
 An inspector shall not give a biosecurity clearance for any goods unless satisfied that the goods are not risk goods; or satisfied
@@ -853,7 +853,7 @@ b inspect the goods.
 
 31 Boarding of craft
 
-1 Subject to subsection (2) of this section, an inspector may, for the purpose of ascertaining the presence of risk goods, require the person in charge of
+1 Subject to subsection (2), an inspector may, for the purpose of ascertaining the presence of risk goods, require the person in charge of
 
 a any craft, used for the transportation of people or goods, or both, by air, that is within New Zealand territory; or
 
@@ -867,7 +867,7 @@ d by all reasonable means, facilitate the boarding of the craft by an inspector.
 
 32 Powers relating to craft
 
-1 Subject to subsection (2) of this section, any person who has the power under any provision in this Act to enter any craft and who has reasonable grounds to suspect that a craft in New Zealand territory contains any unwanted organism may direct the master or other person in charge of the craft to
+1 Subject to subsection (2), any person who has the power under any provision in this Act to enter any craft and who has reasonable grounds to suspect that a craft in New Zealand territory contains any unwanted organism may direct the master or other person in charge of the craft to
 
 a move it to and stop it at any place within New Zealand territory; or
 
@@ -875,7 +875,7 @@ b move it and keep it outside New Zealand territory; or
 
 c take any specified action on or in respect of the craft.
 
-2 Before exercising a power conferred by subsection (1) of this section, the person who proposes to exercise the power shall consult the chief executives of
+2 Before exercising a power conferred by subsection (1), the person who proposes to exercise the power shall consult the chief executives of
 
 a the New Zealand Customs Service; and
 
@@ -883,7 +883,7 @@ b the Ministry of Agriculture and Forestry.
 
 33 Risk goods on board craft
 
-1 Where there are any risk goods on board a craft that has entered New Zealand territory from outside New Zealand territory, an inspector may direct the master or other person in charge of the craft to take (as the master or person thinks fit) 1 of the following steps:
+1 Where there are any risk goods on board a craft that has entered New Zealand territory from outside New Zealand territory, an inspector may direct the master or other person in charge of the craft to take (as the master or person thinks fit) one of the following steps:
 
 a deal with the goods in a manner specified by the inspector while the craft is in New Zealand territory; or
 
@@ -891,7 +891,7 @@ b move the craft outside New Zealand territory (immediately, or within a period 
 
 c destroy the goods in a place and manner approved by the inspector for the purpose.
 
-2 Subject to subsection (3) of this section, where the master or person in charge of a craft fails or refuses to comply with a direction under subsection (1) of this section, any inspector may
+2 Subject to subsection (3), where the master or person in charge of a craft fails or refuses to comply with a direction under subsection (1), any inspector may
 
 a direct the master or other person in charge of the craft to move the craft outside New Zealand territory (immediately, or within a period specified by the inspector); or
 
@@ -899,11 +899,11 @@ b seize and destroy the risk goods concerned.
 
 3 Where
 
-a an inspector gives a direction under subsection (1) of this section in respect of goods of a particular kind or description on board a craft of a particular kind or description; and
+a an inspector gives a direction under subsection (1) in respect of goods of a particular kind or description on board a craft of a particular kind or description; and
 
 b there are for the time being in force under this Act regulations prescribing the manner in which risk goods of that kind or description should be dealt with while on board a craft of that kind or description,compliance with those regulations shall be deemed to be a sufficient compliance with the direction.
 
-4 Nothing in this section limits or affects the generality of section 32 of this Act.
+4 Nothing in this section limits or affects the generality of section 32.
 
 34 Disembarkation
 
@@ -919,29 +919,29 @@ a go directly to a biosecurity control area; and
 
 b remain there for such reasonable time as an inspector may require to ascertain the presence of any risk goods.
 
-3 This subsection applies to a person and a biosecurity control area if the person is required by subsection (2) of this section to go directly to the biosecurity control area and remain there for such reasonable time as an inspector may require to ascertain the presence of any risk goods.
+3 This subsection applies to a person and a biosecurity control area if the person is required by subsection (2) to go directly to the biosecurity control area and remain there for such reasonable time as an inspector may require to ascertain the presence of any risk goods.
 
 4 An inspector, and any person the inspector calls to the inspector's assistance, may use such force as is reasonably necessary to
 
-a compel to go to the biosecurity control area concerned a person to whom subsection (3) of this section applies who has been directed by the inspector to go directly there; but
+a compel to go to the biosecurity control area concerned a person to whom subsection (3) applies who has been directed by the inspector to go directly there; but
 
 i has failed or refused to do so within a reasonable time of being so directed; or
 
 ii has attempted to go instead to some other place; or
 
-b detain in the biosecurity control area concerned a person to whom subsection (3) of this section applies who
+b detain in the biosecurity control area concerned a person to whom subsection (3) applies who
 
 i has been required by the inspector to remain there for a reasonable time to ascertain the presence of any risk goods; but
 
 ii has attempted to leave the biosecurity control area in contravention of the requirement; or
 
-c stop, return to, and detain in the biosecurity control area concerned a person to whom subsection (3) of this section applies who has gone to the biosecurity control area, and
+c stop, return to, and detain in the biosecurity control area concerned a person to whom subsection (3) applies who has gone to the biosecurity control area, and
 
 i has been required by the inspector to remain there for a reasonable time to ascertain the presence of any risk goods; but
 
 ii has left the biosecurity control area in contravention of the requirement; or
 
-d stop, return to, and detain in the biosecurity control area concerned a person to whom subsection (3) of this section applies who has gone to the biosecurity control area, but left before the inspector has
+d stop, return to, and detain in the biosecurity control area concerned a person to whom subsection (3) applies who has gone to the biosecurity control area, but left before the inspector has
 
 i required the person to remain there; or
 
@@ -950,7 +950,7 @@ ii had a reasonable time to ascertain the presence of any risk goods.
 5 Every person who has disembarked from a craft that has arrived in New Zealand, whether or not the person boarded the craft in New Zealand, shall make his or her accompanying baggage available for inspection by an inspector.
 
 35 Duties of people in biosecurity control areas
-Every person who is at any time in a biosecurity control area shall, for the purposes of this Part of this Act,
+Every person who is at any time in a biosecurity control area shall, for the purposes of this Part,
 
 a obey any reasonable direction of an inspector in relation to risk goods; and
 
@@ -1111,7 +1111,7 @@ c the person is no longer a fit and proper person to operate the facility.
 
 2 An inspector may, by the display of a clearly visible notice within a biosecurity control area, designate any place within that biosecurity control area to be a quarantine area.
 
-3 A designation under subsection (2) of this section shall ordinarily expire after 48 hours, or when sooner revoked; but it may be extended once by an inspector for a further period of not more than 48 hours.
+3 A designation under subsection (2) shall ordinarily expire after 48 hours, or when sooner revoked; but it may be extended once by an inspector for a further period of not more than 48 hours.
 
 4 Every quarantine area shall be under the direct control of an inspector.
 
@@ -1120,7 +1120,7 @@ c the person is no longer a fit and proper person to operate the facility.
 4 Surveillance and prevention
 
 42 Purpose of Part 4
-The purpose of this Part of this Act is to provide for the continuous monitoring of New Zealand's status in regard to pests and unwanted organisms
+The purpose of this Part is to provide for the continuous monitoring of New Zealand's status in regard to pests and unwanted organisms
 
 a to facilitate the provision of assurances and certificates in relation to exports of organisms and their products; and
 
@@ -1132,17 +1132,17 @@ d otherwise to enable any of New Zealand's international reporting obligations a
 
 43 Duty to provide information
 
-1 For the purposes of this Part of this Act, an inspector or authorised person may require any person referred to in subsection (2) of this section
+1 For the purposes of this Part, an inspector or authorised person may require any person referred to in subsection (2)
 
 a to provide any information held by the person concerning pests, pest agents, unwanted organisms, or risk goods that the inspector or authorised person believes on reasonable grounds is necessary to ascertain the presence or distribution in New Zealand of pests, pest agents, or unwanted organisms (or pests or unwanted organisms of a particular kind or description); and
 
 b to provide such assistance as the inspector or authorised person reasonably requests to enable or facilitate the acquisition, collection, and recording of any such information ascertained.
 
-2 The persons referred to for the purposes of subsection (1) of this section are
+2 The persons referred to for the purposes of subsection (1) are
 
-a every person who owns, manages, or otherwise controls the means by which and the sources from which information required under subsection (1) of this section may be generated; and
+a every person who owns, manages, or otherwise controls the means by which and the sources from which information required under subsection (1) may be generated; and
 
-b every person who owns, manages, or otherwise controls any organism, organic material, or risk goods that may be monitored for the purposes of this Part of this Act.
+b every person who owns, manages, or otherwise controls any organism, organic material, or risk goods that may be monitored for the purposes of this Part.
 
 44 General duty to inform
 
@@ -1158,7 +1158,7 @@ b every person who owns, manages, or otherwise controls any organism, organic ma
 
 3 The Governor-General may, by Order in Council, made on the recommendation of the responsible Minister, declare any pest to which a regional pest management strategy relates to be an organism notifiable within the region, or within any specified part of the region, of the regional council or regional councils concerned.
 
-4 The responsible Minister shall not recommend the making of an order under subsection (3) of this section, unless
+4 The responsible Minister shall not recommend the making of an order under subsection (3), unless
 
 a the regional council or regional councils concerned have asked the Minister to do so; and
 
@@ -1172,7 +1172,7 @@ b the Minister is satisfied that it is in the public interest to do so.
 
 a at any time suspects the presence of an organism in any place in New Zealand; and
 
-b suspects that it is for the time being declared to be a notifiable organism under subsection (2) of section 45 of this Act; and
+b suspects that it is for the time being declared to be a notifiable organism under subsection (2) of section 45; and
 
 c believes that it is not at the time established in that place; and
 
@@ -1182,7 +1182,7 @@ d has no reasonable grounds for believing that the chief technical officer is aw
 
 a at any time suspects the presence of an organism in a place in the region, or in any part of the region, of a regional council; and
 
-b suspects that it is for the time being declared to be an organism notifiable within the region or part under subsection (3) of section 45 of this Act; and
+b suspects that it is for the time being declared to be an organism notifiable within the region or part under subsection (3) of section 45; and
 
 c believes that it is not at that time established in that place; and
 
@@ -1203,7 +1203,7 @@ b permit the chief technical officer, or a person authorised in writing by that 
 2 Except in relation to circumstances concerning which a regulation makes contrary provision, the reasonable expenses of a person who supplies information to a chief technical officer in response to a requirement under this section will be reimbursed out of money appropriated by Parliament for the purpose if those expenses would not have been incurred but for the requirement.
 
 49 Use of information
-Any information acquired by a chief technical officer under this Part of this Act may be published for the purpose of communicating the animal or plant health status of New Zealand, or the occurrence (in New Zealand or overseas) of pests or unwanted organisms.
+Any information acquired by a chief technical officer under this Part may be published for the purpose of communicating the animal or plant health status of New Zealand, or the occurrence (in New Zealand or overseas) of pests or unwanted organisms.
 
 50 Identification systems
 
@@ -1223,7 +1223,7 @@ a provide unique, clear, and lasting identification having regard to the purpose
 
 b do not create confusion with any other generally used system of identification.
 
-4 Regulations made under this Act may require persons of any kind or description to use 1 of any 1 or more identification systems approved under this section and notified in the Gazette in accordance with subsection (5).
+4 Regulations made under this Act may require persons of any kind or description to use one of any 1 or more identification systems approved under this section and notified in the Gazette in accordance with subsection (5).
 
 5 The Director-General may, by notice in the Gazette, specify the identification systems that may be used to comply with regulations made under this Act; and must keep, and make publicly available, a register of all Gazette notices made under this section.
 
@@ -1237,14 +1237,14 @@ a an identification forming part of an approved identification system that the p
 
 b any mark that is likely to be mistaken for or confused with an identification forming part of an approved identification system.
 
-3 No person required by regulations made under this Act to use 1 of any 1 or more identification systems notified in the Gazette shall fail to do so.
+3 No person required by regulations made under this Act to use one of any 1 or more identification systems notified in the Gazette shall fail to do so.
 
 52 Communication of pest or unwanted organism
 No person shall knowingly communicate, cause to be communicated, release, or cause to be released, or otherwise spread any pest or unwanted organism except
 
 a in the course of and in accordance with a pest management strategy; or
 
-b as provided in an emergency regulation made under section 150 of this Act; or
+b as provided in an emergency regulation made under section 150; or
 
 c for a scientific purpose carried out with the authority of the Minister.
 
@@ -1300,7 +1300,7 @@ ii those persons contribute to the creation, continuance, or exacerbation of the
 
 c each organism in respect of which the strategy is under consideration is capable of causing at some time a serious adverse and unintended effect in relation to New Zealand on 1 or more of the following:
 
-i economic wellbeing; or
+i economic well-being; or
 
 ii the viability of threatened species of organisms, the survival and distribution of indigenous plants or animals, or the sustainability of natural and developed ecosystems, ecological processes, and biological diversity; or
 
@@ -1312,7 +1312,7 @@ v the relationship of Maori and their culture and traditions with their ancestra
 
 d the implementation of the proposed strategy would not be contrary to New Zealand's international obligations.
 
-2 In addition to the requirements in subsection (1) of this section, a Minister may notify, in accordance with section 62, a proposal for a national pest management strategy only if the Minister is of the opinion that each organism in respect of which the strategy is under consideration
+2 In addition to the requirements in subsection (1), a Minister may notify, in accordance with section 62, a proposal for a national pest management strategy only if the Minister is of the opinion that each organism in respect of which the strategy is under consideration
 
 a is not known to be established in New Zealand, but if the organism were so established, it would have the potential to cause significant economic loss or environmental degradation, or both, and it could be eradicated or effectively managed; or
 
@@ -1328,7 +1328,7 @@ ii the potential economic, social, or environmental damage or loss of not taking
 
 1 Any person may, by notice in writing to a Minister whose responsibilities might be adversely affected by an organism, request that Minister to notify in accordance with section 62 a proposal for a national pest management strategy in relation to that organism.
 
-2 Where a Minister is requested to notify a proposal in accordance with this section, the Minister must do so unless section 59 applies, and if,
+2 Where a Minister is requested to notify a proposal in accordance with this section, the Minister must do so unless section59 applies, and if,
 
 a in the Minister's opinion, the proposal complies with section 57; and
 
@@ -1337,9 +1337,9 @@ b in the Minister's opinion, the person making the request has consulted with pe
 3 Where a proposal is notified after a request made in accordance with this section, the Minister may, if he or she thinks fit, require the person who has given notice in writing to pay all or part of the costs of processing the proposal in accordance with sections 62 to 69, and the strategy may be processed only to the extent that the person meets his or her share of the costs.
 
 59 Minister may refuse to notify suggested strategy in certain circumstances
-The Minister may refuse to notify a proposal under section 62 of this Act, if satisfied on reasonable grounds that
+The Minister may refuse to notify a proposal under section 62, if satisfied on reasonable grounds that
 
-a it does not comply with this Part of this Act; or
+a it does not comply with this Part; or
 
 b it has not been described clearly enough to be readily understood; or
 
@@ -1347,7 +1347,7 @@ c
 
 d both
 
-i at a time within the 3 years before the proposal was submitted to the Minister, a board of inquiry completed an inquiry under this Part of this Act into a proposal whose substance was broadly the same as its substance; and
+i at a time within the 3 years before the proposal was submitted to the Minister, a board of inquiry completed an inquiry under this Part into a proposal whose substance was broadly the same as its substance; and
 
 ii there is not available any significant evidence relating to it that was not available at that time; or
 
@@ -1478,7 +1478,7 @@ b travelling allowances and travelling expenses in accordance with that Act in r
 65 Submissions to the board of inquiry
 
 66 Summary of submissions, notification and conduct of hearing
-Schedule 2 to this Act shall apply in respect of an inquiry by a board of inquiry into a proposed national pest management strategy; and the proposer of the strategy and every person who made a submission under section 62 of this Act shall have the right to be heard at any such inquiry.
+Schedule 2 shall apply in respect of an inquiry by a board of inquiry into a proposed national pest management strategy; and the proposer of the strategy and every person who made a submission under section 62 shall have the right to be heard at any such inquiry.
 
 67 Matters to be considered and board of inquiry's report
 
@@ -1486,7 +1486,7 @@ Schedule 2 to this Act shall apply in respect of an inquiry by a board of inquir
 
 a all submissions; and
 
-b all relevant provisions of this Part of this Act; and
+b all relevant provisions of this Part; and
 
 c any other matters it thinks fit.
 
@@ -1510,7 +1510,7 @@ c public notice is given of where and how copies of the report can be obtained.
 
 69 Duties of Ministers in relation to proposed national pest management strategies
 
-1 The Minister shall not recommend the making of an order under section 68 of this Act making a national pest management strategy
+1 The Minister shall not recommend the making of an order under section 68 making a national pest management strategy
 
 a where the Minister has appointed a board of inquiry to inquire into and report on the proposed strategy, without considering
 
@@ -1522,11 +1522,11 @@ b in any other case, without considering a report on the strategy made to the Mi
 
 1A Where the proposed strategy has not been considered by a board of inquiry, the Minister must not recommend the making of a strategy if that strategy differs significantly in its effect from the relevant provisions in the proposal notified in accordance with section 62.
 
-2 The Minister shall not recommend the making of an order under section 68 of this Act making a national pest management strategy unless satisfied, on reasonable grounds,
+2 The Minister shall not recommend the making of an order under section 68 making a national pest management strategy unless satisfied, on reasonable grounds,
 
-a of the matters specified in section 57(1) of this Act; and
+a of the matters specified in section 57(1); and
 
-b that there is likely to be adequate funding for the implementation of the strategy for its proposed duration or 5 years (whichever is the shorter); and
+b that there is likely to be adequate funding for the implementation of the strategy for its proposed duration or 5years (whichever is the shorter); and
 
 c 
 
@@ -1646,16 +1646,16 @@ d events have occurred that make the prescribed requirements unnecessary or inap
 5 Nothing in this section applies in any case where any rule specifically provides that no exemptions are to be granted.
 
 70 Orders to be laid before House of Representatives
-As soon as is practicable after an order has been made under section 68 of this Act, the Minister who recommended its making shall lay a copy before the House of Representatives.
+As soon as is practicable after an order has been made under section 68, the Minister who recommended its making shall lay a copy before the House of Representatives.
 
 
 
 71 Preparation of regional pest management strategy
 A regional council or any other person may prepare a proposal for a regional pest management strategy.
 
-72 Prerequisites for proposal
+72 Notification of proposal by regional council
 
-1 A regional council may notify, in accordance with section 78 of this Act, a proposal for a regional pest management strategy only if it is of the opinion that
+1 A regional council may notify, in accordance with section 78, a proposal for a regional pest management strategy only if it is of the opinion that
 
 a the benefits of having a regional pest management strategy in relation to each organism to which the strategy would apply outweigh the costs, after taking account of the likely consequences of inaction or alternative courses of action; and
 
@@ -1669,7 +1669,7 @@ ii those persons contribute to the creation, continuance, or exacerbation of the
 
 c each organism in respect of which the strategy is under consideration is capable of causing at some time a serious adverse and unintended effect in relation to the region on 1 or more of the following:
 
-i economic wellbeing; or
+i economic well-being; or
 
 ii the viability of threatened species of organisms, the survival and distribution of indigenous plants or animals, or the sustainability of natural and developed ecosystems, ecological processes, and biological diversity; or
 
@@ -1708,9 +1708,9 @@ b in the council's opinion, the person making the request has consulted with per
 3 Where a proposal is notified after a request made in accordance with this section, the regional council may, if it thinks fit, require the person who has given notice in writing to pay all or part of the costs of processing the proposal in accordance with sections 78 to 79F, and the strategy may be processed only to the extent that the person meets his or her share of the costs.
 
 75 Council may refuse to notify suggested strategy in certain circumstances
-A regional council may refuse to notify a proposal for a strategy under section 78 of this Act, if satisfied on reasonable grounds that
+A regional council may refuse to notify a proposal for a strategy under section 78, if satisfied on reasonable grounds that
 
-a it does not comply with this Part of this Act; or
+a it does not comply with this Part; or
 
 b it has not been described clearly enough to be readily understood; or
 
@@ -1772,7 +1772,7 @@ r the actions (including the making of contributions towards the costs of implem
 
 2 
 
-3 A proposal for a regional pest management strategy may provide that the regional council shall itself be the management agency for the strategy, or may specify a Department, body, or other authority as the management agency.
+3 A proposal for a regional pest management strategy may provide that the regional council shall itself be the management agency for the strategy, or may specify a department, body, or other authority as the management agency.
 
 4 A proposal for a regional pest management strategy shall not be inconsistent with
 
@@ -1905,7 +1905,7 @@ b the address for service of the person who made the reference; and
 
 c any other matters required by regulations.
 
-3 A person who makes a reference to the Environment Court under this section must serve a copy of the notice within 5 working days after the reference is lodged with the Environment Court, on
+3 A person who makes a reference to the Environment Court under this section must serve a copy of the notice within 5working days after the reference is lodged with the Environment Court, on
 
 a the regional council; and
 
@@ -2058,25 +2058,25 @@ c the power to declare a small-scale management programme under section 100
 
 a the strategy shall indicate
 
-i whether it is to be implemented by all the councils, some of them only, or only 1 of them; and
+i whether it is to be implemented by all the councils, some of them only, or only 1of them; and
 
 ii if it is to be implemented by 2 or more councils, the extent (if any) to which those councils are to be empowered to implement it outside their own regions; and
 
 b the strategy shall not have effect unless made by all the councils; and
 
-c subject to subsection (2) of this section, if the strategy is made, it shall have effect, and this Act shall have effect in relation to it,
+c subject to subsection (2), if the strategy is made, it shall have effect, and this Act shall have effect in relation to it,
 
 i in the case of a strategy to be implemented by 1 council only, as if the regions of the councils are a single region, whose council that 1 council is; and
 
 ii In the case of a strategy to be administered by 2 or more councils, as if each of those councils, and the principal officer of each of those councils, is, to the extent specified in the strategy, capable of exercising in the region of another of the councils that jointly proposed it the powers that would be exercisable under or in respect of the strategy if it were a strategy to be implemented by that council only; and
 
-d except as provided in paragraphs (a) to (c) of this subsection,
+d except as provided in paragraphs (a) to (c),
 
 i this Act shall have effect; and
 
 ii if made, the strategy shall be implemented,accordingly.
 
-2 Nothing in subsection (1)(c) of this section limits or affects the powers of a regional council in relation to the amendment or revocation of a regional pest management strategy.
+2 Nothing in subsection (1)(c) limits or affects the powers of a regional council in relation to the amendment or revocation of a regional pest management strategy.
 
 
 
@@ -2084,7 +2084,7 @@ ii if made, the strategy shall be implemented,accordingly.
 
 1 Every pest management strategy shall specify the management agency that is to have responsibility for implementation of the strategy.
 
-2 A management agency may be a Department, a regional council, a territorial authority, or a body corporate.
+2 A management agency may be a department, a regional council, a territorial authority, or a body corporate.
 
 3 In determining who shall be the management agency for a pest management strategy, the Minister or regional council, as the case may be, shall take into consideration
 
@@ -2108,13 +2108,13 @@ c prepare a report on the operational plan and its implementation not later than
 
 d make copies of the operational plan and report on its implementation available to the public at cost.
 
-2 The report required by subsection (1)(c) of this section to be prepared in respect of an operational plan may form part of a regional council's annual report; but in that case
+2 The report required by subsection (1)(c) to be prepared in respect of an operational plan may form part of a regional council's annual report; but in that case
 
 a the council may make it available to the public by supplying only an extract from the annual report; and
 
 b whatever form it may be made available in, the council shall charge the public no more than the cost of supplying such an extract.
 
-3 The management agency for a pest management strategy shall supply copies of every operational plan prepared under subsection (1)(a) of this section, every operational plan amended under subsection (1)(b) of this section, and every report prepared under subsection (1)(c) of this section, to
+3 The management agency for a pest management strategy shall supply copies of every operational plan prepared under subsection (1)(a), every operational plan amended under subsection (1)(b), and every report prepared under subsection (1)(c), to
 
 a the responsible Minister; and
 
@@ -2142,7 +2142,7 @@ c in respect of loss suffered before the time when an inspector or authorised pe
 
 2 A pest management strategy may provide for or permit the payment of compensation to a person who at the time an organism is declared to be a pest is deriving income from domesticated organisms of the species whose feral or wild population is a pest and whose organisms are necessarily destroyed in the course of implementing the strategy.
 
-3 Subject to subsection (4) of this section, where
+3 Subject to subsection (4), where
 
 a any person owns domesticated organisms
 
@@ -2154,7 +2154,7 @@ iii whose feral or wild population is such a pest; and
 
 b any of those organisms are necessarily destroyed in the course of implementing the strategy; and
 
-c there are net proceeds available from the disposal of the organisms destroyed,subsection (4) of this section applies to those net proceeds.
+c there are net proceeds available from the disposal of the organisms destroyed,subsection (4) applies to those net proceeds.
 
 4 Net proceeds to which this subsection applies
 
@@ -2162,7 +2162,7 @@ a if the pest management strategy concerned does not provide for the payment of 
 
 b if the compensation payable to the owner under the strategy is less than those proceeds, shall be paid to the owner instead of compensation:
 
-c except as provided in paragraphs (a) and (b) of this subsection, shall be retained by the management agency concerned.
+c except as provided in paragraphs (a) and (b), shall be retained by the management agency concerned.
 
 5 Any dispute concerning the eligibility for or amount of compensation shall be submitted to arbitration.
 
@@ -2208,7 +2208,7 @@ a the Minister or regional council may refuse to notify a proposal if the provis
 
 b the review may be processed only so far as the costs of the review are met by that person.
 
-6 Where a pest management strategy has been in force for 5 years or more and it is more than 5 years since the strategy has been reviewed in accordance with this section, the Minister or regional council must proceed to review the strategy in accordance with this section and may, following the review, amend or revoke the strategy in accordance with this section, or leave the strategy unchanged; and this review is a cost of the strategy.
+6 Where a pest management strategy has been in force for 5years or more and it is more than 5 years since the strategy has been reviewed in accordance with this section, the Minister or regional council must proceed to review the strategy in accordance with this section and may, following the review, amend or revoke the strategy in accordance with this section, or leave the strategy unchanged; and this review is a cost of the strategy.
 
 7 A review of a national pest management strategy is commenced by a proposal notified in accordance with section 62 and the provisions of sections 63 to 70 apply to that review with any necessary modifications.
 
@@ -2255,27 +2255,27 @@ A pest management strategy may relate to 2 or more pests, and may provide for di
 
 90 Strategy may impose levy
 
-1 Subject to section 92 of this Act, the Governor-General may, by Order in Council made on the recommendation of a Minister, impose a levy payable to a management agency for the purposes of wholly or partially funding the implementation of a pest management strategy.
+1 Subject to section 92, the Governor-General may, by Order in Council made on the recommendation of a Minister, impose a levy payable to a management agency for the purposes of wholly or partially funding the implementation of a pest management strategy.
 
-2 Every order under subsection (1) of this section shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+2 Every order under subsection (1) shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
 
 91 Orders to be confirmed
 
-1 Where in any year an order under section 90(1) of this Act has been made on or after the 1st day of January and before the 1st day of July, and
+1 Where in any year an order under section 90(1) has been made on or after 1January and before 1July, and
 
-a has not been revoked with effect on or before the 1st day of July in the next year; and
+a has not been revoked with effect on or before 1July in the next year; and
 
-b has not ceased, and will not cease, to have effect on or before the 1st day of July in the next year by virtue of the Regulations (Disallowance) Act 1989,it shall be deemed to have been revoked with the close of the 30th day of June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
+b has not ceased, and will not cease, to have effect on or before 1July in the next year by virtue of the Regulations (Disallowance) Act 1989,it shall be deemed to have been revoked with the close of 30June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
 
-2 Where in any year an order under section 90(1) of this Act has been made after the 30th day of June and on or before the 31st day of December, and
+2 Where in any year an order under section 90(1) has been made after 30June and on or before 31December, and
 
-a has not been revoked with effect on or before the 1st day of January in the year after the next year; and
+a has not been revoked with effect on or before 1January in the year after the next year; and
 
-b has not ceased, and will not cease, to have effect on or before the 1st day of January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,it shall be deemed to have been revoked with the close of the 31st day of December in the year after the year in which it was made, unless it has been confirmed by an Act of Parliament passed on or before that day.
+b has not ceased, and will not cease, to have effect on or before 1January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,it shall be deemed to have been revoked with the close of 31December in the year after the year in which it was made, unless it has been confirmed by an Act of Parliament passed on or before that day.
 
 92 Restrictions on levies
 
-1 A Minister shall not recommend the making of an order under section 90(1) of this Act in respect of the management agency under any pest management strategy unless the Minister is satisfied, on the basis of information and evidence that the Minister regards as satisfactory, that
+1 A Minister shall not recommend the making of an order under section 90(1) in respect of the management agency under any pest management strategy unless the Minister is satisfied, on the basis of information and evidence that the Minister regards as satisfactory, that
 
 a persons likely to be affected by the payment or collection of the levy have been consulted; and
 
@@ -2378,13 +2378,13 @@ b is not liable to be attached or taken in execution at the instance ofany credi
 7 Nothing in subsection (6) limits or affects any obligation or liability under this Act of any person who has become responsible for collecting the levy.
 
 94 Effect of levy
-Where a levy is imposed under this Part of this Act, the following provisions apply:
+Where a levy is imposed under this Part, the following provisions apply:
 
-a Every person responsible for paying the levy to the management agency shall do so; and
+a every person responsible for paying the levy to the management agency shall do so; and
 
-b The management agency may recover the levy from any person responsible for paying it as a debt due in a Court of competent jurisdiction.
+b the management agency may recover the levy from any person responsible for paying it as a debt due in a court of competent jurisdiction.
 
-c The levy may be spent by the management agency only for those purposes set out in the levy order made under section 90.
+c the levy may be spent by the management agency only for those purposes set out in the levy order made under section 90.
 
 95 Financial provisions
 
@@ -2400,7 +2400,7 @@ i the agency's financial position as required by this section; and
 
 ii the financial results of all of the management agency's activities involving the use of the money paid to the agency as levy, or the use of assets acquired or built up with or out of, or by virtue of spending, money paid as levy.
 
-2 A management agency shall ensure that the statements required to be prepared by subsection (1) of this section are audited within 5 months of the end of the year.
+2 A management agency shall ensure that the statements required to be prepared by subsection (1) are audited within 5months of the end of the year.
 
 95A Orders to provide for statements, accounts, and records to be kept
 For the purpose of ascertaining whether or not an order under section 90 is being complied with, the order must provide for
@@ -2411,17 +2411,17 @@ b any such statements, accounts, or records to be retained for a specified perio
 
 95B Compliance audits
 
-1 While an order under section 90 is in force, the Minister who recommended its making may, at the request of the management agency, appoint 1 or more Auditors to conduct an audit of the affairs of all or any of the following:
+1 While an order under section 90 is in force, the Minister who recommended its making may, at the request of the management agency, appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
 
 a some or all of the persons responsible for collecting the levy:
 
 b some or all of the persons responsible for paying the levy.
 
-2 While an order under section 90 is in force, the Minister who recommended its making may, if an arbitrator has been appointed to resolve a dispute, appoint an Auditor to conduct an audit of all or any of the persons involved in the dispute.
+2 While an order under section 90 is in force, the Minister who recommended its making may, if an arbitrator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of all or any of the persons involved in the dispute.
 
-3 No person is qualified for appointment as an Auditor unless the person is a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996) or a member, fellow, or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Companies Act 1993, by notice published in the Gazette.
+3 No person is qualified for appointment as an auditor unless the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) or a member, fellow, or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Companies Act 1993, by notice published in the Gazette.
 
-4 No officer or employee of any of the following persons or organisations may be appointed an Auditor:
+4 No officer or employee of any of the following persons or organisations may be appointed an auditor:
 
 a any management agency:
 
@@ -2429,13 +2429,13 @@ b any person responsible for collecting the levy under the order concerned:
 
 c any person responsible for paying the levy under the order concerned.
 
-5 Every person appointed as an Auditor is entitled to remuneration (paid by the management agency concerned) as provided in the relevant levy order.
+5 Every person appointed as an auditor is entitled to remuneration (paid by the management agency concerned) as provided in the relevant levy order.
 
 6 For the purposes of sections 95C and 95D, *auditor* means a person for the time being appointed under subsection (1) or subsection (2).
 
 95C Purpose of compliance audits
 
-1 The purpose of an audit conducted by an Auditor appointed under section 95B(1) is (so far as is practicable) to ascertain in respect of the affairs of the persons whose affairs are to be audited, and report to the Minister responsible for the pest management strategy, on as many of the following matters as are relevant to those affairs:
+1 The purpose of an audit conducted by an auditor appointed under section 95B(1) is (so far as is practicable) to ascertain in respect of the affairs of the persons whose affairs are to be audited, and report to the Minister responsible for the pest management strategy, on as many of the following matters as are relevant to those affairs:
 
 a the extent to which persons responsible for paying the levy concerned are doing and have done so:
 
@@ -2449,21 +2449,21 @@ e the extent to which statements, accounts, and records are being and have been 
 
 f the extent to which statements, accounts, and records that are being and have been kept are being and have been properly kept.
 
-2 The purpose of an audit conducted by an Auditor appointed under section 95B(2) is (so far as is practicable) to ascertain in respect of the affairs of the parties to the dispute, and report to the arbitrator concerned, the Minister responsible for the pest management strategy, and those parties, on the matters of fact that are in dispute.
+2 The purpose of an audit conducted by an auditor appointed under section 95B(2) is (so far as is practicable) to ascertain in respect of the affairs of the parties to the dispute, and report to the arbitrator concerned, the Minister responsible for the pest management strategy, and those parties, on the matters of fact that are in dispute.
 
-95D Power of Auditors to require production of statements, accounts, and records
+95D Power of auditors to require production of statements, accounts, and records
 
-1 For the purposes of conducting an audit, any Auditor specifically or generally authorised in writing in that behalf by a Minister may from time to time require any person (being a management agency, a person responsible for collecting levies, a person responsible for paying levies, or any employee or officer of a management agency or of any such person) to produce for inspection within a reasonable period specified by the Auditor any statements, accounts, and records in the possession or under the control of that person (being statements, accounts, or records that are required to be kept under this Act or by an order), and may take copies of or extracts from any such document.
+1 For the purposes of conducting an audit, any auditor specifically or generally authorised in writing in that behalf by a Minister may from time to time require any person (being a management agency, a person responsible for collecting levies, a person responsible for paying levies, or any employee or officer of a management agency or of any such person) to produce for inspection within a reasonable period specified by the auditor any statements, accounts, and records in the possession or under the control of that person (being statements, accounts, or records that are required to be kept under this Act or by an order), and may take copies of or extracts from any such document.
 
 2 Every authorisation under subsection (1) must contain
 
 a a reference to this section; and
 
-b the full name of the Auditor; and
+b the full name of the auditor; and
 
-c a statement of the powers conferred on the Auditor by subsection (1).
+c a statement of the powers conferred on the auditor by subsection (1).
 
-3 Subject to section 95C(2), except in respect of a prosecution under this Act or an action for the recovery of any amount due under this Act, no Auditor who exercises powers under this section may disclose to any other person (other than a Minister or a person authorised in that behalf by a Minister) any information obtained by the Auditor as a result of the exercise of the power.
+3 Subject to section 95C(2), except in respect of a prosecution under this Act or an action for the recovery of any amount due under this Act, no auditor who exercises powers under this section may disclose to any other person (other than a Minister or a person authorised in that behalf by a Minister) any information obtained by the auditor as a result of the exercise of the power.
 
 4 Notwithstanding subsection (3), the Official Information Act 1982 applies in respect of any information held by a Minister that was obtained pursuant to this section.
 
@@ -2500,7 +2500,7 @@ c partly from the proceeds of the general rate and targeted rate.
 
 a the extent (if any) to which it should fund a regional pest management strategy from the proceeds of a general rate; or
 
-b the extent (if any) to which it should fund a regional pest management strategy from the proceeds of a targeted rates rate; or
+b the extent (if any) to which it should fund a regional pest management strategy from the proceeds of a targeted rate; or
 
 c how to set and assess a works and services rate from the proceeds of which a regional pest management strategy is to be funded,a regional council shall have regard to
 
@@ -2519,7 +2519,7 @@ g the extent to which the characteristics of the properties on which the rate is
 99 Making and levying of rates
 
 99A Funding powers of regional councils for national pest management strategies
-The powers of a regional council under the Local Government (Rating) Act 2002 to set and assess rates for the purpose of exercising any of the powers conferred on it by this Act in relation to national pest management strategies, or for the purpose of exercising any of the powers conferred on it by section 13(1)(f) or section 100 of this Act, are not limited or affected by
+The powers of a regional council under the Local Government (Rating) Act 2002 to set and assess rates for the purpose of exercising any of the powers conferred on it by this Act in relation to national pest management strategies, or for the purpose of exercising any of the powers conferred on it by section13(1)(f) or section 100 of this Act, are not limited or affected by
 
 a section 97; or
 
@@ -2576,7 +2576,7 @@ b a chief technical officer appointed by the Director-General, or the chief exec
 
 c an inspector or authorised person appointed under section 103(1)(a):
 
-d an inspector or authorised person appointed under section 103(2)(a):
+d an inspector or authorised person appointed under section 103(2)(a).
 
 2 Where a small-scale management programme has been declared under section 100 by a regional council in respect of an organism, that declaration does not prevent the exercise of Part 6 powers by the persons specified in subsection (1) in relation to that organism.
 
@@ -2602,7 +2602,7 @@ d an inspector or authorised person appointed under section 103(2)(a):
 
 lA A person appointed as a deputy chief technical officer must be employed under the State Sector Act 1988.
 
-2 Subject to the direction of the chief technical officer concerned, a deputy chief technical officer shall have and may exercise all of the powers, duties, and functions of a chief technical officer under this Act , including the power to appoint inspectors, authorised persons, and accredited persons.
+2 Subject to the direction of the chief technical officer concerned, a deputy chief technical officer shall have and may exercise all of the powers, duties, and functions of a chief technical officer under this Act, including the power to appoint inspectors, authorised persons, and accredited persons.
 
 3 The chief executive (including the Director-General) may not delegate to any person the power to appoint deputy chief technical officers.
 
@@ -2672,7 +2672,7 @@ b the power to appoint inspectors and authorised persons.
 
 1 This subsection applies to
 
-a a person required by section 34(2) of this Act to go directly to a biosecurity control area and remain there for such reasonable time as an inspector may require to ascertain the presence of any risk goods, who
+a a person required by section 34(2) to go directly to a biosecurity control area and remain there for such reasonable time as an inspector may require to ascertain the presence of any risk goods, who
 
 i has disembarked from a craft on which the person arrived in New Zealand, and is not proceeding directly to a biosecurity control area; or
 
@@ -2680,7 +2680,7 @@ ii has gone to a biosecurity control area, but failed or refused to remain there
 
 b any person who is in a biosecurity control area.
 
-2 An inspector who suspects on reasonable grounds that a person to whom subsection (1) of this section applies may be in possession of any uncleared risk goods may detain the person for any period (not exceeding 4 hours) that is reasonable in the circumstances, for search by a member of the Police; and
+2 An inspector who suspects on reasonable grounds that a person to whom subsection (1) applies may be in possession of any uncleared risk goods may detain the person for any period (not exceeding 4 hours) that is reasonable in the circumstances, for search by a constable; and
 
 a where the person is moving, may use such force as is reasonably necessary to stop the person:
 
@@ -2688,17 +2688,17 @@ b where the person is not near a biosecurity control area, may use such force as
 
 c may use such force as is reasonably necessary to detain the person.
 
-3 An inspector who suspects on reasonable grounds that any person is in possession of unauthorised goods may detain the person for any period (not exceeding 4 hours) that is reasonable in the circumstances, for search by a member of the Police, using such force as is reasonably necessary to do so.
+3 An inspector who suspects on reasonable grounds that any person is in possession of unauthorised goods may detain the person for any period (not exceeding 4 hours) that is reasonable in the circumstances, for search by a constable, using such force as is reasonably necessary to do so.
 
 108 Power to search people
 
-1 Subject to subsections (2) and (3) of this section, a member of the Police who
+1 Subject to subsections (2) and (3), a constable who
 
-a suspects on reasonable grounds that a person to whom section 107(1) of this Act applies may be in possession of any uncleared risk goods; or
+a suspects on reasonable grounds that a person to whom section 107(1) applies may be in possession of any uncleared risk goods; or
 
 b has been told by an inspector, and believes, that the inspector suspects on reasonable grounds that a person
 
-i is a person to whom section 107(1) of this Act applies; and
+i is a person to whom section 107(1) applies; and
 
 ii may be in possession of any uncleared risk goods; or
 
@@ -2706,23 +2706,23 @@ c suspects on reasonable grounds that any person is in possession of any unautho
 
 d has been told by an inspector, and believes, that the inspector suspects on reasonable grounds that any person is in possession of any unauthorised goods,may search the person, and take possession of any uncleared risk goods or unauthorised goods found.
 
-2 No member of the Police shall search a person under the authority of subsection (1) of this section without first
+2 No constable shall search a person under the authority of subsection (1) without first
 
 a telling the person that he or she proposes to do so under the authority of that subsection; and
 
-b telling the person that he or she is a member of the Police; and
+b telling the person that he or she is a constable; and
 
-c if not in uniform, producing to the person evidence that he or she is a member of the Police.
+c if not in uniform, producing to the person evidence that he or she is a constable.
 
-3 Nothing in subsection (1) of this section authorises any member of the Police to conduct an internal search of any part of a person's body.
+3 Nothing in subsection (1) authorises any constable to conduct an internal search of any part of a person's body.
 
-4 A member of the Police who takes possession of any goods under subsection (1) of this section shall give them into the custody of an inspector.
+4 A constable who takes possession of any goods under subsection (1) shall give them into the custody of an inspector.
 
-5 Within 3 days of searching a person under the authority of subsection (1) of this section, a member of the Police shall give the Commissioner of Police a written report on the search, and the circumstances in which it came to be conducted.
+5 Within 3 days of searching a person under the authority of subsection (1), a constable shall give the Commissioner of Police a written report on the search, and the circumstances in which it came to be conducted.
 
 109 Power of inspection
 
-1 Subject to subsections (2) and (3) of this section,
+1 Subject to subsections (2) and (3),
 
 a an inspector may, at any reasonable time or times, enter and inspect any place for the purpose of confirming the presence, former presence, or absence of
 
@@ -2738,27 +2738,27 @@ b an inspector or authorised person may, at any reasonable time or times, enter 
 
 i confirming the presence, former presence, or absence, of any pest, pest agent, or unwanted organism; or
 
-ii managing or eradicating any pest, pest agent, or unwanted organism.
+ii managing or eradicating any pest, pest agent, or unwanted organism:
 
 c an inspector or authorised person may, at any reasonable time or times, enter and inspect any place for the purpose of determining whether or not any person is complying with this Act, the regulations, or any pest management strategy.
 
-2 An inspector or authorised person shall not enter and inspect a dwellinghouse, a marae, or a building associated with a marae, under subsection (1) of this section, except with
+2 An inspector or authorised person shall not enter and inspect a dwellinghouse, a marae, or a building associated with a marae, under subsection (1), except with
 
 a the consent of an occupier; or
 
-b a warrant issued under section 110 of this Act.
+b a warrant issued under section 110.
 
-3 Where a warrant under section 110 of this Act has been issued to an inspector or authorised person subject to conditions, the inspector or authorised person
+3 Where a warrant under section 110 has been issued to an inspector or authorised person subject to conditions, the inspector or authorised person
 
 a shall not enter the dwellinghouse, marae, or building associated with a marae, specified in the warrant otherwise than in accordance with the conditions; and
 
 b shall in all other respects comply with the conditions.
 
-4 Subject to subsection (3) of this section, an inspector or authorised person exercising the powers of entry and inspection conferred by subsection (1)(a) and (b) of this section may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
+4 Subject to subsection (3), an inspector or authorised person exercising the powers of entry and inspection conferred by subsection (1)(a) and (b) may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
 
 110 Warrant to inspect dwellinghouse, marae, etc
 
-1 A District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a member of the police) may, on the written application of an inspector or authorised person made on oath, issue a warrant in the prescribed form authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
+1 A District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a constable) may, on the written application of an inspector or authorised person made on oath, issue a warrant in the prescribed form authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
 
 2 Such a warrant may be issued only if the Judge, Justice, Magistrate, or Registrar is satisfied that there is reasonable ground for believing that
 
@@ -2774,7 +2774,7 @@ b may be unconditional or subject to conditions.
 
 111 Entry in respect of offences
 
-1 Subject to subsection (2) of this section, a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a member of the Police), who, on the written application (made on oath) of an inspector or authorised person, is satisfied that there is reasonable ground for believing that there is on or in any place specified in the application any thing
+1 Subject to subsection (2), a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a constable), who, on the written application (made on oath) of an inspector or authorised person, is satisfied that there is reasonable ground for believing that there is on or in any place specified in the application any thing
 
 a in respect of which an offence against this Act punishable by imprisonment has been or may have been committed; or
 
@@ -2782,7 +2782,7 @@ b that is or may be evidence of the commission of an offence against this Act pu
 
 c that is intended to be used for the commission of an offence against this Act punishable by imprisonment,may issue, unconditionally or subject to conditions, a warrant (in the prescribed form) authorising the entry and search of the place, at any reasonable time on 1 occasion within 14 days of the issue of the warrant.
 
-2 The inspector or authorised person applying for a warrant under subsection (1) of this section
+2 The inspector or authorised person applying for a warrant under subsection (1)
 
 a shall first make reasonable inquiries as to whether any other applications for such a warrant (or a similar warrant under a provision of any enactment repealed by this Act) have been made in respect of the place concerned, and (if so) the following matters:
 
@@ -2792,33 +2792,33 @@ ii the result of each application; and
 
 b shall disclose on the application for the warrant the results of the inquiries.
 
-3 Every warrant under subsection (1) of this section shall be directed to and exercisable only by
+3 Every warrant under subsection (1) shall be directed to and exercisable only by
 
-a a member of the Police specified in the warrant; or
+a a constable specified in the warrant; or
 
-b an inspector or authorised person specified in the warrant, if accompanied by a member of the Police; or
+b an inspector or authorised person specified in the warrant, if accompanied by a constable; or
 
-c any member of the Police; or
+c any constable; or
 
-d any inspector or authorised person, if accompanied by a member of the Police.
+d any inspector or authorised person, if accompanied by a constable.
 
-4 Where a warrant under subsection (1) of this section has been issued subject to conditions, the person exercising it
+4 Where a warrant under subsection (1) has been issued subject to conditions, the person exercising it
 
 a shall not enter or search the place specified in it otherwise than in accordance with the conditions; and
 
 b shall in all other respects comply with the conditions.
 
-5 Subject to subsection (4) of this section, a person exercising a warrant under subsection (1) of this section may use such force in entering the place specified in it (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
+5 Subject to subsection (4), a person exercising a warrant under subsection (1) may use such force in entering the place specified in it (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
 
 112 Duties on exercising power of entry
 
-1 An inspector, authorised person, or member of the Police, exercising a power of entry conferred by sections 30A, 109, 111, or 126
+1 An inspector, authorised person, or constable, exercising a power of entry conferred by sections 30A, 109, 111, or 126
 
 a must have with him or her
 
-i evidence of his or her identity and appointment as an inspector, authorised person, or member of the Police; and
+i evidence of his or her identity and appointment as an inspector, authorised person, or constable; and
 
-ii in the case of entry under section 109 to a place that is a dwellinghouse, a marae, or a building associated with a marae, the warrant under section 110 or in the case of entry under section 111, the warrant authorising the entry; and
+ii in the case of entry under section 109 to a place that is a dwellinghouse, a marae, or a building associated with a marae, the warrant under section110 or in the case of entry under section 111, the warrant authorising the entry; and
 
 b must produce them to any person appearing to be in charge of the place entered
 
@@ -2826,7 +2826,7 @@ i on entering the place (if such a person is then present); and
 
 ii at any reasonable time thereafter, if asked to do so by the person; and
 
-c if there is no person appearing to be in charge of the place at any time between the time of entry and the time the inspector, authorised person, or member of the Police leaves the place, must, as soon as is practicable upon leaving the place, give an occupier or person in charge of the place written notice stating that the place has been entered, and specifying the following matters:
+c if there is no person appearing to be in charge of the place at any time between the time of entry and the time the inspector, authorised person, or constable leaves the place, must, as soon as is practicable upon leaving the place, give an occupier or person in charge of the place written notice stating that the place has been entered, and specifying the following matters:
 
 i the time and date of entry:
 
@@ -2838,10 +2838,10 @@ iv if entry was under warrant, the principal contents of the warrant:
 
 v every thing that has been seized, or that nothing has been seized, and every action taken, or that no action has been taken.
 
-2 An inspector, authorised person, or member of the Police exercising a power of entry conferred by sections 30A, 109, 111, or 126 in relation to a marae or a building associated with a marae must have regard to the kawa of the marae.
+2 An inspector, authorised person, or constable exercising a power of entry conferred by sections 30A, 109, 111, or 126 in relation to a marae or a building associated with a marae must have regard to the kawa of the marae.
 
 113 Power to record information
-A person lawfully exercising the powers conferred by section 109 or section 111 of this Act may make or take copies of any document or any information recorded or stored in a computer or other device, and for that purpose may take possession of and remove any document, tape, or disc from the place where it is kept for such period of time as is reasonable in the circumstances, or may require a person to reproduce, or assist the inspector or authorised person to reproduce, in usable form information recorded or stored in a computer or other device.
+A person lawfully exercising the powers conferred by section 109 or section 111 may make or take copies of any document or any information recorded or stored in a computer or other device, and for that purpose may take possession of and remove any document, tape, or disc from the place where it is kept for such period of time as is reasonable in the circumstances, or may require a person to reproduce, or assist the inspector or authorised person to reproduce, in usable form information recorded or stored in a computer or other device.
 
 114 General powers
 An inspector or authorised person who has lawfully entered a place under section 109 or section 111 may do on or in respect of that place all such acts and things as appear to the inspector or authorised person to be necessary or expedient for eradicating or managing a pest or unwanted organism on the place or preventing the spread of a pest or unwanted organism from or to the place.
@@ -2860,7 +2860,7 @@ b ascertaining the presence or absence of any pest or unwanted organism.
 
 4 Nothing in this section derogates from any provision of the Civil Aviation Act 1990 or any rule or regulation made under that Act.
 
-5 Subject to subsection (6), public notice for the purposes of this section is given by publishing, at least 2 weeks before the intended date when the article or substance is to be applied, in a newspaper circulating in the area in which the place is situated, a notice specifying the following information:
+5 Subject to subsection (6), public notice for the purposes of this section is given by publishing, at least 2weeks before the intended date when the article or substance is to be applied, in a newspaper circulating in the area in which the place is situated, a notice specifying the following information:
 
 a the date on which, or as soon as practicable after which, it is intended to apply the article or substance:
 
@@ -2891,7 +2891,7 @@ ii significant adverse effects on human health:
 iii significant environmental loss.
 
 115 Use of dogs and devices
-Any person lawfully exercising a power under any of sections 109, 111, 113, 114, or 120 of this Act may
+Any person lawfully exercising a power under any of sections 109, 111, 113, 114, or 120 may
 
 a be accompanied by a dog; or
 
@@ -2921,19 +2921,19 @@ ii pests or unwanted organisms could have been transmitted from the unauthorised
 
 117 Expenses and compensation
 
-1 All costs and expenses attendant upon the custody and disposal of goods seized under section 116 of this Act and forfeited to the Crown shall be borne by the owner or any other person in possession of the goods immediately before seizure; and shall be recoverable from that person as a debt due to the Crown.
+1 All costs and expenses attendant upon the custody and disposal of goods seized under section 116 and forfeited to the Crown shall be borne by the owner or any other person in possession of the goods immediately before seizure; and shall be recoverable from that person as a debt due to the Crown.
 
-2 If satisfied that the person in possession of any goods seized under section 116 of this Act was not aware that they were unauthorised goods, the Director-General may, at the Director-General's absolute discretion waive or reduce the amount otherwise recoverable in respect of those goods under subsection (1) of this section.
+2 If satisfied that the person in possession of any goods seized under section 116 was not aware that they were unauthorised goods, the Director-General may, at the Director-General's absolute discretion waive or reduce the amount otherwise recoverable in respect of those goods under subsection (1).
 
 118 Power to seize evidence
 
-1 Any person exercising the power of search conferred by section 111 of this Act,
+1 Any person exercising the power of search conferred by section 111,
 
 a may search for, and if it is found seize, any thing that is, or is a thing of a kind or description, specified in the warrant concerned; and
 
 b while at the place specified in the warrant, may seize any other thing that the person believes on reasonable grounds to be a thing in respect of which the person could have obtained a warrant under that section.
 
-2 Section 199 of the Summary Proceedings Act 1957 shall, with any necessary modifications, apply to any thing seized under subsection (1) of this section.
+2 Section 199 of the Summary Proceedings Act 1957 shall, with any necessary modifications, apply to any thing seized under subsection (1).
 
 119 Power to seize abandoned goods
 
@@ -2944,7 +2944,7 @@ b while at the place specified in the warrant, may seize any other thing that th
 120 Power to intercept baggage, etc
 Any inspector or authorised person who believes on reasonable grounds that
 
-a any of sections 25, 130, 131, 132, or 134(1) of this Act has been contravened in respect of any risk goods; and
+a any of sections 25, 130, 131, 132, or 134(1) has been contravened in respect of any risk goods; and
 
 b any bag, baggage, box, container, conveyance, craft, mail, parcel, receptacle, or thing contains, or is likely to contain, those risk goods (or any of them or any part of them),may open it (using such force as is reasonable in the circumstances) and inspect the contents for the presence of risk goods; and may stop any conveyance or craft for the purpose.
 
@@ -2960,9 +2960,9 @@ c ascertaining the presence or absence of any pest or unwanted organism; or
 
 d making an assessment of measures taken to manage or eradicate any pest or unwanted organism,examine, inspect, apply tests to, destroy, sample, autopsy, section, take specimens or samples of, or apply any other treatment or procedure to organisms or organic material, or any goods or material that the inspector or authorised person believes on reasonable grounds may harbour pests or unwanted organisms.
 
-2 Every owner or person in control of any organism, and every occupier of a place in which any organism is present, shall, whenever required by an inspector or authorised person by written notice to do so, submit the organism specified in the notice for the purposes of subsection (1) of this section.
+2 Every owner or person in control of any organism, and every occupier of a place in which any organism is present, shall, whenever required by an inspector or authorised person by written notice to do so, submit the organism specified in the notice for the purposes of subsection (1).
 
-3 Where an inspector or authorised person has under subsection (2) of this section required the submission of any organism an inspector or authorised person may direct the owner or person in control of the organism, or the occupier of any place where it is present, to bring it
+3 Where an inspector or authorised person has under subsection(2) required the submission of any organism an inspector or authorised person may direct the owner or person in control of the organism, or the occupier of any place where it is present, to bring it
 
 a in a specified manner:
 
@@ -2974,7 +2974,7 @@ d for a specified purpose.
 
 4 If the owner or person in control of any animal or the occupier of any place in which an animal is present fails to comply with a direction under this section, an inspector or authorised person may
 
-a undertake any of the actions specified in subsection (1) of this section; and
+a undertake any of the actions specified in subsection (1); and
 
 b in the case of any animal or animals,
 
@@ -3075,7 +3075,7 @@ c that the health of the organism has not been and cannot be satisfactorily esta
 
 3 
 
-4 The costs and expenses of seizure and destruction of an organism under subsection (2) of this section shall be the responsibility of the owner of the organism and may be recovered as a debt due to the Crown.
+4 The costs and expenses of seizure and destruction of an organism under subsection (2) shall be the responsibility of the owner of the organism and may be recovered as a debt due to the Crown.
 
 128 Power to act on default
 
@@ -3086,9 +3086,9 @@ c that the health of the organism has not been and cannot be satisfactorily esta
 3 The chief technical officer, a principal officer or management agency may recover the costs and expenses reasonably incurred under this section as a debt due from the person to whom the notice was given.
 
 129 Liens
-All costs recoverable by a chief technical officer, principal officer, or management agency under section 128 of this Act shall be a charge (in this section referred to as the recovery charge) against the land concerned; and
+All costs recoverable by a chief technical officer, principal officer, or management agency under section 128 shall be a charge (in this section referred to as the recovery charge) against the land concerned; and
 
-a subject to paragraph (b) of this section, the recovery charge shall have priority over all existing or later mortgages, charges, and incumbrances over the land, however they may have been created (including mortgages, charges, and incumbrances in favour of the Crown):
+a subject to paragraph (b), the recovery charge shall have priority over all existing or later mortgages, charges, and incumbrances over the land, however they may have been created (including mortgages, charges, and incumbrances in favour of the Crown):
 
 b if the land is or becomes subject to some other charge (being a charge created by an enactment other than this section), the charges shall rank equally unless the enactment provides that the other charge is to be deferred to the recovery charge.
 
@@ -3106,7 +3106,7 @@ a a copy need not be served on the occupier of any part of the place if the insp
 
 b notice may be given publicly if it is impractical to give notice in accordance with the preceding provisions of this subsection.
 
-4 While a notice under subsection (1) of this section is in force, no person shall, without the permission of an inspector or authorised person,
+4 While a notice under subsection (1) is in force, no person shall, without the permission of an inspector or authorised person,
 
 a remove
 
@@ -3146,11 +3146,11 @@ a the movement into, within, or from the controlled area of such organisms, orga
 
 b the organisms, organic material, risk goods, or other goods within the controlled area that are specified in the notice, must be subject to such treatment and procedures as are specified in the notice.
 
-4 A notice given under subsection (3) of this section may be revoked or may from time to time be replaced or amended.
+4 A notice given under subsection (3) may be revoked or may from time to time be replaced or amended.
 
-132 Road blocks, cordons, check-points, etc
+132 Road blocks, cordons, checkpoints, etc
 
-1 In this section, *control* means a road block, a cordon, or a check-point.
+1 In this section, *control* means a road block, a cordon, or a checkpoint.
 
 2 A District Court Judge may, on the written application (made on oath) of a chief technical officer, issue a warrant authorising the establishment of controls in relation to a place or area, if the District Court Judge is satisfied that
 
@@ -3166,7 +3166,7 @@ i prevent or limit the risk of the pest or unwanted organism spreading beyond th
 
 ii otherwise avoid significant prejudice to the management or eradication of the pest or unwanted organism.
 
-3 The warrant shall be issued for a period of not more than 7 days; but may from time to time be renewed (in the form in which it was issued or in any amended form) for a period not exceeding 7 days.
+3 The warrant shall be issued for a period of not more than 7days; but may from time to time be renewed (in the form in which it was issued or in any amended form) for a period not exceeding 7 days.
 
 4 The warrant may be issued in writing or orally; but
 
@@ -3182,19 +3182,19 @@ iv the period for which it is granted; and
 
 v the grounds on which it was issued; and
 
-b if it is issued orally, the Judge shall cause to be made and kept a written record of the matters specified in subparagraphs (i) to (v) of paragraph (a) of this subsection.
+b if it is issued orally, the Judge shall cause to be made and kept a written record of the matters specified in subparagraphs (i) to (v) of paragraph (a).
 
-5 Subsection (4) of this section shall, with any necessary modifications, apply to the renewal of a warrant as if it is the issue of a warrant.
+5 Subsection (4) shall, with any necessary modifications, apply to the renewal of a warrant as if it is the issue of a warrant.
 
-6 Any member of the Police may establish or operate a control whose establishment is authorised by a warrant under this section.
+6 Any constable may establish or operate a control whose establishment is authorised by a warrant under this section.
 
-7 A member of the Police operating a control whose establishment is authorised by a warrant under this section may
+7 A constable operating a control whose establishment is authorised by a warrant under this section may
 
 a stop any vehicle, conveyance, or craft, that is at or near the control; or
 
-b detain any vehicle, conveyance, or craft, that is stopped at or near the control, either at the place where it is stopped or at any other convenient place nearby,for the purpose of exercising the powers conferred by subsection (8) of this section.
+b detain any vehicle, conveyance, or craft, that is stopped at or near the control, either at the place where it is stopped or at any other convenient place nearby,for the purpose of exercising the powers conferred by subsection (8).
 
-8 A member of the Police who has stopped or detained a vehicle, conveyance, or craft under subsection (7) may
+8 A constable who has stopped or detained a vehicle, conveyance, or craft under subsection (7) may
 
 a enter and search that vehicle, conveyance, or craft; and
 
@@ -3216,9 +3216,9 @@ iv any thing that, if moved beyond the control, would be moved in breach of sect
 
 9 No person shall,
 
-a while in charge of any vehicle or craft, that is at or near a control, without reasonable excuse fail or refuse to stop it when a member of the Police in uniform asks him or her to stop it, or tries to stop it; or
+a while in charge of any vehicle or craft, that is at or near a control, without reasonable excuse fail or refuse to stop it when a constable in uniform asks him or her to stop it, or tries to stop it; or
 
-b while in charge of any vehicle or craft lawfully stopped or detained under this section, without reasonable excuse move it from the place where it is stopped or detained without the permission of a member of the Police.
+b while in charge of any vehicle or craft lawfully stopped or detained under this section, without reasonable excuse move it from the place where it is stopped or detained without the permission of a constable.
 
 133 Duration of place and area declarations
 A declaration of a restricted place or a controlled area shall remain in force until it is revoked by a notice of revocation given substantially in the same manner as the declaration of the area concerned was notified.
@@ -3227,21 +3227,21 @@ A declaration of a restricted place or a controlled area shall remain in force u
 
 1 No person shall
 
-a resist or obstruct the performance of, or fail to comply with, any direction of a member of the Police who is acting in the performance of duties under section 132 of this Act; or
+a resist or obstruct the performance of, or fail to comply with, any direction of a constable who is acting in the performance of duties under section 132; or
 
 b move, or direct or arrange the movement of, any organism, organic material, risk goods, or other goods in contravention of a notice under section 131(3), unless permitted by an inspector or authorised person.
 
 1A Every owner or person in control of an organism, organic material, risk goods, or other goods in respect of which treatment and procedures are specified by a notice under section 131(3) must carry out the treatment and procedures specified in the notice.
 
-2 All organisms, organic material, risk goods, or other goods that are removed or moved in contravention of subsection (1) of this section may be seized by an inspector or authorised person and destroyed, treated, or otherwise dealt with, if it is reasonable in the circumstances to do so.
+2 All organisms, organic material, risk goods, or other goods that are removed or moved in contravention of subsection (1) may be seized by an inspector or authorised person and destroyed, treated, or otherwise dealt with, if it is reasonable in the circumstances to do so.
 
-3 A Minister may direct that organisms, organic material, risk goods, or other goods that were removed or moved in contravention of subsection (1) of this section and have been seized shall be forfeited to a management agency and destroyed, sold, or otherwise disposed of as that agency may direct.
+3 A Minister may direct that organisms, organic material, risk goods, or other goods that were removed or moved in contravention of subsection (1) and have been seized shall be forfeited to a management agency and destroyed, sold, or otherwise disposed of as that agency may direct.
 
 
 
 135 Options for cost recovery
 
-1 The Director-General, every other chief executive, and every management agency, (hereafter in this section and in section 136 of this Act referred to as a recovering authority) shall take all reasonable steps to ensure that so much of the costs of administering this Act, including costs incurred as the management agency of a pest management strategy, as are not provided for by money appropriated by Parliament for the purpose are recovered in accordance with the principles of equity and efficiency in accordance with this section and the regulations.
+1 The Director-General, every other chief executive, and every management agency, (hereafter in this section and in section 136 referred to as a recovering authority) shall take all reasonable steps to ensure that so much of the costs of administering this Act, including costs incurred as the management agency of a pest management strategy, as are not provided for by money appropriated by Parliament for the purpose are recovered in accordance with the principles of equity and efficiency in accordance with this section and the regulations.
 
 2 In determining appropriate mechanisms for the recovery of costs of a particular function or service, a recovering authority shall ensure that there is recovered any amount by which
 
@@ -3271,40 +3271,40 @@ g in the case only of the Director-General or some other chief executive, liens 
 
 136 Failure to pay
 
-1 Where all or part of a charge made under this Act or the regulations remains unpaid after 20 working days since the charge was demanded in writing, the debt shall be deemed to have been increased by an amount calculated in accordance with subsection (2) of this section.
+1 Where all or part of a charge made under this Act or the regulations remains unpaid after 20 working days since the charge was demanded in writing, the debt shall be deemed to have been increased by an amount calculated in accordance with subsection (2).
 
 2 The amount by which an unpaid charge is deemed to have increased is the sum of
 
-a 10 percent of the debt, or that part of it that remained unpaid after the expiration of the period of 20 working days referred to in subsection (1) of this section; and
+a 10% of the debt, or that part of it that remained unpaid after the expiration of the period of 20working days referred to in subsection (1); and
 
-b for every complete period of 6 months after the expiration of that period during which the debt or any part of it (including any deemed increase under this section) has remained unpaid, 10 percent of that debt or that part.
+b for every complete period of 6months after the expiration of that period during which the debt or any part of it (including any deemed increase under this section) has remained unpaid, 10% of that debt or that part.
 
-3 If a recovering authority is satisfied that the failure or refusal of any person to pay all or any part of a debt was a result of a genuine dispute between the person and Department as to the person's liability to pay the debt, the amount of the debt, or both, the recovering authority may waive the payment of all or any part by which the debt has increased under this section.
+3 If a recovering authority is satisfied that the failure or refusal of any person to pay all or any part of a debt was a result of a genuine dispute between the person and department as to the person's liability to pay the debt, the amount of the debt, or both, the recovering authority may waive the payment of all or any part by which the debt has increased under this section.
 
-4 In an action for recovery of the debt, the Court may exercise the power of waiver contained in subsection (3) of this section if the Court is satisfied in the terms set out in that subsection.
+4 In an action for recovery of the debt, the court may exercise the power of waiver contained in subsection (3) if the court is satisfied in the terms set out in that subsection.
 
 137 Levies
 
-1 The Governor-General may from time to time, on the recommendation of the responsible Minister, by Order in Council impose a levy payable to the Director-General for the purposes of wholly or partially funding a service provided or function performed by the Department for the purposes of this Act.
+1 The Governor-General may from time to time, on the recommendation of the responsible Minister, by Order in Council impose a levy payable to the Director-General for the purposes of wholly or partially funding a service provided or function performed by the department for the purposes of this Act.
 
 2 Every levy order shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
 
 138 Orders to be confirmed
 
-1 Where in any year an order under section 137 of this Act has been made on or after the 1st day of January and before the 1st day of July, and
+1 Where in any year an order under section 137 has been made on or after 1January and before 1July, and
 
-a has not been revoked with effect on or before the 1st day of July in the next year; and
+a has not been revoked with effect on or before 1July in the next year; and
 
-b has not ceased, and will not cease, to have effect on or before the 1st day of July in the next year by virtue of the Regulations (Disallowance) Act 1989,it shall be deemed to have been revoked with the close of the 30th day of June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
+b has not ceased, and will not cease, to have effect on or before 1July in the next year by virtue of the Regulations (Disallowance) Act 1989,it shall be deemed to have been revoked with the close of 30June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
 
-2 Where in any year an order under section 137 of this Act has been made after the 30th day of June and on or before the 31st day of December, and
+2 Where in any year an order under section 137 has been made after 30June and on or before 31December, and
 
-a has not been revoked with effect on or before the 1st day of January in the year after the next year; and
+a has not been revoked with effect on or before 1January in the year after the next year; and
 
-b has not ceased, and will not cease, to have effect on or before the 1st day of January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,it shall be deemed to have been revoked with the close of the 31st day of December in the year after the year in which it was made, unless it has been confirmed by an Act of Parliament passed on or before that day.
+b has not ceased, and will not cease, to have effect on or before 1January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,it shall be deemed to have been revoked with the close of 31December in the year after the year in which it was made, unless it has been confirmed by an Act of Parliament passed on or before that day.
 
 139 Restrictions on levies
-The Minister shall not recommend the making of an order under section 137 of this Act unless the Director-General has satisfied the Minister that
+The Minister shall not recommend the making of an order under section 137 unless the Director-General has satisfied the Minister that
 
 a the imposition of a levy recovering the costs of providing or performing a particular service or function is in accordance with the principles of equity and efficiency; and
 
@@ -3318,7 +3318,7 @@ c all other relevant matters known to the Minister have been properly considered
 
 140 Contents of levy order
 
-1 Every order under section 137 of this Act shall specify
+1 Every order under section 137 shall specify
 
 a the persons primarily responsible for paying the levy; and
 
@@ -3387,11 +3387,11 @@ b is not liable to be attached or taken in execution at the instance ofany credi
 7 Nothing in subsection (6) limits or affects any obligation or liability under this Act of any person who has become responsible for collecting the levy.
 
 141 Effect of levy order
-Where an order is made under section 137 of this Act, the following provisions apply:
+Where an order is made under section 137, the following provisions apply:
 
 a every person responsible for paying the levy to the Director-General shall do so; and
 
-b the Director-General may recover the levy from any person responsible for paying it as a debt due in a Court of competent jurisdiction.
+b the Director-General may recover the levy from any person responsible for paying it as a debt due in a court of competent jurisdiction.
 
 141A Orders to provide for records to be kept for Director-General's levy
 For the purpose of ascertaining whether or not an order under section 137 is being complied with, the order must provide for
@@ -3402,17 +3402,17 @@ b any such statements, accounts, or records to be retained for a specified perio
 
 141B Compliance audits for Director-General's levy
 
-1 While an order under section 137 is in force, the Minister may, at the request of the Director-General, appoint 1 or more Auditors to conduct an audit of the affairs of all or any of the following:
+1 While an order under section 137 is in force, the Minister may, at the request of the Director-General, appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
 
 a some or all of the persons responsible for collecting the levy:
 
 b some or all of the persons responsible for paying the levy.
 
-2 While an order under section 137 is in force, the Minister may, if an arbitrator has been appointed to resolve a dispute, appoint an Auditor to conduct an audit of all or any of the persons involved in the dispute.
+2 While an order under section 137 is in force, the Minister may, if an arbitrator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of all or any of the persons involved in the dispute.
 
-3 No person is qualified for appointment as an Auditor unless the person is a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996) or a member, fellow, or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Companies Act 1993, by notice published in the Gazette.
+3 No person is qualified for appointment as an auditor unless the person is a chartered accountant (within the meaning of section19 of the New Zealand Institute of Chartered Accountants Act 1996) or a member, fellow, or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Companies Act 1993, by notice published in the Gazette.
 
-4 No officer or employee of any of the following persons or organisations may be appointed an Auditor:
+4 No officer or employee of any of the following persons or organisations may be appointed an auditor:
 
 a the Director-General:
 
@@ -3420,13 +3420,13 @@ b any person responsible for collecting the levy under the order concerned:
 
 c any person responsible for paying the levy under the order concerned.
 
-5 Every person appointed as an Auditor is entitled to remuneration (paid by the Director-General) as provided in the relevant levy order.
+5 Every person appointed as an auditor is entitled to remuneration (paid by the Director-General) as provided in the relevant levy order.
 
-6 For the purposes of sections 141C and 141D, *Auditor* means a person for the time being appointed under subsection (1) or subsection (2) of this section.
+6 For the purposes of sections 141C and 141D, *auditor* means a person for the time being appointed under subsection (1) or subsection (2).
 
 141C Purpose of compliance audits for Director-General's levy
 
-1 The purpose of an audit conducted by an Auditor appointed under section 141B(1) is (so far as is practicable) to ascertain in respect of the affairs of the persons whose affairs are to be audited, and report to the Minister responsible for the order on, as many of the following matters as are relevant to those affairs:
+1 The purpose of an audit conducted by an auditor appointed under section 141B(1) is (so far as is practicable) to ascertain in respect of the affairs of the persons whose affairs are to be audited, and report to the Minister responsible for the order on, as many of the following matters as are relevant to those affairs:
 
 a the extent to which persons responsible for paying the levy concerned are doing and have done so:
 
@@ -3440,26 +3440,26 @@ e the extent to which statements, accounts, and records are being and have been 
 
 f the extent to which statements, accounts, and records that are being and have been kept are being and have been properly kept.
 
-2 The purpose of an audit conducted by an Auditor appointed under section 141B(2) is (so far as is practicable) to ascertain in respect of the affairs of the parties to the dispute, and report to the arbitrator concerned, the Minister responsible for the order, and those parties, on the matters of fact that are in dispute.
+2 The purpose of an audit conducted by an auditor appointed under section 141B(2) is (so far as is practicable) to ascertain in respect of the affairs of the parties to the dispute, and report to the arbitrator concerned, the Minister responsible for the order, and those parties, on the matters of fact that are in dispute.
 
-141D Power of Auditors to require production of statements and records
+141D Power of auditors to require production of statements and records
 
-1 For the purposes of conducting an audit, any Auditor specifically or generally authorised in writing in that behalf by a Minister may from time to time require any person (being the Director-General, a person responsible for collecting levies, a person responsible for paying levies, or any employee or officer of the Director-General, or any such person) to produce for inspection within a reasonable period specified by the Auditor any statements, accounts, and records in the possession or under the control of that person (being statements, accounts, or records that are required to be kept under this Act or by an order), and may take copies of or extracts from any such document.
+1 For the purposes of conducting an audit, any auditor specifically or generally authorised in writing in that behalf by a Minister may from time to time require any person (being the Director-General, a person responsible for collecting levies, a person responsible for paying levies, or any employee or officer of the Director-General, or any such person) to produce for inspection within a reasonable period specified by the auditor any statements, accounts, and records in the possession or under the control of that person (being statements, accounts, or records that are required to be kept under this Act or by an order), and may take copies of or extracts from any such document.
 
 2 Every authorisation under subsection (1) must contain
 
 a a reference to this section; and
 
-b the full name of the Auditor; and
+b the full name of the auditor; and
 
-c a statement of the powers conferred on the Auditor by subsection (1).
+c a statement of the powers conferred on the auditor by subsection (1).
 
-3 Subject to section 141C(2), except in respect of a prosecution under this Act or an action for the recovery of any amount due under this Act, no Auditor who exercises powers under this section may disclose to any other person (other than a Minister or a person authorised in that behalf by a Minister) any information obtained by the Auditor as a result of the exercise of the power.
+3 Subject to section 141C(2), except in respect of a prosecution under this Act or an action for the recovery of any amount due under this Act, no auditor who exercises powers under this section may disclose to any other person (other than a Minister or a person authorised in that behalf by a Minister) any information obtained by the auditor as a result of the exercise of the power.
 
 4 Notwithstanding subsection (3), the Official Information Act 1982 applies in respect of any information held by a Minister that was obtained pursuant to this section.
 
 142 Resolution of disputes
-Every order under section 137 of this Act shall provide for
+Every order under section 137 shall provide for
 
 a the appointment of arbitrators to resolve disputes as to
 
@@ -3479,8 +3479,8 @@ f any other matters relating to the resolution of such disputes.
 
 7 Exigency actions
 
-143 Purpose Of Part 7
-The purpose of this Part of this Act is to provide for the effective prevention, management, or eradication of unwanted organisms if emergencies or other exigencies occur.
+143 Purpose of Part 7
+The purpose of this Part is to provide for the effective prevention, management, or eradication of unwanted organisms if emergencies or other exigencies occur.
 
 144 Declaration of biosecurity emergency
 
@@ -3504,15 +3504,15 @@ b it is in the public interest that action be taken immediately to manage, or er
 
 4 A declaration of a biosecurity emergency comes into force when it is declared or at any later time stipulated in the Proclamation declaring it.
 
-5 The Minister shall publish notice of the declaration not later than 24 hours after it is made by such means as the Minister considers practical and appropriate and shall cause the Proclamation to be published in the Gazette without delay.
+5 The Minister shall publish notice of the declaration not later than 24hours after it is made by such means as the Minister considers practical and appropriate and shall cause the Proclamation to be published in the Gazette without delay.
 
-6 On the recommendation of the Minister, the Governor-General may by further Proclamation amend or revoke a Proclamation under this section and the Minister shall publish notice of an amendment or revocation in the manner provided by subsection (5) of this section.
+6 On the recommendation of the Minister, the Governor-General may by further Proclamation amend or revoke a Proclamation under this section and the Minister shall publish notice of an amendment or revocation in the manner provided by subsection (5).
 
 145 Emergency powers
 
 1 The Minister may, in the area or areas in which a declaration of biosecurity emergency is in force, take such measures, and do all such acts and things and give all such directions, and require all such acts to be done or not to be done, as the Minister believes on reasonable grounds to be necessary or desirable for the purpose of managing, or eradicating the organism in respect of which the emergency has been declared.
 
-2 Without prejudice to the generality of the powers conferred by subsection (1) of this section, the Minister, or any person authorised by the Minister for the purpose, may require the owner of any goods or premises or craft (being a craft registered in New Zealand, or chartered by a company formed and registered under the Companies Act 1955 or under any of the enactments referred to in the definition in section 2(1) of that Act of the term existing company) that is anywhere in New Zealand and that the Minister or person authorised by the Minister believes on reasonable grounds to be necessary or would be of assistance in eradicating, or limiting the spread of the organism to transfer the goods to or permit the premises or craft to be used for a specified period by the Minister or any other person.
+2 Without prejudice to the generality of the powers conferred by subsection (1), the Minister, or any person authorised by the Minister for the purpose, may require the owner of any goods or premises or craft (being a craft registered in New Zealand, or chartered by a company formed and registered under the Companies Act 1955 or under any of the enactments referred to in the definition in section 2(1) of that Act of the term existing company) that is anywhere in New Zealand and that the Minister or person authorised by the Minister believes on reasonable grounds to be necessary or would be of assistance in eradicating, or limiting the spread of the organism to transfer the goods to or permit the premises or craft to be used for a specified period by the Minister or any other person.
 
 146 Duration of emergency
 
@@ -3520,7 +3520,7 @@ b it is in the public interest that action be taken immediately to manage, or er
 
 2 The House of Representatives may from time to time by resolution extend any declaration of biosecurity emergency for such period as the resolution may state.
 
-3 A resolution under subsection (2) of this section shall be published in the manner provided in section 144(5) of this Act.
+3 A resolution under subsection (2) shall be published in the manner provided in section 144(5).
 
 147 House of Representatives to be informed
 
@@ -3542,7 +3542,7 @@ b it is in the public interest that action be taken immediately to manage, or er
 
 2 The Minister shall, to the extent that is practical in the circumstances, consult such persons as the Minister believes on reasonable grounds are representative of interests affected by the proposed regulations before recommending that the Governor-General make regulations under this section; and shall not recommend that the Governor-General make them unless satisfied, on reasonable grounds, that they are necessary or desirable for the management, or eradication of the organism concerned.
 
-3 Without prejudice to the generality of subsection (1) of this section, biosecurity emergency regulations may do all or any of the following things:
+3 Without prejudice to the generality of subsection (1), biosecurity emergency regulations may do all or any of the following things:
 
 a create offences in respect of the breach of a biosecurity emergency regulation or non-compliance with a direction given or requirement made under the authority of such a regulation:
 
@@ -3566,17 +3566,17 @@ f prescribe procedures for arbitration or resolution of disputes.
 
 151 Emergency regulations to be confirmed
 
-1 Where in any year regulations under section 150 of this Act have been made on or after the 1st day of January and before the 1st day of July, and
+1 Where in any year regulations under section 150 have been made on or after 1January and before 1July, and
 
-a have not been revoked with effect on or before the 1st day of July in the next year; and
+a have not been revoked with effect on or before 1July in the next year; and
 
-b have not ceased, and will not cease, to have effect on or before the 1st day of July in the next year by virtue of the Regulations (Disallowance) Act 1989,they shall be deemed to have been revoked with the close of the 30th day of June in that next year unless they have been confirmed by an Act of Parliament passed on or before that day.
+b have not ceased, and will not cease, to have effect on or before 1July in the next year by virtue of the Regulations (Disallowance) Act 1989,they shall be deemed to have been revoked with the close of 30June in that next year unless they have been confirmed by an Act of Parliament passed on or before that day.
 
-2 Where in any year regulations under section 150 of this Act have been made after the 30th day of June and on or before the 31st day of December, and
+2 Where in any year regulations under section 150 have been made after 30June and on or before 31December, and
 
-a have not been revoked with effect on or before the 1st day of January in the year after the next year; and
+a have not been revoked with effect on or before 1January in the year after the next year; and
 
-b have not ceased, and will not cease, to have effect on or before the 1st day of January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,they shall be deemed to have been revoked with the close of the 31st day of December in the year after the year in which they were made, unless they have been confirmed by an Act of Parliament passed on or before that day.
+b have not ceased, and will not cease, to have effect on or before 1January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,they shall be deemed to have been revoked with the close of 31December in the year after the year in which they were made, unless they have been confirmed by an Act of Parliament passed on or before that day.
 
 152 Provisional control action
 
@@ -3601,7 +3601,7 @@ a threatens, assaults, or intentionally obstructs or hinders,
 
 i an inspector, authorised person, or accredited person; or
 
-ii an assistant of an inspector, authorised person, or accredited person,in the exercise or performance of a function, power or duty under this Act, the regulations, a pest management strategy, or a declaration of emergency under section 144 of this Act:
+ii an assistant of an inspector, authorised person, or accredited person,in the exercise or performance of a function, power or duty under this Act, the regulations, a pest management strategy, or a declaration of emergency under section 144:
 
 b in connection with the purposes of this Act,
 
@@ -3641,7 +3641,7 @@ j without the permission of an inspector or authorised person, takes or carries 
 
 k without the permission of an inspector or authorised person, exhumes the carcass of any organism or any other risk goods, knowing it or them to have been buried as required by a direction given under this Act:
 
-l knowing that a notice under section 130(1) of this Act is in force in relation to a place, without the permission of an inspector or authorised person,
+l knowing that a notice under section 130(1) is in force in relation to a place, without the permission of an inspector or authorised person,
 
 i removes any organism, organic material, or risk goods from the place; or
 
@@ -3651,11 +3651,11 @@ iii introduces any goods into the place; or
 
 iv removes, alters, or defaces any identification that an inspector or authorised person has directed be used to identify any organism, risk goods, or other goods in the place:
 
-m fails or refuses to comply with any of sections 29, 46, 52, 53, and 134 of this Act:
+m fails or refuses to comply with any of sections 29, 46, 52, 53, and 134:
 
 ma fails to comply with section 44 (duty to inform Ministry of organism not normally seen or otherwise detected in New Zealand), if the person knows or could reasonably be expected to know that the organism is not normally seen or otherwise detected in New Zealand:
 
-n fails or refuses to comply with any of sections 17, 18, 25, 30, 31, 41(5), 51(1), 51(2) and 121B(2) of this Act:
+n fails or refuses to comply with any of sections 17, 18, 25, 30, 31, 41(5), 51(1), 51(2) and 121B(2):
 
 o fails or refuses to comply with any of sections 19, 34, 35, 36, 37C, 40(6), 43, 48, 51(3), 121(2), 121A(3), and 132(9):
 
@@ -3665,7 +3665,7 @@ i fails or refuses to answer it within a reasonable time of its being asked; or
 
 ii fails or refuses to answer it completely within a reasonable time of its being asked; or
 
-iii wilfully gives a false or misleading answer.
+iii wilfully gives a false or misleading answer:
 
 q without reasonable excuse, fails to comply with a strategy rule included in a national pest management strategy where that rule specifies that a breach of the rule creates an offence under this paragraph:
 
@@ -3730,13 +3730,13 @@ b in the case of a corporation, to a fine not exceeding $15,000.
 
 158 Fines to be paid to management agency instituting prosecution
 
-1 Subject to subsection (2) of this section, where a person is convicted of an offence under this Act and the Court imposes a fine, the Court shall, if the information for that offence was laid on behalf of a management agency, order that the fine be paid to the management agency.
+1 Subject to subsection (2), where a person is convicted of an offence under this Act and the court imposes a fine, the court shall, if the information for that offence was laid on behalf of a management agency, order that the fine be paid to the management agency.
 
-2 There shall be deducted from every amount payable to a management agency under subsection (1) of this section, a sum equal to 10 percent of it, which shall be credited to the Crown Bank Account.
+2 There shall be deducted from every amount payable to a management agency under subsection (1), a sum equal to 10% of it, which shall be credited to a Crown Bank Account.
 
-3 Notwithstanding anything in subsection (2) of this section, where any money awarded by a Court in respect of any loss or damage is recovered as a fine, and that fine is ordered to be paid to a management agency under subsection (1) of this section, no deduction shall be made under subsection (2) of this section in respect of that money.
+3 Notwithstanding anything in subsection (2), where any money awarded by a court in respect of any loss or damage is recovered as a fine, and that fine is ordered to be paid to a management agency under subsection (1), no deduction shall be made under subsection (2) in respect of that money.
 
-4 Subject to subsection (2) of this section, an order of the Court made under subsection (1) of this section shall be sufficient authority for the Registrar receiving the fine to pay it to the management agency entitled to it.
+4 Subject to subsection (2), an order of the court made under subsection (1) shall be sufficient authority for the Registrar receiving the fine to pay it to the management agency entitled to it.
 
 159 Proceedings for infringement offences
 
@@ -3796,7 +3796,7 @@ c where the fee may be paid; and
 
 d the time within which the fee may be paid; and
 
-e how and where payment may be made under subsection (5); and
+e how and where payment may be made under subsection(5); and
 
 f a summary of how the provisions of section 21(10) of the Summary Proceedings Act 1957 apply to the offence alleged; and
 
@@ -3818,9 +3818,9 @@ b the Ministry has not by then received at that address a notice requesting a he
 
 a the reference in section 21(1)(b) to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (6) of this section; and
 
-b subsection (6) of this section were in the place of section 21(3); and
+b subsection (6) were in the place of section 21(3); and
 
-c the reference in section 21(3A) to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (6) of this section; and
+c the reference in section 21(3A) to the particulars of a reminder notice not having been provided under section21(3) were a reference to the particulars of the infringement notice not having been provided under subsection(6) of this section; and
 
 d every reference in section 21(4), (4A), and (4B) to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
 
@@ -3830,9 +3830,9 @@ f the reference in section 21(4C) to particulars of a reminder notice were a ref
 
 g the reference in section 21(4C) to the reminder notice were a reference to the infringement notice; and
 
-h the reference in section 21(5) to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (6) of this section; and
+h the reference in section 21(5) to the verification of particulars of a reminder notice provided under section21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (6) of this section; and
 
-i the reference in section 21(6)(b) and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
+i the reference in section 21(6)(b) and in section21(10)(a) to a period of 28days after the service of a reminder notice were a reference to the period of 14days after the service of the infringement notice; and
 
 j each reference in section 21A and section 78B to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
 
@@ -3843,7 +3843,7 @@ k the references to reminder notices in the definition of defendant in section 2
 9 Despite section 203(1) of the Summary Proceedings Act 1957, an infringement notice under this section may be issued and served on a Sunday.
 
 160 Payment of infringement fees
-All infringement fees received under section 159 or section 159A must be paid into the Crown Bank Account.
+All infringement fees received under section 159 or section159A must be paid into a Crown Bank Account.
 
 160A Procedure for certain declaration offences
 
@@ -3865,13 +3865,13 @@ ii an amendment to such a strategy:
 
 b a certificate purporting to be signed by the Director-General stating that a person specified in the certificate is
 
-i a chief technical officer appointed under section 101(1); or
+i a chief technical officer appointed under section101(1); or
 
 ii a deputy chief technical officer appointed under section 102:
 
 c a certificate purporting to be signed by the chief executive of a department stating that a person specified in the certificate is
 
-i a chief technical officer appointed under section 101(2); or
+i a chief technical officer appointed under section101(2); or
 
 ii a deputy chief technical officer appointed under section 102:
 
@@ -3917,9 +3917,9 @@ iii the organisms, organic material, risk goods, or other goods specified in the
 
 a at least 14 days before the hearing at which the certificate is to be tendered, a copy is served, by or on behalf of the prosecutor, on the defendant or the defendant's agent or counsel, and that person is at the same time informed in writing that the prosecutor does not propose to call the person who signed the certificate as a witness at the hearing; and
 
-b the Court has not, on the application of the defendant made not less than 7 days before the hearing, ordered, not less than 4 days before the hearing (or such lesser period as the Court in the special circumstances of the case thinks fit), that the certificate should not be admissible as evidence in the proceedings.
+b the court has not, on the application of the defendant made not less than 7 days before the hearing, ordered, not less than 4 days before the hearing (or such lesser period as the court in the special circumstances of the case thinks fit), that the certificate should not be admissible as evidence in the proceedings.
 
-5 The Court must not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity of a certificate.
+5 The court must not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity of a certificate.
 
 162 Time for laying informations
 Notwithstanding section 14 of the Summary Proceedings Act 1957, an information in respect of an offence against this Act or any regulations made under it may be laid at any time within 2 years of the time when the matter of the information arose.
@@ -4051,7 +4051,7 @@ c providing for and regulating the transfer, amendment, suspension, revocation, 
 
 d providing for and prescribing conditions that shall or may be attached to permits, registrations, approvals, and exemptions issued under this Act:
 
-e requiring persons to whom or which section 43(2) of this Act applies (or any of them) to make returns of information to the Director-General:
+e requiring persons to whom or which section 43(2) applies (or any of them) to make returns of information to the Director-General:
 
 f prescribing standards for places that are required to be designated, registered, or approved under this Act or the regulations:
 
@@ -4059,7 +4059,7 @@ g providing for the registration of places that are particularly liable to harbo
 
 ga prescribing technical standards for the construction, equipping, maintenance, and operation of places referred to in paragraph (g) whether required to be registered or not:
 
-h prescribing standards relating to the operators of any of the places referred to in paragraphs (f) and (g) of this section:
+h prescribing standards relating to the operators of any of the places referred to in paragraphs (f) and (g):
 
 i prescribing technical standards to be met by persons involved in the handling of diseased or pestiferous organic material:
 
@@ -4103,7 +4103,7 @@ vc prescribing the infringement fee payable for each infringement offence, which
 
 vd prescribing the form of, and any additional particulars required in, an infringement notice for a border infringement offence or an infringement offence:
 
-w prescribing transitional and savings provisions relating to the coming into force of this Act, which may be in addition to or in place of any of the provisions of Part 10 of this Act; and, without limiting the generality of the preceding power, any such regulations may provide that, subject to such conditions as are specified in the regulations, specified provisions of this Act shall not apply, or specified provisions of Acts repealed or amended by this Act, or of regulations, Orders in Council, notices, licences, permits, approvals, authorisations, or consents made or given shall continue to apply during a specified transitional period:
+w prescribing transitional and savings provisions relating to the coming into force of this Act, which may be in addition to or in place of any of the provisions of Part10; and, without limiting the generality of the preceding power, any such regulations may provide that, subject to such conditions as are specified in the regulations, specified provisions of this Act shall not apply, or specified provisions of Acts repealed or amended by this Act, or of regulations, Orders in Council, notices, licences, permits, approvals, authorisations, or consents made or given shall continue to apply during a specified transitional period:
 
 x providing for such matters as may be contemplated by or necessary for giving full effect to this Act and for its administration.
 
@@ -4113,7 +4113,7 @@ x providing for such matters as may be contemplated by or necessary for giving f
 
 1 Any regulation made under this Act may apply generally or may apply or be applied from time to time by the Minister by notice in the Gazette within any specified district or region of any local authority or within any specified part of New Zealand or may apply to any specified category or categories of persons.
 
-2 All regulations made under section 165(w) of this Act that are still in force on the day that is 5 years after the commencement of section 165 of this Act shall expire at the close of that day.
+2 All regulations made under section 165(1)(w) that are still in force on the day that is 5years after the commencement of section 165 shall expire at the close of that day.
 
 3 Any regulations made under this Act may confer power to issue directions, orders, requirements, permits, or notices for the purposes of this Act on all or any of the following:
 
@@ -4145,19 +4145,19 @@ f persons of any kind or description,from any requirement of those regulations, 
 
 167 Repeals and revocations
 
-1 The enactments specified in Schedule 3 to this Act are hereby repealed.
+1 The enactments specified in Schedule 3 are hereby repealed.
 
-2 All Orders in Council and notices made under the Stock Act 1908 not specified in Schedule 7 to this Act are hereby revoked.
+2 All Orders in Council and notices made under the Stock Act 1908 not specified in Schedule 7 are hereby revoked.
 
-3 The Orders in Council specified in Schedule 6 to this Act are hereby revoked.
+3 The Orders in Council specified in Schedule 6 are hereby revoked.
 
-4 The Dog Control and Hydatids Regulations 1985 are hereby revoked, with effect on the 1st day of July 1996.
+4 The Dog Control and Hydatids Regulations 1985 are hereby revoked, with effect on 1July 1996.
 
 168 Enactments amended
 
-1 The enactments specified in Schedule 4 to this Act are hereby amended in the manner indicated in that Schedule.
+1 The enactments specified in Schedule 4 are hereby amended in the manner indicated in that schedule.
 
-2 The regulations specified in Schedule 5 to this Act are hereby amended in the manner indicated in that Schedule.
+2 The regulations specified in Schedule 5 are hereby amended in the manner indicated in that schedule.
 
 10 Savings and transitional provisions
 
@@ -4170,23 +4170,23 @@ Notwithstanding section 167(1) of this Act, the Plants Act 1970 shall continue i
 
 172 Transition of emergency proclamations
 
-1 If a declaration of an animal disease emergency made by the Governor-General by Proclamation is in force on the commencement of this Act, the Proclamation and sections 30 and 31 of the Animals Act 1967 shall, notwithstanding the repeal of those sections by section 167(1) of this Act, continue in effect for so long as the Proclamation remains in force.
+1 If a declaration of an animal disease emergency made by the Governor-General by Proclamation is in force on the commencement of this Act, the Proclamation and sections 30 and 31 of the Animals Act 1967 shall, notwithstanding the repeal of those sections by section 167(1), continue in effect for so long as the Proclamation remains in force.
 
 2 If a declaration of a plant disease emergency made by the Governor-General by Proclamation is in force on the commencement of this Act, the Proclamation and sections 12 and 13 of the Plants Act 1970 shall, notwithstanding the repeal of those sections by section 167(1) of this Act, continue in effect for so long as the Proclamation remains in force.
 
 173 Transitional continuance of regulations
-Every regulation specified in Schedule 7 to this Act made under an enactment repealed by section 167(1) of this Act that is in force at the close of the 30th day of June 1993 shall, so far as it is not inconsistent with this Act, be deemed to have been lawfully made by the Governor-General in Council under this Act and shall continue in force until it is revoked by regulation made under this Act or until the expiry of 2 years after that day whichever is the earlier, and shall then expire.
+Every regulation specified in Schedule 7 made under an enactment repealed by section 167(1) that is in force at the close of 30June 1993 shall, so far as it is not inconsistent with this Act, be deemed to have been lawfully made by the Governor-General in Council under this Act and shall continue in force until it is revoked by regulation made under this Act or until the expiry of 2 years after that day whichever is the earlier, and shall then expire.
 
 174 Transitional provision concerning inspectors, etc
 
-1 Every person duly appointed and holding office as an inspector under the Ministry of Agriculture and Fisheries Act 1953, the Animals Act 1967, the Apiaries Act 1969, the Poultry Act 1968, or the Plants Act 1970, at the close of the 30th day of September 1993 shall be deemed to have been appointed an inspector under and for the purposes of this Act.
+1 Every person duly appointed and holding office as an inspector under the Ministry of Agriculture and Fisheries Act 1953, the Animals Act 1967, the Apiaries Act 1969, the Poultry Act 1968, or the Plants Act 1970, at the close of 30September 1993 shall be deemed to have been appointed an inspector under and for the purposes of this Act.
 
-2 Every person duly appointed and holding office as a noxious plants officer under the Noxious Plants Act 1978 at the close of the 30th day of September 1993 shall be deemed to have been appointed an authorised person under section 103(3) of this Act by the principal officer by whom that inspector was then employed.
+2 Every person duly appointed and holding office as a noxious plants officer under the Noxious Plants Act 1978 at the close of 30September 1993 shall be deemed to have been appointed an authorised person under section 103(3) by the principal officer by whom that inspector was then employed.
 
-3 Every person duly appointed and holding office as an inspector under the Agricultural Pests Destruction Act 1967 at the close of the 30th day of September 1993 shall be deemed to have been appointed an authorised person under section 103(3) of this Act by the principal officer by whom that inspector was then employed.
+3 Every person duly appointed and holding office as an inspector under the Agricultural Pests Destruction Act 1967 at the close of 30September 1993 shall be deemed to have been appointed an authorised person under section 103(3) by the principal officer by whom that inspector was then employed.
 
 175 Transition of quarantine appointments
-On the 1st day of July 1993, the following shall be deemed to have been registered as a quarantine facility and to be subject in all respects to the provisions of section 39 of this Act:
+On 1July 1993, the following shall be deemed to have been registered as a quarantine facility and to be subject in all respects to the provisions of section 39:
 
 a any land set apart and defined as a quarantine ground under section 11 of the Animals Act 1967; and
 
@@ -4199,13 +4199,13 @@ d any land declared to be a quarantine station under section 4 of the Plants Act
 176 Transition of import permits and exemptions
 
 177 Transition of notices under section 13A of Animals Act 1967
-Notwithstanding the repeal of section 13A of the Animals Act 1967, every notice under that section that is in force at the close of the 30th day of September 1993 shall continue in force for the time specified in that notice and shall have effect and may be enforced in all respects as if that section had not been repealed.
+Notwithstanding the repeal of section 13A of the Animals Act 1967, every notice under that section that is in force at the close of 30September 1993 shall continue in force for the time specified in that notice and shall have effect and may be enforced in all respects as if that section had not been repealed.
 
 178 Transitional control of brucellosis and tuberculosis in cattle and tuberculosis in deer
 
-1 Every direction, notice, or requirement given or made by the Director-General under section 53, 53A, 53AA, 53C, 53E, or 53H of the Animals Act 1967 that is in force at the close of the 30th day of June 1993 shall continue in force after the 30th day of June 1993 and shall have effect and may be enforced in all respects as if those sections had not been repealed.
+1 Every direction, notice, or requirement given or made by the Director-General under section 53, 53A, 53AA, 53C, 53E, or 53H of the Animals Act 1967 that is in force at the close of 30June 1993 shall continue in force after 30June 1993 and shall have effect and may be enforced in all respects as if those sections had not been repealed.
 
-2 Where the Director-General has directed the slaughter of any animals under section 53AA or 53E of the Animals Act 1967 by a direction that is in force at the close of the 30th day of June 1993, sections 53AB and 53F of the Animals Act 1967 shall, notwithstanding their repeal by section 167(1) of this Act, continue in force after the 30th day of June 1993 in relation to every animal which the Director-General has directed should be slaughtered.
+2 Where the Director-General has directed the slaughter of any animals under section 53AA or 53E of the Animals Act 1967 by a direction that is in force at the close of 30June 1993, sections 53AB and 53F of the Animals Act 1967 shall, notwithstanding their repeal by section 167(1), continue in force after 30June 1993 in relation to every animal which the Director-General has directed should be slaughtered.
 
 179 Transitional control of agricultural pests
 
@@ -4219,23 +4219,23 @@ Notwithstanding the repeal of section 13A of the Animals Act 1967, every notice 
 
 184 Designated ports of entry
 
-1 Subject to subsection (2) of this section, between the commencement of Part 3 of this Act and the 1st day of July 1995 the Director-General shall under subsection (1) of section 37 of this Act be deemed to have designated as places of first arrival of craft arrived in New Zealand the ports specified in Schedule 8 to this Act; but the Director-General shall not be required under subsection (2) of that section to publish or make available a notice specifying the matters referred to in paragraph (a) of that subsection.
+1 Subject to subsection (2), between the commencement of Part 3 and 1July 1995 the Director-General shall under subsection (1) of section 37 be deemed to have designated as places of first arrival of craft arrived in New Zealand the ports specified in Schedule 8; but the Director-General shall not be required under subsection (2) of that section to publish or make available a notice specifying the matters referred to in paragraph (a) of that subsection.
 
-2 Subject to section 37(7) of this Act, the Director-General may at any time suspend or revoke any port's deemed designation under subsection (1) of this section; and it shall then cease to be deemed to have been designated as a place of first arrival of craft arriving in New Zealand.
+2 Subject to section 37(7), the Director-General may at any time suspend or revoke any port's deemed designation under subsection (1); and it shall then cease to be deemed to have been designated as a place of first arrival of craft arriving in New Zealand.
 
 184A Designated as approved, or approved, ports
 
 1 For the ports specified in Part A of Schedule 9, the following provisions apply:
 
-a for the period between 1 July 1995 and 25 November 1997, each port is treated as having been designated as approved under section 37; and
+a for the period between 1July 1995 and 25November 1997, each port is treated as having been designated as approved under section 37; and
 
-b for the period between 26 November 1997 and the date after 26 November 1997 on which the Director-General approves the port under section 37, each port is treated as having been approved under section 37; and
+b for the period between 26November 1997 and the date after 26November 1997 on which the Director-General approves the port under section 37, each port is treated as having been approved under section 37; and
 
-c for the period between 1 July 1995 and the date after 1 July 1995 on which the Director-General approves a port under section 37, every requirement of section 37 concerning the port is treated as having been satisfied.
+c for the period between 1July 1995 and the date after 1July 1995 on which the Director-General approves a port under section 37, every requirement of section 37 concerning the port is treated as having been satisfied.
 
 2 The effect of subsection (1) is that a biosecurity control area existed at each port specified in Part A of Schedule 9 for the time to which both the following apply:
 
-a the time occurred in the period between 1 July 1995 and the date after 1 July 1995 on which the Director-General approves the port under section 37; and
+a the time occurred in the period between 1July 1995 and the date after 1July 1995 on which the Director-General approves the port under section 37; and
 
 b throughout the time, the port had a place that
 
@@ -4243,7 +4243,7 @@ i was part of the port; and
 
 ii was, by written agreement with the port's operator, under the control of the Director-General for the purposes of this Act.
 
-3 For the ports specified in Part B of Schedule 9, the following provisions apply for the period between 25 May 1998 and the date after 25 May 1998 on which the Director-General approves each port under section 37:
+3 For the ports specified in Part B of Schedule 9, the following provisions apply for the period between 25May 1998 and the date after 25May 1998 on which the Director-General approves each port under section 37:
 
 a each port is treated as having been approved under section 37; and
 
@@ -4251,7 +4251,7 @@ b every requirement of section 37 concerning the port is treated as having been 
 
 4 The effect of subsection (3) is that a biosecurity control area existed at each port specified in Part B of Schedule 9 for the time to which both the following apply:
 
-a the time occurred in the period between 25 May 1998 and the date after 25 May 1998 on which the Director-General approves the port under section 37; and
+a the time occurred in the period between 25May 1998 and the date after 25May 1998 on which the Director-General approves the port under section 37; and
 
 b throughout the time, the port had a place that
 
@@ -4271,7 +4271,7 @@ a after consulting under section 37D, the Director-General may suspend or revoke
 
 b the designation or approval ceases to have effect in the manner and at the time stated in the suspension or revocation.
 
-7 Subsections (1) to (6
+7 Subsections (1) to (6)
 
 a do not apply in civil proceedings commenced before 13December 2005; and
 
@@ -4287,20 +4287,23 @@ d apply to conduct that occurs at a port after the period described for the port
 
 8 The periods are,
 
-a for each port specified in Part A of Schedule 9, the period that starts on 1 July 1995 and ends on the earlier of the following dates:
+a for each port specified in Part A of Schedule 9, the period that starts on 1July 1995 and ends on the earlier of the following dates:
 
-i the date after 1 July 1995 on which the Director-General approves the port under section 37; and
+i the date after 1July 1995 on which the Director-General approves the port under section 37; and
 
 ii the date on which the Biosecurity (Status of Specified Ports) Amendment Act 2005 receives the Royal assent; and
 
-b for each port specified in Part B of Schedule 9, the period that starts on 25 May 1998 and ends on the earlier of the following dates:
+b for each port specified in Part B of Schedule 9, the period that starts on 25May 1998 and ends on the earlier of the following dates:
 
-i the date after 25 May 1998 on which the Director-General approves the port under section 37; and
+i the date after 25May 1998 on which the Director-General approves the port under section 37; and
 
 ii the date on which the Biosecurity (Status of Specified Ports) Amendment Act 2005 receives the Royal assent.
 
 185 Expiration of sections 179 to 183
-Sections 179 to 183 of this Act shall expire with the close of the 30th day of June 1996.
+
+1 Sections 179 to 182 shall expire with the close of 30September 1998.
+
+2 Section 183 shall expire with the close of 30June 1996.
 
 185A Organisms illegally present in New Zealand at commencement of Hazardous Substances and New Organisms Act 1996
 
@@ -4308,6 +4311,6 @@ Sections 179 to 183 of this Act shall expire with the close of the 30th day of J
 
 2 Where, at the date of commencement of the Hazardous Substances and New Organisms Act 1996, a genetically modified organism is present in New Zealand and section 257 of the Hazardous Substances and New Organisms Act 1996 does not apply to that organism, that organism is deemed to be uncleared goods for the purposes of this Act.
 
-3 Where section 259 of the Hazardous Substances and New Organisms Act 1996 applies to a culture of micro-organisms and no application has been made in respect of that culture of micro-organisms within 1 year of the date of commencement of that Act, that culture of micro-organisms is, at the expiry of that year, deemed to be uncleared goods for the purposes of this Act.
+3 Where section 259 of the Hazardous Substances and New Organisms Act 1996 applies to a culture of micro-organisms and no application has been made in respect of that culture of micro-organisms within 1year of the date of commencement of that Act, that culture of micro-organisms is, at the expiry of that year, deemed to be uncleared goods for the purposes of this Act.
 
 4 Nothing in this section applies to the organism known as rabbit haemorrhagic disease virus, or rabbit calicivirus.
