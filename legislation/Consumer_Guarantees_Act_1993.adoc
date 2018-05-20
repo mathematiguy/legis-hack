@@ -555,7 +555,7 @@ c the supplier is a party to the contract; and
 
 d the consumer exercises the right to reject the goods under this Act.
 
-2 A court or a Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
+2 A court or the Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
 
 3 In this section, 
 
@@ -732,7 +732,7 @@ b where it is not reasonably practicable to communicate with the supplier, befor
 
 1 Where a consumer cancels a contract for the supply of services under this Act,
 
-a the consumer shall be entitled to recover from the supplier a refund of any money paid or other consideration provided in respect of the services unless a court or Disputes Tribunal orders that the supplier may retain the whole or part of the money paid or other consideration provided by the consumer:
+a the consumer shall be entitled to recover from the supplier a refund of any money paid or other consideration provided in respect of the services unless a court or the Disputes Tribunal orders that the supplier may retain the whole or part of the money paid or other consideration provided by the consumer:
 
 b so far as the contract has been performed at the time of the cancellation, no party shall, by reason of the cancellation, be divested of any property transferred or money paid pursuant to the contract, except as otherwise provided in paragraph (a):
 
@@ -748,7 +748,7 @@ c the right of the consumer under this Act to reject goods supplied in connectio
 
 39 Ancillary power of court or Disputes Tribunal to grant relief
 
-1 Where a consumer cancels under this Act a contract for the supply of services, a court or a Disputes Tribunal, in any proceedings or on application made for the purpose, may from time to time if it is just and practicable to do so, make an order or orders granting relief under this section.
+1 Where a consumer cancels under this Act a contract for the supply of services, a court or the Disputes Tribunal, in any proceedings or on application made for the purpose, may from time to time if it is just and practicable to do so, make an order or orders granting relief under this section.
 
 2 An order under this section may
 
@@ -802,7 +802,7 @@ c the supplier is a party to the contract; and
 
 d the consumer exercises the right to cancel the contract for the supply of the services under this Act.
 
-2 A court or a Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
+2 A court or the Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
 
 3 In this section,
 
@@ -934,7 +934,7 @@ i by the retailer; or
 
 ii if the retailer does not make a determination or if the retailer's determination is challenged, by the dispute resolution scheme following a complaint made under section 43EA of the Gas Act 1992 or under section 95 of the Electricity Industry Act 2010 (as the case requires); or
 
-iii by a court or a Disputes Tribunal (if a court or a Disputes Tribunal makes a determination on the issue); and
+iii by a court or the Disputes Tribunal (if a court or the Disputes Tribunal makes a determination on the issue); and
 
 b the failure of acceptable quality was wholly or partly the result of an event, circumstance, or condition associated with
 
@@ -970,31 +970,31 @@ b in the case of electricity, in section 95 of the Electricity Industry Act 2010
 
 47 Jurisdiction
 
-1 Any court of competent jurisdiction, and any Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 and having jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under section 23A or 39.
+1 Any court of competent jurisdiction, and the Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 if it has jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under section 23A or 39.
 
 2 In this section, *court of competent jurisdiction* means
 
 a the High Court:
 
-b a District Court in any case where
+b the District Court in any case where
 
-i a claim referred to in subsection (1) does not exceed $200,000; or
+i a claim referred to in subsection (1) does not exceed $350,000; or
 
 ii an order under section 23A or 39 does not exceed the limits prescribed by subsection (3).
 
-3 A District Court may make an order under section 23A or 39 if the order does not
+3 The District Court may make an order under section 23A or 39 if the order does not
 
-a require a person to pay an amount exceeding $200,000:
+a require a person to pay an amount exceeding $350,000:
 
-b vest any property exceeding $200,000 in value in any person:
+b vest any property exceeding $350,000 in value in any person:
 
-c direct the transfer or assignment or delivery of possession of any property exceeding $200,000 in value:
+c direct the transfer or assignment or delivery of possession of any property exceeding $350,000 in value:
 
-d permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $200,000.
+d permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $350,000.
 
-4 Subject to subsection (6), a Disputes Tribunal shall have jurisdiction to hear and determine any claim referred to in subsection (1) where the claim does not exceed $15,000.
+4 Subject to subsection (6), the Disputes Tribunal shall have jurisdiction to hear and determine any claim referred to in subsection (1) where the claim does not exceed $15,000.
 
-5 Subject to subsection (6), a Disputes Tribunal may make an order under section 23A or 39 if the order does not
+5 Subject to subsection (6), the Disputes Tribunal may make an order under section 23A or 39 if the order does not
 
 a require a person to pay an amount exceeding $15,000:
 
@@ -1004,7 +1004,7 @@ c direct the transfer or assignment or delivery of possession of any property ex
 
 d permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $15,000.
 
-6 Where in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsections (4) and (5) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000.
+6 Where in respect of any proceedings properly before the Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunal Act 1988, subsections (4) and (5) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000.
 
 
 
