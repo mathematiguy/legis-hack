@@ -3989,11 +3989,11 @@ b a Civil Defence Emergency Management Group established under the Civil Defence
 
 c the New Zealand Police:
 
-d the New Zealand Fire Service:
+d Fire and Emergency New Zealand:
 
-e the National Rural Fire Authority:
+e 
 
-f rural fire authorities:
+f 
 
 g DHBs, as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
 
@@ -4462,11 +4462,11 @@ b a Civil Defence Emergency Management Group established under the Civil Defence
 
 c the New Zealand Police:
 
-d the New Zealand Fire Service:
+d Fire and Emergency New Zealand:
 
-e the National Rural Fire Authority:
+e 
 
-f rural fire authorities:
+f 
 
 g DHBs, as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
 
