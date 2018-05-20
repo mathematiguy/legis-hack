@@ -44,7 +44,7 @@ def read_url(url, start_year, pretty_print):
         fileUrl = baseUrl + link['href']
         
         #regex to check if the file is XML within the appropriate dir structure
-        pattern = re.compile("[0-9]{4}/[0-9]{2}\.[0-9]{1}/(.*\.xml)")
+        pattern = re.compile("[0-9]{4}/[0-9]{1,}\.[0-9]{1}/(.*\.xml)")
         match = pattern.search(fileUrl)
         if match:
             #download the file here...
@@ -59,9 +59,9 @@ def read_url(url, start_year, pretty_print):
             title = re.sub(r"\s", "_", title)
             title += '.xml'
             
-            versionPattern = re.compile('/([0-9]{2}\.[0-9]{1})/')
+            versionPattern = re.compile('/([0-9]{1,}\.[0-9]{1})/')
             versionMatch = versionPattern.search(fileUrl)
-            print(versionMatch)
+
             if versionMatch:
                 version = versionMatch.group(1)
                 version = version[:-2].rjust(4, '0')
@@ -75,7 +75,13 @@ def read_url(url, start_year, pretty_print):
             #set up the directory to save the file
             #this will be relative to the location of the python script!
             #file_path = os.path.join(root_path, 'legislation/data', link['href'][1:-20], title)
-            file_path = os.path.join(root_path, 'legislation/xml', link['href'][1:-25], title)
+            
+            linkPathPattern = re.compile('/{1,}(.*)/[0-9]{1,}\.[0-9]{1}/.{16}\.xml')
+            linkPathMatch = linkPathPattern.search(link['href'])
+            if linkPathMatch:
+                linkPath = linkPathMatch.group(1)
+
+            file_path = os.path.join(root_path, 'legislation/xml', linkPath, title)
             
             #If the directory doesn't exist yet, create it recursively
             dirname = os.path.dirname(file_path)
@@ -88,4 +94,4 @@ def read_url(url, start_year, pretty_print):
             file.close()
             print("Downloaded to: " + file_path)
         
-read_url("http://legislation.govt.nz/subscribe/act/public", 2018, False)
+read_url("http://legislation.govt.nz/subscribe/act/public", 1993, False)
