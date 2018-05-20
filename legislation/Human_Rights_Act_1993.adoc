@@ -12,6 +12,12 @@
 
 *act* includes an activity, condition, enactment, policy, practice, or requirement
 
+*actuary* means
+
+a a person who is a Fellow of the New Zealand Society of Actuaries Incorporated; or
+
+b a person whom the Commission or the Complaints Division, as the case may be, considers to have an equivalent professional qualification
+
 *Chief Commissioner* means the Commissioner appointed as the Chief Human Rights Commissioner under section 8(1)(a)
 
 *Commission* means the Human Rights Commission continued by section 4 and includes the Office of Human Rights Proceedings
@@ -993,7 +999,7 @@ b is reasonable having regard to the applicability of the data or advice or opin
 
 a require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
 
-b request the views of the Government Actuary on the justification for the reliance and for the different treatment.
+b request the views of an actuary on the justification for the reliance and for the different treatment.
 
 49 Exception in relation to sport
 
@@ -1306,10 +1312,10 @@ f providing benefits for members of the scheme that differ in nature and amount 
 
 a require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
 
-b request the views of the Government Actuary on the justification for the reliance and for the different treatment.
+b request the views of an actuary on the justification for the reliance and for the different treatment.
 
 71 Reports on superannuation schemes
-The Commission shall from time to time, after consultation with the Government Actuary, report to the Minister on whether discrimination on the prohibited grounds has been eliminated from superannuation schemes.
+The Commission shall from time to time, after consultation with the FMA, report to the Minister on whether discrimination on the prohibited grounds has been eliminated from superannuation schemes.
 
 72 Power to vary trust deeds
 
