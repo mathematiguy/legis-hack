@@ -596,7 +596,7 @@ Every person is guilty of a corrupt practice within the meaning of the Electoral
 4 Nothing in this section shall restrict the publication of any news or comments relating to the indicative referendum petition or the indicative referendum in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
 
 42 Limits on expenditure
-Every person commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who, either alone or in combination with others,
+Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who, either alone or in combination with others,
 
 a knowingly spends, on advertisements published or broadcast in relation to an indicative referendum petition, more than $50,000:
 
@@ -626,13 +626,13 @@ c if the result is declared under section 49 of the Referenda (Postal Voting) Ac
 
 2 
 
-3 Every person commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with subsection (1A).
+3 Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with subsection (1A).
 
 4 Every person who makes, under subsection (1A), a return that is false in any material particular
 
-a is, if the person makes the return knowing that the return is false in a material particular, guilty of a corrupt practice and is liable on conviction on indictment to imprisonment for a term not exceeding 1year or to a fine not exceeding $20,000, or to both; and
+a is, if the person makes the return knowing that the return is false in a material particular, guilty of a corrupt practice and is liable on conviction to imprisonment for a term not exceeding 1year or to a fine not exceeding $20,000, or to both; and
 
-b is, in any other case, guilty of an illegal practice, and is liable on conviction on indictment to a fine not exceeding $20,000, unless the person proves:
+b is, in any other case, guilty of an illegal practice, and is liable on conviction to a fine not exceeding $20,000, unless the person proves:
 
 i that he or she had no intention to mis-state or conceal the facts; and
 
@@ -750,7 +750,7 @@ b it must determine whether the indicative referendum is void because of some ir
 
 52 Interfering with or influencing voters
 
-1 Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $5,000 who, at an indicative referendum,
+1 Every person commits an offence and shall be liable on conviction to a fine not exceeding $5,000 who, at an indicative referendum,
 
 a in any way interferes with any elector, either in the polling place or while the elector is on the way to the polling place, with the intention of influencing the elector or advising the elector as to the elector's vote:
 
@@ -861,9 +861,9 @@ a except in accordance with any regulations made under the Electoral Act 1993 or
 
 b does or omits to do an act (other than an act to which section 52 applies) that if done or omitted to be done at an electoral poll would be an offence under the Electoral Act 1993.
 
-2 Every person who commits an offence against subsection(1)(a) shall be liable on summary conviction to a fine not exceeding $2,000.
+2 Every person who commits an offence against subsection(1)(a) shall be liable on conviction to a fine not exceeding $2,000.
 
-3 Every person who commits an offence against subsection(1)(b) shall be liable on summary conviction to the same penalty as that for which he or she would have been liable if he or she had committed the offence under the Electoral Act 1993.
+3 Every person who commits an offence against subsection(1)(b) shall be liable on conviction to the same penalty as that for which he or she would have been liable if he or she had committed the offence under the Electoral Act 1993.
 
 6 Miscellaneous provisions
 
