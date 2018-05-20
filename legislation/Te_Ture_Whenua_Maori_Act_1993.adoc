@@ -71,6 +71,8 @@ vii a disposition by way of sale by a mortgagee pursuant to a power expressed or
 
 *Chief Surveyor* has the meaning given to that term by section 2 of the Survey Act 1986
 
+*common marine and coastal area* has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+
 *court* means, as the case may require, the Maori Land Court or the Maori Appellate Court or both
 
 *Crown land* means land that, in terms of Part 6, has the status of Crown land
@@ -95,7 +97,7 @@ i Mori land, General land, and Crown land that is on the landward side of mean h
 
 ii Mori freehold land that is on the seaward side of mean high water springs; but
 
-b does not include the public foreshore and seabed
+b does not include the common marine and coastal area
 
 *lease* includes a tenancy at will, and any other tenancy that confers a leasehold interest upon the tenant, whether at law or in equity; and the terms *sublease*, *lessee*, and *sublessee* have corresponding meanings
 
@@ -1327,7 +1329,7 @@ e any question arising in any proceedings.
 
 6 When a rehearing has been granted, the period allowed for an appeal to the Maori Appellate Court shall not commence to run until the rehearing has been disposed of by a final order of the court.
 
-7 Subsection (6) applies, with the necessary modifications, to appeals to the High Court under section 63(2) of the Foreshore and Seabed Act 2004.
+7 
 
 
 
@@ -1653,7 +1655,7 @@ b to represent any person or class of person, where the court considers that the
 
 72 Case may be stated for High Court
 
-1 The Maori Appellate Court or, with the leave of the Chief Judge, the Maori Land Court, may, in any proceedings before it (other than proceedings under the Foreshore and Seabed Act 2004), state a case for the opinion of the High Court on any point of law that arises in those proceedings.
+1 The Maori Appellate Court or, with the leave of the Chief Judge, the Maori Land Court, may, in any proceedings before it, state a case for the opinion of the High Court on any point of law that arises in those proceedings.
 
 2 The Chief Judge may withdraw any such case at any time before it has been considered by the High Court.
 
@@ -1961,11 +1963,11 @@ The Chief Judge, with the concurrence of at least 2 other Judges, may from time 
 
 a any person or class of person heard or represented in any proceedings before the court:
 
-b any barrister or solicitor appointed to assist the court under section 70(3)(a):
+b any barrister or solicitor appointed to assist the court under section 70(3)(a).
 
-c an amicus curiae appointed under the Foreshore and Seabed Act 2004.
+c 
 
-3A Before making an order for payment under subsection (3)(a) in relation to a proceeding under the Foreshore and Seabed Act 2004, the court must take into account the financial position of the whnau, hap, or iwi on whose behalf the order is made.
+3A 
 
 4 A duplicate of any order made by the court under subsection (3) shall be forwarded by post to the Legal Services Agency as soon as practicable after the making of the order.
 
