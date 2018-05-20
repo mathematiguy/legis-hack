@@ -4,15 +4,11 @@
 
 Install BeautifulSoup4
 
-Example on aws ubuntu box:
+$ python3 xmldownload.py
 
-$ apt-get install python3-bs4
+$ python3 xmltransform.py
 
-$ git clone https://github.com/jamestingedwards/legis-hack.git
-
-$ python3 ./xmldownload.py
-
-$ python3 ./xmltransform.py
+$ python3 adoccommitter.py
 
 **Problem Statement**
 
@@ -29,13 +25,14 @@ First, get the xml files of each act (and its amendments) from legislation.govt.
 
 Second, process each xml file and create a markdown / asciidoc version starting at the first version of each act, in subdirectory /legislation/act-name/<version>_<act name>.adoc: xmltransformer.py
 
-Third, iterate through subdirectories:
+Third, iterate through subdirectories (addoccommiter.py):
 
 1. Take the first version, remove <version> and _, copy it to ../legislation/
 2. Git commit & push
 3. Take the second version, remove <version> and _, copy it to ../legislation/ (replace existing file)
-4. Git commit & push
-5. Etc, until all files in each subdirectory are pushed
+4. Git commit
+5. Etc, until all files in each subdirectory are done
+6. Git push
   
 # Dependencies
 
