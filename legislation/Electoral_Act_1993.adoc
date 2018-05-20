@@ -4210,7 +4210,7 @@ b any person whose name has been included in a list submitted under section 127.
 
 2 The polling places appointed for any district may include polling places that are not within the limits of that district.
 
-3 No polling place shall be appointed in any licensed premises under the Sale of Liquor Act 1989 that will, at any time on polling day, be open for the sale, supply, or consumption of liquor.
+3 No polling place shall be appointed in any licensed premises under the Sale and Supply of Alcohol Act 2012 that will, at any time on polling day, be open for the sale, supply, or consumption of alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012).
 
 4 At least 12 polling places within the limits of each district shall have access that is suitable for persons who are physically disabled.
 
@@ -7140,7 +7140,7 @@ b for the purpose of procuring himself or herself to be elected; or
 
 c on account of that person or any other person having voted or refrained from voting, or being about to vote or refrain from voting.
 
-3 Every person commits the offence of treating who, being the holder of a licence for the sale by retail of intoxicating liquor, knowingly supplies any food, drink, entertainment, or provision
+3 Every person commits the offence of treating who, being the holder of a licence for the sale by retail of alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012), knowingly supplies any food, drink, entertainment, or provision
 
 a to any person where the supply thereof is demanded for the purpose of treating, or for any corrupt or illegal practice; or
 
