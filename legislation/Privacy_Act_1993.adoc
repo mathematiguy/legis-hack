@@ -1780,7 +1780,7 @@ a a public sector agency that is not a department; or
 
 b a private sector agency.
 
-2 If an agreement is proposed to be entered into under subsection (1), any agency (except a department) that is a member of the class of agencies referred to in that subsection may become a party to the agreement by being sufficiently identified in a schedule to the agreement (a Schedule of Parties).
+2 If an agreement is proposed to be entered into under subsection (1), any agency (except a department) that is a member of the class of agencies referred to in that subsection may become a party to the agreement by being sufficiently identified in a schedule to the agreement (a *Schedule of Parties* ).
 
 3 At any time after an agreement has been entered into the lead agency may, with or without the consent of any agency,
 
@@ -2251,7 +2251,7 @@ j any tertiary institution, secondary school, or private training establishment 
 
 k the Ministry of Education:
 
-l the New Zealand Teachers Council established under Part 10A of the Education Act 1989:
+l the Education Council of Aotearoa New Zealand established under Part 32 of the Education Act 1989:
 
 la the agency or agencies appointed under section 100 of the Housing Restructuring and Tenancy Matters Act 1992.
 
