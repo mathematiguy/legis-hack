@@ -27,16 +27,6 @@ a Means a person of or over the age of 18 years; but
 
 b Where a writ has been issued for an election, includes, on or after the Monday immediately before polling day, a person under the age of 18 years if that person's 18th birthday falls in the period beginning on that Monday and ending on polling day:
 
-*anonymous*,
-
-a in relation to a constituency candidate donation as defined in section 210(9), means a donation that is made in such a way that the candidate does not know who made the donation:
-
-b in relation to a party donation (as that term is defined in section 214F), means a donation that is made in such a way that none of the following knows who made the donation:
-
-i the candidates of the party to which the donation is made:
-
-ii the persons involved in the administration of the affairs of that party
-
 *Bribery* has the meaning assigned to that term by section 216 of this Act
 
 *By-election* means any election other than a general election
@@ -59,7 +49,7 @@ b A political party that has combined some or all of its membership with that of
 
 *Constituency candidate* means a person who has been nominated as a candidate for a seat in the House of Representatives representing an electoral district
 
-*Corrupt practice* means any act declared by this Act to be a corrupt practice
+*corrupt practice* means any act declared by this Act or the Electoral Finance Act 2007 to be a corrupt practice
 
 *Corrupt Practices List*, in relation to any district, means the Corrupt Practices List made out for that district under section 100 of this Act
 
@@ -85,12 +75,6 @@ c who has paid to the party every membership fee that has for the time being bec
 
 *Election* means an election of a member of the House of Representatives
 
-*election expenses*,
-
-a in relation to a candidate at an election, has the meaning given to it in section 213:
-
-b in relation to a party that is registered under Part 4, has the meaning given to it in section 214B
-
 *Elector*, in relation to any district, means a person registered, or qualified to be registered, as an elector of that district
 
 *Electoral Commission* means the Commission established by section 4 of this Act
@@ -115,7 +99,7 @@ b in relation to a party that is registered under Part 4, has the meaning given 
 
 *Hospital* means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
 
-*Illegal practice* means any act declared by this Act to be an illegal practice
+*illegal practice* means any act declared by this Act or the Electoral Finance Act 2007 to be an illegal practice
 
 *issuing officer*, in relation to a polling place, means the manager of the polling place or a person authorised, under section 158(3)(a), to issue ballot papers in the polling place
 
@@ -249,7 +233,7 @@ b Is a member of any Commission, Council, Board, Committee, or other body of whi
 
 4 Electoral Commission
 
-1 For the purposes of this Act, there is hereby established a Commission to be called the Electoral Commission.
+1 For the purposes of this Act and the Electoral Finance Act 2007, there is hereby established a Commission to be called the Electoral Commission.
 
 2 
 
@@ -268,7 +252,7 @@ b To supervise political parties' compliance with the financial disclosure requi
 
 ba To carry out such duties in relation to Parliamentary election programmes as are prescribed by Part 6 of the Broadcasting Act 1989:
 
-c To supervise political parties' compliance with the requirements of this Act relating to the filing of returns of election expenses:
+c to supervise political parties' and third parties' compliance with the requirements of the Electoral Finance Act 2007:
 
 d To promote public awareness of electoral matters by means of the conduct of education and information programmes or by other means:
 
@@ -323,42 +307,20 @@ ii A retired Judge of any of the Courts specified in subparagraph (i) of this pa
 
 3A That person is not an employee of the Commission, despite section 10 of the Crown Entities Act 2004.
 
-4 The Electoral Commission shall, for the purposes of its jurisdiction under sections 69 to 80 of the Broadcasting Act 1989, consist of
+4 
 
-a The members who hold office under subsection (1) of this section; and
-
-b Two persons (not being public servants directly connected with the administration of this Act or the Broadcasting Act 1989 or members of the House of Representatives), who shall be appointed by the Governor-General on the nomination of the House of Representatives, as members of the Electoral Commission, one of those members being nominated to represent the Government and one to represent Opposition parties.
-
-5 For the purposes of its jurisdiction under section 80A of the Broadcasting Act 1989, the Electoral Commission consists only of the members who hold office under subsection (1).
+5 
 
 9 Appointment of Judge as member not to affect tenure, etc
 The appointment of a Judge as a member of the Electoral Commission, or service by a Judge as a member of the Commission, does not affect the Judge's tenure of the judicial office or the Judge's rank, title, status, precedence, salary, annual or other allowances or other rights or privileges as a Judge (including those in relation to superannuation) and, for all purposes, the Judge's services as a member shall be taken to be service as a Judge.
 
 10 Term of office
 
-1 
-
-1A A member of the Electoral Commission appointed under section 8(4)(b) holds office for 12 months or any shorter period stated in the notice of appointment, despite section 32(1)(b) of the Crown Entities Act 2004.
-
-2 
-
-3 Section 32(3) of the Crown Entities Act 2004 does not apply to a member of the Electoral Commission appointed under section 8(4)(b).
-
 11 Vacation of office of additional members who hold office for purposes of jurisdiction under Part 6 of Broadcasting Act 1989
-
-1 A member of the Electoral Commission appointed under section 8(4)(b) may be removed for just cause by the Governor-General acting upon an address from the House of Representatives.
-
-2 *Just cause*
-
-a includes misconduct, inability to perform the functions of office, and neglect of duty; but
-
-b excludes breach of any of the collective duties of the board or the individual duties of members (unless the act or omission that constitutes the breach comes within paragraph (a)).
-
-3 Section 39 of the Crown Entities Act 2004 does not apply to that member.
 
 11A Appointment of deputies
 
-1 In this section, appointed member means a member of the Electoral Commission who has been appointed under section 8(1)(c) or section 8(1)(d) or section 8(4)(b).
+1 In this section, appointed member means a member of the Electoral Commission who has been appointed under section 8(1)(c) or section 8(1)(d).
 
 2 An appointed member may appoint any person as the deputy of the member.
 
@@ -400,7 +362,7 @@ The provisions of Schedule 1 to this Act shall have effect in relation to the El
 17 Deputy Clerk of the Writs
 
 18 Chief Electoral Officer
-There shall from time to time be appointed under the State Sector Act 1988 some fit person to be Chief Electoral Officer, who shall be an employee of the Department of Justice and, under the direction of the Minister and of the Secretary for Justice, shall be charged with the duty of carrying the provisions of this Act (except those of Parts 4 and 5) into effect.
+There shall from time to time be appointed under the State Sector Act 1988 some fit person to be Chief Electoral Officer, who shall be an employee of the Department of Justice and, under the direction of the Minister and of the Secretary for Justice, shall be charged with the duty of carrying the provisions of this Act (except those of Parts 4 and 5) and the Electoral Finance Act 2007 into effect.
 
 19 Deputy Chief Electoral Officer
 There may also from time to time be appointed under the State Sector Act 1988 some fit person to be Deputy Chief Electoral Officer, who, subject to the control of the Chief Electoral Officer, shall have and may exercise all the powers, duties, and functions of the Chief Electoral Officer.
@@ -1084,11 +1046,13 @@ iii set out the name and address of the applicant and the capacity in which he o
 
 iv if the applicant is not the secretary of the party, set out the name and address of the secretary of the party; and
 
-v set out the name and address of the person, being a person who is eligible for appointment under section 214D, who is to be appointed as the auditor of the party, and be accompanied by that person's signed consent to the appointment; and
+v set out the name and address of the person, being a person who is eligible for appointment under section 10 of the Electoral Finance Act 2007, who is to be appointed as the auditor of the party, and be accompanied by that person's signed consent to the appointment; and
 
 vi be accompanied by evidence, in a form approved by the Electoral Commission, that the party has at least 500 current financial members who are eligible to enrol as electors; and
 
 vii be accompanied by a declaration, made by the secretary of the party in the manner provided by section 9 of the Oaths and Declarations Act 1957 that the party has at least 500 current financial members who are eligible to enrol as electors; and
+
+viii set out in the form required by the Electoral Commission the name, address, and contact details of the person, being a person eligible for appointment under section 9 of the Electoral Finance Act 2007, who is to be appointed as the financial agent of the party, and be accompanied by that person's signed consent to the appointment; and
 
 ca must be accompanied by a declaration made by the secretary of the party in the manner provided by section 9 of the Oaths and Declarations Act 1957, which declaration must state that the party intends, at general elections,
 
@@ -1107,6 +1071,12 @@ ii Where the party has one or more component parties, state the name of each com
 3 Upon receipt of an application for the registration of a political party, the Electoral Commission shall deal with the application in accordance with this Part of this Act and determine whether the party can be registered.
 
 4 Notwithstanding subsection (3) of this section, the Electoral Commission shall not be obliged to deal with any application for registration if it receives notice in writing withdrawing the application from a person entitled to apply for the registration of that party and the Electoral Commission is satisfied that the application is made by that person on behalf of the party.
+
+5 For the purposes of subsection (2)(c)(v) and (viii), *address* means,
+
+a in relation to an individual, the full address of the place where that person usually lives:
+
+b in relation to a body corporate or unincorporated, the full address of its principal place of business or head office.
 
 63A Application for registration of party logo
 
@@ -1228,7 +1198,7 @@ d To notify the Electoral Commission if the number of current financial members 
 
 e Subject to subsection (4) of this section, to notify the Electoral Commission by way of a declaration in the manner provided by section 9 of the Oaths and Declarations Act 1957 whenever there is any change in the details recorded in the Register of Political Parties in respect of the party under subsection (1)(a)(iii) of this section; and
 
-f to notify the Electoral Commission whenever the party changes the auditor of the party by appointing another person, being a person who is eligible for appointment under section 214D, as the auditor of the party, and to provide the Electoral Commission with the name and address of that person, and that person's signed consent to the appointment.
+f 
 
 4 Where changes in the description of component parties are notified to the Chief Electoral Officer under section 127(3A) or section 128A of this Act, it shall not be necessary for the Secretary of the party also to notify those changes to the Electoral Commission in accordance with subsection (3)(e) of this section.
 
@@ -2888,9 +2858,9 @@ b wins a constituency seat.
 
 4 In every other case the deposit must be returned to the secretary of the party on whose behalf the deposit is paid, but only after the Electoral Commission has received
 
-a a duly completed return under section 214C in respect of that party; and
+a a duly completed return under section 106 of the Electoral Finance Act 2007 in respect of that party; and
 
-b the auditor's report under section 214E that relates to that return.
+b the auditor's report obtained under section 107 of the Electoral Finance Act 2007 that relates to that return.
 
 5 For the purposes of subsection (3)(b), a party wins a constituency seat if
 
@@ -2909,6 +2879,12 @@ b if the list is not lodged with the Chief Electoral Officer by noon on nominati
 c if the list does not contain the name of at least 1 candidate; or
 
 d if the list is not accompanied by the declaration required by section 127(3A); or
+
+da if the list is submitted by a party that
+
+i is listed as a third party under section 18 of the Electoral Finance Act 2007; or
+
+ii has submitted a non-contest declaration under section 15(4) of the Electoral Finance Act 2007 and is awaiting a decision on whether it is to be listed as a third party under section 18 of that Act; or
 
 e if the deposit required by section 127A is not paid by noon on nomination day.
 
@@ -3101,7 +3077,7 @@ b in the case of a by-election, whether the political party is registered under 
 
 3 The deposit of an unsuccessful candidate is forfeit and must be paid into the Crown Bank Account if the candidate receives in total less than 5% of the total number of votes received by constituency candidates in the district.
 
-4 In every other case, the deposit of a constituency candidate must be returned to the person who paid it, but only after the Chief Electoral Officer has received a duly completed return under section 210 in respect of that candidate.
+4 In every other case, the deposit of a constituency candidate must be returned to the person who paid it, but only after the Chief Electoral Officer has received from that candidate duly completed returns under sections 45 and 86 of the Electoral Finance Act 2007.
 
 145 Acceptance or rejection of nomination
 
@@ -3112,6 +3088,12 @@ a If the nomination paper and the consent of the candidate are not lodged with t
 b If the nomination paper does not state that the candidate is a registered elector of a specified electoral district, or, where section 49 of this Act applies, is a qualified elector of a specified electoral district; or
 
 c If the nomination paper is not signed by at least 2 registered electors of the district for which the nomination is made; or
+
+ca if the nomination paper indicates that the candidate is a candidate for a political party that
+
+i is listed as a third party under section 18 of the Electoral Finance Act 2007; or
+
+ii has submitted a non-contest declaration under section 15(4) of the Electoral Finance Act 2007 and is awaiting a decision on whether it is to be listed as a third party under that Act; or
 
 d If the required deposit is not paid as required by this Act.
 
@@ -3234,7 +3216,7 @@ b must be lodged with the Chief Electoral Officer not later than noon on nominat
 
 3 If an unsuccessful constituency candidate nominated in a bulk nomination schedule receives in total less than 5% of the total number of votes received by constituency candidates in the district for which the unsuccessful candidate was nominated, the amount of the deposit paid under subsection (1) in respect of that unsuccessful candidate is forfeit and must be paid into the Crown Bank Account.
 
-4 After deducting any amounts forfeit under subsection (3), the Chief Electoral Officer must return the remainder (if any) of the amount paid under subsection (1) to the party secretary, but only if the Chief Electoral Officer has received a return under section 210 in respect of every constituency candidate nominated in the bulk nomination schedule.
+4 After deducting any amounts forfeit under subsection (3), the Chief Electoral Officer must return the remainder (if any) of the amount paid under subsection (1) to the party secretary, but only if the Chief Electoral Officer has received from every constituency candidate nominated in the bulk nomination schedule duly completed returns under sections 45 and 86 of the Electoral Finance Act 2007.
 
 146G Acceptance or rejection of bulk nomination schedule or nomination of candidate
 
@@ -3247,6 +3229,12 @@ b if the intention to lodge the schedule has not been notified under section 146
 c if the schedule is not lodged with the Chief Electoral Officer by noon on the day before nomination day; or
 
 d if the schedule does not contain the declaration required by section 146E(2); or
+
+da if the schedule is lodged by a party that
+
+i is listed as a third party under section 18 of the Electoral Finance Act 2007; or
+
+ii has submitted a non-contest declaration under section 15(4) of the Electoral Finance Act 2007 and is awaiting a decision on whether it is to be listed as a third party; or
 
 e if the deposit required by section 146F(1) is not paid by noon on the day before nomination day.
 
@@ -4727,7 +4715,7 @@ b the printer must see that all copies of ballot papers other than those deliver
 
 197 Interfering with or influencing voters
 
-1 Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $5,000 who at an election
+1 Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $20,000 who at an election
 
 a In any way interferes with any elector, either in the polling place or while the elector is on the way to the polling place with the intention of influencing the elector or advising the elector as to the elector's vote:
 
@@ -4859,478 +4847,64 @@ Every person who commits an offence against section 203 of this Act is guilty of
 
 
 206 Periods for claiming and paying expenses
-Subject to such exceptions as are permitted by this Act, it is hereby declared as follows:
-
-a No claim against a candidate, or against any agent of a candidate, in respect of any election expenses shall be recoverable unless it is sent in to the candidate within 20 working days after the day on which the candidate returned is declared to be elected:
-
-b All election expenses incurred by or on behalf of a candidate shall be paid within 40 working days after the day on which the candidate returned is declared to be elected, and not otherwise:
-
-c Every person who makes any payment in breach of any of the provisions of this section is guilty of an illegal practice.
 
 207 Procedure where claim disputed
 
-1 If a candidate, in the case of a claim for election expenses sent in to him or her within the time limited by this Act, disputes it, or fails to pay it within the said period of 40 working days, the claim shall be deemed to be a disputed claim, and the claimant may, if he or she thinks fit, within 20 working days after the expiration of the said 40 working days, bring an action for the disputed claim in any Court of competent jurisdiction.
-
-2 Any sum paid by the candidate in pursuance of the judgment or order of the Court in any such action shall be deemed to be paid within the time limited by this Act.
-
 208 Leave to pay claim after time limited
 
-1 On cause shown to the satisfaction of a District Court, the Court may, on application by the claimant or by the candidate, grant leave to the candidate to pay a disputed claim, or to pay a claim for any election expenses, although sent in after the time limited by this Act.
-
-2 Any sum specified in the order granting that leave may be paid by the candidate, and when so paid shall be deemed to be paid within the time limited by this Act.
-
 209 Payments to be vouched by bill
-Every payment made in respect of any election expenses shall, except when less than $50, be vouched by a bill stating the particulars, and by a receipt.
 
 210 Return of election expenses
 
-1 Within 70 working days after polling day, every constituency candidate at the election must transmit to the Returning Officer a return setting out
-
-a the constituency candidate's election expenses; and
-
-b the name and address of each person who made a constituency candidate donation to the constituency candidate and the amount of each such donation; and
-
-c if an anonymous constituency candidate donation is made to the constituency candidate, and the amount of that donation exceeds $1,000, the amount of each such donation.
-
-2 Every return under subsection (1) must be on a form provided by the Chief Electoral Officer.
-
-3 Where the candidate is outside New Zealand on the day on which the candidate returned is declared elected, the return shall be transmitted by the candidate to the Chief Electoral Officer within 15 working days after the date of the candidate's return to New Zealand.
-
-4 Every candidate who fails to transmit the return to the Chief Electoral Officer within the time prescribed by this section shall be liable on summary conviction to a fine not exceeding $1,000, and, if he or she has been elected, to a further fine not exceeding $400 for every day on which he or she sits or votes in the House of Representatives until the return is transmitted.
-
-5 Every candidate who transmits a return that is false in any material particular
-
-a Is, if the candidate transmits the return knowing that the return is false in any material particular, guilty of a corrupt practice; and
-
-b Is, in any other case, guilty of an illegal practice, unless the candidate proves
-
-i That he or she had no intention to mis-state or conceal the facts; and
-
-ii That he or she took all reasonable steps in the circumstances to ensure that the information was accurate.
-
-6 Every person charged with an offence against subsection (5)(a) of this section may be convicted of an offence against subsection (5)(b) of this section.
-
-7 It shall be the duty of the Chief Electoral Officer to see that the provisions of this section are faithfully complied with.
-
-8 Where the Chief Electoral Officer believes that any person has committed an offence against this section, the Chief Electoral Officer shall report the facts on which that belief is based to the Police.
-
-9 In subsection (1) of this section, the term *constituency candidate donation*, in relation to a constituency candidate at an election,
-
-a Means a donation (whether of money or of the equivalent of money or of goods or services or of a combination of those things) of a sum or value of more than $1,000 (such amount being inclusive of any goods and services tax and of a series of donations made by or on behalf of any one person that aggregate more than $1,000) made to the constituency candidate, or to any person on the constituency candidate's behalf, for use by or on behalf of the constituency candidate in the campaign for his or her election; and
-
-b Includes, where goods or services are provided to the constituency candidate, or to any person on the constituency candidate's behalf, under a contract at 90 percent or less of their reasonable market value, the amount of the difference between the contractual price of the goods or services and the reasonable market value of those goods or services; but
-
-c Does not include the labour of any person which is provided to the constituency candidate free of charge by that person.
-
 210A Time limit for prosecutions
 
-1 A prosecution against a candidate for an offence against subsection (4) or subsection (5) of section 210 must be commenced within 6 months after the expiry of the period within which the candidate is required by section 210 to transmit a return.
-
-2 However, if the person to be charged has been reported by the High Court in its report on the trial of an election petition to have been proved guilty of an offence against subsection (4) or subsection (5) of section 210, a prosecution must be commenced within whichever of the following periods is the later to expire:
-
-a the period specified in subsection (1) for the bringing of prosecutions:
-
-b 3 months after the date of the report.
-
-3 This section applies whether the person is proceeded against summarily or on indictment.
-
 211 Return to be available for public inspection
-
-1 The Chief Electoral Officer must keep every return received under section 210 for the period beginning with the date of the receipt of the return and ending with the close of polling day for the second general election that takes place after the date on which the return was received by the Chief Electoral Officer.
-
-2 During that period each return must be open for inspection by any person on payment of any charges that may be made under the Official Information Act 1982; and, at the expiration of that period, the Chief Electoral Officer must cause each return to be destroyed.
-
-3 The Chief Electoral Officer
-
-a must, as soon as practicable after receiving a return for a district, send a copy of the return
-
-i to the Returning Officer for the district; and
-
-ii to the Electoral Commission; and
-
-b may make copies of the returns publicly available by any means and for any time that the Chief Electoral Officer considers appropriate.
-
-4 Each Returning Officer must keep the copy of the return received, under subsection (3)(a)(i), for the period beginning with the date of the receipt of the copy and ending with the earlier of the following dates:
-
-a the date on which the period of 6 months after that receipt expires:
-
-b the date on which the Returning Officer's employment expires.
-
-5 During the relevant period under subsection (4), the Returning Officer must keep the copy of the return open for inspection by any person on payment of any charges that may be made under the Official Information Act 1982; and, at the expiration of the relevant period, the Official Information Act 1982 must cause the copy to be destroyed.
 
 212 Transmission of copy of return to Chief Electoral Officer
 
 213 Maximum amount of election expenses
 
-1 Subject to this section and to sections 214 and 214A, in this Act,
-
-*election activity*, in relation to a candidate at an election in any district, means an activity
-
-a which is carried out by the candidate or with the candidate's authority; and
-
-b which comprises
-
-i advertising of any kind; or
-
-ii radio or television broadcasting; or
-
-iii publishing, issuing, distributing, or displaying addresses, notices, posters, pamphlets, handbills, billboards, and cards; and
-
-c which
-
-i relates to the campaign for the return of the candidate in the candidate's capacity as a candidate for the district and not to the candidate
-
-A in his or her capacity as a member of Parliament or as the holder of any other office; or
-
-B in any other capacity; or
-
-ii encourages or persuades or appears to encourage or persuade voters not to vote for a candidate or for a party registered under Part 4; or
-
-iii both; and
-
-d which takes place within the 3 months immediately preceding polling day
-
-*election expenses*, in relation to a candidate at an election,
-
-a means expenses that are incurred by or on behalf of the candidate in respect of any election activity; and
-
-b includes expenses that are incurred by or on behalf of the candidate, before or after the 3 months immediately preceding polling day, in respect of any election activity; and
-
-c includes the reasonable market value of any materials applied in respect of any election activity which are given to the candidate or which are provided to the candidate free of charge or below reasonable market value; and
-
-d includes the cost of any printing or postage in respect of any election activity, whether or not the expenses in respect of the printing or postage are incurred by or on behalf of the candidate; but
-
-e does not include the cost of any of the following:
-
-i travel:
-
-ii the conduct of any survey or public opinion poll:
-
-iii the labour of any person which is provided to the candidate free of charge by that person:
-
-iv the replacement of any materials that, during their application in respect of an election activity, have been destroyed or rendered unusable by 1 or more persons (other than the candidate or any person acting on his or her behalf) or by the occurrence of an event beyond the control of the candidate and any person acting on his or her behalf.
-
-2 The total election expenses of a candidate shall not,
-
-a In the case of a candidate at a general election, exceed $20,000 (which sum shall be inclusive of goods and services tax); or
-
-b In the case of a candidate at a by-election, exceed $40,000 (which sum shall be inclusive of goods and services tax).
-
-3 Every candidate or other person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any election expenses any sum in excess of the maximum amount prescribed by this section is,
-
-a If the act is done with knowledge that the payment is in excess of the maximum amount prescribed by this section, guilty of a corrupt practice; and
-
-b In any other case, guilty of an illegal practice unless the candidate or other person proves that he or she took all reasonable steps to ensure that the election expenses did not exceed the maximum amount prescribed by this section.
-
-4 Where any activity of the kind described in paragraphs (a) to (c) of the definition of the term *election activity* (as set out in subsection (1) of this section) is, in relation to a candidate at an election, carried on both before and within the 3 months immediately preceding polling day, the expenses incurred in respect of the activity (being expenses incurred by or on behalf of the candidate) shall be properly apportioned so that a fair proportion of those expenses is attributed to the carrying on of the activity in those 3 months, and the fair proportion of those expenses, but no other portion of those expenses, shall be election expenses.
-
-5 Nothing in this section shall be construed as validating any use of public money that would otherwise be unlawful.
-
 214 Apportionment of election expenses
-
-1 Where any election activity relates exclusively to campaigns for the return of 2 or more candidates, any election expenses in respect of that election activity shall be apportioned in relation to the coverage provided by that election activity in relation to each of those candidates.
-
-2 Notwithstanding subsection (1) of this section, where any candidate receives less than 10 percent of the coverage provided by any election activity, that expense shall not be included in the election expenses of that candidate.
-
-3 For the purposes of this section, coverage provided by any election activity shall be calculated in such manner as is appropriate in relation to the form of election activity.
 
 
 
 214A Advertisements for party lists
-Where any advertisement that is published or caused or permitted to be published in any newspaper, periodical, poster, or handbill, or is broadcast or caused or permitted to be broadcast over any radio or television station,
-
-a Encourages or persuades or appears to encourage or persuade voters to vote for any party listed on the part of the ballot paper that relates to the party vote; and
-
-b Gives more than 10 percent of the coverage provided in the advertisement to a person who is a candidate at any election in any district in a manner which either
-
-i Features that candidate in his or her capacity as a list candidate; or
-
-ii Features that candidate as endorsing or supporting the party or its party list; and
-
-c Is or is to be published or broadcast in the district in which the person described in paragraph (b) of this section is a candidate,the cost of the publishing or broadcasting of that advertisement shall form part of the candidate's election expenses unless that advertisement is published or broadcast to more or less the same extent in 10 other electoral districts in addition to the electoral district referred to in paragraph (c) of this subsection.
 
 
 
 214B Maximum amount of parties' election expenses
 
-1 Subject to this section, in this Act,
-
-*Election activity*, in relation to a party that is registered under Part 4 of this Act, means an activity
-
-a Which is carried out by the party or with the party's authority; and
-
-b Which comprises
-
-i Advertising of any kind; or
-
-ii Radio or television broadcasting; or
-
-iii Publishing, issuing, distributing, or displaying addresses, notices, posters, pamphlets, handbills, billboards, and cards; and
-
-c Which
-
-i Encourages or persuades or appears to encourage or persuade voters to vote for the party; or
-
-ii Encourages or persuades or appears to encourage or persuade voters not to vote for any other party registered under Part 4 of this Act; or
-
-iii Both; and
-
-d Which takes place within the 3 months immediately preceding polling day:
-
-*Election expenses*, in relation to a party that is registered under Part 4 of this Act,
-
-a Means expenses that are incurred by or on behalf of the party in respect of any election activity; and
-
-b Includes expenses that are incurred by or on behalf of the party, before or after the 3 months immediately preceding polling day, in respect of any election activity; and
-
-c Includes the reasonable market value of any materials applied in respect of any election activity which are given to the party or which are provided to the party free of charge or below reasonable market value; and
-
-d Includes the cost of any printing or postage in respect of any election activity, whether or not the expenses in respect of the printing or postage are incurred by or on behalf of the party; but
-
-e does not include the cost of any of the following:
-
-i travel:
-
-ii the conduct of any survey or public opinion poll:
-
-iii the labour of any person which is provided to the party free of charge by that person:
-
-iv the replacement of any materials that, during their application in respect of an election activity, have been destroyed or rendered unusable by 1 or more persons (other than a person acting on behalf of the party) or by the occurrence of an event beyond the control of any person acting on behalf of the party; an.
-
-f Does not include expenditure relating exclusively to the election expenses of any of that party's individual constituency candidates under section 213 of this Act; and
-
-g Does not include allocations of time and money made to political parties by the body responsible for such allocations under the Broadcasting Act 1989.
-
-2 In the case of a general election, the total election expenses of a party that is registered under Part 4 of this Act shall not,
-
-a If the party is listed in the part of the ballot paper that relates to the party vote, exceed $1,000,000 plus $20,000 for each constituency contested by a candidate for that party (which sum shall be inclusive of goods and services tax); and
-
-b If the party is not listed in the part of the ballot paper that relates to the party vote, exceed $20,000 for each constituency contested by a candidate for that party (which sum shall be inclusive of goods and services tax).
-
-3 Every person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any election expenses any sum in excess of the maximum amount prescribed by this section is,
-
-a If the act is done with knowledge that the payment is in excess of the maximum amount prescribed by this section, guilty of a corrupt practice; and
-
-b In any other case, guilty of an illegal practice unless the person proves that he or she took all reasonable steps to ensure that the election expenses did not exceed the maximum amount prescribed by this section.
-
-4 Where any activity of the kind described in paragraphs (a) to (c) of the definition of the term election activity (as set out in subsection (1) of this section) is, in relation to a party that is registered under Part 4 of this Act, carried on both before and within the 3 months immediately preceding polling day, the expenses incurred in respect of the activity (being expenses incurred by or on behalf of the party) shall be properly apportioned so that a fair proportion of those expenses is attributed to the carrying on of the activity in those 3 months, and the fair proportion of those expenses, but no other portion of those expenses, shall be election expenses.
-
-5 Nothing in this section shall be construed as validating any use of public money that would otherwise be unlawful.
-
 214BA Periods for claiming and paying expenses
-
-1 No claim against a party that is registered under Part 4 in respect of any election expenses is recoverable unless it is sent in to the secretary of the party within 20 working days after the day on which the declaration required by section 193(5) is made.
-
-2 All election expenses incurred by or on behalf of a party that is registered under Part 4 must be paid within 40 working days after the day on which that declaration is made, and not otherwise.
-
-3 Every person who makes any payment in breach of any of the provisions of this section is guilty of an illegal practice.
-
-4 This section is subject to sections 214BB and 214BC.
 
 214BB Procedure if claim disputed
 
-1 If a party that is registered under Part 4, in the case of a claim for election expenses sent in to the secretary of the party within the time limited by this Act, disputes it, or fails to pay it within the period of 40 working days specified in section 214BA(2), then
-
-a the claim is to be treated as a disputed claim; and
-
-b the claimant may, if he or she thinks fit, within 20 working days after the expiration of that period of 40 working days, bring an action for the disputed claim in any court of competent jurisdiction.
-
-2 Any sum paid by the party in accordance with the judgment or order of the court in any such action is to be treated as paid within the time limited by this Act.
-
 214BC Leave to pay claim after time limited
 
-1 On cause shown to the satisfaction of a District Court, the Court may, on application by the claimant or by the party that is registered under Part 4, grant leave to that registered party to pay a disputed claim, or to pay a claim for any election expenses, although sent in after the time limited by this Act.
-
-2 Any sum specified in the order granting that leave may be paid by that registered party, and when so paid is to be treated as paid within the time limited by this Act.
-
 214BD Payments to be vouched by bill
-Every payment made in respect of any election expenses of a party that is registered under Part 4, other than a payment that is less than $100, must be vouched by a bill stating the particulars, and by a receipt.
 
 214C Return of election expenses
 
-1 Within 50 working days after the day on which the result of an election of candidates whose names appear on the party lists is declared by the Chief Electoral Officer in accordance with section 193(5), the secretary of each political party registered under Part 4 must ensure that the Electoral Commission receives a return of the party's election expenses (which return must be on a form provided by the Electoral Commission) and the auditor's report which has been obtained under section 214E and which relates to that return.
-
-2 Every secretary of a political party registered under Part 4 who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
-
-3 Every Secretary of a political party registered under Part 4 of this Act who forwards to the Electoral Commission under subsection (1) of this section a return that is false in any material particular
-
-a Is, if the Secretary forwards the return knowing that the return is false in any material particular, guilty of a corrupt practice and is liable on conviction on indictment to imprisonment for a term not exceeding one year or to a fine not exceeding $20,000, or to both; and
-
-b Is, in any other case, guilty of an illegal practice and is liable on conviction on indictment to a fine not exceeding $20,000, unless the Secretary proves
-
-i That he or she had no intention to mis-state or conceal the facts; and
-
-ii That he or she took all reasonable steps in the circumstances to ensure that the information in the return was accurate.
-
-4 Every person charged with an offence against subsection (3)(a) of this section may be convicted of an offence against subsection (3)(b) of this section.
-
-5 It shall be the duty of the Electoral Commission to see that the provisions of this section are complied with.
-
-6 Where the Electoral Commission believes that any person has committed an offence against subsection (2) or subsection (3) of this section, the Electoral Commission shall report the facts on which that belief is based to the Police.
-
 214D Appointment of auditors
 
-1 Every party registered under Part 4 of this Act shall appoint an auditor.
-
-2 None of the following persons may be appointed or act as an auditor under subsection (1) of this section:
-
-a An employee or partner of a candidate:
-
-b An officer or employee of a political party:
-
-c A body corporate:
-
-d A person who, by virtue of section 199(1) of the Companies Act 1993, may not be appointed or act as auditor of a company:
-
-e A Returning Officer or Deputy Returning Officer:
-
-f A candidate or agent of a candidate.
-
-2A On the registration of a political party under section 67, the person named, under section 63(2)(c)(v), in the party's application for registration as the party's auditor is to be taken to have been appointed under subsection (1).
-
-3 Where an auditor appointed or taken to have been appointed by a party under subsection (1) ceases, or does not commence, for any reason to hold office as such or becomes ineligible as provided in subsection (2), the party must, without delay, appoint another auditor.
-
 214E Auditor's report
-
-1 Every Secretary of a political party registered under Part 4 of this Act shall, before transmitting to the Electoral Commission the return required by section 214C(1) of this Act, obtain from the auditor appointed by the party under section 214D of this Act a report on that return.
-
-2 The auditor must state in the report
-
-a the position shown by the return in respect of the requirement that the party's total election expenses not exceed the maximum amount prescribed by section 214B; and
-
-b either
-
-i whether, in the auditor's opinion, the position stated under paragraph (a) is correct; or
-
-ii that the auditor has been unable to form an opinion as to whether the position stated under paragraph (a) is correct.
-
-3 The auditor shall make such examinations as the auditor considers necessary.
-
-4 The auditor shall specify in the report any case in which
-
-a 
-
-b The auditor has not received from the party or the Secretary of the party all the information that the auditor requires to carry out his or her duties:
-
-c Proper records of the party's election expenses have not, in the auditor's opinion, been kept by the party or the Secretary of the party.
-
-5 The auditor
-
-a Shall have access at all reasonable times to all records, documents, and accounts which relate to the party's election expenses and which are held by the party or the Secretary of the party; and
-
-b May require the party or the Secretary of the party to provide such information and explanations as, in the auditor's opinion, may be necessary to enable the auditor to prepare the report.
 
 
 
 214F Interpretation
-In sections 214G to 214J,
-
-*party donation*, in relation to a party registered under Part 4,
-
-a means a donation (whether of money or of the equivalent of money or of goods or services or of a combination of those things)
-
-i which is received by or on behalf of the party by any person or body of persons involved in the administration of the affairs of the party; and
-
-ii which, either on its own or when aggregated with all other such donations made in the same year by the same person exceeds $10,000 in sum or value (inclusive of goods and services tax); and
-
-b includes, where goods or services are provided to the party under a contract at 90% or less of their reasonable market value, the amount of the difference between the contractual price of the goods or services and the reasonable market value of those goods or services; but
-
-c does not include the labour of any person which is provided to the party free of charge by that person; and
-
-d does not include any constituency candidate donation that is included in a return made by a constituency candidate under section 210
-
-*year* means a period of 12 months beginning on 1 January and ending with 31 December.
 
 214G Return of party donations
 
-1 Every secretary of a political party registered under Part 4 must ensure that the Commission receives by 30 April in each year
-
-a a return (which must be on a form provided by the Electoral Commission) setting out
-
-i the name and address of each person who made a party donation in the year ending with the immediately preceding 31 December and the amount of each such donation; and
-
-ii the amount of each anonymous donation made in the year ending with the immediately preceding 31 December (being a donation that, by virtue of paragraph (a)(ii) of the definition of party donation in section 214F, is a party donation); and
-
-b the auditor's report on the return referred to in paragraph (a) (being the report obtained under section 214H).
-
-2 Every secretary of a political party registered under Part 4 must keep proper records of donations received by the party.
-
-3 Every secretary of a political party registered under Part 4 who fails, without reasonable excuse, to comply with subsection (1) or subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $20,000.
-
-4 Every secretary of a political party registered under Part 4 who forwards to the Electoral Commission under subsection (1)(a) a return that is false in any material particular
-
-a is, if the secretary forwards the return knowing that the return is false in any material particular, guilty of a corrupt practice and is liable on conviction on indictment to imprisonment for a term not exceeding 1 year or to a fine not exceeding $20,000, or to both; and
-
-b is, in any other case, guilty of an illegal practice and is liable on conviction on indictment to a fine not exceeding $20,000, unless the secretary proves
-
-i that he or she had no intention to mis-state or conceal the facts; and
-
-ii that he or she took all reasonable steps in the circumstances to ensure that the information in the return was accurate.
-
-5 Every person charged with an offence against subsection (4)(a) may be convicted of an offence against subsection (4)(b).
-
-6 Despite anything in subsection (1), where a secretary of a political party is required to make under that subsection a return of party donations that relates to the year in which the political party became registered under Part 4, that return must relate to the period beginning with the date of the registration of that political party under Part 4 and ending with 31 December of that year.
-
 214H Auditor's report
-
-1 Every secretary of a political party registered under Part 4 must, before the Electoral Commission receives the return required by section 214D, obtain from the auditor appointed under section 214G(1)(a) a report on the return.
-
-2 The auditor must state in the report whether or not, in the auditor's opinion, the return fairly reflects the party donations received by the party.
-
-3 The auditor must make any examinations that the auditor considers necessary.
-
-4 The auditor must specify in the report any case in which
-
-a the return does not, in the auditor's opinion, fairly reflect the party donations received by the party:
-
-b the auditor has not received from the secretary of the party all the information that the auditor requires to carry out his or her duties:
-
-c proper records of party donations received by the party have not, in the auditor's opinion, been kept by the secretary of the party.
-
-5 The auditor
-
-a must have access at all reasonable times to all records, documents, and accounts which relate to the party donations received by the party and which are held by the secretary of the party; and
-
-b may require the secretary of the party to provide any information and explanations that, in the auditor's opinion, may be necessary to enable the auditor to prepare the report.
 
 214I Duties of Electoral Commission
 
-1 It is the duty of the Electoral Commission to see that the provisions of section 214G(1) are complied with.
-
-2 If the Electoral Commission believes that any person has committed an offence against section 214G(3) or section 214G(4), the Electoral Commission must report the facts upon which that belief is based to the police.
-
 214J Inspection of returns and audit reports
-
-1 The Electoral Commission must, 3 working days after it receives any duly completed document specified in subsection (2), make the document available for public inspection, without payment, at any time between 9 am and 4 pm, on any day on which the office of the Electoral Commission is open.
-
-2 The documents referred to in subsection (1) are
-
-a returns of election expenses and auditors' reports received by the Electoral Commission under section 214C(1):
-
-b returns of constituency candidate election expenses received by the Electoral Commission under section 211(3)(a)(ii):
-
-c returns of party donations and auditors' reports received by the Electoral Commission under section 214G(1).
 
 
 
 214K Obligation to file nil returns
-To avoid any doubt, the requirement to ensure that the Commission receives a return under section 214C or section 214G(1)(a) applies even though the person required to ensure that the return is received considers that there is no relevant information to disclose, in which case the person must ensure that the Electoral Commission receives a nil return.
 
 214L Obligation to retain records necessary to verify returns
-
-1 For the purposes of this section, the person responsible for submitting a return is as follows:
-
-a in the case of a return required by section 210 to be transmitted by a constituency candidate, the constituency candidate:
-
-b in the case of a return of a party's election expenses required by section 214C, the secretary of the party:
-
-c in the case of a return required by section 214G, the secretary of the party.
-
-2 The person responsible for submitting a return of the kind specified in any of paragraphs (a) to (c) of subsection (1) must take all reasonable steps to ensure that all records, documents, and accounts that are reasonably necessary to enable the return to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the return or in relation to any matter to which the return relates.
-
-3 Every person commits an offence who, being a person responsible for submitting a return, fails, without reasonable excuse, to comply with the requirements of subsection (2).
-
-4 Every person who commits an offence against subsection (3) is liable on summary conviction to a fine not exceeding $20,000.
 
 7 Corrupt and illegal practices
 
@@ -5420,42 +4994,14 @@ b By abduction, duress, or any fraudulent device or contrivance, impedes or prev
 
 219 Payments for exhibition of election notices
 
-1 No payment or contract for payment shall for the purpose of promoting or procuring the election of a candidate or candidates at an election be made to an elector on account of the exhibition of, or the use of any house, land, building, or premises for the exhibition of, any address, poster, or notice, unless it is the ordinary business of the elector to exhibit for payment posters and advertisements and the payment or contract is made in the ordinary course of that business.
-
-2 If any payment or contract for payment is knowingly made in contravention of this section before, during, or after an election, the person making the payment or contract and, if he or she knew it to be in contravention of this Act, any person receiving the payment or being a party to the contract is guilty of an illegal practice.
-
 220 Providing money for illegal purposes
-Where any person knowingly provides money for any purpose which is contrary to the provisions of this Act, or for any election expenses incurred in excess of the maximum amount allowed by this Act, or for repaying any money expended in any such payment or expenses, that person is guilty of an illegal practice.
+Where any person knowingly provides money for any purpose which is contrary to the provisions of this Act, or for repaying any money expended in any such payment, that person is guilty of an illegal practice.
 
 221 Advertisements for candidates and political parties
 
-1 Subject to subsections (2) and (3) of this section, no person shall publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement which
-
-a Is used or appears to be used to promote or procure the election of a constituency candidate; or
-
-b Encourages or persuades or appears to encourage or persuade voters to vote for a party registered under Part 4 of this Act.
-
-2 A person may publish or cause or permit to be published an advertisement of the kind described in subsection (1)(a) of this section if
-
-a The publication of that advertisement is authorised in writing by the candidate or the candidate's agent or, in the case of an advertisement relating to more than one candidate, the candidates or the party to which they belong; and
-
-b The advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of his or her place of residence or business.
-
-3 A person may publish or cause or permit to be published an advertisement of the kind described in subsection (1)(b) of this section if
-
-a The publication of that advertisement is authorised in writing by the Secretary of the party or his or her delegate; and
-
-b The advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of his or her place of residence or business.
-
-4 Subject to subsections (2) and (3) of this section, every person is guilty of an illegal practice who wilfully contravenes any provision of subsection (1) of this section.
-
-5 A candidate or the Secretary of a party or his or her delegate shall not be liable for an illegal practice under this section committed by an agent without the consent or connivance of the candidate or of the Secretary of a party or his or her delegate, as the case may be.
-
-6 Nothing in this section shall restrict the publication of any news or comments relating to an election in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
-
 221A Electoral advertisements
 
-1 Subject to subsection (2) of this section, no person shall publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement relating to an election unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of that person's place of residence or business.
+1 Subject to subsection (2) of this section, no person shall publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement relating to an election (not being an election advertisement as defined in section 5 of the Electoral Finance Act 2007) unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of that person's place of residence or business.
 
 2 Subsection (1) of this section shall not apply to any advertisement published or broadcast, or caused or permitted to be published or broadcast, by the Chief Electoral Officer, the Chief Registrar of Electors, the Electoral Commission, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election and which either contains a statement indicating that the advertisement has been authorised by that officer or agency, or contains a symbol indicating that the advertisement has been authorised by that officer or agency.
 
@@ -5464,26 +5010,6 @@ b The advertisement contains a statement setting out the true name of the person
 4 Nothing in this section shall restrict the publication of any news or comments relating to an election in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
 
 221B Display of advertisement of a specified kind
-
-1 During the period beginning 2 months before polling day and ending with the close of the day before polling day, the display of an advertisement of a specified kind is not subject to
-
-a any prohibition or restriction imposed in any other enactment or bylaw, or imposed by any local authority, that applies in relation to the period when an advertisement of a specified kind may be displayed; or
-
-b any prohibition or restriction imposed in any bylaw, or imposed by any local authority, that applies in relation to the content or language used in an advertisement of a specified kind.
-
-2 In this section *advertisement of a specified kind* means an advertisement displayed in a public place or on private property that does not exceed 3 square metres in size and that
-
-a encourages or persuades or appears to encourage or persuade voters to vote for a party registered under Part 4; or
-
-b is used or appears to be used to promote or procure the election of a constituency candidate; but
-
-c does not include
-
-i an advertisement published in any newspaper, periodical, or handbill, or in any poster less than 150 square centimetres in size; or
-
-ii an advertisement broadcast over any television station or by any electronic means of communication.
-
-3 Nothing in this section limits or prevents the display before polling day of any advertisement relating to an election that complies with any prohibition or restriction imposed in any enactment or bylaw, or imposed by any local authority.
 
 222 Procurement of voting by unqualified voters
 Every person is guilty of an illegal practice who induces or procures to vote at any election any person whom he or she knows at the time to be disqualified or prohibited, whether under this Act or otherwise, from voting at that election.
@@ -5500,17 +5026,55 @@ Every person is guilty of an illegal practice who induces or procures to vote at
 
 1 Every person who is guilty of any corrupt practice or any illegal practice shall be liable on conviction on indictment,
 
-a In the case of a corrupt practice, to imprisonment for a term not exceeding one year or to a fine not exceeding $4,000, or to both:
+a In the case of a corrupt practice, to imprisonment for a term not exceeding 2 years or to a fine not exceeding $40,000, or to both:
 
-b In the case of an illegal practice, to a fine not exceeding $3,000.
+b In the case of an illegal practice, to a fine not exceeding $10,000.
 
-2 Nothing in this section applies in relation to a corrupt practice under any provision of sections 201, 214C, and 214G of this Act, or under section 43 of the Citizens Initiated Referenda Act 1993, or under section 54 of the Compulsory Retirement Savings Scheme Referendum Act 1997.
+2 Nothing in this section applies in relation to a corrupt practice under any of the following:
+
+a section 201; or
+
+b the Electoral Finance Act 2007; or
+
+c section 43 of the Citizens Initiated Referenda Act 1993; or
+
+d section 54 of the Compulsory Retirement Savings Scheme Referendum Act 1997.
 
 225 Persons charged with corrupt practice may be found guilty of illegal practice
 Any person charged with a corrupt practice may, if the circumstances warrant that finding, be found guilty of an illegal practice; and any person charged with an illegal practice may be found guilty of that offence notwithstanding that the act constituting the offence amounted to a corrupt practice.
 
 226 Time limit for prosecutions
 A prosecution against any person for a corrupt practice or an illegal practice shall be commenced within 6 months after the offence was committed:Provided that where the person charged has been reported by the High Court in its report on the trial of an election petition to have been proved guilty of the offence, a prosecution shall be commenced within 6 months after the offence was committed or within 3 months after the date of the report, whichever period is the later to expire.
+
+226A Power to issue search warrants in respect of illegal practice
+
+1 A search warrant may be issued under section 198 of the Summary Proceedings Act 1957 in respect of an illegal practice that constitutes an offence under this Act that
+
+a has been committed; or
+
+b is suspected to have been committed; or
+
+c is believed to be intended to be committed.
+
+2 Subsection (1) applies even though the offence is not punishable by imprisonment.
+
+3 Where a search warrant is issued under section 198 of the Summary Proceedings Act 1957, as provided for by subsection (1), the following provisions of that Act apply so far as they are applicable and with any necessary modifications:
+
+a section 198A:
+
+b section 198B:
+
+c section 199.
+
+4 It is declared that a person who, under section 199 of the Summary Proceedings Act 1957 (as applied by subsection (3)), has custody of any thing seized under a warrant provided for by subsection (1), may disclose any information contained in or derived from the thing only
+
+a for the purposes of section 199 of that Act (as so applied); or
+
+b for the purposes of investigating or prosecuting an offence; or
+
+c for the purpose of an appeal or other application that relates to an offence; or
+
+d for the purposes of complying with any enactment or any order or direction of a court of competent jurisdiction.
 
 227 Punishment for disqualified person voting
 If any person, while his or her name is on the Corrupt Practices List for any district, votes or applies for a ballot paper or applies to vote as a special voter at any election in that or any other district, he or she shall, notwithstanding that his or her name may be on the main roll or any supplementary roll, be liable on summary conviction to a fine not exceeding $4,000, and his or her vote shall be void.
@@ -5979,55 +5543,7 @@ i Providing for such other matters as are contemplated by or necessary for givin
 
 267A Regulations relating to advertisement of a specified kind
 
-1 The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations regulating
-
-a all or any of the following matters in relation to an advertisement of a specified kind:
-
-i design:
-
-ii layout:
-
-iii shape:
-
-iv colour:
-
-b the procedures to be followed by any person before displaying an advertisement of a specified kind.
-
-2 Regulations made under subsection (1)(a)
-
-a may be made only for the purpose of ensuring that an advertisement of a specified kind does not endanger the safety of road users; and
-
-b apply only during the period beginning 2 months before polling day and ending with the close of the day before polling day.
-
-3 Regulations made under subsection (1) may
-
-a impose different requirements for an advertisement of a specified kind depending on how it is published:
-
-b override or modify any other enactment and any bylaw or other instrument.
-
-4 In this section, *advertisement of a specified kind* has the same meaning as in section 221B(2).
-
-5 This section is subject to section 267B.
-
 267B Requirements before Minister can recommend that regulations be made
-
-1 The Minister may not recommend the making of any regulations under section 267A(1)(a) unless
-
-a the Minister has consulted with the Minister who is for the time being responsible for the administration of the Land Transport Act 1998; and
-
-b the Minister is satisfied that the regulations do not restrict the rights of candidates and political parties any more than is reasonably necessary to ensure that an advertisement of a specified kind does not endanger the safety of road users; and
-
-c the recommendation is agreed by at least half of the parliamentary leaders of all political parties represented in Parliament; and
-
-d the members of Parliament of the political parties whose parliamentary leaders agree with the Minister's recommendation comprise at least 75% of all members of Parliament.
-
-2 The Minister may not recommend the making of any regulations under section 267A(1)(b) unless
-
-a the Minister has consulted with the Minister of Local Government; and
-
-b the recommendation is agreed by at least half of the parliamentary leaders of all political parties represented in Parliament; and
-
-c the members of Parliament of the political parties whose parliamentary leaders agree with the Minister's recommendation comprise at least 75% of all members of Parliament.
 
 268 Restriction on amendment or repeal of certain provisions
 
