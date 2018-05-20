@@ -1634,7 +1634,7 @@ k fix a time and place for the hearing of the application.
 3 Notwithstanding any of the foregoing provisions of this section, a Judge may, at any time before the hearing of an application has been commenced, exercise any of the powers specified in subsection (2) without holding a conference under subsection (1).
 
 68 Parties and witnesses may use Maori language
-Without limiting anything in the Maori Language Act 1987, any party or witness in any proceedings before the court may give evidence or address the court in Maori.
+Without limiting anything in Te Ture m Te Reo Mori 2016/the Mori Language Act 2016, any party or witness in any proceedings before the court may give evidence or address the court in Maori.
 
 69 Evidence in proceedings
 
@@ -4807,7 +4807,7 @@ c he or she has given the incorporation notice in writing of his or her unwillin
 
 3 Notwithstanding subsection (2), where notice is given of an intended resolution to appoint some person or persons in place of a retiring auditor, and by reason of the death, incapacity, or disqualification of that person or of all those persons, as the case may be, the resolution cannot be proceeded with, the retiring auditor shall not be automatically reappointed.
 
-4 No person may be appointed as auditor of a Maori incorporation unless that person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013). 
+4 No person may be appointed as auditor of a Maori incorporation unless that person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 
 5 See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a Maori incorporation).
 
