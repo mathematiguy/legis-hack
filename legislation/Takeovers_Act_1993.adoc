@@ -1196,7 +1196,7 @@ a A has been convicted of an offence against either section 44 or section 44C or
 
 b A has, while a director of an incorporated or unincorporated body,
 
-i persistently contravened this Act, the Companies Act 1993, the Securities Markets Act 1988, the Securities Act 1978, or the takeovers code; or
+i persistently contravened this Act, the Companies Act 1993, the Securities Markets Act 1988, the Securities Act 1978, the Securities Trustees and Statutory Supervisors Act 2011, or the takeovers code; or
 
 ii if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
 
