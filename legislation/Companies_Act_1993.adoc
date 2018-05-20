@@ -1178,11 +1178,11 @@ c the consideration paid or payable for the shares acquired:
 
 d if known to the company, the identity of the seller and, if the seller was not the beneficial owner, the beneficial owner.
 
-2A Within 3 months after the shares are acquired, the company must send to each shareholder a notice containing the particulars referred to in subsection (2).
+2A 
 
 2B Acquisitions may be made under subsection (1) by any director or employee of the company who is authorised to do so by the resolution of the board under that subsection.
 
-3 If a company fails to comply with subsection (2) or subsection (2A),
+3 If a company fails to comply with subsection (2),
 
 a the company commits an offence and is liable on conviction to the penalty set out in section 373(1); and
 
@@ -2176,9 +2176,13 @@ b the reasonable costs of expert witnesses.
 
 112B Interest payable on outstanding payments
 
-1 Interest is payable on any sum that must be paid under section 112 or 112A that is outstanding after the date on which it falls due on the basis and at the rate that the arbitral tribunal thinks fit having regard to all of the circumstances.
+1 Interest on any sum that must be paid under section 112 or 112A that is outstanding after the date on which it falls due is payable,
 
-2 The sum on which interest is payable under subsection (1) includes any interest or damages for loss awarded under section 112A.
+a in the case of a share price determined under section112, at the same rate of interest as the prescribed rate under section87(3) of the Judicature Act 1908; and
+
+b in the case of a share price determined under section112A, on the basis and at the rate that the arbitral tribunal thinks fit having regard to all of the circumstances.
+
+2 The sum on which interest is payable under subsection (1)(b) includes any interest or damages for loss awarded under section 112A.
 
 112C Timing of transfer of shares
 
@@ -5801,13 +5805,16 @@ a cancel or confirm the variation, wholly or in part, on specified conditions (i
 b make any other orders that the court thinks appropriate.
 
 239ADC Termination of deed
-A deed of company arrangement may be terminated
+
+1 A deed of company arrangement may be terminated
 
 a by the court under section 239ADD; or
 
 b by a resolution of the creditors under section 239ADE; or
 
 c automatically, if the deed specifies circumstances in which the deed will terminate, and those circumstances occur.
+
+2 The deed administrator must give written notice to the Registrar of the fact that a deed has been terminated under subsection (1)(a) or (c).
 
 239ADD Termination by court
 
@@ -7565,7 +7572,7 @@ e paying money (including paying money in accordance with a judgment or an order
 
 f anything done or omitted to be done for the purpose of entering into the transaction or giving effect to it.
 
-4 In this section, *transaction*  includes a transaction by a receiver, except a transaction that discharges, whether in part or in full, a liability for which the receiver is personally liable under section 32(1) of the Receiverships Act 1993 or otherwise personally liable under a contract entered into by the receiver.
+4 In this section, *transaction*  includes a transaction by a receiver, except a transaction that discharges, whether in part or in full, a liability for which the receiver is personally liable under section 32(1) or (5) of the Receiverships Act 1993 or otherwise personally liable under a contract entered into by the receiver.
 
 4A A transaction that is entered into within the restricted period is presumed, unless the contrary is proved, to be entered into at a time when the company is unable to pay its due debts.
 
@@ -10056,13 +10063,16 @@ f by serving it at an address for service given in accordance with the rules of 
 2 The methods of service specified in subsection (1) are the only methods by which a document in legal proceedings may be served on a company in New Zealand.
 
 388 Service of other documents on companies
-A document, other than a document in any legal proceedings, may be served on a company as follows:
+
+1 A document, other than a document in any legal proceedings, may be served on a company as follows:
 
 a by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of section 387; or
 
 b by posting it to the company's registered office or address for service or delivering it to a box at a document exchange which the company is using at the time; or
 
 c by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the company's registered office or address for service or its head office or principal place of business.
+
+2 Subsection (1) is subject to section 391(3A) to (3C).
 
 389 Service of documents on overseas companies in legal proceedings
 
@@ -10081,13 +10091,16 @@ e in accordance with an agreement made with the overseas company.
 2 The methods of service specified in subsection (1) are the only methods by which a document in legal proceedings may be served on an overseas company in New Zealand.
 
 390 Service of other documents on overseas companies
-A document, other than a document in any legal proceedings, may be served on an overseas company as follows:
+
+1 A document, other than a document in any legal proceedings, may be served on an overseas company as follows:
 
 a by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of section 389; or
 
 b by posting it to the address of the overseas company's principal place of business in New Zealand or delivering it to a box at a document exchange which the overseas company is then using at the time; or
 
 c by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal place of business in New Zealand of the overseas company.
+
+2 Subsection (1) is subject to section 391(3A) to (3C).
 
 391 Service of documents on shareholders and creditors
 
@@ -10114,6 +10127,16 @@ d delivered in accordance with an agreement made with the body corporate; or
 e posted to the address of the principal office of the body corporate or delivered to a box at a document exchange which the body corporate is using at the time; or
 
 f sent by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal office or principal place of business of the body corporate.
+
+3A Despite subsections(1) to (3), a shareholder or creditor may notify the company
+
+a that the shareholder or creditor wishes to receive documents by electronic means; and
+
+b of the electronic address to which documents are to be delivered.
+
+3B Notification in accordance with subsection (3A) may be made in respect of a particular notice, statement, report, set of accounts, or other document, or in respect of all documents to be served.
+
+3C If a shareholder or creditor notifies the company under subsection (3A), the company must send documents by electronic means in accordance with the notification, whether or not the documents are also sent by another method.
 
 4 Where a liquidator sends documents
 
