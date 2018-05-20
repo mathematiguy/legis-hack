@@ -7781,7 +7781,7 @@ b must give the person against whom the order was made written notice of the can
 
 154E Appeal to District Court
 
-1 The following persons may appeal to a District Court:
+1 The following persons may appeal to the District Court:
 
 a the person against whom a compliance order is made under section 154:
 
@@ -7813,7 +7813,7 @@ d any other matters that the court thinks fit.
 
 8 The stay remains in force until the District Court orders it lifted.District Courts Rules apply
 
-9 The rules of procedure under the District Courts Act 1947 apply to the making of an appeal and an application for a stay.Powers of District Court
+9 The rules of procedure under the District Court Act 2016 apply to the making of an appeal and an application for a stay.Powers of District Court
 
 10 The District Court may confirm, change, or cancel the order appealed against.
 
@@ -7821,13 +7821,13 @@ d any other matters that the court thinks fit.
 
 1 A party to an appeal under section 154E may appeal to the High Court on a question of law.
 
-2 The High Court Rules 2016 and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (1)
+2 The High Court Rules 2016 and sections 126 to 130 of the District Court Act 2016 apply to an appeal under subsection (1)
 
-a as if it were an appeal under section 72 of the District Courts Act 1947; and
+a as if it were an appeal under section 124 of the District Court Act 2016; and
 
 b with all necessary modifications.
 
-3 A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to section 14 of the Supreme Court Act 2003.
+3 A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to section 75 of the Senior Courts Act 2016.
 
 4 The Court of Appeal or the Supreme Court hearing an appeal under this section has the same power to adjudicate on the appeal as the High Court had.
 
