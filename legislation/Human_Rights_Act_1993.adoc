@@ -2608,9 +2608,9 @@ ii might involve the disclosure of proceedings of Cabinet, or any committee of C
 
 3 Nothing in subsection (2) applies in respect of proceedings for
 
-a an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
+a an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
 
-b the offence of attempting or conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
+b the offence of attempting or conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
 
 4 Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commission or a Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
 
