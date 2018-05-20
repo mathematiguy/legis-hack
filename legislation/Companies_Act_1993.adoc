@@ -3813,7 +3813,7 @@ b dated and signed on behalf of A by 2 directors of A, or, if A has only 1 direc
 
 2 Group financial statements are not required under subsection (1) in relation to a balance date if,
 
-a on the balance date, A is a subsidiary of a body corporate that is incorporated in New Zealand (B); and
+a on the balance date, A is a subsidiary of a body corporate that is incorporated in New Zealand (*B* ); and
 
 b group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed in relation to that balance date under this Act or any other enactment.
 
@@ -9963,7 +9963,7 @@ b money or other property that is, or has been, managed, supervised, controlled 
 
 365B Control interests in shares (basic rule)
 
-1 In sections 365D to 365F, a person has a control interest in a share if the person
+1 In sections 365D to 365F, a person has a *control interest * in a share if the person
 
 a is a shareholder; or
 
@@ -9987,7 +9987,7 @@ d has the power to acquire or dispose of, or to control the acquisition or dispo
 
 365D Extension of basic rule to interests held by other persons under control or acting jointly
 
-1 A person (A) has a control interest in a share that another person (B) has if
+1 A person (*A* ) has a control interest in a share that another person (*B* ) has if
 
 a B or B's directors are accustomed or under an obligation (whether legally enforceable or not) to act in accordance with A's directions, instructions, or wishes in relation to a power or control referred to in section 365B; or
 
@@ -10036,7 +10036,7 @@ d the businesses of A and B have been so carried on that the separate business o
 e there is another body corporate to which A and B are both related.
 
 365E Situations not giving rise to control interests
-A person (A) does not have a control interest in a share under section 365B merely because
+A person (*A* ) does not have a control interest in a share under section 365B merely because
 
 a the ordinary business of A consists of, or includes, the lending of money or the provision of financial services, or both, and A has the control interest only as security given for the purposes of a transaction entered into in the ordinary course of the business of A; or
 
@@ -10098,7 +10098,7 @@ ii given to the board when the specified person was not a director.
 
 *control information* , in relation to the company to which the requirement under subsection (1) relates, means
 
-a any directions or instructions relating to the management and administration of the company given to a specified person (A) (or to the board or to any other person who is responsible for the management and administration of the company) by another person (B); or
+a any directions or instructions relating to the management and administration of the company given to a specified person (*A* ) (or to the board or to any other person who is responsible for the management and administration of the company) by another person (*B* ); or
 
 b any delegation of powers relating to the management and administration of the company by a specified person to another person
 
@@ -10690,7 +10690,7 @@ iii caused or was a party to execution being levied against property of the comp
 
 4 Every director of a company commits an offence and is liable on conviction to the penalties set out in section 373(4) if
 
-a the company incurs a debt (the debt); and
+a the company incurs a debt (the *debt* ); and
 
 b the company
 
