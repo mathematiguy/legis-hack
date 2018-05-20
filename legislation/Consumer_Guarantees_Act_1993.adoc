@@ -1,0 +1,868 @@
+
+
+1 Short Title and commencement
+
+1 This Act may be cited as the Consumer Guarantees Act 1993.
+
+2 This Act shall come into force on the 1st day of April 1994.
+
+2 Interpretation
+
+1 In this Act, unless the context otherwise requires,
+
+*Acquire*,
+
+a In relation to goods, means obtain by way of gift, purchase, or exchange; and also means take on lease, hire, or hire purchase:
+
+b In relation to services, includes accept:
+
+*Business* means
+
+a Any undertaking whether carried on for gain or reward or not; or
+
+b Any undertaking in the course of which
+
+i Goods or services are acquired or supplied; or
+
+ii Any interest in land is acquired or disposed ofwhether free of charge or not:
+
+*Consumer* means a person who
+
+a Acquires from a supplier goods or services of a kind ordinarily acquired for personal, domestic, or household use or consumption; and
+
+b Does not acquire the goods or services, or hold himself or herself out as acquiring the goods or services, for the purpose of
+
+i Resupplying them in trade; or
+
+ii Consuming them in the course of a process of production or manufacture; or
+
+iii In the case of goods, repairing or treating in trade other goods or fixtures on land:
+
+*Express guarantee*, in relation to any goods, means an undertaking, assertion, or representation in relation to
+
+a The quality, performance, or characteristics of the goods; or
+
+b The provision of services that are or may at any time be required in respect of the goods; or
+
+c The supply of parts that are or may at any time be required for the goods; or
+
+d The future availability of identical goods, or of goods constituting or forming part of a set of which the goods in relation to which the undertaking, assertion, or representation is given or made form partgiven or made in connection with the supply of the goods or in connection with the promotion by any means of the supply or use of the goods
+
+*goods*
+
+a means personal property of every kind (whether tangible or intangible), other than money and choses in action; and
+
+b includes
+
+i goods attached to, or incorporated in, any real or personal property:
+
+ii ships, aircraft, and vehicles:
+
+iii animals, including fish:
+
+iv minerals, trees, and crops, whether on, under, or attached to land or not:
+
+v gas and electricity:
+
+vi to avoid doubt, water and computer software; but
+
+c despite paragraph (b)(i), does not include a whole building, or part of a whole building, attached to land unless the building is a structure that is easily removable and is not designed for residential accommodation
+
+*Manufacturer* means a person that carries on the business of assembling, producing, or processing goods, and includes
+
+a Any person that holds itself out to the public as the manufacturer of the goods:
+
+b Any person that attaches its brand or mark or causes or permits its brand or mark to be attached, to the goods:
+
+c Where goods are manufactured outside New Zealand and the foreign manufacturer of the goods does not have an ordinary place of business in New Zealand, a person that imports or distributes those goods:
+
+*Ordinary place of business in New Zealand*, in relation to a manufacturer, does not include a New Zealand subsidiary of a foreign manufacturer
+
+*Ownership*, in relation to goods, means the general property in the goods
+
+*Person* includes a local authority, every public body, and any association of persons whether incorporated or not
+
+*Price* includes valuable consideration in any form
+
+*Security* includes charge and encumbrance
+
+*Service*
+
+*services*
+
+a includes any rights (including rights in relation to, and interests in, personal property), benefits, privileges, or facilities that are, or are to be, provided, granted, or conferred by a supplier; and
+
+b includes (without limitation) the rights, benefits, privileges, or facilities that are, or are to be, provided, granted, or conferred by a supplier under any of the following classes of contract:
+
+i a contract for, or in relation to, the performance of work (including work of a professional nature), whether with or without the supply of goods:
+
+ii a contract for, or in relation to, the provision in trade of facilities for accommodation, amusement, the care of persons or animals or things, entertainment, instruction, parking, or recreation:
+
+iii a contract of insurance, including life assurance and life reassurance:
+
+iv a contract between a bank and a customer of the bank:
+
+v a contract for, or in relation to, the lending of money or granting of credit, or the making of arrangements for the lending of money or granting of credit, or the buying or discounting of a credit instrument, or the acceptance of deposits:
+
+vi a contract for, or in relation to, the supply of electricity, gas, telecommunications, or water, or the removal of waste water; but
+
+c does not include
+
+i any rights, benefits, privileges, or facilities that are, or are to be, provided, granted, or conferred by a supplier by simply paying or crediting any money to the consumer without the performance of any other task (other than one that is merely incidental to the making of the payment or credit); and
+
+ii rights or benefits in the form of the supply of goods or the performance of work under a contract of service
+
+*Subsidiary* has the same meaning as in sections 5 and 6 of the Companies Act 1993
+
+*supplier*
+
+a means a person who, in trade,
+
+i supplies goods to a consumer by
+
+A transferring the ownership or the possession of the goods under a contract of sale, exchange, lease, hire, or hire purchase to which that person is a party; or
+
+B transferring the ownership of the goods as the result of a gift from that person; or
+
+C transferring the ownership or possession of the goods as directed by an insurer; or
+
+ii supplies services to an individual consumer or a group of consumers (whether or not the consumer is a party, or the consumers are parties, to a contract with the person); and
+
+b includes,
+
+i where the rights of the supplier have been transferred by assignment or by operation of law, the person for the time being entitled to those rights:
+
+ii a creditor within the meaning of the Credit Contracts and Consumer Finance Act 2003 who has lent money on the security of goods supplied to a consumer, if the whole or part of the price of the goods is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the goods:
+
+iii a person who, in trade, assigns or procures the assignment of goods to a creditor within the meaning of the Credit Contracts and Consumer Finance Act 2003 to enable the creditor to supply those goods, or goods of that kind, to the consumer:
+
+iv a person who, in trade, is acting as an agent for another, whether or not that other is supplying in trade; and
+
+c for the avoidance of doubt in the following circumstances, means only,
+
+i in the case of a supply of electricity as a good, the retailer of the electricity with whom the consumer has a contract; and
+
+ii in the case of a supply of electricity line function services, the distributor who owns or operates the line that is connected to the consumer's premises; and
+
+iii in the case of other services relating to electricity, the person who provides that service to the consumer.
+
+*Supply*,
+
+a In relation to goods, means supply (or resupply) by way of gift, sale, exchange, lease, hire, or hire purchase; and
+
+b In relation to services, means provide, grant, or confer:
+
+*Trade* means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to the supply or acquisition of goods or services.
+
+2 In any case where it is necessary under this Act to determine the time at which a guarantee in this Act commences to apply,
+
+a Goods shall be treated as supplied at the time when the consumer acquires the right to possess the goods:
+
+b Services shall be treated as supplied at the time when they are provided, granted, or conferred.
+
+3 Act to bind the Crown
+This Act shall bind the Crown.
+
+4 Act not a code
+
+1 The rights and remedies provided in this Act are in addition to any other right or remedy under any other Act or rule of law unless the right or remedy is expressly or impliedly repealed or modified by this Act.
+
+2 No provision of this Act shall be construed as repealing, invalidating, or superseding the provisions of any other Act unless this Act by express provision or by necessary implication clearly intends such a provision to be so construed.
+
+1 Guarantees in respect of supply of goods
+
+5 Guarantees as to title
+
+1 Subject to section 41 of this Act, the following guarantees apply where goods are supplied to a consumer:
+
+a That the supplier has a right to sell the goods; and
+
+b That the goods are free from any undisclosed security; and
+
+c That the consumer has the right to undisturbed possession of the goods, except in so far as that right is varied pursuant to
+
+i A term of the agreement for supply in any case where that agreement is a hire purchase agreement within the meaning of the Income Tax Act 2004; or
+
+ii A security, or a term of the agreement for supply, in respect of which the consumer has received
+
+A Oral advice, acknowledged in writing by the consumer, as to the way in which the consumer's right to undisturbed possession of the goods could be affected, sufficient to enable a reasonable consumer to understand the general nature and effect of the variation; and
+
+B A written copy of the agreement for supply or security, or a written copy of the part thereof which provides for the variation.
+
+2 A reference in subsection (1)(a) of this section to a *right to sell goods* means a right to dispose of the ownership of the goods to the consumer at the time when that ownership is to pass.
+
+3 An *undisclosed security* referred to in this section means any security that was neither disclosed to the consumer in writing before he or she agreed to the supply nor created by or with the express consent of the consumer.
+
+4 Nothing in subsection (1)(a) or (1)(b) of this section shall apply in any case where the goods are only hired or leased.
+
+5 Where the goods are only hired or leased, the guarantee set out in subsection (1)(c) of this section shall confer a right to undisturbed possession of the goods only for the period of the hire or lease.
+
+6 Part 2 of this Act gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
+
+6 Guarantee as to acceptable quality
+
+1 Subject to section 41 of this Act, where goods are supplied to a consumer there is a guarantee that the goods are of acceptable quality.
+
+2 Where the goods fail to comply with the guarantee in this section,
+
+a Part 2 of this Act may give the consumer a right of redress against the supplier; and
+
+b Part 3 of this Act may give the consumer a right of redress against the manufacturer.
+
+7 Meaning of acceptable quality
+
+1 For the purposes of section 6 of this Act, goods are of acceptable quality if they are as
+
+a Fit for all the purposes for which goods of the type in question are commonly supplied; and
+
+b Acceptable in appearance and finish; and
+
+c Free from minor defects; and
+
+d Safe; and
+
+e Durable,as a reasonable consumer fully acquainted with the state and condition of the goods, including any hidden defects, would regard as acceptable, having regard to
+
+f The nature of the goods:
+
+g The price (where relevant):
+
+h Any statements made about the goods on any packaging or label on the goods:
+
+i Any representation made about the goods by the supplier or the manufacturer:
+
+j All other relevant circumstances of the supply of the goods.
+
+2 Where any defects in goods have been specifically drawn to the consumer's attention before he or she agreed to the supply, then notwithstanding that a reasonable consumer may not have regarded the goods as acceptable with those defects, the goods will not fail to comply with the guarantee as to acceptable quality by reason only of those defects.
+
+3 Where goods are displayed for sale or hire, the defects that are to be treated as having been specifically drawn to the consumer's attention for the purposes of subsection (2) of this section are those disclosed on a written notice displayed with the goods.
+
+4 Goods will not fail to comply with the guarantee of acceptable quality if
+
+a The goods have been used in a manner, or to an extent which is inconsistent with the manner or extent of use that a reasonable consumer would expect to obtain from the goods; and
+
+b The goods would have complied with the guarantee of acceptable quality if they had not been used in that manner or to that extent.
+
+5 A reference in subsections (2) and (3) of this section to a defect means any failure of the goods to comply with the guarantee of acceptable quality.
+
+8 Guarantees as to fitness for particular purpose
+
+1 Subject to section 41 of this Act, the following guarantees apply where goods are supplied to a consumer:
+
+a That the goods are reasonably fit for any particular purpose that the consumer makes known, expressly or by implication, to the supplier as the purpose for which the goods are being acquired by the consumer; and
+
+b That the goods are reasonably fit for any particular purpose for which the supplier represents that they are or will be fit.
+
+2 Those guarantees do not apply where the circumstances show that
+
+a The consumer does not rely on the supplier's skill or judgment; or
+
+b It is unreasonable for the consumer to rely on the supplier's skill or judgment.
+
+3 This section applies whether or not the purpose is a purpose for which the goods are commonly supplied.
+
+4 Part 2 of this Act gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
+
+9 Guarantee that goods comply with description
+
+1 Subject to section 41 of this Act, where goods are supplied by description to a consumer, there is a guarantee that the goods correspond with the description.
+
+2 A supply of goods is not prevented from being a supply by description by reason only that, being exposed for sale or hire, they are selected by a consumer.
+
+3 If the goods are supplied by reference to a sample or demonstration model as well as by description, the guarantees in this section and in section 10 of this Act will both apply.
+
+4 Where the goods fail to comply with the guarantee in this section,
+
+a Part 2 of this Act gives the consumer a right of redress against the supplier; and
+
+b Part 3 of this Act may give the consumer a right of redress against the manufacturer.
+
+10 Guarantee that goods comply with sample
+
+1 Subject to section 41 of this Act, the following guarantees apply where goods are supplied to a consumer by reference to a sample or demonstration model:
+
+a That the goods correspond with the sample or demonstration model in quality; and
+
+b That the consumer will have a reasonable opportunity to compare the goods with the sample.
+
+2 If the goods are supplied by reference to a sample or demonstration model as well as by description, the guarantees in this section and section 9 of this Act will both apply.
+
+3 Part 2 of this Act gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
+
+11 Guarantee as to price
+
+1 Subject to section 41 of this Act, where goods are supplied to a consumer there is a guarantee that the consumer is not liable to pay to the supplier more than a reasonable price for the goods in any case where the price for the goods is not
+
+a Determined by the contract; nor
+
+b Left to be determined in a manner agreed by the contract; nor
+
+c Left to be determined by the course of dealing between the parties.
+
+2 Where there is a failure to comply with the guarantee in this section, the consumer's right of redress is to refuse to pay more than a reasonable price.
+
+3 Nothing in Part 2 of this Act confers any other right of redress.
+
+12 Guarantee as to repairs and spare parts
+
+1 Subject to sections 41 and 42 of this Act, where goods are first supplied to a consumer in New Zealand (whether or not that supply is the first-ever supply of the goods), there is a guarantee that the manufacturer will take reasonable action to ensure that facilities for repair of the goods and supply of parts for the goods are reasonably available for a reasonable period after the goods are so supplied.
+
+2 Part 3 of this Act gives the consumer a right of redress against the manufacturer where the goods fail to comply with the guarantee in this section.
+
+13 Express guarantees
+
+1 Where goods are supplied to a consumer, this Act applies to any express guarantee given by a manufacturer of the goods which is binding on the manufacturer in accordance with section 14 of this Act.
+
+2 Part 3 of this Act gives the consumer a right of redress against the manufacturer where the goods fail to comply with any such guarantee.
+
+
+
+14 Provisions relating to manufacturers' express guarantees
+
+1 An express guarantee given by a manufacturer in a document in respect of goods binds the manufacturer where the document is given to a consumer with the actual or apparent authority of the manufacturer in connection with the supply by a supplier of those goods to the consumer.
+
+2 An express guarantee which is included in a document relating to goods and which appears to have been made by the manufacturer of the goods shall in the absence of proof to the contrary be presumed to have been made by the manufacturer.
+
+3 Proof that a consumer was given a document containing express guarantees by a manufacturer in respect of goods in connection with the supply of those goods to the consumer shall, in the absence of proof to the contrary, constitute proof that the document was given to the consumer with the authority of the manufacturer.
+
+15 Contracts of work and materials
+The guarantees in this Part of this Act apply whether or not the goods are supplied in connection with a service.
+
+2 Right of redress against suppliers in respect of supply of goods
+
+
+
+16 Circumstances where consumers have right of redress against suppliers
+This Part of this Act gives a consumer a right of redress against a supplier of goods where the goods fail to comply with any guarantee set out in any of sections 5 to 10 of this Act.
+
+17 Exception in respect of guarantee as to acceptable quality
+Notwithstanding section 16 of this Act, where
+
+a The manufacturer, or a servant or agent of the manufacturer, makes a representation in respect of goods (otherwise than a statement on any packaging or label); and
+
+b The goods would have complied with the guarantee of acceptable quality if that representation had not been made,there shall be no right of redress against the supplier under this Act in respect of the failure of the goods to comply with the guarantee of acceptable quality.
+
+
+
+18 Options against suppliers where goods do not comply with guarantees
+
+1 Where a consumer has a right of redress against the supplier in accordance with this Part of this Act in respect of the failure of any goods to comply with a guarantee, the consumer may exercise the following remedies.
+
+2 Where the failure can be remedied, the consumer may
+
+a Require the supplier to remedy the failure within a reasonable time in accordance with section 19 of this Act:
+
+b Where a supplier who has been required to remedy a failure refuses or neglects to do so, or does not succeed in doing so within a reasonable time,
+
+i Have the failure remedied elsewhere and obtain from the supplier all reasonable costs incurred in having the failure remedied; or
+
+ii Subject to section 20 of this Act, reject the goods in accordance with section 22 of this Act.
+
+3 Where the failure cannot be remedied or is of a substantial character within the meaning of section 21 of this Act, the consumer may
+
+a Subject to section 20 of this Act, reject the goods in accordance with section 22 of this Act; or
+
+b Obtain from the supplier damages in compensation for any reduction in value of the goods below the price paid or payable by the consumer for the goods.
+
+4 In addition to the remedies set out in subsection (2) and subsection (3) of this section, the consumer may obtain from the supplier damages for any loss or damage to the consumer resulting from the failure (other than loss or damage through reduction in value of the goods) which was reasonably foreseeable as liable to result from the failure.
+
+19 Requirement to remedy
+
+1 A supplier may comply with a requirement to remedy a failure of any goods to comply with a guarantee
+
+a By
+
+i Repairing the goods (in any case where the failure does not relate to title); or
+
+ii Curing any defect in title (in any case where the failure relates to title); or
+
+b By replacing the goods with goods of identical type; or
+
+c Where the supplier cannot reasonably be expected to repair the goods, by providing a refund of any money paid or other consideration provided by the consumer in respect of the goods.
+
+2 Where a consumer obtains goods to replace defective goods pursuant to subsection (1) of this section, the replacement goods shall, for the purposes of this Act, be deemed to be supplied by the supplier and the guarantees and obligations arising under this Act consequent upon a supply of goods to a consumer shall apply to the replacement goods.
+
+3 A refund referred to in subsection (1)(c) of this section means a refund in cash of the money paid or the value of any other consideration provided, or both, as the case may require.
+
+
+
+20 Loss of right to reject goods
+
+1 The right to reject goods conferred by this Act shall not apply if
+
+a The right is not exercised within a reasonable time within the meaning of subsection (2) of this section; or
+
+b The goods have been disposed of by the consumer, or have been lost or destroyed while in the possession of a person other than the supplier or an agent of the supplier; or
+
+c The goods were damaged after delivery to the consumer for reasons not related to their state or condition at the time of supply; or
+
+d The goods have been attached to or incorporated in any real or personal property and they cannot be detached or isolated without damaging them.
+
+2 In subsection (1)(a) of this section, the term *reasonable time* means a period from the time of supply of the goods in which it would be reasonable to expect the defect to become apparent having regard to
+
+a The type of goods:
+
+b The use to which a consumer is likely to put them:
+
+c The length of time for which it is reasonable for them to be used:
+
+d The amount of use to which it is reasonable for them to be put before the defect becomes apparent.
+
+3 This section applies notwithstanding section 37 of the Sale of Goods Act 1908.
+
+21 Failure of substantial character
+For the purposes of section 18(3) of this Act, a failure to comply with a guarantee is of a substantial character in any case where
+
+a The goods would not have been acquired by a reasonable consumer fully acquainted with the nature and extent of the failure; or
+
+b The goods depart in one or more significant respects from the description by which they were supplied or, where they were supplied by reference to a sample or demonstration model, from the sample or demonstration model; or
+
+c The goods are substantially unfit for a purpose for which goods of the type in question are commonly supplied or, where section 8(1) of this Act applies, the goods are unfit for a particular purpose made known to the supplier or represented by the supplier to be a purpose for which the goods would be fit, and the goods cannot easily and within a reasonable time be remedied to make them fit for such purpose; or
+
+d The goods are not of acceptable quality within the meaning of section 7 of this Act because they are unsafe.
+
+22 Manner of rejecting goods
+
+1 The consumer shall exercise the right to reject goods under this Act by notifying the supplier of the decision to reject the goods and of the ground or grounds for rejection.
+
+2 Where the consumer exercises the right to reject goods, the consumer shall return the rejected goods to the supplier
+
+a Unless,
+
+i Because of the nature of the failure to comply with the guarantee in respect of which the consumer has the right to reject the goods; or
+
+ii Because of the size or height or method of attachment,the goods cannot be returned or removed or transported without significant cost to the consumer, in which case the supplier shall collect the goods at the expense of the supplier; or
+
+b Unless the goods have already been returned to, or retrieved by, the supplier.
+
+3 Where the ownership in the goods has passed to the consumer before the consumer exercises the right of rejection, the ownership in the goods revests in the supplier upon notification of rejection.
+
+23 Consumers' options of refund or replacement
+
+1 Where the consumer exercises the right to reject goods, the consumer may choose to have either
+
+a A refund of any money paid or other consideration provided by the consumer in respect of the rejected goods; or
+
+b Goods of the same type and of similar value to replace the rejected goods, where such goods are reasonably available to the supplier as part of the stock of the supplier,and the supplier shall make provision accordingly.
+
+2 A refund referred to in subsection (1)(a) of this section means a refund in cash of the money paid or the value of any other consideration provided, or both, as the case may require.
+
+3 The obligation to refund cannot be satisfied by permitting the consumer to acquire goods from the supplier.
+
+4 Where a consumer obtains goods to replace rejected goods pursuant to subsection (1)(b) of this section, the replacement goods shall, for the purposes of this Act, be deemed to be supplied by the supplier, and the guarantees and obligations arising under this Act consequent upon a supply of goods to a consumer shall apply to the replacement goods.
+
+24 Rights of donees
+Where a consumer acquires goods from a supplier and gives them to another person as a gift, that person may, subject to any defence which would be available to the supplier against the consumer, exercise any rights or remedies under this Part of this Act which would be available to that person if he or she had acquired the goods from the supplier, and any reference in this Part of this Act to a consumer shall include a reference to that person accordingly.
+
+3 Right of redress against manufacturers in respect of supply of goods
+
+
+
+25 Circumstances where consumers have right of redress against manufacturers
+This Part of this Act gives a consumer a right of redress against a manufacturer of goods where
+
+a The goods fail to comply with the guarantee as to acceptable quality set out in section 6 of this Act:
+
+b The goods fail to comply with the guarantee as to correspondence with description set out in section 9 of this Act due to the failure of the goods to correspond with any description applied to the goods by or on behalf of the manufacturer or with the express or implied consent of the manufacturer:
+
+c The goods fail to comply with the guarantee as to repairs and parts set out in section 12 of this Act:
+
+d The goods fail, during the currency of the guarantee, to comply with any express guarantee given by the manufacturer that is binding on the manufacturer in accordance with section 14 of this Act.
+
+26 Exceptions to right of redress against manufacturers
+Notwithstanding section 25 of this Act, there shall be no right of redress against the manufacturer under this Act in respect of goods which
+
+a Fail to comply with the guarantee of acceptable quality only because of
+
+i An act or default or omission of, or any representation made by, any person other than the manufacturer or a servant or agent of the manufacturer; or
+
+ii A cause independent of human control, occurring after the goods have left the control of the manufacturer; or
+
+iii The price charged by the supplier being higher than the manufacturer's recommended retail price or the average retail price:
+
+b Fail to correspond with the guarantee as to correspondence with description because of
+
+i An act or default or omission of a person other than the manufacturer or a servant or agent of the manufacturer; or
+
+ii A cause independent of human control, occurring after the goods have left the control of the manufacturer.
+
+
+
+27 Options against manufacturers where goods do not comply with guarantees
+
+1 Subject to subsection (3) of this section, where a consumer has a right of redress against a manufacturer in accordance with this Part of this Act, the consumer, or any person who acquires the goods from or through the consumer, may obtain damages from the manufacturer
+
+a Subject to subsection (2) of this section, for any reduction in the value of the goods resulting from the failure
+
+i Below the price paid or payable by the consumer for the goods; or
+
+ii Below the average retail price of the goods at the time of supply,whichever price is lower:
+
+b For any loss or damage to the consumer or that other person resulting from the failure (other than loss or damage through a reduction in value of the goods) which was reasonably foreseeable as liable to result from the failure.
+
+2 Subject to subsection (3) of this section, where the consumer, or any person who acquires the goods from or through the consumer, is entitled by an express guarantee given by the manufacturer to require the manufacturer to remedy the failure by
+
+a Repairing the goods; or
+
+b Replacing the goods with goods of identical type,no action shall be commenced under subsection (1)(a) of this section unless the consumer or that other person has required the manufacturer to remedy the failure and the manufacturer
+
+c Has either refused or neglected to remedy the failure; or
+
+d Has not succeeded in remedying the failure within a reasonable time.
+
+3 This section shall not apply to any person who acquires goods from or through a consumer unless that person comes within the terms of paragraph (b) of the definition of consumer in section 2 of this Act.
+
+4 Supply of services
+
+28 Guarantee as to reasonable care and skill
+Subject to section 41 of this Act, where services are supplied to a consumer there is a guarantee that the service will be carried out with reasonable care and skill.
+
+29 Guarantee as to fitness for particular purpose
+Subject to section 41 of this Act, where services are supplied to a consumer there is a guarantee that the service, and any product resulting from the service, will be
+
+a Reasonably fit for any particular purpose; and
+
+b Of such a nature and quality that it can reasonably be expected to achieve any particular result,that the consumer makes known to the supplier, before or at the time of the making of the contract for the supply of the service, as the particular purpose for which the service is required or the result that the consumer desires to achieve, as the case may be, except where the circumstances show that
+
+c The consumer does not rely on the supplier's skill or judgment; or
+
+d It is unreasonable for the consumer to rely on the supplier's skill or judgment.
+
+30 Guarantee as to time of completion
+Subject to section 41 of this Act, where services are supplied to a consumer there is a guarantee that the service will be completed within a reasonable time in any case where the time for the service to be carried out is not
+
+a Fixed by the contract; nor
+
+b Left to be fixed in a manner agreed by the contract; nor
+
+c Left to be determined by the course of dealing between the parties.
+
+31 Guarantee as to price
+
+1 Subject to section 41 of this Act, where services are supplied to a consumer there is a guarantee that the consumer is not liable to pay to the supplier more than a reasonable price for the service in any case where the price for the service is not
+
+a Determined by the contract; nor
+
+b Left to be determined in a manner agreed by the contract; nor
+
+c Left to be determined by the course of dealing between the parties.
+
+2 Where there is a failure to comply with the guarantee in this section, the consumer's right of redress is to refuse to pay more than a reasonable price.
+
+3 Nothing in this Part of this Act confers any other right of redress.
+
+
+
+32 Options of consumers where services do not comply with guarantees
+Where a service supplied to a consumer fails to comply with a guarantee set out in any of sections 28 to 30 of this Act, the consumer may,
+
+a Where the failure can be remedied,
+
+i Require the supplier to remedy it within a reasonable time:
+
+ii Where a supplier who has been required to remedy a failure refuses or neglects to do so, or does not succeed in doing so within a reasonable time,
+
+A Have the failure remedied elsewhere and recover from the supplier all reasonable costs incurred in having the failure remedied; or
+
+B Subject to section 35 of this Act, cancel the contract for the supply of the service in accordance with section 37 of this Act:
+
+b Where the failure cannot be remedied or is of a substantial character within the meaning of section 36 of this Act,
+
+i subject to section 35, if there is a contract between the supplier and the consumer for the supply of the service, cancel that contract in accordance with section 37; or.
+
+ii Obtain from the supplier damages in compensation for any reduction in value of the product of a service below the charge paid or payable by the consumer for the service:
+
+c In addition to the remedies set out in paragraphs (a) and (b) of this section, obtain from the supplier damages for any loss or damage to the consumer resulting from the failure (other than loss or damage through reduction in value of the product of the service) which was reasonably foreseeable as liable to result from the failure.
+
+33 Exceptions to right of redress against supplier in relation to services
+Notwithstanding section 32 of this Act, there shall be no right of redress against a supplier under this Act in respect of a service or any product resulting from a service which fails to comply with a guarantee set out in section 29 or section 30 of this Act only because of
+
+a An act or default or omission of, or any representation made by, any person other than the supplier or a servant or agent of the supplier; or
+
+b A cause independent of human control.
+
+34 Contracts of work and materials
+Nothing in section 32 of this Act limits or affects the rights of a consumer under Part 2 or Part 3 of this Act where the contract is one of work and materials.
+
+
+
+35 Application of right to cancel contract
+Where the service to be supplied under the contract is merely incidental to the supply of goods, the consumer cannot cancel the contract under this Act if he or she has or had the right to reject the goods under section 18 of this Act.
+
+36 Failure of substantial character
+For the purposes of section 32(b) of this Act, a failure to comply with a guarantee is of a substantial character in any case where
+
+a The services would not have been acquired by a reasonable consumer fully acquainted with the nature and extent of the failure; or
+
+b The product of the service is substantially unfit for a purpose for which services of the type in question are commonly supplied and the product cannot easily and within a reasonable time be remedied to make it fit for the purpose; or
+
+c Where section 29 of this Act applies, the product of the service is unfit for a particular purpose, or is of such a nature and quality that the product of the service cannot be expected to achieve any particular result, made known to the supplier and the product cannot easily and within a reasonable time be remedied to make it fit for the particular purpose or to achieve the particular result; or
+
+d The product of the service is unsafe.
+
+37 Rules applying to cancellation
+
+1 The cancellation by a consumer of a contract for the supply of a service shall not take effect
+
+a Before the time at which the cancellation is made known to the supplier; or
+
+b Where it is not reasonably practicable to communicate with the supplier, before the time at which the consumer indicates, by means which are reasonable in the circumstances, his or her intention to cancel the contract.
+
+2 Subject to subsection (3) of this section, the cancellation may be made known by words, or by conduct indicating an intention to cancel, or both, and it shall not be necessary to use any particular form of words, so long as the intention to cancel is made known.
+
+3 Where it is reasonably practicable to communicate with the supplier, subsection (2) of this section shall take effect subject to any provision in the contract for the supply of a service requiring notice of cancellation in writing.
+
+38 Effects of cancellation
+
+1 Where a consumer cancels a contract for the supply of services under this Act,
+
+a The consumer shall be entitled to recover from the supplier a refund of any money paid or other consideration provided in respect of the services unless a Court or Disputes Tribunal orders that the supplier may retain the whole or part of the money paid or other consideration provided by the consumer:
+
+b So far as the contract has been performed at the time of the cancellation, no party shall, by reason of the cancellation, be divested of any property transferred or money paid pursuant to the contract, except as otherwise provided in paragraph (a) of this subsection:
+
+c So far as the contract remains unperformed at the time of the cancellation, no party shall be obliged or entitled to perform it further.
+
+2 Nothing in subsection (1) of this section shall affect
+
+a The right of a party to recover damages in respect of a misrepresentation or the repudiation or breach of the contract by another party; or
+
+b The right of the consumer to recover damages under section 32(b)(ii) or 32(c) of this Act for failure to comply with a guarantee; or
+
+c The right of the consumer under this Act to reject goods supplied in connection with the service.
+
+39 Ancillary power of Court or Disputes Tribunal to grant relief
+
+1 Where a consumer cancels under this Act a contract for the supply of services, a Court or a Disputes Tribunal, in any proceedings or on application made for the purpose, may from time to time if it is just and practicable to do so, make an order or orders granting relief under this section.
+
+2 An order under this section may
+
+a Vest in any party to the proceedings the whole or any part of any real or personal property that was the subject of the contract or was the whole or part of the consideration for it:
+
+b Direct any party to the proceedings to transfer or assign to any other such party or to give him or her the possession of the whole or any part of any real or personal property that was the subject of the contract or was the whole or part of the consideration for it:
+
+c Without prejudice to any right to recover damages, direct any party to the proceedings to pay to any other such party such sum as the Court or Tribunal thinks just:
+
+d Direct any party to the proceedings to do or refrain from doing in relation to any other party any act or thing as the Court or Tribunal thinks just:
+
+e Permit a supplier to retain the whole or part of any money paid or other consideration provided in respect of the services under the contract.
+
+3 Any such order, or any provision of it, may be made upon and subject to such terms and conditions as the Court or the Tribunal thinks fit, not being in any case a term or condition that would have the effect of preventing a claim for damages by any party.
+
+4 In considering whether to make an order under this section, and in considering the terms of any order it proposes to make, the Court or Tribunal shall have regard to
+
+a Any benefit or advantage obtained by the consumer by reason of anything done by the supplier in or for the purpose of supplying the service; and
+
+b The value, in the opinion of the Court or Tribunal, of any work or services performed by the supplier in or for the purpose of supplying the service; and
+
+c Any expenditure incurred by the consumer or the supplier in or for the purpose of the performance of the service; and
+
+d The extent to which the supplier or the consumer was or would have been able to perform the contract in whole or in part; and
+
+e Such other matters as the Court or the Tribunal thinks fit.
+
+5 No order shall be made under subsection (2)(a) of this section that would have the effect of depriving a person, not being a party to the contract, of the possession of or any estate or interest in any property acquired by him or her in good faith and for valuable consideration.
+
+6 No order shall be made under this section in respect of any property if any party to the contract has so altered his or her position in relation to the property, whether before or after the cancellation of the contract, that, having regard to all relevant circumstances, it would in the opinion of the Court or Tribunal be inequitable to any party to make such an order.
+
+7 An application for an order under this section may be made by
+
+a The consumer; or
+
+b The supplier; or
+
+c Any person claiming through or under the consumer or the supplier; or
+
+d Any other person if it is material for him or her to know whether relief under this section will be granted.
+
+40 Saving
+Nothing in this Part of this Act limits or affects
+
+a Any rule of law or any enactment which imposes on the supplier a duty stricter than that imposed by this Part of this Act; or
+
+b Any rule of law whereby any term not inconsistent with this Part of this Act is to be implied in a contract for the supply of a service; or
+
+c Any enactment which defines or restricts the rights, duties, or liabilities arising in connection with a service of any description; or
+
+d Any rule of law or any enactment relating to contracts of employment or contracts of apprenticeship; or
+
+e Any rule of law conferring immunity from suit on a barrister or solicitor for work done in the course of, or in connection with, proceedings before any Court or Tribunal.
+
+5 Miscellaneous provisions
+
+
+
+41 Exceptions
+
+1 Nothing in this Act shall apply in any case where goods or services are supplied otherwise than in trade.
+
+2 Nothing in this Act shall give any person a right of redress against a charitable organisation in any case where goods or services are supplied by the charitable organisation for the principal purpose of benefiting the person to whom the supply is made.
+
+3 Nothing in this Act shall apply in cases where goods are supplied
+
+a By auction; or
+
+b By competitive tender.
+
+42 Exception in respect of repairs and parts
+
+1 Section 12 of this Act does not apply where reasonable action is taken to notify the consumer who first acquires the goods from a supplier in New Zealand, at or before the time the goods are supplied, that the manufacturer does not undertake that repair facilities and parts will be available for those goods.
+
+2 Where reasonable action is taken to notify the consumer who first acquires the goods from a supplier in New Zealand, at or before the time the goods are supplied, that the manufacturer does not undertake that repair facilities and parts will be available for those goods after the expiration of a specified period, section 12 of this Act shall not apply in relation to those goods after the expiration of that period.
+
+43 No contracting out except for business transactions
+
+1 Subject to this section and to sections 40, 41, and 43A, the provisions of this Act shall have effect notwithstanding any provision to the contrary in any agreement.
+
+2 Nothing in subsection (1) of this section shall apply to an agreement made between a supplier and a consumer who acquires, or holds himself or herself out as acquiring, under the agreement, goods or services for the purposes of a business provided either
+
+a That the agreement is in writing; or
+
+b Where it is not possible to conclude an agreement in writing because the supplier is unaware of the acceptance by the consumer of the supplier's offer at the time of acceptance, that the supplier has clearly displayed the terms and conditions of the service at every place of the supplier's business.
+
+3 Section 56 of the Sale of Goods Act 1908 shall be read subject to the provisions of this section.
+
+4 Every supplier and every manufacturer commits an offence against section 13(i) of the Fair Trading Act 1986 who purports to contract out of any provision of this Act other than in accordance with subsection (2) or section 43A.
+
+5 Where an agreement of the kind described in subsection (2) of this section excludes any provision of this Act, the benefit of the exclusion shall be deemed to be conferred on any manufacturer of the goods supplied under the agreement, as well as on the supplier of those goods.
+
+6 Nothing in subsection (1) of this section shall limit or affect any term in an agreement in writing between a supplier and a consumer to the extent that the term
+
+a Imposes a stricter duty on the supplier than that imposed by this Act; or
+
+b Provides a remedy more advantageous to the consumer than the remedies provided by this Act.
+
+7 Nothing in subsection (1) of this section prevents a consumer who has a claim under this Act from agreeing to settle or compromise that claim.
+
+43A Exclusion of liability in favour of non-contracting supplier
+
+1 An agreement of the kind referred to in section 43(2) may exclude any provision of this Act that applies to a non-contracting supplier of services to the consumer with whom the agreement is made.
+
+2 The non-contracting supplier has the benefit of the exclusion.
+
+
+
+44 Assessment of damages in case of hire purchase agreements
+The damages that a consumer may recover for a failure of goods supplied under a hire purchase agreement to comply with a guarantee set out in this Act shall be assessed, in the absence of evidence to the contrary, on the basis that the consumer will complete the purchase of the goods or would have completed that purchase if the goods had complied with the guarantee.
+
+45 Liability for representations
+
+1 Where goods assigned or procured to be assigned to the supplier by a person acting in trade (in this section referred to as the dealer) are supplied to a consumer, every representation made to the consumer by the dealer, or anyone acting on behalf of the dealer, in connection with or in the course of negotiations leading to the supply of the goods shall give the consumer
+
+a As against the supplier, subject to section 46 of this Act, the same rights as the consumer would have had under this Act if the representation had been made by the supplier personally:
+
+b As against the dealer who made the representation and any person on whose behalf the dealer was acting in making it, the same rights against any or all of them personally as the consumer would have had under this Act if that person had supplied the goods to the consumer as a result of the negotiations.
+
+2 Without prejudice to any other rights or remedies to which a supplier may be entitled, a supplier shall be entitled, where the representation was made without his or her express or implied authority, to be indemnified by the dealer who made the representation and by any person on whose behalf the dealer was acting in making it, against any damage suffered by the supplier through the operation of subsection (1) of this section.
+
+46 Liability of assignees and creditors
+
+1 The liability under this Act of an assignee of the rights of a supplier under a contract of supply shall not exceed the amount owing by the consumer under the contract at the date of the assignment.
+
+2 The liability under this Act of a creditor who has lent money on the security of goods supplied to a consumer shall not exceed the amount owing by the consumer at the date of the loan.
+
+3 Where the assignee referred to in subsection (1), or the financier referred to in subsection (2), of this section suffers any losses because of a liability to the consumer under this Act, the assignee or creditor shall, subject to any agreement with the supplier, be entitled to be indemnified by the supplier against those losses.
+
+4 No assignment of the rights under a contract of supply shall affect the exercise of any right or remedy given by this Act against the supplier.
+
+47 Jurisdiction
+
+1 Any Court of competent jurisdiction, and any Disputes Tribunal having jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under section 39 of this Act.
+
+2 In this section, *Court of competent jurisdiction* means
+
+a The High Court:
+
+b A District Court in any case where
+
+i A claim referred to in subsection (1) of this section does not exceed $200,000; or
+
+ii An order under section 39 of this Act does not exceed the limits prescribed by subsection (3) of this section.
+
+3 A District Court may make an order under section 39 of this Act if the order does not
+
+a Require a person to pay an amount exceeding $200,000:
+
+b Vest any property exceeding $200,000 in value in any person:
+
+c Direct the transfer or assignment or delivery of possession of any property exceeding $200,000 in value:
+
+d Permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $200,000.
+
+4 Subject to subsection (6) of this section, a Disputes Tribunal shall have jurisdiction to hear and determine any claim referred to in subsection (1) of this section where the claim does not exceed $7,500.
+
+5 Subject to subsection (6) of this section, a Disputes Tribunal may make an order under section 39 of this Act if the order does not
+
+a Require a person to pay an amount exceeding $7,500:
+
+b Vest any property exceeding $7,500 in value:
+
+c Direct the transfer or assignment or delivery of possession of any property exceeding $7,500 in value:
+
+d Permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $7,500.
+
+6 Where in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsections (4) and (5) of this section shall be read as if every reference in those subsections to $7,500 were a reference to $12,000.
+
+
+
+48 Exclusion where Consumer Guarantees Act 1993 applies
+The Sale of Goods Act 1908 is hereby amended by inserting, after section 56, the following section:
+
+56A 
+Nothing in section 10 or in sections 13 to 17 or in section 38 or in section 54 of this Act shall apply to any supply of goods to which the Consumer Guarantees Act 1993 applies.
+
+
+
+49 Exclusion where Consumer Guarantees Act 1993 applies
+
+
+
+50 Application of Motor Vehicle Dealers Fidelity Guarantee Fund
+Section 39 of the Motor Vehicle Dealers Act 1975 is hereby amended by adding to paragraph (f) the words or the failure of any motor vehicle supplied by a licensee to comply with any guarantee set out in sections 5, 6, 8, 9, and 10 of the Consumer Guarantees Act 1993.
+
+51 Jurisdiction of Disputes Tribunal
+Section 98(2) of the Motor Vehicle Dealers Act 1975 is hereby amended by repealing paragraph (b), and substituting the following paragraph:
+
+b The application to any contract for the sale of a motor vehicle of any of the provisions of
+
+i Sections 14 to 16 of the Sale of Goods Act 1908; or
+
+ii Sections 11 to 13 of the Hire Purchase Act 1971; or
+
+iii The Consumer Guarantees Act 1993,in any case referred to it under section 108 of this Act.
+
+52 Referral of certain disputes to Disputes Tribunal
+The Motor Vehicle Dealers Act 1975 is hereby amended by repealing section 108, and substituting the following section:
+
+108 
+If, in respect of any contract for the sale of a motor vehicle, a dispute arises as to the application to that contract of any of the provisions of
+
+a Sections 14 to 16 of the Sale of Goods Act 1908; or
+
+b Sections 11 to 13 of the Hire Purchase Act 1971; or
+
+c The Consumer Guarantees Act 1993,the parties may agree in writing to refer the dispute to a Disputes Tribunal for determination, and in any such case section 99 of this Act, with any necessary modifications, shall apply accordingly.
+
+
+
+53 Assignees
+Section 11(4) of the Contractual Remedies Act 1979 is hereby amended by adding the following paragraph:
+
+c In the case of a contract for the supply of goods or services to a consumer, to section 46 of the Consumer Guarantees Act 1993.
+
+54 Savings
+Section 15 of the Contractual Remedies Act 1979 is hereby amended by inserting, after paragraph (g), the following paragraph:
+
+ga The Consumer Guarantees Act 1993:.
+
+
+
+55 Fair Trading Act 1986 and Consumer Guarantees Act 1993 not affected
+The Building Act 1991 is hereby amended by repealing section 63, and substituting the following section:
+
+63 
+Nothing in this Part of this Act shall derogate from the provisions of the Fair Trading Act 1986 or the Consumer Guarantees Act 1993.
+
+
+
+56 Application of Act
+This Act does not apply to any contract for the supply of goods or services made before the commencement of this Act.
