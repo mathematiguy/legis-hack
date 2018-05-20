@@ -1845,7 +1845,7 @@ b refuses to be sworn or to give evidence, or, having been sworn, refuses to ans
 
 c fails to produce any such paper, document, record, or thing.
 
-2 Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $300.
+2 Every person who commits an offence against this section is liable on conviction to a fine not exceeding $300.
 
 3 No person summoned to attend the court shall be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed by the rules of court.
 
@@ -1859,7 +1859,7 @@ b wilfully interrupts the proceedings of the court or otherwise misbehaves while
 c wilfully and without lawful excuse disobeys any order or direction of the Judge in the course of any proceedings before the court,any officer of the court, with or without the assistance of any constable or other person, may, by order of the Judge, take the offender into custody and detain the offender until the rising of the court.
 
 91 Obstructing officers of court
-Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000 who wilfully obstructs or interferes with any Judge, Registrar, Receiver, or other officer of the court in the execution of his or her powers or duties.
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000 who wilfully obstructs or interferes with any Judge, Registrar, Receiver, or other officer of the court in the execution of his or her powers or duties.
 
 
 
@@ -5979,7 +5979,7 @@ d that some other course be followed.
 
 346 Prevention of waste on Maori land
 
-1 Every person who, without lawful authority, cuts or removes or attempts to remove from any Maori freehold land any standing timber trees, or any timber or other wood, or any flax, tree ferns, sand, topsoil, metal, minerals, or other substances, whether usually quarried or mined or not, commits an offence, and shall be liable on summary conviction to a fine not exceeding $5,000, and in the case of a continuing offence, a further fine not exceeding $500 for each day on which the offence has continued.
+1 Every person who, without lawful authority, cuts or removes or attempts to remove from any Maori freehold land any standing timber trees, or any timber or other wood, or any flax, tree ferns, sand, topsoil, metal, minerals, or other substances, whether usually quarried or mined or not, commits an offence, and shall be liable on conviction to a fine not exceeding $5,000, and in the case of a continuing offence, a further fine not exceeding $500 for each day on which the offence has continued.
 
 2 For the purposes of this section, any leave or licence purporting to be granted to any person by 1 or more but not by all of several tenants in common shall not be deemed to be a lawful authority, except where that leave or licence is granted under an instrument duly confirmed in accordance with the provisions of Part 8.
 
@@ -5987,7 +5987,7 @@ d that some other course be followed.
 
 4 Except as provided in subsection (3), a tenant in common as such shall not be deemed to have lawful authority to do any of the acts referred to in that subsection.
 
-5 Notwithstanding the provisions of section 14 of the Summary Proceedings Act 1957, any proceedings for an offence constituted by this section, or for the recovery of any penalty, fine, or forfeiture imposed thereunder, may be commenced at any time within 2 years after the commission of the offence.
+5 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, any proceedings for an offence constituted by this section, or for the recovery of any penalty, fine, or forfeiture imposed thereunder, may be commenced at any time within 2 years after the commission of the offence.
 
 347 Orders in Council and Proclamations affecting title to be registered
 Every Order in Council or Proclamation made under the authority of this Act and affecting the title to land that is subject to the Land Transfer Act 1952 shall, on deposit with the District Land Registrar of a copy of the Gazette containing the Order in Council or Proclamation, or a copy of the Order in Council or Proclamation certified under the hand of the chief executive, be registered by the District Land Registrar without fee against the title to that land.
