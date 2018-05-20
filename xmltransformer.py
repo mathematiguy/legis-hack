@@ -45,9 +45,16 @@ def xml_transform_asciidoc(file_path):
         #process rules for how to handle various tags
         defTerms = body.find_all('def-term')
         for defTerm in defTerms:
-            text = defTerm.contents
-            if len(text) > 0:
-                defTerm.replace_with('*' + text[0] + '* ')
+            contents = defTerm.contents
+            if len(contents) > 0:
+                if isinstance(contents[0], element.Tag):
+                    content = contents[0].extract()
+                    newTag = soup.new_tag('text')
+                    newTag.string = '\n\n'
+                    defTerm.insert_before(newTag)
+                    defTerm.insert_before(content)
+                if isinstance(contents[0], str):
+                    defTerm.replace_with('*' + contents[0] + '*')
                 
         defParas = body.find_all('def-para')
         for defPara in defParas:
@@ -77,10 +84,10 @@ def xml_transform_asciidoc(file_path):
                     content = contents[0].extract()
                     newTag = soup.new_tag('text')
                     newTag.string = '\n\n'
-                    defPara.insert_before(newTag)
-                    defPara.insert_before(content)
+                    variableDef.insert_before(newTag)
+                    variableDef.insert_before(content)
                 if isinstance(contents[0], str):
-                    variableDef.replace_with('\n\n' + content[0] + ' ')
+                    variableDef.replace_with('\n\n' + contents[0] + ' ')
         
         bodyString = body.get_text()
         #bodyString = body.decode()
