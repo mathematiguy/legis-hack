@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Check whether input params are provided
+if [ $# -eq 0 ]
+  then
+    echo "The file name needs to be supplied as an argument"
+		exit 1
+fi
+
 # print out the file name
 input_params=$1
 echo "Input parameter is: ${input_params}"
