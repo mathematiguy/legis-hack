@@ -1294,7 +1294,7 @@ b to try to obtain agreement between the parties on the resolution of those matt
 
 3 Where a person fails to comply with a request under subsection (1) to attend a conference, the Commissioner may issue a summons requiring the person to attend a conference at a time and place to be specified in the summons.
 
-4 Subsections (1), (2), (3), and (5) of section 20 of the Summary Proceedings Act 1957 shall apply to a summons under this section as if it were a witness summons issued under that section.
+4 Section 159 of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
 
 77 Procedure after investigation
 
@@ -1495,7 +1495,7 @@ d subject to section 73(b), no person shall be entitled as of right to be heard 
 
 5 Where the attendance of any person is required by the Commissioner under this section, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,
 
-a the provisions of any regulations in that behalf under the Summary Proceedings Act 1957 shall apply accordingly; and
+a the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 shall apply accordingly; and
 
 b the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
 
@@ -2377,7 +2377,7 @@ b a fine to which section 19 of the Crimes Act 1961 applies:
 
 c a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
 
-d a fine to which section 28I of the District Courts Act 1947 applies:
+d 
 
 e any amount payable under section 138A(1) of the Sentencing Act 2002
 
@@ -2606,7 +2606,7 @@ b his or her reasons, if the application is refused.
 4 If the Commissioner exercises his or her discretion under subsection (1), the variation or cancellation of the transfer prohibition notice takes effect on the day after the date on which notice of the Commissioners decision to vary or cancel the transfer prohibition notice is served.
 
 114F Offence in relation to transfer prohibition notice
-Every person who, without reasonable excuse, fails or refuses to comply with a transfer prohibition notice commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+Every person who, without reasonable excuse, fails or refuses to comply with a transfer prohibition notice commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 114G Appeals against transfer prohibition notice
 
@@ -2776,7 +2776,7 @@ b any power delegated to that officer or employee by a local authority pursuant 
 4 In proceedings under this Act against any person in respect of an act alleged to have been done by an employee of that person, it shall be a defence for that person to prove that he or she or it took such steps as were reasonably practicable to prevent the employee from doing that act, or from doing as an employee of that person acts of that description.
 
 127 Offences
-Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000 who,
+Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000 who,
 
 a without reasonable excuse, obstructs, hinders, or resists the Commissioner or any other person in the exercise of their powers under this Act:
 
