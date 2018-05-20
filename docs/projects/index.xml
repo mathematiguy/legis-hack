@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Enactivity</title>
-    <link>https://introduction.com/projects/</link>
+    <link>https://jamestingedwards.github.io/legis-hack/projects/</link>
     <description>Recent content in Projects on Enactivity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 May 2018 13:45:04 +1200</lastBuildDate>
     
-	<atom:link href="https://introduction.com/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jamestingedwards.github.io/legis-hack/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AsciiDoc to GitHub</title>
-      <link>https://introduction.com/projects/asciidoc-to-github/</link>
+      <link>https://jamestingedwards.github.io/legis-hack/projects/asciidoc-to-github/</link>
       <pubDate>Sun, 20 May 2018 13:45:04 +1200</pubDate>
       
-      <guid>https://introduction.com/projects/asciidoc-to-github/</guid>
+      <guid>https://jamestingedwards.github.io/legis-hack/projects/asciidoc-to-github/</guid>
       <description>Tracking changes online GitHub is a tool for sharing text. Most of that text is code, but it can also work for sharing legislation. It is a familiar tool for programmers, making it easy to track changes to code over time, and to talk about what changes make sense. Those are natural advantages for legislation as well as code.</description>
     </item>
     
     <item>
       <title>XML to AsciiDoc</title>
-      <link>https://introduction.com/projects/xml-to-asciidoc/</link>
+      <link>https://jamestingedwards.github.io/legis-hack/projects/xml-to-asciidoc/</link>
       <pubDate>Sun, 20 May 2018 13:44:39 +1200</pubDate>
       
-      <guid>https://introduction.com/projects/xml-to-asciidoc/</guid>
+      <guid>https://jamestingedwards.github.io/legis-hack/projects/xml-to-asciidoc/</guid>
       <description>A format to make legislation readable&amp;hellip; &amp;hellip;For computers The AsciiDoc format is plain text with some simple markup. Using plain text makes it easy to track changes, and do other transformations, with tools familiar to most programmers.
 &amp;hellip;For people Raw AsciiDoc is still pretty readable for people. That means the automatic comparison of &amp;ldquo;what changed&amp;rdquo; is more useful than with raw XML. AsciiDoc also renders to look like a formatted web page, so the text is still approachable for non-technical users.</description>
     </item>
