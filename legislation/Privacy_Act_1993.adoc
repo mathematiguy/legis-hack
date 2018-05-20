@@ -152,7 +152,7 @@ ii A person obliged, by or pursuant to that Act, to leave New Zealand immediatel
 
 iii Deemed for the purposes of that Act to be in New Zealand unlawfully:
 
-*Personal information*  means information about an identifiable individual; and includes information relating to a death that is maintained by the Registrar-General pursuant to the Births, Deaths, and Marriages Registration Act 1995, or any former Act
+*Personal information*  means information about an identifiable individual; and includes information relating to a death that is maintained by the Registrar-General pursuant to the Births, Deaths, Marriages, and Relationships Registration Act 1995, or any former Act
 
 *Proceedings Commissioner* 
 
@@ -1829,6 +1829,12 @@ b the Chief Registrar of Electors:
 
 ba the company within the meaning of section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992:
 
+bb the Board of the Government Superannuation Fund Authority:
+
+bc the Board of Trustees of the National Provident Fund:
+
+bd the Ministry of Health:
+
 c the Department for Courts:
 
 d the Department of Corrections:
@@ -1847,7 +1853,7 @@ gb the New Zealand Transport Agency:
 
 gc the Department of Internal Affairs:
 
-gd the Registrar-General appointed under section 79(1) of the Births, Deaths, and Marriages Registration Act 1995:
+gd the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995:
 
 h the New Zealand Customs Service:
 
