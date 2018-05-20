@@ -2580,7 +2580,7 @@ d An inspector or authorised person appointed under section 103(2)(a):
 
 lA A person appointed as a deputy chief technical officer must be employed under the State Sector Act 1988.
 
-2 Subject to the direction of the chief technical officer concerned, a deputy chief technical officer shall have and may exercise all of the powers, duties, and functions of a chief technical officer under this Act.
+2 Subject to the direction of the chief technical officer concerned, a deputy chief technical officer shall have and may exercise all of the powers, duties, and functions of a chief technical officer under this Act , including the power to appoint inspectors, authorised persons, and accredited persons.
 
 3 The chief executive (including the Director-General) may not delegate to any person the power to appoint deputy chief technical officers.
 
