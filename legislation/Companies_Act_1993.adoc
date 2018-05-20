@@ -1897,7 +1897,7 @@ b Increases the liability of the shareholder to the companyunless the shareholde
 
 1 The liability of the assignee of the property of a bankrupt, who is registered as the holder of a share which is comprised in the property of the bankrupt, does not, in respect of that share, exceed the proportional amount available from the property of the estate of the bankrupt, after satisfaction of prior claims, for distribution among creditors of the estate, being property of the bankrupt which, at the time when demand is made for the satisfaction of the liability, is vested in the assignee.
 
-2 In this section, *assignee*  means the assignee in whom the property of a bankrupt is vested pursuant to the Insolvency Act 1967.
+2 In this section, *assignee*  means the assignee in whom the property of a bankrupt is vested pursuant to the Insolvency Act 2006.
 
 
 
@@ -6257,7 +6257,7 @@ b To the extent of the amount of any debt owing to the secured creditor in respe
 
 *Liquidation committee*  means a liquidation committee appointed under section 314 of this Act
 
-*Official Assignee*  means an Official Assignee or Deputy Assignee appointed under the Insolvency Act 1967
+*Official Assignee*  means an Official Assignee or Deputy Assignee appointed under the Insolvency Act 2006
 
 *Statutory demand*  has the meaning set out in section 289 of this Act.
 
@@ -7148,7 +7148,7 @@ k A person who is prohibited from being a director or promoter of or being conce
 
 ka a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
 
-l A person who is prohibited under section 111(1)(c) of the Insolvency Act 1967 from acting as a director or taking part directly or indirectly in the management of any company or class of company.
+l A person who is prohibited under section 299(1)(c) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company.
 
 m a person who is prohibited from being administrator or deed administrator under section 239ADV.
 
@@ -7698,7 +7698,7 @@ b Had reasonable grounds to believe and did believe that a competent and reliabl
 
 4 The Court may make a declaration under this section even though the person concerned is liable to be convicted of an offence.
 
-5 An order under this section is deemed to be a final judgment within the meaning of section 19(d) of the Insolvency Act 1967.
+5 An order under this section is deemed to be a final judgment within the meaning of section 17(1)(a) of the Insolvency Act 2006.
 
 301 Power of Court to require persons to repay money or return property
 
@@ -7716,7 +7716,7 @@ c Where the application is made by a creditor, order that person to pay or trans
 
 2 This section has effect even though the conduct may constitute an offence.
 
-3 An order for payment of money under this section is deemed to be a final judgment within the meaning of section 19(d) of the Insolvency Act 1967.
+3 An order for payment of money under this section is deemed to be a final judgment within the meaning of section 17(1)(a) of the Insolvency Act 2006.
 
 4 In making an order under subsection (1) against a past or present director, the Court must, where relevant, take into account any action that person took for the appointment of an administrator to the company under Part 15A.
 
@@ -7732,7 +7732,7 @@ b Claims by creditors:
 
 c The valuation of annuities and future and contingent liabilitiesand all persons who in any such case would be entitled to make claims and receive payment in whole or in part are so entitled in the liquidation.
 
-2 In applying in a liquidation the rules in force under the law of bankruptcy, a claim made under section 304 of this Act and admitted by a liquidator is to be treated as if it were a debt proved in accordance with the requirements of the Insolvency Act 1967.
+2 In applying in a liquidation the rules in force under the law of bankruptcy, a claim made under section 304 of this Act and admitted by a liquidator is to be treated as if it were a debt proved in accordance with the requirements of the Insolvency Act 2006.
 
 303 Admissible claims
 
