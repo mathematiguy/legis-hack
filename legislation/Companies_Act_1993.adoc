@@ -1147,7 +1147,11 @@ b the terms of the offer and, if it is disclosed, the consideration offered for 
 
 9 Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in section 373(1).
 
-10 If the board of a company fails to comply with subsection (5), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
+10 If a company fails to comply with subsection (6),
+
+a the company commits an offence and is liable on conviction to the penalty set out in section 373(1); and
+
+b every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
 
 64 Disclosure document
 
@@ -4070,7 +4074,11 @@ b every director of the company commits an offence and is liable on conviction t
 
 1 An auditor may resign at any time by giving written notice to the board of the company, and the company must, as soon as practicable, notify its shareholders of the auditor's resignation.
 
-2 If a company fails to comply with subsection (1), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
+2 If a company fails to comply with subsection (1),
+
+a the company commits an offence and is liable on conviction to the penalty set out in section 373(2); and
+
+b every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
 
 3 The board of a company may fill any casual vacancy in the office of auditor, but while the vacancy remains the surviving or continuing auditor, if any, may continue to act as auditor.
 
@@ -6888,6 +6896,12 @@ b by the court.
 a the company is unable to pay its debts; or
 
 b the company or the board has persistently or seriously failed to comply with this Act; or
+
+bb the company, or 1 or more of its directors or shareholders, has in a persistent or serious way failed to comply with duties relating to the company
+
+i under this Act; or
+
+ii under the Financial Reporting Act 1993 while in force, except that this subparagraph does not apply after 5 years have elapsed after this subparagraph came into force; or
 
 c the company does not comply with section 10; or
 
@@ -9913,6 +9927,8 @@ c fees or other amounts payable to the Registrar in respect of any other matter 
 
 8 section 63(9) (which relates to stock exchange acquisitions of a company's own shares subject to prior notice to shareholders):
 
+8A Section 63(10)(a) (which relates to stock exchange acquisitions of a company's own shares subject to prior notice to shareholders):
+
 9 section 65(3)(a) (which relates to stock exchange acquisitions of a company's own shares without prior notice to shareholders):
 
 10 section 69(6) (which relates to the redemption of shares at the option of a company):
@@ -9951,11 +9967,11 @@ c fees or other amounts payable to the Registrar in respect of any other matter 
 
 27 section 222(6) (which relates to short form amalgamations):
 
-27A section 239AEA(3) (which relates to the failure by a company in administration to disclose the fact of administration):
+27A section 239AEB(3) (which relates to the failure by a company in administration to disclose the fact of administration):
 
 27B section 239AW(4) (which relates to attendance by a director at a watershed meeting):
 
-28 section 243(10) (which relates to the duty of a liquidator to summon meetings of creditors).
+28 section 243(10) (which relates to the failure of a director to sign a certificate as to solvency).
 
 2 A person convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $10,000:
 
@@ -9976,6 +9992,8 @@ g section 189(5)(a) (which relates to company records):
 h section 195(3)(a) (which relates to the place where accounting records must be kept):
 
 i section 207Q(3)(a) (which relates to the appointment of an auditor):
+
+ia section 207R(2)(a) (which relates to notification of the resignation of an auditor):
 
 j 
 
@@ -10013,6 +10031,8 @@ c section 274(2) (which relates to the duty to identify and deliver property).
 
 4 A person convicted of an offence against any of the following sections of this Act is liable to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000:
 
+aaa section 138A(1) (which relates to serious breach of directors duty to act in good faith and in best interests of company):
+
 a section 304(6) (which relates to false claims by unsecured creditors in liquidations):
 
 b section 305(11) (which relates to false claims by secured creditors in liquidations):
@@ -10027,7 +10047,7 @@ f section 380 (which relates to carrying on business fraudulently or dishonestly
 
 g section 382(4) (which relates to persons prohibited from managing companies):
 
-h section 383(5) (which relates to acting as a director of a company while prohibited by the court):
+h section 383(6) (which relates to acting as a director of a company while prohibited by the court):
 
 i section 385(9) (which relates to acting as a director of a company or taking part in the management of a company while prohibited by the Registrar or the FMA):
 
@@ -10041,7 +10061,7 @@ a section 25(5)(b) (which relates to the use of a company name):
 
 b section 61(10)(b) (which relates to the procedure for making a certain type of offer to shareholders):
 
-c section 63(10) (which relates to stock exchange acquisitions of a company's own shares subject to prior notice to shareholders):
+c section 63(10)(b) (which relates to stock exchange acquisitions of a company's own shares subject to prior notice to shareholders):
 
 d section 65(3)(b) (which relates to stock exchange acquisitions of a company's own shares without prior notice to shareholders):
 
@@ -10077,7 +10097,7 @@ o section 218(2)(b) (which relates to the obligation to provide copies of docume
 
 4 section 43(2) (which relates to the obligation of the board to deliver a notice of the issue of shares):
 
-5 section 44(5) (which relates to the issue of shares with the approval of shareholders):
+5 section 44(6) (which relates to the issue of shares with the approval of shareholders):
 
 6 section 47(9) (which relates to the consideration for which shares are issued):
 
@@ -10103,7 +10123,7 @@ o section 218(2)(b) (which relates to the obligation to provide copies of docume
 
 16A 
 
-17 section 207R(2) (which relates to the notification of the resignation of an auditor):
+17 section 207R(2)(b) (which relates to the notification of the resignation of an auditor):
 
 18 section 207W(2) (which relates to the attendance of auditors at meetings of shareholders):
 
