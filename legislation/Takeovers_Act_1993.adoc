@@ -26,7 +26,7 @@ b in relation to a partnership (other than a special partnership or a limited pa
 
 c in relation to a special partnership or a limited partnership, means a general partner; and
 
-d in relation to a body corporate or unincorporate not referred to in paragraphs (a) to (c), means a person occupying a position in the body corporate that is comparable with that of a director of a company; and
+d in relation to a body corporate or unincorporate not referred to in paragraphs (a) to (c), means a person occupying a position in the body corporate or unincorporate that is comparable with that of a director of a company; and
 
 e in relation to any other person, means that person; and
 
@@ -117,6 +117,9 @@ c has 50 or more shareholders and 50 or more share parcels.
 2 However, if, as a result of a transaction or an event regulated under the code, a company that previously satisfied subsection (1)(c) ceases to have 50 or more shareholders and 50 or more share parcels, that company continues to be a code company for the purposes of Part 7 of the code.
 
 3 In this section, *shareholder* means a shareholder holding a financial product that confers a voting right.
+
+2B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 3 Act to bind the Crown
 This Act binds the Crown.
@@ -221,6 +224,8 @@ c for the purposes of paragraph(a), to keep under review practices relating to t
 d to investigate any act or omission or practice for the purpose of exercising its powers and functions under Parts3 and 4:
 
 e to make determinations and orders and make applications to the court in accordance with Part 3:
+
+eaa to make determinations in relation to the reimbursement of expenses under sections 47 to 53:
 
 ea to co-operate with any overseas regulator and, for that purpose (but without limiting this function), to communicate, or make arrangements for communicating, to that overseas regulator information obtained by the Panel in the performance of its functions and powers (whether or not confidential) that the Panel considers may assist that overseas regulator in the performance of its functions:
 
@@ -351,7 +356,7 @@ c recoverable by the Registrar in any court of competent jurisdiction as a debt 
 17A Panel deemed to be public authority
 
 18 Further provisions applying to Panel
-The provisions set out in the Schedule apply in respect of the Panel.
+The provisions set out in Schedule 1 apply in respect of the Panel.
 
 2 Takeovers code
 
@@ -1370,7 +1375,13 @@ b in the case of a body corporate, to a fine not exceeding $300,000.
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against section 44H, 44J, or 44P of this Act.
 
 44Q Jurisdiction of courts in New Zealand
-The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than proceedings for offences against this Act or appeals under section 31G.
+The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than the following:
+
+a proceedings for offences against this Act:
+
+b proceedings in relation to recovery or enforcement as referred to in sections 52 and 53:
+
+c proceedings for appeals under section 31G.
 
 44R Court may order payment of Panel's costs
 If the Panel brings proceedings under this Part and the court makes any order against a person under this Part, the court may also order that person to pay the Panel's costs and expenses in bringing the proceedings.
@@ -1419,6 +1430,8 @@ In any proceedings under this Act, it is presumed, in the absence of proof to th
 A person cannot be ordered to pay a pecuniary penalty and be liable for a fine under this Act for the same conduct.
 
 4 Miscellaneous
+
+
 
 45 Panel may grant exemptions
 
@@ -1481,14 +1494,79 @@ cb authorising the Panel to require payment of any costs incurred by the Panel:
 
 d providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
-47 Amendment to Official Information Act 1982
 
-48 Amendment to Public Finance Act 1989
 
-49 Repeal of Companies Amendment Act 1963
+47 Interpretation for sections 48 to 53
+In sections 48 to 53, the following terms have the same meanings as in the takeovers code:
 
-1 The Companies Amendment Act 1963 is repealed.
+a equity security:
 
-2 Despite subsection (1), Part 1 of the Companies Amendment Act 1963 continues in force in respect of the acquisition of shares in a company in any case where notice of a takeover scheme has, before the commencement of this section, been served on the company under section 4 of the Companies Amendment Act 1963.
+b offer:
 
-50 Amendment to Public Finance Act 1989
+c offeror:
+
+d takeover notice:
+
+e target company.
+
+48 Reimbursement of directors
+
+1 Despite anything in the constitution of a target company, each director of the target company is entitled to be reimbursed by the target company for any expenses properly incurred by the director on behalf, and in the interests, of holders of equity securities of the target company in relation to the offer or takeover notice.
+
+2 The amount to be reimbursed to a director is the amount
+
+a agreed between the director and the target company; or
+
+b determined by the Panel on an application made by the director or the target company (see section 50).
+
+49 Reimbursement of target company
+
+1 A target company is entitled to be reimbursed by the offeror for any expenses properly incurred by the target company in relation to the offer or takeover notice, whether as a result of section 48 or otherwise.
+
+2 The amount to be reimbursed to the target company is the amount
+
+a agreed between the target company and the offeror; or
+
+b determined by the Panel on an application made by the target company or the offeror (see section 50).
+
+50 Determinations by Panel of amount to be reimbursed
+If the Panel receives an application under section 48(2)(b) or 49(2)(b), the Panel must (unless an agreement is reached beforehand under section 48(2)(a) or 49(2)(a))
+
+a determine the amount to be reimbursed for the purposes of section 48(2)(b) or 49(2)(b); and
+
+b order that amount to be paid, as the case may be,
+
+i by the target company to the director; or
+
+ii by the offeror to the target company.
+
+51 Appeals against Panels determination
+
+1 The director or the target company may appeal to the High Court against the Panels determination for the purposes of section 48(2)(b).
+
+2 The target company or the offeror may appeal to the High Court against the Panels determination for the purposes of section 49(2)(b).
+
+3 An appeal under this section must be made
+
+a within 21 days of the date on which the appellant was notified of the Panels determination; or
+
+b within any longer time allowed by the High Court.
+
+4 The High Court must determine the appeal by either dismissing the appeal or giving such directions or making such determination in the matter as it thinks fit.
+
+52 Enforcement of agreement of amount to be reimbursed
+If the amount to be reimbursed is agreed, the amount is recoverable as a debt due in any court of competent jurisdiction, as the case may be,
+
+a by the director from the target company; or
+
+b by the target company from the offeror.
+
+53 Enforcement of Panels order for payment of amount to be reimbursed
+
+1 If the amount to be reimbursed is determined by the Panel, the Panels order under section 50 may be enforced as if it were a judgment by the court for the payment of a sum of money.
+
+2 In this section, *court* means
+
+a the District Court, if the amount to be reimbursed is no more than $350,000; or
+
+b the High Court, if the amount to be reimbursed is more than $350,000.
