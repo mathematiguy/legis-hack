@@ -59,6 +59,14 @@ def read_url(url, start_year, pretty_print):
             title = re.sub(r"\s", "_", title)
             title += '.xml'
             
+            versionPattern = re.compile('/([0-9]{2}\.[0-9]{1})/')
+            versionMatch = versionPattern.search(fileUrl)
+            print(versionMatch)
+            if versionMatch:
+                version = versionMatch.group(1)
+                version = version[:-2].rjust(4, '0')
+                title = version + '_' +  title
+            
             #Make the xml pretty for easy reading in the file
             if pretty_print:
                 xmlString = xml.dom.minidom.parseString(xmlString)
@@ -66,7 +74,8 @@ def read_url(url, start_year, pretty_print):
 
             #set up the directory to save the file
             #this will be relative to the location of the python script!
-            file_path = os.path.join(root_path, link['href'][1:-20], title)
+            #file_path = os.path.join(root_path, 'legislation/data', link['href'][1:-20], title)
+            file_path = os.path.join(root_path, 'legislation/xml', link['href'][1:-25], title)
             
             #If the directory doesn't exist yet, create it recursively
             dirname = os.path.dirname(file_path)
@@ -75,7 +84,7 @@ def read_url(url, start_year, pretty_print):
             
             #Open the new file and write the xml as a utf8 string
             file = open(file_path, 'w')
-            file.write(xmlString)
+            file.write(xmlString.encode('ascii', 'ignore').decode('utf-8'))
             file.close()
             print("Downloaded to: " + file_path)
         
