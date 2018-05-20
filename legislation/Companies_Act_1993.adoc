@@ -6782,14 +6782,6 @@ The removal of a company from the New Zealand register does not affect the liabi
 
 327 Liquidation of company removed from New Zealand register
 
-1 Notwithstanding the fact that a company has been removed from the New Zealand register, the Court may appoint a liquidator under section 241 of this Act as if the company continued in existence.
-
-2 If a liquidator is appointed under subsection (1) of this section,
-
-a Part 16 of this Act applies to the liquidation with such modifications as may be necessary:
-
-b The provisions of section 331 of this Act shall apply, with such modifications as may be necessary, to property of the company that is vested in the Crown under section 324 of this Act as if the company had been restored to the New Zealand register.
-
 328 Registrar may restore company to New Zealand register
 
 1 Subject to this section, the Registrar must, on the application of a person referred to in subsection (2) of this section, and may, on his or her own motion, restore a company that has been removed from the New Zealand register to the register if he or she is satisfied that, at the time the company was removed from the register,
