@@ -1778,21 +1778,21 @@ c by posting it in a letter addressed to that individual at that place of reside
 
 5 In this section,
 
+*amount of reparation*  has the same meaning as in section 79 of the Summary Proceedings Act 1957
+
 *bailiff*  means a bailiff of the District Court or of the High Court
 
 *fine*  means
 
-a a fine within the meaning of section 79 of the Summary Proceedings Act 1957 or an amount of reparation:
+a a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
 
-b a fine or other sum of money to which any of sections19 to 19E of the Crimes Act 1961 applies:
+b a fine to which section 19 of the Crimes Act 1961 applies:
 
-c a fine to which any of sections 43 to 46 of the Misuse of Drugs Amendment Act 1978 applies
+c a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
 
-*reparation*  means
+d a fine to which section 28I of the District Courts Act 1947 applies:
 
-a any amount that is required to be paid under a sentence of reparation; or
-
-b any amount that is required to be paid under any order of reparation as defined in section 145D of the Sentencing Act 2002.
+e any amount payable under section 138A(1) of the Sentencing Act 2002
 
 104 Reporting requirements
 
