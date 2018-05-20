@@ -6103,7 +6103,7 @@ b an illegal practice who contravenes section 206A in any other case.
 
 1 If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed
 
-a $1,108,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+a $1,109,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
 
 b $26,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
 
@@ -6251,7 +6251,11 @@ c an employee or partner of a person referred to in paragraph (a) or (b); or
 
 d an officer or employee of a party; or
 
-e a body corporate; or
+e a body corporate that
+
+i is not a registered audit firm (within the meaning of the Auditor Regulation Act 2011); and
+
+ii is not recognised as referred to in section 36(1)(f) or (g) of the Financial Reporting Act 2013; or
 
 f a person who, by virtue of section 36(1) of the Financial Reporting Act 2013, may not be appointed or act as an auditor of an entity; or
 
@@ -7303,6 +7307,14 @@ A person who enters into an agreement, arrangement, or understanding with any ot
 
 2 A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
+214BA Periods for claiming and paying expenses
+
+214BB Procedure if claim disputed
+
+214BC Leave to pay claim after time limited
+
+214BD Payments to be vouched by bill
+
 2 Disclosure of loans
 
 214C Annual return of loans
@@ -7501,6 +7513,10 @@ c a return filed under section 214F.
 2 During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return and report referred to in subsection (1).
 
 3 The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the Official Information Act 1982.
+
+214K Obligation to file nil returns
+
+214L Obligation to retain records necessary to verify returns
 
 7 Corrupt and illegal practices
 
