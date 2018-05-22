@@ -35,8 +35,8 @@ In order to address these shortcomings, we brainstormed a few ideas and one of t
 
 First, get the xml files of each act (and its amendments) from legislation.govt.nz/subscribe: xmldownload.py
 
-Second, process each xml file and create a markdown / asciidoc version starting at the first version of each act, in subdirectory /legislation/act-name/<version>_<act name>.adoc: xmltransformer.py
-
+Second, process each xml file and create a markdown / asciidoc version starting at the first version of each act, in subdirectory /legislation/act-name/<version>_<act name>.adoc: xmltransformer.py 
+  
 Third, iterate through subdirectories (addoccommiter.py):
 
 1. Take the first version, remove <version> and _, copy it to ../legislation/
