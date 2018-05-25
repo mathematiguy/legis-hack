@@ -2,6 +2,7 @@ import os
 import sys
 import re
 from bs4 import BeautifulSoup, element
+from multiprocessing import Pool, cpu_count
 
 def xml_transform_asciidoc(file_path):
     #setup the name of the output file
@@ -21,7 +22,10 @@ def xml_transform_asciidoc(file_path):
 
         if not os.path.exists(dirname):
             os.makedirs(dirname)
+
+        title = soup.find("title").contents[0]
         
+        print("Processing: %s" %title)
         print("Generating output: " + output_file_path)
         
         body = soup.find('body')
@@ -47,14 +51,18 @@ def xml_transform_asciidoc(file_path):
         for defTerm in defTerms:
             contents = defTerm.contents
             if len(contents) > 0:
-                if isinstance(contents[0], element.Tag):
-                    content = contents[0].extract()
-                    newTag = soup.new_tag('text')
-                    newTag.string = '\n\n'
-                    defTerm.insert_before(newTag)
-                    defTerm.insert_before(content)
-                if isinstance(contents[0], str):
-                    defTerm.replace_with('*' + contents[0] + '*')
+                try:
+                    if isinstance(contents[0], element.Tag):
+                        content = contents[0].extract()
+                        newTag = soup.new_tag('text')
+                        newTag.string = '\n\n'
+                        defTerm.insert_before(newTag)
+                        defTerm.insert_before(content)
+                    if isinstance(contents[0], str):
+                        defTerm.replace_with('*' + contents[0] + '*')
+                except IndexError:
+                    print("Skipping %s due to IndexError" % contents)
+                    continue
                 
         defParas = body.find_all('def-para')
         for defPara in defParas:
@@ -103,17 +111,20 @@ def xml_transform_asciidoc(file_path):
         
 #walks through the directory the script is located, passing matching files to the transform function
 def walk_dir():
+
+    pool = Pool(processes = cpu_count() - 1)
+
     walk_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'legislation/xml')
     
-    #print('walk_dir (absolute) = ' + os.path.abspath(walk_dir))
+    file_paths = []
     for root, subdirs, files in os.walk(walk_dir):
         for filename in files:
-            #regex to check if the file is original downloaded xml
-            pattern = re.compile(".xml")
-            match = pattern.search(filename)
-            if match:
-                file_path = os.path.join(root, filename)
-                xml_transform_asciidoc(file_path)
-                    
+            if filename.endswith(".xml"):
+                file_paths.append(os.path.join(root, filename))
+
+    pool.map_async(xml_transform_asciidoc, file_paths)
+    pool.close()
+    pool.join() 
+
 walk_dir()
 
