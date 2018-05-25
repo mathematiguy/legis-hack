@@ -25,7 +25,7 @@ def xml_transform_asciidoc(file_path):
 
         title = soup.find("title").contents[0]
         
-        print("Processing: %s" %title)
+        print("Processing: %s" % title)
         print("Generating output: " + output_file_path)
         
         body = soup.find('body')
